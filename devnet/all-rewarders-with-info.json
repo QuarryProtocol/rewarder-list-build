@@ -455,6 +455,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
@@ -1163,26 +1164,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -1429,51 +1435,61 @@
         "primaryQuarries": [
           {
             "quarry": "8K7jVTEUm5yqfTo6MLniDHnhpkALuXwwDu1eh9G4xc81",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa",
             "rewardsTokenMint": "gb7fwH8feJbw2ohv7jD7RW7cJresknz9bJpUMw6X9o6"
           },
           {
             "quarry": "BjB1Svb6fS7tP84bzUfVnKmr8otQJdo9JeaB9ZeRfadY",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "3VL8En4rghBAwcB7RB5qyfQqN4MhLwon6AHv4d8V3AuW",
             "rewardsTokenMint": "CsiBbbktEPwpm3Cxm1XknCgCA8BCMWhscRjkTfQHMQs3"
           },
           {
             "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y",
             "rewardsTokenMint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
           },
           {
             "quarry": "9fpzXCrvxFDaRQGm3LLF4EgCcerV9NMo4jXei5qALk3B",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "A4WqNqwWeyH5JsqLMJgLqNcyUAhW6jCL2k8fFPW5iWRv",
             "rewardsTokenMint": "FUgTFTFpFAKK38gG59kpHqybor5BkUqa1EnoaeoJJPYb"
           },
           {
             "quarry": "H81VSMDxmW2Lm2d9tCpee2dE2mE8nzp32koRhjZhfCyj",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "AKd4RrKcBcGRGdzdzXn3RuhMeU25GMTmCUhkLhqQwH8N",
             "rewardsTokenMint": "BPrS3q34uKp3FT6DcshvWJ9AUU2EsFvPGNyEB9Gx5BEs"
           },
           {
             "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CbbCEyVpgkpFStiXEYJVXsqAXzRt6sDcdcHyzDx9wP5m",
             "rewardsTokenMint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
           },
           {
             "quarry": "63BZzUzg7KsU2p7nogANQ7n7YKuNDH9oy6ttLLiZAEVQ",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CkARQQ9PRU9h2cPoH596iWrc23BBmsghYbkHNs8ay332",
             "rewardsTokenMint": "4vxJymUVudmj57aKA7Q934Vb81GuTtRvR4vXrgtszQgy"
           },
           {
             "quarry": "85e2T4KF9PbPRHAyr7YpFAUMzYvdNKLTxaNTr5ustLFR",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpHLK3axUpkKCWgQrzTK9BqNjyQFGhCkeNmQrVE4YQtX",
             "rewardsTokenMint": "BpaaZQY1SANvLrY9txeCTWXHAwwRbLuSFSnkhNJTYxfV"
           },
           {
             "quarry": "DFc47Muj9QrAHDfAnDadxydj7MxMpjDB9GoLXTqxwpC4",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpJ6EodfjW2HozvdGuhuUy5aeU1H3oZrGLPB8Na8vDqs",
             "rewardsTokenMint": "24bB56DwuV3AgfqGWX7rn4WuyYUL4Udn45d5BNQMQjkJ"
           },
           {
             "quarry": "ApVmSM8n1P2SnsTDLXYWniERVFPvGRTGVej1WcK6nYAc",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "HHrj3VMFKztB72KacWKJK8HGNWRuAaTbhGWN3QbfsXPD",
             "rewardsTokenMint": "9xQGzGead5dVTDxP5Ma4QVr7hrv5pwnk1ojXwBWjh185"
           }
@@ -1483,26 +1499,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -1838,26 +1859,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -3888,21 +3914,25 @@
         "primaryQuarries": [
           {
             "quarry": "BqXWmKoKBctRqN9Yas63ZWHyAz3zyV7pCM125TJfynxC",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "7aZ1nFpovvwuHTjRCDTdTQ4KfHDYiaEuzBcrSnLpEHs4",
             "rewardsTokenMint": "8cXngDmMyD1LKFTj34zDiDFpktDdHpaddS2ZZRaS5vc7"
           },
           {
             "quarry": "7Dbn4mwbMBE5apmeHbt9NR4CGkKTGpytWaYtJjVekyGf",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "B2aaH486Sba4q9ANo3ZUt3ouM192g51vPYrF2cLkHgZK",
             "rewardsTokenMint": "7GMbbYXgDUm9sbivUQ6wSu7dMLw4KxBApf9E6ik9E2kZ"
           },
           {
             "quarry": "9jWqAM1dFNkyayC1D7E38FUnkbqgNmae132CiC8MVA6B",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "FWUzrfvboF74jwU3m8FWfPmnZbTBwPYCtbVHzMXMBZyv",
             "rewardsTokenMint": "6ptyadKeqT7bHPGDMuiErLngDPwmoEQ1SQCfydmWhhcB"
           },
           {
             "quarry": "5NavNpwEPFAUDg3Vcbcwg5DZDeX2JKzoErnQ5hmmyftc",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "G9oNLFkw12A5QchVDKR4j2CkusWAwjrjzD5QY5DfMV6o",
             "rewardsTokenMint": "ARXMmqVLcUf3Jsf27KmU5PeLsVJoK2DHpv7AomCwAV2P"
           }
@@ -3912,21 +3942,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -4121,6 +4155,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
@@ -5993,21 +6028,25 @@
         "primaryQuarries": [
           {
             "quarry": "BqXWmKoKBctRqN9Yas63ZWHyAz3zyV7pCM125TJfynxC",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "7aZ1nFpovvwuHTjRCDTdTQ4KfHDYiaEuzBcrSnLpEHs4",
             "rewardsTokenMint": "8cXngDmMyD1LKFTj34zDiDFpktDdHpaddS2ZZRaS5vc7"
           },
           {
             "quarry": "7Dbn4mwbMBE5apmeHbt9NR4CGkKTGpytWaYtJjVekyGf",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "B2aaH486Sba4q9ANo3ZUt3ouM192g51vPYrF2cLkHgZK",
             "rewardsTokenMint": "7GMbbYXgDUm9sbivUQ6wSu7dMLw4KxBApf9E6ik9E2kZ"
           },
           {
             "quarry": "9jWqAM1dFNkyayC1D7E38FUnkbqgNmae132CiC8MVA6B",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "FWUzrfvboF74jwU3m8FWfPmnZbTBwPYCtbVHzMXMBZyv",
             "rewardsTokenMint": "6ptyadKeqT7bHPGDMuiErLngDPwmoEQ1SQCfydmWhhcB"
           },
           {
             "quarry": "5NavNpwEPFAUDg3Vcbcwg5DZDeX2JKzoErnQ5hmmyftc",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "G9oNLFkw12A5QchVDKR4j2CkusWAwjrjzD5QY5DfMV6o",
             "rewardsTokenMint": "ARXMmqVLcUf3Jsf27KmU5PeLsVJoK2DHpv7AomCwAV2P"
           }
@@ -6017,21 +6056,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -7413,21 +7456,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -9525,51 +9572,61 @@
         "primaryQuarries": [
           {
             "quarry": "8K7jVTEUm5yqfTo6MLniDHnhpkALuXwwDu1eh9G4xc81",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa",
             "rewardsTokenMint": "gb7fwH8feJbw2ohv7jD7RW7cJresknz9bJpUMw6X9o6"
           },
           {
             "quarry": "BjB1Svb6fS7tP84bzUfVnKmr8otQJdo9JeaB9ZeRfadY",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "3VL8En4rghBAwcB7RB5qyfQqN4MhLwon6AHv4d8V3AuW",
             "rewardsTokenMint": "CsiBbbktEPwpm3Cxm1XknCgCA8BCMWhscRjkTfQHMQs3"
           },
           {
             "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y",
             "rewardsTokenMint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
           },
           {
             "quarry": "9fpzXCrvxFDaRQGm3LLF4EgCcerV9NMo4jXei5qALk3B",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "A4WqNqwWeyH5JsqLMJgLqNcyUAhW6jCL2k8fFPW5iWRv",
             "rewardsTokenMint": "FUgTFTFpFAKK38gG59kpHqybor5BkUqa1EnoaeoJJPYb"
           },
           {
             "quarry": "H81VSMDxmW2Lm2d9tCpee2dE2mE8nzp32koRhjZhfCyj",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "AKd4RrKcBcGRGdzdzXn3RuhMeU25GMTmCUhkLhqQwH8N",
             "rewardsTokenMint": "BPrS3q34uKp3FT6DcshvWJ9AUU2EsFvPGNyEB9Gx5BEs"
           },
           {
             "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CbbCEyVpgkpFStiXEYJVXsqAXzRt6sDcdcHyzDx9wP5m",
             "rewardsTokenMint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
           },
           {
             "quarry": "63BZzUzg7KsU2p7nogANQ7n7YKuNDH9oy6ttLLiZAEVQ",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CkARQQ9PRU9h2cPoH596iWrc23BBmsghYbkHNs8ay332",
             "rewardsTokenMint": "4vxJymUVudmj57aKA7Q934Vb81GuTtRvR4vXrgtszQgy"
           },
           {
             "quarry": "85e2T4KF9PbPRHAyr7YpFAUMzYvdNKLTxaNTr5ustLFR",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpHLK3axUpkKCWgQrzTK9BqNjyQFGhCkeNmQrVE4YQtX",
             "rewardsTokenMint": "BpaaZQY1SANvLrY9txeCTWXHAwwRbLuSFSnkhNJTYxfV"
           },
           {
             "quarry": "DFc47Muj9QrAHDfAnDadxydj7MxMpjDB9GoLXTqxwpC4",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpJ6EodfjW2HozvdGuhuUy5aeU1H3oZrGLPB8Na8vDqs",
             "rewardsTokenMint": "24bB56DwuV3AgfqGWX7rn4WuyYUL4Udn45d5BNQMQjkJ"
           },
           {
             "quarry": "ApVmSM8n1P2SnsTDLXYWniERVFPvGRTGVej1WcK6nYAc",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "HHrj3VMFKztB72KacWKJK8HGNWRuAaTbhGWN3QbfsXPD",
             "rewardsTokenMint": "9xQGzGead5dVTDxP5Ma4QVr7hrv5pwnk1ojXwBWjh185"
           }
@@ -9579,26 +9636,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -9823,26 +9885,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -10423,26 +10490,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -10950,26 +11022,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -11358,6 +11435,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
@@ -12036,21 +12114,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -12689,26 +12771,31 @@
         "primaryQuarries": [
           {
             "quarry": "5fW6pGKwoMRLk7AMcMDtWL9PXk4JYT2LWq9FMDUkB7qx",
+            "quarryMint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
             "rewarder": "29r5L2uGgsJmM4aJryWXNJ1ooAm4acHgMh6LGeL3KQst",
             "rewardsTokenMint": "5xM8Ngg1GLaSx8X7uKUPURVU2pSQMoi5rhKcarv3iXWH"
           },
           {
             "quarry": "7hiC9Q3MgNiyXEBBQwNhnftCL8rGY7jjHZrWijYn3AET",
+            "quarryMint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
             "rewarder": "54azuTM8zVMkDm9eY6UriWSoPrBhtybXb64EY2dvVykA",
             "rewardsTokenMint": "4foEYhrGbBVh4jQZgdJNSAvL4k8AtrXxc1UibKcsdZFZ"
           },
           {
             "quarry": "C5uHB9V7h6uxfCNo37Hj5KU98UVteMuF5NRg8Mhh4EGk",
+            "quarryMint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
             "rewarder": "AaQnmceRh5phVdqYsH8QnoYeYPMvGm2PtYJoe2T3w5oE",
             "rewardsTokenMint": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX"
           },
           {
             "quarry": "8XDGCqMCwCDxXCjTFG1yHYNFTbb3oUeyd8hZBbP71XUc",
+            "quarryMint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           },
           {
             "quarry": "CdtymnxMgM9EVu6r1NovEcpHgFwEMWfyyfYMj2nzu2T2",
+            "quarryMint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
             "rewarder": "J9cK2anexHbkfBZaL71ZHkZ8zinzy1CqLVww8kKgBghT",
             "rewardsTokenMint": "FyZ6iCf893zc9EU4ppmYvN9s2BXNXoA7ejR53USkjYhD"
           }
@@ -12718,6 +12805,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
@@ -12736,6 +12824,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
@@ -12813,51 +12902,61 @@
         "primaryQuarries": [
           {
             "quarry": "8K7jVTEUm5yqfTo6MLniDHnhpkALuXwwDu1eh9G4xc81",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa",
             "rewardsTokenMint": "gb7fwH8feJbw2ohv7jD7RW7cJresknz9bJpUMw6X9o6"
           },
           {
             "quarry": "BjB1Svb6fS7tP84bzUfVnKmr8otQJdo9JeaB9ZeRfadY",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "3VL8En4rghBAwcB7RB5qyfQqN4MhLwon6AHv4d8V3AuW",
             "rewardsTokenMint": "CsiBbbktEPwpm3Cxm1XknCgCA8BCMWhscRjkTfQHMQs3"
           },
           {
             "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y",
             "rewardsTokenMint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
           },
           {
             "quarry": "9fpzXCrvxFDaRQGm3LLF4EgCcerV9NMo4jXei5qALk3B",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "A4WqNqwWeyH5JsqLMJgLqNcyUAhW6jCL2k8fFPW5iWRv",
             "rewardsTokenMint": "FUgTFTFpFAKK38gG59kpHqybor5BkUqa1EnoaeoJJPYb"
           },
           {
             "quarry": "H81VSMDxmW2Lm2d9tCpee2dE2mE8nzp32koRhjZhfCyj",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "AKd4RrKcBcGRGdzdzXn3RuhMeU25GMTmCUhkLhqQwH8N",
             "rewardsTokenMint": "BPrS3q34uKp3FT6DcshvWJ9AUU2EsFvPGNyEB9Gx5BEs"
           },
           {
             "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CbbCEyVpgkpFStiXEYJVXsqAXzRt6sDcdcHyzDx9wP5m",
             "rewardsTokenMint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
           },
           {
             "quarry": "63BZzUzg7KsU2p7nogANQ7n7YKuNDH9oy6ttLLiZAEVQ",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CkARQQ9PRU9h2cPoH596iWrc23BBmsghYbkHNs8ay332",
             "rewardsTokenMint": "4vxJymUVudmj57aKA7Q934Vb81GuTtRvR4vXrgtszQgy"
           },
           {
             "quarry": "85e2T4KF9PbPRHAyr7YpFAUMzYvdNKLTxaNTr5ustLFR",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpHLK3axUpkKCWgQrzTK9BqNjyQFGhCkeNmQrVE4YQtX",
             "rewardsTokenMint": "BpaaZQY1SANvLrY9txeCTWXHAwwRbLuSFSnkhNJTYxfV"
           },
           {
             "quarry": "DFc47Muj9QrAHDfAnDadxydj7MxMpjDB9GoLXTqxwpC4",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpJ6EodfjW2HozvdGuhuUy5aeU1H3oZrGLPB8Na8vDqs",
             "rewardsTokenMint": "24bB56DwuV3AgfqGWX7rn4WuyYUL4Udn45d5BNQMQjkJ"
           },
           {
             "quarry": "ApVmSM8n1P2SnsTDLXYWniERVFPvGRTGVej1WcK6nYAc",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "HHrj3VMFKztB72KacWKJK8HGNWRuAaTbhGWN3QbfsXPD",
             "rewardsTokenMint": "9xQGzGead5dVTDxP5Ma4QVr7hrv5pwnk1ojXwBWjh185"
           }
@@ -12867,26 +12966,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -14059,51 +14163,61 @@
         "primaryQuarries": [
           {
             "quarry": "8K7jVTEUm5yqfTo6MLniDHnhpkALuXwwDu1eh9G4xc81",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa",
             "rewardsTokenMint": "gb7fwH8feJbw2ohv7jD7RW7cJresknz9bJpUMw6X9o6"
           },
           {
             "quarry": "BjB1Svb6fS7tP84bzUfVnKmr8otQJdo9JeaB9ZeRfadY",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "3VL8En4rghBAwcB7RB5qyfQqN4MhLwon6AHv4d8V3AuW",
             "rewardsTokenMint": "CsiBbbktEPwpm3Cxm1XknCgCA8BCMWhscRjkTfQHMQs3"
           },
           {
             "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y",
             "rewardsTokenMint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
           },
           {
             "quarry": "9fpzXCrvxFDaRQGm3LLF4EgCcerV9NMo4jXei5qALk3B",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "A4WqNqwWeyH5JsqLMJgLqNcyUAhW6jCL2k8fFPW5iWRv",
             "rewardsTokenMint": "FUgTFTFpFAKK38gG59kpHqybor5BkUqa1EnoaeoJJPYb"
           },
           {
             "quarry": "H81VSMDxmW2Lm2d9tCpee2dE2mE8nzp32koRhjZhfCyj",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "AKd4RrKcBcGRGdzdzXn3RuhMeU25GMTmCUhkLhqQwH8N",
             "rewardsTokenMint": "BPrS3q34uKp3FT6DcshvWJ9AUU2EsFvPGNyEB9Gx5BEs"
           },
           {
             "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CbbCEyVpgkpFStiXEYJVXsqAXzRt6sDcdcHyzDx9wP5m",
             "rewardsTokenMint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
           },
           {
             "quarry": "63BZzUzg7KsU2p7nogANQ7n7YKuNDH9oy6ttLLiZAEVQ",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CkARQQ9PRU9h2cPoH596iWrc23BBmsghYbkHNs8ay332",
             "rewardsTokenMint": "4vxJymUVudmj57aKA7Q934Vb81GuTtRvR4vXrgtszQgy"
           },
           {
             "quarry": "85e2T4KF9PbPRHAyr7YpFAUMzYvdNKLTxaNTr5ustLFR",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpHLK3axUpkKCWgQrzTK9BqNjyQFGhCkeNmQrVE4YQtX",
             "rewardsTokenMint": "BpaaZQY1SANvLrY9txeCTWXHAwwRbLuSFSnkhNJTYxfV"
           },
           {
             "quarry": "DFc47Muj9QrAHDfAnDadxydj7MxMpjDB9GoLXTqxwpC4",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpJ6EodfjW2HozvdGuhuUy5aeU1H3oZrGLPB8Na8vDqs",
             "rewardsTokenMint": "24bB56DwuV3AgfqGWX7rn4WuyYUL4Udn45d5BNQMQjkJ"
           },
           {
             "quarry": "ApVmSM8n1P2SnsTDLXYWniERVFPvGRTGVej1WcK6nYAc",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "HHrj3VMFKztB72KacWKJK8HGNWRuAaTbhGWN3QbfsXPD",
             "rewardsTokenMint": "9xQGzGead5dVTDxP5Ma4QVr7hrv5pwnk1ojXwBWjh185"
           }
@@ -14113,26 +14227,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -14377,26 +14496,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -14496,26 +14620,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -16292,51 +16421,61 @@
         "primaryQuarries": [
           {
             "quarry": "8K7jVTEUm5yqfTo6MLniDHnhpkALuXwwDu1eh9G4xc81",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa",
             "rewardsTokenMint": "gb7fwH8feJbw2ohv7jD7RW7cJresknz9bJpUMw6X9o6"
           },
           {
             "quarry": "BjB1Svb6fS7tP84bzUfVnKmr8otQJdo9JeaB9ZeRfadY",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "3VL8En4rghBAwcB7RB5qyfQqN4MhLwon6AHv4d8V3AuW",
             "rewardsTokenMint": "CsiBbbktEPwpm3Cxm1XknCgCA8BCMWhscRjkTfQHMQs3"
           },
           {
             "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y",
             "rewardsTokenMint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
           },
           {
             "quarry": "9fpzXCrvxFDaRQGm3LLF4EgCcerV9NMo4jXei5qALk3B",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "A4WqNqwWeyH5JsqLMJgLqNcyUAhW6jCL2k8fFPW5iWRv",
             "rewardsTokenMint": "FUgTFTFpFAKK38gG59kpHqybor5BkUqa1EnoaeoJJPYb"
           },
           {
             "quarry": "H81VSMDxmW2Lm2d9tCpee2dE2mE8nzp32koRhjZhfCyj",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "AKd4RrKcBcGRGdzdzXn3RuhMeU25GMTmCUhkLhqQwH8N",
             "rewardsTokenMint": "BPrS3q34uKp3FT6DcshvWJ9AUU2EsFvPGNyEB9Gx5BEs"
           },
           {
             "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CbbCEyVpgkpFStiXEYJVXsqAXzRt6sDcdcHyzDx9wP5m",
             "rewardsTokenMint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
           },
           {
             "quarry": "63BZzUzg7KsU2p7nogANQ7n7YKuNDH9oy6ttLLiZAEVQ",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "CkARQQ9PRU9h2cPoH596iWrc23BBmsghYbkHNs8ay332",
             "rewardsTokenMint": "4vxJymUVudmj57aKA7Q934Vb81GuTtRvR4vXrgtszQgy"
           },
           {
             "quarry": "85e2T4KF9PbPRHAyr7YpFAUMzYvdNKLTxaNTr5ustLFR",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpHLK3axUpkKCWgQrzTK9BqNjyQFGhCkeNmQrVE4YQtX",
             "rewardsTokenMint": "BpaaZQY1SANvLrY9txeCTWXHAwwRbLuSFSnkhNJTYxfV"
           },
           {
             "quarry": "DFc47Muj9QrAHDfAnDadxydj7MxMpjDB9GoLXTqxwpC4",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "EpJ6EodfjW2HozvdGuhuUy5aeU1H3oZrGLPB8Na8vDqs",
             "rewardsTokenMint": "24bB56DwuV3AgfqGWX7rn4WuyYUL4Udn45d5BNQMQjkJ"
           },
           {
             "quarry": "ApVmSM8n1P2SnsTDLXYWniERVFPvGRTGVej1WcK6nYAc",
+            "quarryMint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn",
             "rewarder": "HHrj3VMFKztB72KacWKJK8HGNWRuAaTbhGWN3QbfsXPD",
             "rewardsTokenMint": "9xQGzGead5dVTDxP5Ma4QVr7hrv5pwnk1ojXwBWjh185"
           }
@@ -16346,26 +16485,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -17149,26 +17293,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -17194,26 +17343,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -18148,21 +18302,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -18521,21 +18679,25 @@
         "primaryQuarries": [
           {
             "quarry": "BqXWmKoKBctRqN9Yas63ZWHyAz3zyV7pCM125TJfynxC",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "7aZ1nFpovvwuHTjRCDTdTQ4KfHDYiaEuzBcrSnLpEHs4",
             "rewardsTokenMint": "8cXngDmMyD1LKFTj34zDiDFpktDdHpaddS2ZZRaS5vc7"
           },
           {
             "quarry": "7Dbn4mwbMBE5apmeHbt9NR4CGkKTGpytWaYtJjVekyGf",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "B2aaH486Sba4q9ANo3ZUt3ouM192g51vPYrF2cLkHgZK",
             "rewardsTokenMint": "7GMbbYXgDUm9sbivUQ6wSu7dMLw4KxBApf9E6ik9E2kZ"
           },
           {
             "quarry": "9jWqAM1dFNkyayC1D7E38FUnkbqgNmae132CiC8MVA6B",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "FWUzrfvboF74jwU3m8FWfPmnZbTBwPYCtbVHzMXMBZyv",
             "rewardsTokenMint": "6ptyadKeqT7bHPGDMuiErLngDPwmoEQ1SQCfydmWhhcB"
           },
           {
             "quarry": "5NavNpwEPFAUDg3Vcbcwg5DZDeX2JKzoErnQ5hmmyftc",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "G9oNLFkw12A5QchVDKR4j2CkusWAwjrjzD5QY5DfMV6o",
             "rewardsTokenMint": "ARXMmqVLcUf3Jsf27KmU5PeLsVJoK2DHpv7AomCwAV2P"
           }
@@ -18545,21 +18707,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -19070,21 +19236,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -20644,26 +20814,31 @@
         "replicaQuarries": [
           {
             "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
             "rewardsTokenMint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
           },
           {
             "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
             "rewardsTokenMint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
           },
           {
             "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
             "rewardsTokenMint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
           },
           {
             "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
             "rewardsTokenMint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
           },
           {
             "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+            "quarryMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
             "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
             "rewardsTokenMint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
           }
@@ -20974,21 +21149,25 @@
         "primaryQuarries": [
           {
             "quarry": "BqXWmKoKBctRqN9Yas63ZWHyAz3zyV7pCM125TJfynxC",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "7aZ1nFpovvwuHTjRCDTdTQ4KfHDYiaEuzBcrSnLpEHs4",
             "rewardsTokenMint": "8cXngDmMyD1LKFTj34zDiDFpktDdHpaddS2ZZRaS5vc7"
           },
           {
             "quarry": "7Dbn4mwbMBE5apmeHbt9NR4CGkKTGpytWaYtJjVekyGf",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "B2aaH486Sba4q9ANo3ZUt3ouM192g51vPYrF2cLkHgZK",
             "rewardsTokenMint": "7GMbbYXgDUm9sbivUQ6wSu7dMLw4KxBApf9E6ik9E2kZ"
           },
           {
             "quarry": "9jWqAM1dFNkyayC1D7E38FUnkbqgNmae132CiC8MVA6B",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "FWUzrfvboF74jwU3m8FWfPmnZbTBwPYCtbVHzMXMBZyv",
             "rewardsTokenMint": "6ptyadKeqT7bHPGDMuiErLngDPwmoEQ1SQCfydmWhhcB"
           },
           {
             "quarry": "5NavNpwEPFAUDg3Vcbcwg5DZDeX2JKzoErnQ5hmmyftc",
+            "quarryMint": "FebMuhkkhx61MhzfYYLfr3dXJwUf441kUK6W1hnzxUKh",
             "rewarder": "G9oNLFkw12A5QchVDKR4j2CkusWAwjrjzD5QY5DfMV6o",
             "rewardsTokenMint": "ARXMmqVLcUf3Jsf27KmU5PeLsVJoK2DHpv7AomCwAV2P"
           }
@@ -20998,21 +21177,25 @@
         "replicaQuarries": [
           {
             "quarry": "82yxz5SEaZpTEfqYGWsPiBrGAu9EcL5958UCFjwHruaf",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "4xNeeLMvp5sd6PSEaoEjX8uK8k5kEY7X9gj6D4enVauy",
             "rewardsTokenMint": "AaxMy1RqyWJPhzJixYxpBMK9VSSSbfUpcPV89TdGAMjg"
           },
           {
             "quarry": "2RGc3dd2vWUwH8LHBN66PHC1ER43WUsX3PwtX9a4bFYs",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "6STZK7Ai5NcPWJVU69unncQoG7E35SyDCwGvLcvkPcH9",
             "rewardsTokenMint": "D6y75EGYya3aZoWFExnPUDL2kiW8BfA1XAUpPfHsqRbj"
           },
           {
             "quarry": "6oqYX6s1wReqXd5RASUdV2rfKLPz2V7NFPfZvPAvJV1h",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "FfkSEs9QrZa5yqvfuhaoSyD3ceFQd3beMxnWP2Pj6C4G",
             "rewardsTokenMint": "HURd9hTAmYWaLokmLGwSxwjcLoUsTEz21ZDBry6bsBW7"
           },
           {
             "quarry": "7jw4BWp9UScU69v4j7bPtRzpVkoNSirGH9a43oPdMTHm",
+            "quarryMint": "2ND78QzETd1D52iAH7EhJ4jGE6hePAWmvqnVkaaT4S3q",
             "rewarder": "HcwejxS6fUXxCWKtBSLr87WF9pbYBqeKApxJrqkDhYqX",
             "rewardsTokenMint": "DvpdGFYNK8nEN5SAk9B96skxqrWDAQwTBMuMctshBEVj"
           }
@@ -21782,6 +21965,7 @@
         "replicaQuarries": [
           {
             "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+            "quarryMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
             "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
             "rewardsTokenMint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
           }
