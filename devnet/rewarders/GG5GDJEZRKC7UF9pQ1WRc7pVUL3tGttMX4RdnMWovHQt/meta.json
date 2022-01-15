@@ -5,31 +5,34 @@
     {
       "quarry": "HvYLiZMjLyn54BK7ZmoLKLjuQGTnRPBNxXFKJ1jxDSfh",
       "stakedToken": {
-        "address": "2B31ATstGvHyc1gdz4Pwig9uthjec8wtqcmHpBuqz3ts",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "2B31ATstGvHyc1gdz4Pwig9uthjec8wtqcmHpBuqz3ts"
       }
     },
     {
       "quarry": "DzFt9WWow8u3YtiZDTtzffz1HU7Pia46H1FSd61sYzTq",
       "stakedToken": {
-        "address": "7BVZpYdwWq5szds8xYhob3qovMPZ6u2X1HytwniqrKq2",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "7BVZpYdwWq5szds8xYhob3qovMPZ6u2X1HytwniqrKq2"
       }
     },
     {
       "quarry": "DS8n2fGeANb8QFsvStR9fMenjX5Ww7XXFoTJ5rMHmniD",
       "stakedToken": {
-        "address": "EVrhc7PQutCuPtw93vNrENGvJMaMoW8LRXngdCXCQfQi",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "EVrhc7PQutCuPtw93vNrENGvJMaMoW8LRXngdCXCQfQi"
       }
     },
     {
       "quarry": "ARX8J8o8757qyEwbmP7rSf7nXATtx7dm6pQiV42y3gja",
       "stakedToken": {
-        "address": "5BKwJiTuoi328CYpxV6LEDTisH1w6kVwc8Yx9HoH5Hj3",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "5BKwJiTuoi328CYpxV6LEDTisH1w6kVwc8Yx9HoH5Hj3"
       }
     }
   ],
-  "rewardsTokenMint": "GcLdgaANSB3d3p1wBuCfNCfsiMLLV1mKFSCLxpvQcnou"
+  "rewardsToken": {
+    "decimals": -1,
+    "mint": "GcLdgaANSB3d3p1wBuCfNCfsiMLLV1mKFSCLxpvQcnou"
+  }
 }

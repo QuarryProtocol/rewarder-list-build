@@ -5,17 +5,20 @@
     {
       "quarry": "HscvM6muZsgFrBW6TMjDwaMte3xhnv5u3Rahj31PgxUk",
       "stakedToken": {
-        "address": "5hhEoWSfHE852hSm8LPbBNfmqcRqxMoBAwMMdYbpUj5f",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "5hhEoWSfHE852hSm8LPbBNfmqcRqxMoBAwMMdYbpUj5f"
       }
     },
     {
       "quarry": "83wpcePXAxr8JKdNfSmXZy3mPKjvw9DmXmxep2sMFARW",
       "stakedToken": {
-        "address": "3DVFvWh3fbp8Xxc2FcTZARtCz3eKcEFpKh39zZuG5eMX",
-        "decimals": 6
+        "decimals": 6,
+        "mint": "3DVFvWh3fbp8Xxc2FcTZARtCz3eKcEFpKh39zZuG5eMX"
       }
     }
   ],
-  "rewardsTokenMint": "54GRMaqUvyMxp5kHwTLVpAYCnzUKqboGbi8dAGxk28rd"
+  "rewardsToken": {
+    "decimals": -1,
+    "mint": "54GRMaqUvyMxp5kHwTLVpAYCnzUKqboGbi8dAGxk28rd"
+  }
 }

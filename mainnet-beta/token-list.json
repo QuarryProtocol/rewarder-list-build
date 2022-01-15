@@ -111,7 +111,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-15T00:49:44.596Z",
+  "timestamp": "2022-01-15T05:07:08.121Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -1139,8 +1139,9 @@
       "extensions": {
         "address": "uusd",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       },
@@ -2240,7 +2241,7 @@
         ],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s.png",
       "name": "Saber Wrapped Cashio Dollar (8 decimals)",
       "symbol": "sCASH-8",
       "tags": [
@@ -2917,7 +2918,7 @@
         ],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt.png",
       "name": "Saber Wrapped agEUR (Wormhole) (9 decimals)",
       "symbol": "sagEUR-9",
       "tags": [
@@ -4162,6 +4163,7 @@
         "github": "https://github.com/marinade-finance",
         "medium": "https://medium.com/marinade-finance",
         "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+        "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
         "source": "marinade",
         "sourceUrl": "https://marinade.finance/app/staking",
         "twitter": "https://twitter.com/MarinadeFinance",
@@ -4717,8 +4719,9 @@
         "address": "uusd",
         "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
@@ -4726,7 +4729,7 @@
         ],
         "website": "https://app.saber.so"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7.png",
       "name": "Saber Wrapped UST (Wormhole) (8 decimals)",
       "symbol": "sUST-8",
       "tags": [
@@ -4745,8 +4748,9 @@
         "address": "uusd",
         "assetContract": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "coingeckoId": "terra-usd",
+        "coingeckoId": "terrausd",
         "currency": "USD",
+        "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
