@@ -1798,21 +1798,6 @@
   },
   "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc": {
     "authority": "GVQzKmFPJDrJT1pBYiT7KhfhMqvmU6yQ6SAhQKR7roaj",
-    "info": {
-      "address": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
-      "color": "#6966FB",
-      "description": "Marinade rewards for Saber.",
-      "id": "saber-mnde",
-      "name": "Saber Marinade Rewards",
-      "networks": [
-        "mainnet-beta"
-      ],
-      "redeemer": {
-        "method": "quarry-redeemer",
-        "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
-      },
-      "website": "https://saber.so"
-    },
     "mintWrapper": "6zS8SbpQT4FYndjfbAQ1PuWoPM29nmwNTKVfyefcra8Z",
     "quarries": [
       {
@@ -3640,6 +3625,22 @@
         "stakedToken": {
           "decimals": 6,
           "mint": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP"
+        }
+      },
+      {
+        "isReplica": false,
+        "mergePool": "AkH2HMuANESqm8PmY3txZdFR6bU6FPh7QAK36kGJCEzm",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ"
+        },
+        "quarry": "BMMiE1bNCW61k3rw4Kfzx7er36JMrEsFGr1Bcng9i6Aq",
+        "replicaMint": "GQpGLK3X3WrQw5ggEtFPdg4bg7zTbFX58tRfDRPrsF9h",
+        "replicaQuarries": [],
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ"
         }
       }
     ],
