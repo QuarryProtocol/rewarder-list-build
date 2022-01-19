@@ -74,10 +74,6 @@
       "description": "Saber StableSwap LP token.",
       "name": "saber-stableswap-lp"
     },
-    "saber-swappable": {
-      "description": "May be swapped on Saber.",
-      "name": "saber-swappable"
-    },
     "security-token": {
       "description": "Tokens that are used to gain access to an electronically restricted resource",
       "name": "security-token"
@@ -111,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-19T00:45:41.282Z",
+  "timestamp": "2022-01-19T23:06:23.921Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -1060,7 +1056,7 @@
         "currency": "SOL",
         "discord": "https://discord.gg/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/",
         "telegram": "https://t.me/gopartyparrot",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1247,7 +1243,7 @@
     {
       "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
       "chainId": 101,
-      "decimals": 9,
+      "decimals": 6,
       "extensions": {
         "currency": "USD",
         "source": "allbridge",
@@ -1556,7 +1552,7 @@
     {
       "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
       "chainId": 101,
-      "decimals": 9,
+      "decimals": 6,
       "extensions": {
         "source": "saber",
         "underlyingTokens": [
@@ -1771,7 +1767,7 @@
         "description": "aSOL is the standard for transacting with staked SOL tokens.",
         "github": "https://github.com/aSolHQ",
         "source": "aSOL",
-        "sourceUrl": "https://asol.so/#/mint/msol",
+        "sourceUrl": "https://asol.so/",
         "twitter": "https://twitter.com/aSOLprotocol",
         "website": "https://asol.so"
       },
@@ -1953,7 +1949,7 @@
       "extensions": {
         "coingeckoId": "solana",
         "currency": "SOL",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/"
       },
       "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
@@ -2221,12 +2217,11 @@
       "decimals": 9,
       "extensions": {
         "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -2248,12 +2243,11 @@
       "decimals": 8,
       "extensions": {
         "assetContract": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "coingeckoId": "usd-coin",
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
+        "source": "Cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -2688,7 +2682,7 @@
         "currency": "BTC",
         "discord": "https://discord.gg/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
-        "source": "Parrot",
+        "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/",
         "telegram": "https://t.me/gopartyparrot",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -2699,8 +2693,6 @@
       "symbol": "pBTC",
       "tags": [
         "stablecoin",
-        "saber-market-btc",
-        "saber-swappable",
         "saber-mkt-btc"
       ]
     },
@@ -3298,6 +3290,35 @@
       "symbol": "FSTau"
     },
     {
+      "address": "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "assetContract": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "ftx-token",
+        "currency": "FTT",
+        "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+        "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
+        "underlyingTokens": [
+          "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
+        ],
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
+        "website": "https://app.saber.so"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3.png",
+      "name": "Saber Wrapped Wrapped FTT (Sollet) (8 decimals)",
+      "symbol": "ssoFTT-8",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum",
+        "saber-mkt-ftt",
+        "saber-dec-wrapped"
+      ]
+    },
+    {
       "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
       "chainId": 101,
       "decimals": 9,
@@ -3338,6 +3359,8 @@
         "currency": "FTT",
         "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
         "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
@@ -3568,6 +3591,13 @@
       "decimals": 2,
       "name": "Token Gwr9",
       "symbol": "Gwr9C"
+    },
+    {
+      "address": "H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc",
+      "chainId": 104,
+      "decimals": 6,
+      "name": "Token H1SA",
+      "symbol": "H1SAg"
     },
     {
       "address": "Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw",
@@ -4989,6 +5019,26 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-allbridge",
+        "saber-lp-wormhole-v2"
+      ]
+    },
+    {
+      "address": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+          "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        ],
+        "website": "https://app.saber.so/#/pools/sollet_ftt"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg/icon.png",
+      "name": "Saber soFTT-FTT LP",
+      "symbol": "soFTT-FTT",
+      "tags": [
+        "saber-stableswap-lp",
         "saber-lp-wormhole-v2"
       ]
     },
