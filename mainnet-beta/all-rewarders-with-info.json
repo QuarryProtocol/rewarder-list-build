@@ -21,6 +21,7 @@
       ],
       "redeemer": {
         "method": "quarry-redeemer",
+        "redeemerKey": "HxQsG2hToqY7xaD67RmUz9xtkNFnecozo9NapumCzmtf",
         "underlyingToken": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
       },
       "website": "https://saber.so"
@@ -80,6 +81,7 @@
       ],
       "redeemer": {
         "method": "quarry-redeemer",
+        "redeemerKey": "8BMiauMWKAHfsmhYYLqLTcUfswryHvzvteBS6A4a3JzD",
         "underlyingToken": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
       },
       "website": "https://pole.finance/"
@@ -700,6 +702,7 @@
       ],
       "redeemer": {
         "method": "sunny",
+        "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
         "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
       },
       "website": "https://sunny.ag"
@@ -1969,6 +1972,22 @@
           "decimals": 6,
           "mint": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i"
         }
+      },
+      {
+        "isReplica": false,
+        "mergePool": "ExwW8jai69ZhM3GUHu2vnjrErTBj5n179B465tJZg5bW",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 9,
+          "mint": "Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z"
+        },
+        "quarry": "83rTGsTbqKpovXZ4QhTqvkmfxSx7NCLqhTpZsAYgCdzM",
+        "replicaMint": "8GzCJE7ycXYqsmNy4DrQJM1XjyzFcRxNJbCYmdpcARek",
+        "replicaQuarries": [],
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z"
+        }
       }
     ],
     "rewardsToken": {
@@ -1989,6 +2008,7 @@
       ],
       "redeemer": {
         "method": "quarry-redeemer",
+        "redeemerKey": "8N7YE5TbFqw1vbc8ACdDpqHJLpph6ixTv3KSZuPaUfE6",
         "underlyingToken": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
       },
       "website": "https://saber.so"
@@ -2065,6 +2085,7 @@
       ],
       "redeemer": {
         "method": "quarry-redeemer",
+        "redeemerKey": "59yoXnmzUzfrLzridCVWcVUn2ADWyChw5tUt8fMiJV6t",
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
       },
       "website": "https://saber.so"
@@ -2219,6 +2240,7 @@
       ],
       "redeemer": {
         "method": "quarry-redeemer",
+        "redeemerKey": "F8zEcm7zGWiJiodZxLFpuRd4A8yntyd5DGAkaD4AdH5h",
         "underlyingToken": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
       },
       "website": "https://port.finance"
@@ -2321,6 +2343,7 @@
       ],
       "redeemer": {
         "method": "marinade",
+        "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
       },
       "website": "https://marinade.finance"
@@ -2421,6 +2444,7 @@
       ],
       "redeemer": {
         "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
       },
       "website": "https://saber.so"
