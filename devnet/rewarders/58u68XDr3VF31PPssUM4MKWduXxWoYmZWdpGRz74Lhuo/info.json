@@ -1,0 +1,15 @@
+{
+  "address": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
+  "color": "#6966FB",
+  "description": "Lido test rewarder.",
+  "id": "lido_super_test",
+  "name": "lido_super_test",
+  "networks": [
+    "devnet"
+  ],
+  "redeemer": {
+    "method": "saber",
+    "underlyingToken": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+  },
+  "website": "https://saber.so"
+}

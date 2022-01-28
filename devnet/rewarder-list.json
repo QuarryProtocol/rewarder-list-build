@@ -18,6 +18,23 @@
     "website": "https://saber.so"
   },
   {
+    "address": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
+    "color": "#6966FB",
+    "description": "Lido test rewarder.",
+    "id": "lido_super_test",
+    "name": "lido_super_test",
+    "networks": [
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "saber",
+      "redeemerKey": "7GYvUVtcihiEwe8yjFeYuoaetdZiC8dh6P18mr61WgJr",
+      "redeemerVaultATA": "4fKnVmwmu9u873GLaJgX84CH39LhfSY1P2b9fFSCXQFk",
+      "underlyingToken": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+    },
+    "website": "https://saber.so"
+  },
+  {
     "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
     "color": "#DC723F",
     "description": "Solana's cross-chain DeFi yield aggregator.",
