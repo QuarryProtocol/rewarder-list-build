@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-28T01:48:38.062Z",
+  "timestamp": "2022-01-29T00:43:55.962Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -1276,13 +1276,17 @@
       "extensions": {
         "coingeckoId": "mimatic",
         "currency": "USD",
+        "discord": "https://discord.com/invite/mQq55j65xJ",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "twitter": "https://twitter.com/QiDaoProtocol",
+        "website": "https://mai.finance/"
       },
-      "logoURI": "https://registry.saber.so/token-icons/mai.svg",
-      "name": "MAI (miMATIC)",
+      "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png",
+      "name": "MAI Stablecoin",
       "symbol": "MAI",
       "tags": [
+        "stablecoin",
         "saber-mkt-usd"
       ]
     },
