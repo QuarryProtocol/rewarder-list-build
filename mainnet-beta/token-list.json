@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-01-29T05:38:29.666Z",
+  "timestamp": "2022-01-30T00:48:18.060Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -5556,6 +5556,26 @@
       "symbol": "UXD-USDC",
       "tags": [
         "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/#/pools/uxd_cash"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW/icon.png",
+      "name": "Saber UXD-CASH LP",
+      "symbol": "UXD-CASH",
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-cashio"
       ]
     },
     {
