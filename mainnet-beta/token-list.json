@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-05T01:03:37.064Z",
+  "timestamp": "2022-02-05T01:31:56.734Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -897,6 +897,26 @@
       "decimals": 6,
       "name": "Token 7jgv",
       "symbol": "7jgvL"
+    },
+    {
+      "address": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-merge-mine-replica",
+        "underlyingTokens": [
+          "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59"
+        ],
+        "website": "https://app.saber.so/#/pools/usdh_cash"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59/icon.png",
+      "name": "Saber USDH-CASH LP (Replica)",
+      "symbol": "qrUSDH-CASH",
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-cashio",
+        "quarry-merge-mine-replica"
+      ]
     },
     {
       "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
@@ -4408,6 +4428,25 @@
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-allbridge"
+      ]
+    },
+    {
+      "address": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-merge-mine-replica",
+        "underlyingTokens": [
+          "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
+        ],
+        "website": "https://app.saber.so/#/pools/usdh"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
+      "name": "Saber USDH-USDC LP (Replica)",
+      "symbol": "qrUSDH-USDC",
+      "tags": [
+        "saber-stableswap-lp",
+        "quarry-merge-mine-replica"
       ]
     },
     {

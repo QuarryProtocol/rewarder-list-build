@@ -2794,7 +2794,76 @@
       "website": "https://hubbleprotocol.io"
     },
     "mintWrapper": "2BCkuCnFCDeETkmCa7JAvLqe81d3kf4SQ3vhwpWESZkW",
-    "quarries": [],
+    "quarries": [
+      {
+        "isReplica": true,
+        "mergePool": "BSaqrvXoUrHQyjrTJ1qWfw7Ek89Vh3rZ7F2fLgcYqQa1",
+        "primaryQuarries": [
+          {
+            "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
+            "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+            "rewardsToken": {
+              "decimals": 6,
+              "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+            }
+          }
+        ],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
+        },
+        "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
+        "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
+        "replicaQuarries": [
+          {
+            "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
+            "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
+            }
+          }
+        ],
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7"
+        }
+      },
+      {
+        "isReplica": true,
+        "mergePool": "5sy4m3CXsu6NzZBzTijDsKfETcCBVrYjavvntA2BF39u",
+        "primaryQuarries": [
+          {
+            "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
+            "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+            "rewardsToken": {
+              "decimals": 6,
+              "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+            }
+          }
+        ],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59"
+        },
+        "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
+        "replicaMint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",
+        "replicaQuarries": [
+          {
+            "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
+            "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
+            }
+          }
+        ],
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ"
+        }
+      }
+    ],
     "rewardsToken": {
       "decimals": -1,
       "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
@@ -4375,7 +4444,16 @@
         },
         "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
         "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
-        "replicaQuarries": [],
+        "replicaQuarries": [
+          {
+            "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
+            "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
+            }
+          }
+        ],
         "stakedToken": {
           "decimals": 6,
           "mint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
@@ -4391,7 +4469,16 @@
         },
         "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
         "replicaMint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",
-        "replicaQuarries": [],
+        "replicaQuarries": [
+          {
+            "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
+            "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
+            }
+          }
+        ],
         "stakedToken": {
           "decimals": 6,
           "mint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59"
