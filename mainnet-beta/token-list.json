@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-04T08:01:57.180Z",
+  "timestamp": "2022-02-05T01:02:06.566Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -3777,6 +3777,13 @@
       "symbol": "FLocu"
     },
     {
+      "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
+      "chainId": 104,
+      "decimals": 6,
+      "name": "Token FLYT",
+      "symbol": "FLYT4"
+    },
+    {
       "address": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi",
       "chainId": 101,
       "decimals": 9,
@@ -4265,6 +4272,26 @@
       "decimals": 6,
       "name": "Token HAbF",
       "symbol": "HAbFc"
+    },
+    {
+      "address": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "hubble",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/",
+        "discord": "https://discord.gg/d44A8WvK",
+        "twitter": "https://twitter.com/hubbleprotocol",
+        "website": "https://hubbleprotocol.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
+      "name": "Hubble Protocol Token",
+      "symbol": "HBB",
+      "tags": [
+        "stake-pool-token",
+        "utility-token",
+        "community-token"
+      ]
     },
     {
       "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",

@@ -166,5 +166,22 @@
       "underlyingToken": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
     },
     "website": "https://port.finance"
+  },
+  {
+    "address": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
+    "color": "#7a84ff",
+    "description": "Hubble rewards for Saber.",
+    "id": "saber-hubb",
+    "name": "Saber Hubble Rewards",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "quarry-redeemer",
+      "redeemerKey": "3sEPPrBnSwb1rZyraXH7BNr8ZXoz9L37hyoNNBRshd4v",
+      "redeemerVaultATA": "CNn6zFHasehW3YGwbYzJaqLBW5xQx5RgRNmk5tdCo72o",
+      "underlyingToken": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
+    },
+    "website": "https://hubbleprotocol.io"
   }
 ]
