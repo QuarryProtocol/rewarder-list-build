@@ -78,7 +78,7 @@
     }
   },
   "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4": {
-    "authority": "GDi15vW1SDVpeT8ngy7aCsVamvHX9RsdyLXctScoqVJL",
+    "authority": "FXish3WUZYR5cjh1Q3E3tD6QVtKfYEDBEFT1vn9Q9q2x",
     "info": {
       "address": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
       "color": "#8d459a",
@@ -128,6 +128,40 @@
         "stakedToken": {
           "decimals": 6,
           "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ"
+        }
+      },
+      {
+        "isReplica": true,
+        "mergePool": "FcUz1J8vLY9PGRKMeEGZnefc8bYof5zifv86YCPwzj23",
+        "primaryQuarries": [
+          {
+            "quarry": "9uN6j3CL7aYNHbCvSg919NaEXSp6KJcTakZ5fQi9daaU",
+            "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+            "rewardsToken": {
+              "decimals": 6,
+              "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+            }
+          }
+        ],
+        "primaryToken": {
+          "decimals": 2,
+          "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+        },
+        "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+        "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
+        "replicaQuarries": [
+          {
+            "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+            "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+            }
+          }
+        ],
+        "stakedToken": {
+          "decimals": 2,
+          "mint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK"
         }
       }
     ],
@@ -436,7 +470,16 @@
         },
         "quarry": "9uN6j3CL7aYNHbCvSg919NaEXSp6KJcTakZ5fQi9daaU",
         "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
-        "replicaQuarries": [],
+        "replicaQuarries": [
+          {
+            "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+            "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+            }
+          }
+        ],
         "stakedToken": {
           "decimals": 2,
           "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"

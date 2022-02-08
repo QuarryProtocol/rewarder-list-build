@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-07T00:48:59.693Z",
+  "timestamp": "2022-02-08T00:50:30.525Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -4092,6 +4092,29 @@
         "wormhole",
         "saber-mkt-usd",
         "wormhole-v1"
+      ]
+    },
+    {
+      "address": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
+      "chainId": 101,
+      "decimals": 2,
+      "extensions": {
+        "description": "Saros LP token between Pole Aggregator Governance and Cashio Dollar",
+        "pool": "HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx",
+        "source": "quarry-merge-mine-replica",
+        "token0Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "twitter": "https://twitter.com/saros_finance",
+        "underlyingTokens": [
+          "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+        ],
+        "website": "https://saros.finance/pool/HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx"
+      },
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD/icon.png",
+      "name": "Saros POLE-CASH LP (Replica)",
+      "symbol": "qrPOLE-CASH",
+      "tags": [
+        "quarry-merge-mine-replica"
       ]
     },
     {
