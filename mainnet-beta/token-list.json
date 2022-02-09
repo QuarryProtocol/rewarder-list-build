@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-08T00:50:30.525Z",
+  "timestamp": "2022-02-09T00:53:34.616Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -1447,6 +1447,29 @@
       ]
     },
     {
+      "address": "9rHYVdW9Q3fa9Hh9R8pEPnNc4BAoBzpdor4kKXksVscn",
+      "chainId": 101,
+      "decimals": 2,
+      "extensions": {
+        "description": "Saros LP token between  Port Finance and Cashio Dollar",
+        "pool": "nFroVdbLbVC65KwYTdNGjf5K7tsESxBdsrVMPhXHzeB",
+        "source": "quarry-merge-mine-replica",
+        "token0Img": "https://coin98.s3.amazonaws.com/N3largR9o62uf7ul",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "twitter": "https://twitter.com/saros_finance",
+        "underlyingTokens": [
+          "DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW"
+        ],
+        "website": "https://saros.finance/pool/nFroVdbLbVC65KwYTdNGjf5K7tsESxBdsrVMPhXHzeB"
+      },
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW/icon.png",
+      "name": "Saros PORT-CASH LP (Replica)",
+      "symbol": "qrPORT-CASH",
+      "tags": [
+        "quarry-merge-mine-replica"
+      ]
+    },
+    {
       "address": "9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN",
       "chainId": 104,
       "decimals": 9,
@@ -2324,11 +2347,16 @@
       "extensions": {
         "coingeckoId": "solana",
         "currency": "SOL",
+        "discord": "https://discord.gg/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
         "source": "parrot",
-        "sourceUrl": "https://parrot.fi/mint/"
+        "sourceUrl": "https://parrot.fi/mint/",
+        "telegram": "https://t.me/gopartyparrot",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "website": "https://parrot.fi"
       },
-      "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
-      "name": "Parrot Stake Pool SOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
+      "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
       "tags": [
         "saber-mkt-sol"
