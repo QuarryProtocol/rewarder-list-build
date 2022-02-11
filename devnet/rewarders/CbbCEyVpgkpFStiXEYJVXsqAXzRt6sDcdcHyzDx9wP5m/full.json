@@ -1,0 +1,67 @@
+{
+  "authority": "J8cgZEeYRzQf71cHJsWa9AbzMsbfwsPLxSaBx6pz4LVH",
+  "mintWrapper": "6jcvnBt42aSPYYkrmjtX8wAAfe4LGKEUNXKutBTt8SfX",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "Hzf4ch5iPzApy1uGFnusnkM1cGF4j6YStomxoGuFrBEz",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn"
+      },
+      "quarry": "CrTAem5Yg2T2RSCntbghWq7UXszK4Qd45RxhB16DxFPU",
+      "replicaMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
+      "replicaQuarries": [
+        {
+          "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+          "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
+          }
+        },
+        {
+          "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+          "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
+          }
+        },
+        {
+          "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+          "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
+          }
+        },
+        {
+          "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+          "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
+          }
+        },
+        {
+          "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+          "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "9RbHUG8wowT63rLyRkDzxRutzsfsBUqUwP6auaofoWET"
+  }
+}

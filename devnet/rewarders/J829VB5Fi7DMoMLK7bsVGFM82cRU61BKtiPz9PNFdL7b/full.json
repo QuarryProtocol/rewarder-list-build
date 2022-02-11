@@ -1,0 +1,60 @@
+{
+  "authority": "7Q42pBSxR8bbWJkhSQZLDqpcR9xCv9z3zBSGPc7PdXkt",
+  "info": {
+    "address": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+    "color": "#EF39F8",
+    "description": "The easiest way to stake Solana.",
+    "id": "marinade",
+    "name": "Marinade",
+    "networks": [
+      "mainnet-beta",
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "marinade",
+      "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
+      "redeemerVaultATA": "4zDEyfrJcGR3DQRzaThYSRxkeFM7zE4q12diwtbzQXPJ",
+      "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+    },
+    "website": "https://marinade.finance"
+  },
+  "mintWrapper": "Cz2x6Rmwa3aJRXpaFyw13EBoz3V4UBBNqWZEbjYmJjDZ",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "HqYwSuf2Eoi6y9htEYX5FZJvchhD8hwjZoTdmjHFCnhq",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+      },
+      "quarry": "Hs2XmWQFw3ExawMQkCsBGQGX73JG1n2Qpjm8G7dYRw7m",
+      "replicaMint": "J6dfrHc3gfKqZzHgZWM3ENRNB7Z1xmW66jvR3aSexVbd",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "JDoon6rtyMrEiptXhYJgpsqA4bcGowLK13PME9BY8eAm",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+      },
+      "quarry": "AUxNeq9F3BWmX8Kcc4ZstHpkRXxFXKjKudePJt1LtfiS",
+      "replicaMint": "oZ4LqXpwXp4WcruCWegHHNCVBCpHQD1kHDBhtLSVD4n",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+  }
+}

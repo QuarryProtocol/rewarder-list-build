@@ -1,0 +1,519 @@
+{
+  "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+  "info": {
+    "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+    "color": "#01EB00",
+    "description": "Cashio’s fair launch memecoin",
+    "id": "cash-cow",
+    "name": "Cash Cow",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "website": "https://cashio.app"
+  },
+  "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
+  "quarries": [
+    {
+      "isReplica": true,
+      "mergePool": "D3h3Mo6HW6dnwiESUxRDy8UuEfU5pgsbFLhBheZ1C5Zu",
+      "primaryQuarries": [
+        {
+          "quarry": "3esh4Uq1WMpdYSgBmK92C9eLVRU5MzcNPm2PJyG72Fqo",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv"
+      },
+      "quarry": "9bPMa5dzJ44UGnkx4st2apPJNxb1h5DT2XbzqBh7ELUZ",
+      "replicaMint": "HoiqP8QaE1bvikWrRjrvcWL2v2AjYtnwKrveu2vNReMy",
+      "replicaQuarries": [
+        {
+          "quarry": "9bPMa5dzJ44UGnkx4st2apPJNxb1h5DT2XbzqBh7ELUZ",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "HoiqP8QaE1bvikWrRjrvcWL2v2AjYtnwKrveu2vNReMy"
+      }
+    },
+    {
+      "isReplica": true,
+      "mergePool": "GTKq9zb2PSYCcZQd6gnV2mkdRcoaevdXa9D6XSDyboDd",
+      "primaryQuarries": [
+        {
+          "quarry": "3id3soDcppeYRVvfN8ZPqaLbnB83wmfmsCJupwJVBwaL",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY"
+      },
+      "quarry": "CgiCrf6uVZgvovSgiFYSPqginW2xgfMxBU418zr8D8pn",
+      "replicaMint": "AXMC4QhPZfx9kfMaYwwsn5WeEFivM7UnYw2tnVrD2xrA",
+      "replicaQuarries": [
+        {
+          "quarry": "CgiCrf6uVZgvovSgiFYSPqginW2xgfMxBU418zr8D8pn",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "AXMC4QhPZfx9kfMaYwwsn5WeEFivM7UnYw2tnVrD2xrA"
+      }
+    },
+    {
+      "isReplica": true,
+      "mergePool": "3WpNuwiXFzVYJhtCfPoMAc1scxz252SqqfUKsUp8h3k2",
+      "primaryQuarries": [
+        {
+          "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8"
+      },
+      "quarry": "E2zqjr8DsAXotspX5Eays37w9vnZaCWPokbaSnSfpf9n",
+      "replicaMint": "HdSp5C6F4GvVUhCD7hqWaj74cm4fVU2NZXs3r7jzCSVe",
+      "replicaQuarries": [
+        {
+          "quarry": "E2zqjr8DsAXotspX5Eays37w9vnZaCWPokbaSnSfpf9n",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        },
+        {
+          "quarry": "H5X3fTtypufVaPtH8D7GbMffCqSRHA3MWNj3FT4tVXQU",
+          "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "HdSp5C6F4GvVUhCD7hqWaj74cm4fVU2NZXs3r7jzCSVe"
+      }
+    },
+    {
+      "isReplica": true,
+      "mergePool": "3jzkD1FGvT6ndnKXukqtCgGf2ak4focwcmyHXnXsE61B",
+      "primaryQuarries": [
+        {
+          "quarry": "F5VvER2JdGfbEtPJBr92qEPJhE3b8tAA3Gi9zyPx2toa",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7"
+      },
+      "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
+      "replicaMint": "6YSGgj2cbTYc75V6qXBqiAWrHfdoSH4TbqHvN7fANSyj",
+      "replicaQuarries": [
+        {
+          "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "6YSGgj2cbTYc75V6qXBqiAWrHfdoSH4TbqHvN7fANSyj"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "VbgZzncNSKxLjtddF67KAQYbTziDEMprptwyTbbtueY",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA"
+      },
+      "quarry": "8ZQdi83kJHNSr8zYma432AXbXtqYNVJYGCo3d2iZ4GSF",
+      "replicaMint": "CUEnoeXNycJkCHUanSTtTCKgHfJFrGvG8Wz6z468f7kh",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "4Ar8K8jkCxydEtru7ueJyFXuypTTZa3RgB3tuWBQMgjx",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F"
+      },
+      "quarry": "4Fc2ztbSF64YRWYtaeN9cvgjpgnzvTmJ3Sp3DW1DNsHT",
+      "replicaMint": "4xqJ91kexF13zdEZTpDVoBiqJGKDhHcBgEPxm98enchP",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "CcKjmXxVwUXV6Qx7wQt4J6yMSQBisamTb1SQjMxfMUd",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "4CsomP6td9X9rQM3RiXa2E8vwinpRU7hVGhTToWjj6fe"
+      },
+      "quarry": "GGF2LWTFfyEGLgCzMF8KBTdzvZEUynwPruZTV54XukTZ",
+      "replicaMint": "GPv263buBtyi2zVjraGRsQY9jpADWtNZKF2kcfNSaxq7",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "4CsomP6td9X9rQM3RiXa2E8vwinpRU7hVGhTToWjj6fe"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "3bmUmfbY4knLUxtLQYGW3Br9u1dSfrDgB8EBvEsesx6z",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj"
+      },
+      "quarry": "AAqRP5aC1CYqH9bfPVTjLxSLj72NY75bWch3LLfQJHTm",
+      "replicaMint": "14hFsyNUhdkHq6AUB8XpaTHKww4i8tZ7JktFR3m7sU7e",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "9KmPzuRjoa8BHB5ypsE8KeddyFYSD8vc291snDeUjbwM",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW"
+      },
+      "quarry": "CpxUJPQibBjUXLhXzzvN3F2mARzBiSEgKPNa8D2tMQ2a",
+      "replicaMint": "9rHYVdW9Q3fa9Hh9R8pEPnNc4BAoBzpdor4kKXksVscn",
+      "replicaQuarries": [
+        {
+          "quarry": "8e8EnejyFYCcXiot1nEn2ayx4KAtYUFwcmGVvJ6TjNPT",
+          "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "FDtmVxFwf9XjswwFwQDtzy91irXjce71rHQW8rdTGHiT",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+      },
+      "quarry": "9uN6j3CL7aYNHbCvSg919NaEXSp6KJcTakZ5fQi9daaU",
+      "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
+      "replicaQuarries": [
+        {
+          "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+          "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "5bJnaCEcGsH3N8Snre2VjqWA7ViVKawnNSkeGiufDwE3",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "4g7DwZVn8edcSYR34zE4Dm13YLH6ZvtXCNnaUyQSFy9w"
+      },
+      "quarry": "BGLr39pyujk68LMNnS4tKd4FXfHAamytbazmE375Bgmo",
+      "replicaMint": "FBvvyXuJHVdEDtbacc4hvGGAHbiVjGB2axc4o7UfNJK5",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "4g7DwZVn8edcSYR34zE4Dm13YLH6ZvtXCNnaUyQSFy9w"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "GBbMuNdcjQRzJ6DNAd9mEkw77JSduJseBkw8vLSNqYTm",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "BteRTgfrrxyVwJAgAvv9GsLuyn4CWdBRYbBBqE3FM94z"
+      },
+      "quarry": "5wHd1JFqXeTmSUUtB3FYT3YbgnnfEV2ENuYubbr2CTZm",
+      "replicaMint": "GVFXKs6zLHGGZ14ocHwxTNXv1uP2DFnm7156Z7WQaRfK",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "BteRTgfrrxyVwJAgAvv9GsLuyn4CWdBRYbBBqE3FM94z"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "6gvqyVNtbscRy1W6U4M6PFNVooe6RzopKieVpVFtnBuZ",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "2kxbv7aSt3ieDXPwTBc6SM9DwwxY9WtLqu5WRf2ZTYq8"
+      },
+      "quarry": "ExixRSzwjERXH1tbNzSc4J5AN98FUNGeY6P3KWG1Hz8r",
+      "replicaMint": "BDCbg6rDUi5iZNXe446AzK35NGxNsBdr74JkhQ5X3UYW",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "2kxbv7aSt3ieDXPwTBc6SM9DwwxY9WtLqu5WRf2ZTYq8"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "6pjJw4HFWxPYxy7o9Q4VWRTqVQjsSQKo2L1JneXvTPN6",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6"
+      },
+      "quarry": "szXLFzhDyhG7UCrVDQWDbFGQrkzM7aN9zJJYezD6tsq",
+      "replicaMint": "3XncUr9TDiqKAN97GAfEYPE3ZiuKAJvWwosntS6XuLee",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "6qWHJfrdvm7HbDGyfmj43gSBarHYTnDBtvrYjojMFHgx",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "5csZtCiN3Rap6vk8xwoj8bhHb1rwzdXDtrAkKq1TGRp4"
+      },
+      "quarry": "ApFwaYgDg1k5CNPU7ZCv4FZ8PZ9YmWgX7x3XEudbBB1B",
+      "replicaMint": "GJNDDwHr5jogNsFXRR1xe2QmAjzgsQafYhnfnGANYjgX",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "5csZtCiN3Rap6vk8xwoj8bhHb1rwzdXDtrAkKq1TGRp4"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "6gH5qLu2nJSZYRXhoaUqdYw9aMte2sF2S9P1xTBPwzgh",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "3EC7pn6pXDCm1BBuAXXwUUnhay6FVKZxHP7KZc1Z27nk"
+      },
+      "quarry": "FCah768kx2biJVUoxoptc4UHFsvMWihTz4tp5vNcD9sb",
+      "replicaMint": "52YpRBpNCHyVdo4o89zqarXtuL3Fqizqp3SUQCvmbAST",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "3EC7pn6pXDCm1BBuAXXwUUnhay6FVKZxHP7KZc1Z27nk"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "9udibYLPoAf6gE1AY3SxVLDQ5KVSmc2sL3REqthj3oap",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s"
+      },
+      "quarry": "7gGH6ajHvrahPAqzGLr6HejUXMmbEagm9VuCWZUqpU6m",
+      "replicaMint": "2fAoHemyMde9jmJNpXA6HBAS3tyL6G9EJpatcnqUMHQn",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "FKdR8VdENbco2iK9EesTizA6trTUG3Uju7VCgPGzzjox",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "GWAoMkDgnJbdUPphm76ZMmkm8KJvpqrde2ctXgfy1byD"
+      },
+      "quarry": "4gpaec4TovwRWLVuEeg7V3FaZ2EC1FEZLx8XMRqizQpJ",
+      "replicaMint": "6PiMPW3Sf6eRijDG1LtS28bvBvBXnVVPxR9CVB6dT1E2",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "GWAoMkDgnJbdUPphm76ZMmkm8KJvpqrde2ctXgfy1byD"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "7Sb9CQdpxpgEpPxRuQzE8ms3KSPcXGvtuRQeD2t4scLo",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "Ey8M9ZK6bqzXCSuvJFMaQMFNgWShn6aCahTvL1nbcFyk"
+      },
+      "quarry": "4tssPMzeW59KKi2o1dxMqxnv8tid4X7fHkWxpuSXaenm",
+      "replicaMint": "6UNmpb7kJo6uxJGiR39c1tMyAARMHr2ccfUd1xznJKrZ",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "Ey8M9ZK6bqzXCSuvJFMaQMFNgWShn6aCahTvL1nbcFyk"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "E2NAHxMU9REi6TQzmnURbMSd3SAKZpL4VDUETw4WFDGb",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "Cyggmjx7iWios6jqrYRbZwFE3AYaqV5UfyVyYF5XgCYU"
+      },
+      "quarry": "E6JNDjasQL7wnNU9LwNxgvge81PHjNZXHkX6aXvMQRuL",
+      "replicaMint": "3TS539B8GXzihdtb3HpXyCygtbLPtn5UsKUcMy4RDnPn",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "Cyggmjx7iWios6jqrYRbZwFE3AYaqV5UfyVyYF5XgCYU"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "7e8WaATxzbCFNdimhqRo5mb33TdpGp97yA6Y8T4SSCva",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "813D4afWKgjHfc65LiPtF1rodNreuJ6ZQH4tMhuFrX2k"
+      },
+      "quarry": "GaMtV3AAYTRzcUMDJb4bk9aP5Ski8goW94TT87AyF3zc",
+      "replicaMint": "A5Vm4L51XrKHmSxiG6T4yuhJATXwc7U6pc7yNkBb71kn",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "813D4afWKgjHfc65LiPtF1rodNreuJ6ZQH4tMhuFrX2k"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "4tBaAtRtVULHCvVigQaSUHG5ab3SNCZsGdkL5ppwnQub",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ"
+      },
+      "quarry": "DFgEnKvvXiV9FESnKaexnHQiYozQkxGQEq8hRoG1uaxf",
+      "replicaMint": "EuQiTV4QCaPph9UPzhn7KcXL6E6d2Qcg4U4oHni2vana",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "9LMLeA4NLzpa2DrRALpqymKrGyfiV37DAqFBuRMuirES",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "HwXQWncukjBwExBsYFofcuf5nLLvgfsg3tRLfpH7fh7G"
+      },
+      "quarry": "BwD3KchAHqBP9rbq7pjYbqb7ZFrY5AtWjqW6DwSZeBQf",
+      "replicaMint": "CWzY4yARrKS6EWyx1HngwPWhuGdV5qSFLE7egRPGmBoc",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "HwXQWncukjBwExBsYFofcuf5nLLvgfsg3tRLfpH7fh7G"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "EA8sSKJP986zrmN5FLzD48KVR3QPYa8AavFoEJoZtRCL",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "BzZRM9HciRcgWNCjF1UdiYnHiNx6YAjuzcinVFL9CKYw"
+      },
+      "quarry": "5wXkztartAFDdy76UrUixxqvZoQrAhaLdMBdPmAxEUbj",
+      "replicaMint": "9NPEB9wuTY3JDoTjpYzWkwufw1aQ2WExchGvZArvcqC6",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "BzZRM9HciRcgWNCjF1UdiYnHiNx6YAjuzcinVFL9CKYw"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "2axqqMSMEK77DMfqhiYtJUS6vDRTKP1kZRYCXWPTz41n",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "9qCyVjDUq5Jh76a5KAVtz8BXxj8fNcXjnDf4yLe5zdAa"
+      },
+      "quarry": "4ecVJePyhYL17pmjd6vySUrPL8tFnCRMB1xRGVREt4FU",
+      "replicaMint": "BHBg1VorSsJa6rSPfFyoq8kdLu8qMfw7Dj5h7G5hfYS4",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "9qCyVjDUq5Jh76a5KAVtz8BXxj8fNcXjnDf4yLe5zdAa"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+  }
+}

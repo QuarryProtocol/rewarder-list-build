@@ -1,0 +1,69 @@
+{
+  "authority": "8YiVDTiEmVmPuehAFC6fsicjeJBv9sFoqxsQXqGCHS6N",
+  "info": {
+    "address": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
+    "color": "#6966FB",
+    "description": "Luna rewards for Saber.",
+    "id": "saber-luna",
+    "name": "Saber Luna Rewards",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "quarry-redeemer",
+      "redeemerKey": "8N7YE5TbFqw1vbc8ACdDpqHJLpph6ixTv3KSZuPaUfE6",
+      "redeemerVaultATA": "4aVPRZwrdKwDzwLvH4kdejZiRiW3fVBGH9PrqeZomDyV",
+      "underlyingToken": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+    },
+    "website": "https://saber.so"
+  },
+  "mintWrapper": "FBZFkHRE4mGVckeMNYeSAWXTFVKDPCnZo74mahijVQR2",
+  "quarries": [
+    {
+      "isReplica": true,
+      "mergePool": "3WpNuwiXFzVYJhtCfPoMAc1scxz252SqqfUKsUp8h3k2",
+      "primaryQuarries": [
+        {
+          "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8"
+      },
+      "quarry": "H5X3fTtypufVaPtH8D7GbMffCqSRHA3MWNj3FT4tVXQU",
+      "replicaMint": "HdSp5C6F4GvVUhCD7hqWaj74cm4fVU2NZXs3r7jzCSVe",
+      "replicaQuarries": [
+        {
+          "quarry": "E2zqjr8DsAXotspX5Eays37w9vnZaCWPokbaSnSfpf9n",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        },
+        {
+          "quarry": "H5X3fTtypufVaPtH8D7GbMffCqSRHA3MWNj3FT4tVXQU",
+          "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "HdSp5C6F4GvVUhCD7hqWaj74cm4fVU2NZXs3r7jzCSVe"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5"
+  }
+}

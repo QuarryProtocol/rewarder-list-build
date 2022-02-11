@@ -1,0 +1,93 @@
+{
+  "authority": "FXish3WUZYR5cjh1Q3E3tD6QVtKfYEDBEFT1vn9Q9q2x",
+  "info": {
+    "address": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+    "color": "#8d459a",
+    "description": "Pole Finance is a leveraged yield aggregator on Solana.",
+    "id": "pole",
+    "name": "Pole Aggregator",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "quarry-redeemer",
+      "redeemerKey": "8BMiauMWKAHfsmhYYLqLTcUfswryHvzvteBS6A4a3JzD",
+      "redeemerVaultATA": "6kpVKCdVLHGmrBYs5EvitRPqjxZPtkJR2KAUB5nEostb",
+      "underlyingToken": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+    },
+    "website": "https://pole.finance/"
+  },
+  "mintWrapper": "CtqVH46ZzoFU6CeFT9YSPfaZkUANYePaDksaK6Hyr8gi",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "GyuLMtVLtazydxKHKasAd3bouiffMhsTP4Hm8D6jdxk5",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "C9PXceoq8uho2RZDGdtxYmyGYXeJUABaUP4qn37wQCgB"
+      },
+      "quarry": "9V6JzZUEekr28sm8QbMaUQX4StERmV9d59G34foEsKWa",
+      "replicaMint": "5qFRjfqJzX8xfj2o8K2adJz39524K8pbPkrvs4JYqECP",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "C9PXceoq8uho2RZDGdtxYmyGYXeJUABaUP4qn37wQCgB"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "8NuP7iRxqi4RSCFgFJKUQUWZSrtDCDvtjT2WymVVCU2s",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ"
+      },
+      "quarry": "DYKdtzC8GgY977L3C62xizFYuCWy62gDAeKrna9kZBPK",
+      "replicaMint": "6CCb4RZsGDaG9tLDZ37uZ95RBesnbJyqf7b7PZf4JKT8",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ"
+      }
+    },
+    {
+      "isReplica": true,
+      "mergePool": "FcUz1J8vLY9PGRKMeEGZnefc8bYof5zifv86YCPwzj23",
+      "primaryQuarries": [
+        {
+          "quarry": "9uN6j3CL7aYNHbCvSg919NaEXSp6KJcTakZ5fQi9daaU",
+          "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+      },
+      "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+      "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
+      "replicaQuarries": [
+        {
+          "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+          "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+  }
+}

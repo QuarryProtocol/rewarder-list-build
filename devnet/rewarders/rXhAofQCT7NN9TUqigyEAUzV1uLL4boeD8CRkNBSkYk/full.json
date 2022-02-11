@@ -1,0 +1,133 @@
+{
+  "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+  "info": {
+    "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+    "color": "#6966FB",
+    "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+    "id": "saber",
+    "name": "Saber",
+    "networks": [
+      "mainnet-beta",
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "saber",
+      "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+      "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+      "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+    },
+    "website": "https://saber.so"
+  },
+  "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "ACHcNqKkVQ6d48Wedy3DvNdpAmX4tqaPj1vXjbgnWq7Q",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+      },
+      "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X",
+      "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "ACnAHxMYYN5VTtHVaorRhhWrhXUjorCr12vFkhLW6Dkp",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
+      },
+      "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq",
+      "replicaMint": "DAvvWrBic2wtK4UMkNrpdQXWLBCH8dmW3ck4KDGhNTUH",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "B56ZQjHikGLSYpjF5PGrooGnXZoAAKP3gBUKpXcjVoPV",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 8,
+        "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+      },
+      "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi",
+      "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
+      "replicaQuarries": [
+        {
+          "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
+          "rewarder": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
+          "rewardsToken": {
+            "decimals": 8,
+            "mint": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "5RAiwywZ5fre33Vrvr2Crdztfz54viQVi25bPtf88VwB",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo"
+      },
+      "quarry": "5cX41FTaqRwdMBh1eenEKsQ1J1GwxA7sirnKsmP4i5mz",
+      "replicaMint": "GvPG4eKYHRu9f94EqDwPNQPm3MzFW7v9XzM9A6JYmFrp",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "6htfLrG8dBJBZA3cdvgBQnnvnBAcddZb28EQ6XxQ5TBe",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ"
+      },
+      "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm",
+      "replicaMint": "BhBe4xPuVtfcKzkertpcQF6jzdhbYa7tC6gD5fvgPfQ5",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "2nzWVp9LoVKuK7QdB8DAud6ryiGLxtyEjesDApCuWQNj",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
+      },
+      "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE",
+      "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+  "info": {
+    "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
+    "color": "#DC723F",
+    "description": "Solana's cross-chain DeFi yield aggregator.",
+    "hidden": true,
+    "id": "sunny",
+    "name": "Sunny Aggregator",
+    "networks": [
+      "mainnet-beta",
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "sunny",
+      "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
+      "redeemerVaultATA": "9nRrFiRtGNHRyou1mAjpMmtfzExKH8xgfYkmhBS3udPd",
+      "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
+    },
+    "website": "https://sunny.ag"
+  },
+  "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "5KQNVTZtv9C48JbpFXEJpBGysMrzr1MdS8iU8ZAqKTfu",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "7niASAQs1YitnAQrpM8DW7enHiAPWQFdMFkGSm1RBtBD"
+      },
+      "quarry": "5P8b2uMCxsxRAqKCUgqGLBUwiwHgr3vJktjfaxLStfCY",
+      "replicaMint": "3mKLEHZYvCdg3bFC9Cttsd7AUJ2wZkdooZWVzwFLYzxQ",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "7niASAQs1YitnAQrpM8DW7enHiAPWQFdMFkGSm1RBtBD"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "2wZ3UtDzDisPJVTwsoHt7c253MsYqE1vhmjSiE2KaNcE",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "BCEK4pE5Yim9yaSYKKDHW8C717UCSQgfkbyGakJcrnpP"
+      },
+      "quarry": "5tsWQpwu72Cu3bJHhKP1YZJxq36HKY5a1r4Pk7BBQjCG",
+      "replicaMint": "8UziHLCPWKC2Lp7uD3tArgQtBtBgrEjuwwnBZ2sDPLcj",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "BCEK4pE5Yim9yaSYKKDHW8C717UCSQgfkbyGakJcrnpP"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "EmGz2d9Ci4G4NxFBh19He7ULcyevWAqQobWF1CsdbKtp",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 8,
+        "mint": "9yLp3jCZntFySdxWapXLXe5hGt4VNyhe7ChPmY4Pp4Et"
+      },
+      "quarry": "FDzdNBB7vPsAzUK7qTTXAGNwqa8trTwrZswVfXp5138u",
+      "replicaMint": "HQQWVZutqYpUoMv24VPqW3Ajp9mzP5gKfMiaPFscZRFB",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "9yLp3jCZntFySdxWapXLXe5hGt4VNyhe7ChPmY4Pp4Et"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+  }
+}

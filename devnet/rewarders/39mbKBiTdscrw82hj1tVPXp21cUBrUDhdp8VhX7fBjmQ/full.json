@@ -1,0 +1,42 @@
+{
+  "authority": "5DVVLJRvgSvAt6NyCPerSa6FATVSRrQJ7zGCSAEHQ11d",
+  "mintWrapper": "HZq5Wc7Fi21FzNAXJ34EhDZc8tkrZDnPBDrpy5Gcrjed",
+  "quarries": [
+    {
+      "isReplica": false,
+      "mergePool": "CBTMmWN4p5PJzFmoYFW7yGBz1xDb5tgWhnanyftJ7kEK",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "CHAsN2aww3py6mLKNqCyGK7rtbQcASjcMft1PXKnA9fe"
+      },
+      "quarry": "BS88qQ4YZ3wLWLZXN8DXT2Eq31q99rPr4MDHs7Xfp1Pj",
+      "replicaMint": "7Ev65LtaW2nXrewrJLn7RrpRkThiEcmrycRpsf1nSpSV",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "CHAsN2aww3py6mLKNqCyGK7rtbQcASjcMft1PXKnA9fe"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "F7ZeBV9hbqEfMg8M68ZSQk6fox3aW6qZ1eCKYswp8irU",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "SMiFn2yrgzvfLZ1NfHr2TSanRsW6DHnsxXheEfMoN4j"
+      },
+      "quarry": "22en9xwLygadm7mg3m9zZUr9WSAZVgS48VG9VdTtjNgM",
+      "replicaMint": "fcrth51bNWBXJtnwFrQZNyKA6hLb7yjGqrtFBJdBoin",
+      "replicaQuarries": [],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "SMiFn2yrgzvfLZ1NfHr2TSanRsW6DHnsxXheEfMoN4j"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "9SsAXyu3RTRFDMVPtrCeUT2tx5FrkbQ2gH7C7XydRtbf"
+  }
+}

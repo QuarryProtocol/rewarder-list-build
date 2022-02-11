@@ -1,0 +1,112 @@
+{
+  "authority": "6kRPKz9dietfo81JuNTBGqH1t9oT7tueftUNtcTepCzE",
+  "info": {
+    "address": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+    "color": "#00ffff",
+    "description": "Larry is giving out more fake and useless tokens on devnet.",
+    "id": "larry-test-other",
+    "name": "Larry's Other Testing Rewarder",
+    "networks": [
+      "devnet"
+    ],
+    "website": "https://quarry.so"
+  },
+  "mintWrapper": "5Pvdq738YHSRJXrwixS7BWw7GRoZ6UBEQWmUVU9oczCq",
+  "quarries": [
+    {
+      "isReplica": true,
+      "mergePool": "DxeP8fHu2jKxAevUNKdCKmHrCFcymLAWNPgNaambJdRX",
+      "primaryQuarries": [
+        {
+          "quarry": "5fW6pGKwoMRLk7AMcMDtWL9PXk4JYT2LWq9FMDUkB7qx",
+          "rewarder": "29r5L2uGgsJmM4aJryWXNJ1ooAm4acHgMh6LGeL3KQst",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "5xM8Ngg1GLaSx8X7uKUPURVU2pSQMoi5rhKcarv3iXWH"
+          }
+        },
+        {
+          "quarry": "7hiC9Q3MgNiyXEBBQwNhnftCL8rGY7jjHZrWijYn3AET",
+          "rewarder": "54azuTM8zVMkDm9eY6UriWSoPrBhtybXb64EY2dvVykA",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "4foEYhrGbBVh4jQZgdJNSAvL4k8AtrXxc1UibKcsdZFZ"
+          }
+        },
+        {
+          "quarry": "C5uHB9V7h6uxfCNo37Hj5KU98UVteMuF5NRg8Mhh4EGk",
+          "rewarder": "AaQnmceRh5phVdqYsH8QnoYeYPMvGm2PtYJoe2T3w5oE",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX"
+          }
+        },
+        {
+          "quarry": "8XDGCqMCwCDxXCjTFG1yHYNFTbb3oUeyd8hZBbP71XUc",
+          "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+          }
+        },
+        {
+          "quarry": "CdtymnxMgM9EVu6r1NovEcpHgFwEMWfyyfYMj2nzu2T2",
+          "rewarder": "J9cK2anexHbkfBZaL71ZHkZ8zinzy1CqLVww8kKgBghT",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "FyZ6iCf893zc9EU4ppmYvN9s2BXNXoA7ejR53USkjYhD"
+          }
+        }
+      ],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+      },
+      "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+      "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
+      "replicaQuarries": [
+        {
+          "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+          "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS"
+      }
+    },
+    {
+      "isReplica": false,
+      "mergePool": "DwxVSABvzbAHdDumutgQBaV1Md6eJ99te6vL6fo82u6D",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+      },
+      "quarry": "8XDGCqMCwCDxXCjTFG1yHYNFTbb3oUeyd8hZBbP71XUc",
+      "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
+      "replicaQuarries": [
+        {
+          "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+          "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+          }
+        }
+      ],
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+  }
+}
