@@ -2536,6 +2536,49 @@
       "mint": "3PVDdNdX7MjMEGWTDWKRkaS5CNzvDPo1rgoNdNAV2TBP"
     }
   },
+  "2ZP24TRHo5fJMdLuiTSzzpPfFcjkCtML4wxeRNWgwprP": {
+    "authority": "8UaZw2jDhJzv5V53569JbCd3bD4BnyCfBH3sjwgajGS9",
+    "info": {
+      "address": "2ZP24TRHo5fJMdLuiTSzzpPfFcjkCtML4wxeRNWgwprP",
+      "color": "#ff0000",
+      "description": "Sentre dummy des",
+      "id": "sentre",
+      "name": "Sentre Protocol",
+      "networks": [
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "FvNtZdWva5uDG3FgtCc6bKzBHrQQeTkUzgAQAQpbYX5F",
+        "redeemerVaultATA": "8QyMH2oPYrodVaFBjp1eH3jszZ8jwD2mdJH7t7ENPZUi",
+        "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+      },
+      "website": "https://sentre.io"
+    },
+    "mintWrapper": "7ZHHMsxBhL4cRpJ7pUzQAzwBmCwkPRWGobiR5by3DZrz",
+    "quarries": [
+      {
+        "isReplica": false,
+        "mergePool": "2zLzfCALztZH2y3xCeMp2qwNr5VnZD92r7U9PdCffvS9",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 9,
+          "mint": "27hdcZv7RtuMp75vupThR3T4KLsL61t476eosMdoec4c"
+        },
+        "quarry": "HNkjQNJ98LRXfyaHGDScVyoNPgbwMnr6TxKJL1FQLDfi",
+        "replicaMint": "F9p9inKRtENUFw7XCE2Cj7wKaZgtWQdfkQqwitZS8gmC",
+        "replicaQuarries": [],
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "27hdcZv7RtuMp75vupThR3T4KLsL61t476eosMdoec4c"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7"
+    }
+  },
   "2aFGHjgaYhEuNsxicsiNYMJdJLakwmSeQJBuKhr7wU58": {
     "authority": "JDWogLJdGYfMY4gJcHDLGs2mXBTEpgeVrKAdXdYwFuE9",
     "mintWrapper": "Abq45xraR1JxEEerLkuQKSkrvmjwXZAGJ1VzHvBJjSjD",
@@ -3659,7 +3702,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "99PN7GmkGYtmmpSAvRXCbBkTqdaSzYBQpDWcTZuEPMKc"
     }
   },
@@ -4466,7 +4509,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "7Ztsx1PnMJEUMS2fPGM18jUJKpSs57abChR6M6HomLqt"
     }
   },
@@ -10180,7 +10223,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "HUFLRUCpvyjjmrAW9kMfsZh1DyARKit7v1SDHjmNuskV"
     }
   },
@@ -15899,7 +15942,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "BPmvwdGDR3n7MAz83Lrdktv46qRsgxyEJe42VbXR9D4w"
     }
   },
@@ -16271,7 +16314,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "FLPy8xNdrNojBfgjgEqEyp7YGs3WHLGa9bKJTKXPazaD"
     }
   },
@@ -22268,7 +22311,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "DsJFPmoi5o41kW83G3ocxqSJiLAUHnUfA2doCo8VrML3"
     }
   },
@@ -26399,7 +26442,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "GMJpA4y2E3uMScD6zJdnDRvNzt7W2Ziih4kdLzToSkGs"
     }
   },
@@ -31028,7 +31071,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "GxzbsTzoAEW72tBswxnmqt4hoGFKkCs1WRhLK8jiRgjR"
     }
   },
@@ -37207,7 +37250,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "gySJGPMoNUzsjHNXrcRMrsrVZ8xoPXaqHNZ8J8B95FC"
     }
   },
@@ -38006,7 +38049,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8ik6YhE2Sr4kxxh6gh5d8My2BZqMcwukgybLbetw7Pyy"
     }
   },
@@ -43968,7 +44011,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "7cVpMpB5bYW4A6VNbdRTo1cQkbH7tSbyUZqJoWtWN4kZ"
     }
   },
@@ -46554,7 +46597,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "9szP5BoEAZn2795y6vjyZH9TJfe6uRDtsBYSMi8jj1SH"
     }
   },
@@ -46638,7 +46681,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "6nhUPE9juWpugLC7Zw8mhP2mvGnFuKKcHzhpKLThsFH2"
     }
   },
@@ -53361,7 +53404,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "DrQMc1M9VLQKYLvNjfj6bjsZtWMTM9aCKE3sT6b47rpY"
     }
   },
@@ -53564,7 +53607,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "CDbLBbG1mwuTRtp69osrCAnsDcofsHM6ZNoKHwpB7BbX"
     }
   },
@@ -53700,7 +53743,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "yR61zPVZu3bkEYB2PS4BameRiFTti8ZzHwUTXZC1rVQ"
     }
   },
@@ -61888,7 +61931,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "Djz2hYBsvhdNvKmBA2KVgMCRRAr3nB7j7bXZZ8qaa2Ki"
     }
   },
@@ -62519,7 +62562,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8qLZXKatuUdkmtwsKsGmUVoNTekf8XbwnUp1TFBJYSnm"
     }
   },
@@ -67140,7 +67183,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "DqKBhA1bbaioBsDqKvgEUmiwJpWQwK7ZdzWZ3TuCbesM"
     }
   },
