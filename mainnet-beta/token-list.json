@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-14T00:48:28.164Z",
+  "timestamp": "2022-02-15T00:57:46.734Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -1138,7 +1138,7 @@
       "extensions": {
         "currency": "SOL",
         "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
-        "source": "Lido",
+        "source": "lido",
         "sourceUrl": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance",
         "website": "https://solana.lido.fi/"
@@ -2042,7 +2042,7 @@
         "currency": "TRY",
         "github": "https://github.com/bilira-org",
         "instagram": "https://instagram.com/bilira_official",
-        "source": "BiLira",
+        "source": "biLira",
         "sourceUrl": "https://www.bilira.co/",
         "telegram": "https://t.me/BiLira_Official",
         "website": "http://bilira.co"
@@ -2930,7 +2930,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "website": "https://parrot.fi"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
       "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
       "tags": [
@@ -2970,6 +2970,13 @@
       "tags": [
         "saber-mkt-eth"
       ]
+    },
+    {
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+      "chainId": 104,
+      "decimals": 9,
+      "name": "Token BMzy",
+      "symbol": "BMzyr"
     },
     {
       "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
@@ -3312,7 +3319,7 @@
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "Cashio",
+        "source": "cashio",
         "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": [
@@ -3338,7 +3345,7 @@
         "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
-        "source": "Cashio",
+        "source": "cashio",
         "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "underlyingTokens": [
@@ -5435,7 +5442,7 @@
       "extensions": {
         "currency": "SOL",
         "medium": "https://medium.com/everstake",
-        "source": "Everstake",
+        "source": "everstake",
         "sourceUrl": "https://eversol.one/app",
         "twitter": "https://twitter.com/everstake_pool",
         "website": "https://everstake.one"
@@ -5883,7 +5890,7 @@
         "coingeckoId": "terrausd",
         "currency": "USD",
         "medium": "https://medium.com/solunadao",
-        "source": "Soluna",
+        "source": "soluna",
         "sourceUrl": "https://soluna.money/#/deposit",
         "twitter": "https://twitter.com/solunaDAO",
         "website": "https://soluna.money"
@@ -6828,7 +6835,7 @@
       "extensions": {
         "currency": "USD",
         "discord": "https://discord.gg/d44A8WvK",
-        "source": "Hubble",
+        "source": "hubble",
         "sourceUrl": "https://app.hubbleprotocol.io/",
         "twitter": "https://twitter.com/hubbleprotocol",
         "website": "https://hubbleprotocol.io/"
