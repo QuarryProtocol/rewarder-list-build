@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-16T00:53:26.919Z",
+  "timestamp": "2022-02-17T00:46:57.810Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -2691,6 +2691,13 @@
       ]
     },
     {
+      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
+      "chainId": 104,
+      "decimals": 9,
+      "name": "Token Aqwe",
+      "symbol": "Aqwef"
+    },
+    {
       "address": "AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD",
       "chainId": 101,
       "decimals": 8,
@@ -5253,6 +5260,24 @@
       "tags": [
         "stake-pool-token",
         "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "description": "The Jungle Finance governance token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "name": "Jungle DeFi",
+      "symbol": "JFI",
+      "tags": [
+        "governance-token"
       ]
     },
     {
