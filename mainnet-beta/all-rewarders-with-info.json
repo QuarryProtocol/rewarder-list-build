@@ -2138,6 +2138,23 @@
   },
   "9JrJzACR6MbqXdBPKD5YPUEVbxaC3KeHZEymafkw5VYw": {
     "authority": "8W6QginLcAydYyMYjxuyKQN56NzeakDE3aRFrAmocS6D",
+    "info": {
+      "address": "9JrJzACR6MbqXdBPKD5YPUEVbxaC3KeHZEymafkw5VYw",
+      "color": "#f9575e",
+      "description": "All-in-One Solana Open Platform with DApps Store and Universal Protocol for Liquidity.",
+      "id": "sentre",
+      "name": "Sentre Protocol",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "DvqLabCPfxqdu4DSHS1E7hkXiSPKc1UWPz9bADsQfJ2W",
+        "redeemerVaultATA": "HwqREs4WH5Vgv4UHakA9ukKC53nLE97BwF3MJwa7WcNe",
+        "underlyingToken": "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+      },
+      "website": "https://sentre.io"
+    },
     "mintWrapper": "GGdEkKHeBXyasQcgB1gxCqrTkDUXsnLAUGJspsdhkmsn",
     "quarries": [],
     "rewardsToken": {
@@ -2891,7 +2908,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4"
     }
   },
