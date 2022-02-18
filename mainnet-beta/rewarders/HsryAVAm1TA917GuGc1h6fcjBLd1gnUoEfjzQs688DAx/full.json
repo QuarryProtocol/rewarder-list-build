@@ -1,5 +1,22 @@
 {
   "authority": "F8dEYehnrP6V88YSTLtAQfQ2BbMjdBRAHqodfcpPqePn",
+  "info": {
+    "address": "HsryAVAm1TA917GuGc1h6fcjBLd1gnUoEfjzQs688DAx",
+    "color": "#00ff0a",
+    "description": "Jungle Finance Governance Token",
+    "id": "Jungle",
+    "name": "Jungle Finance",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "quarry-redeemer",
+      "redeemerKey": "27zGCKRwhkjVJvCZJUYuu8eUfu7tFgW5W6hfumR8xr26",
+      "redeemerVaultATA": "54LgmJdEfH2KKeQStRQnM5fCdzYcZGkpxvd18KUejWQw",
+      "underlyingToken": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+    },
+    "website": "https://jungledefi.io"
+  },
   "mintWrapper": "EZARnar6qGf5qCwkp3pvYV3B6hszPhFNSGyiLzR3uPXb",
   "quarries": [
     {
