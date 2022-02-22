@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-21T00:51:45.726Z",
+  "timestamp": "2022-02-22T00:52:51.274Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -6954,6 +6954,36 @@
       "decimals": 6,
       "name": "Token SUNN",
       "symbol": "SUNNY"
+    },
+    {
+      "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "sunny",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ],
+        "website": "https://sunny.ag"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/sunsbr.svg",
+      "name": "sunSBR",
+      "symbol": "sunSBR"
+    },
+    {
+      "address": "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "sunny",
+        "underlyingTokens": [
+          "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2"
+        ],
+        "website": "https://sunny.ag"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/yisunsbr.svg",
+      "name": "yiSunSBR",
+      "symbol": "yiSunSBR"
     },
     {
       "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
