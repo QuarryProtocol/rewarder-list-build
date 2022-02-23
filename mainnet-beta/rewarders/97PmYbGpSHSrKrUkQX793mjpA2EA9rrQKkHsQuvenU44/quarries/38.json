@@ -11,12 +11,12 @@
     },
     "index": 38,
     "quarry": "9kGKaEV3A7PMjZyZRmzt6agJ41k3SM6rxUYXgknSGNTZ",
+    "slug": "sun-aawbtc-renbtc",
     "stakedToken": {
       "decimals": 9,
       "mint": "6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y"
     }
   },
-  "slug": "sun-aawbtc-renbtc",
   "stakedToken": {
     "address": "6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y",
     "chainId": 101,
@@ -38,6 +38,23 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
+        "currency": "BTC",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
+      "name": "Wrapped BTC (Allbridge from Avalanche)",
+      "symbol": "aaWBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
     {
       "address": "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5",
       "chainId": 101,
@@ -76,23 +93,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
       "name": "renBTC",
       "symbol": "renBTC",
-      "tags": [
-        "saber-mkt-btc"
-      ]
-    },
-    {
-      "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "wrapped-bitcoin",
-        "currency": "BTC",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
-      "name": "Wrapped BTC (Allbridge from Avalanche)",
-      "symbol": "aaWBTC",
       "tags": [
         "saber-mkt-btc"
       ]

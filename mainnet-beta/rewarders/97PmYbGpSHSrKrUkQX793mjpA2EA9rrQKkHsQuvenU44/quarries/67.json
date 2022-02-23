@@ -11,12 +11,12 @@
     },
     "index": 67,
     "quarry": "3hJrSEXHLzcFtp8K9Z5Ux9SshHki2wmQ9BTKtrxtYcss",
+    "slug": "sun-jsol-sol",
     "stakedToken": {
       "decimals": 9,
       "mint": "8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs"
     }
   },
-  "slug": "sun-jsol-sol",
   "stakedToken": {
     "address": "8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs",
     "chainId": 101,
@@ -38,24 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "So11111111111111111111111111111111111111112",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-        "website": "https://solana.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-      "name": "Wrapped SOL",
-      "symbol": "SOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "chainId": 101,
       "decimals": 9,
@@ -74,6 +56,24 @@
       "tags": [
         "stake-pool-token",
         "utility-token",
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "website": "https://solana.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "tags": [
         "saber-mkt-sol"
       ]
     }

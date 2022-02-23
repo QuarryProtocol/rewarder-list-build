@@ -11,12 +11,12 @@
     },
     "index": 28,
     "quarry": "yPKVUwQxzuJ57uxW9rAJF6D1xEEButVjvRBsuN7E77P",
+    "slug": "usdtet-usdt",
     "stakedToken": {
       "decimals": 6,
       "mint": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue"
     }
   },
-  "slug": "usdtet-usdt",
   "stakedToken": {
     "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
     "chainId": 101,
@@ -39,6 +39,24 @@
   },
   "underlyingTokens": [
     {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://tether.to/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+      "name": "USDT",
+      "symbol": "USDT",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
       "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
       "chainId": 101,
       "decimals": 6,
@@ -58,24 +76,6 @@
         "wrapped",
         "saber-mkt-usd",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://tether.to/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-      "name": "USDT",
-      "symbol": "USDT",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
       ]
     }
   ]

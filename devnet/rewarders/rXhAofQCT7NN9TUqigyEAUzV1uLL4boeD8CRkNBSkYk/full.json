@@ -32,6 +32,7 @@
       "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X",
       "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
       "replicaQuarries": [],
+      "slug": "usdc-usdt",
       "stakedToken": {
         "decimals": 6,
         "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
@@ -49,6 +50,7 @@
       "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq",
       "replicaMint": "DAvvWrBic2wtK4UMkNrpdQXWLBCH8dmW3ck4KDGhNTUH",
       "replicaQuarries": [],
+      "slug": "usdc-pai",
       "stakedToken": {
         "decimals": 6,
         "mint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
@@ -75,6 +77,7 @@
           }
         }
       ],
+      "slug": "renbtc-wbtc",
       "stakedToken": {
         "decimals": 8,
         "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
@@ -92,6 +95,7 @@
       "quarry": "5cX41FTaqRwdMBh1eenEKsQ1J1GwxA7sirnKsmP4i5mz",
       "replicaMint": "GvPG4eKYHRu9f94EqDwPNQPm3MzFW7v9XzM9A6JYmFrp",
       "replicaQuarries": [],
+      "slug": "test-usdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo"
@@ -109,6 +113,7 @@
       "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm",
       "replicaMint": "BhBe4xPuVtfcKzkertpcQF6jzdhbYa7tC6gD5fvgPfQ5",
       "replicaQuarries": [],
+      "slug": "usdc-cash",
       "stakedToken": {
         "decimals": 6,
         "mint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ"
@@ -126,6 +131,7 @@
       "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE",
       "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",
       "replicaQuarries": [],
+      "slug": "usdt-cash",
       "stakedToken": {
         "decimals": 6,
         "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
@@ -135,5 +141,6 @@
   "rewardsToken": {
     "decimals": 6,
     "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-  }
+  },
+  "slug": "saber"
 }

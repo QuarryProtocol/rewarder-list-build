@@ -11,12 +11,12 @@
     },
     "index": 48,
     "quarry": "EuLpc9s1caxWetHBLRxnetQUKkAygngRb1PgYA8qwK1S",
+    "slug": "sun-xftt-ftt",
     "stakedToken": {
       "decimals": 8,
       "mint": "F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o"
     }
   },
-  "slug": "sun-xftt-ftt",
   "stakedToken": {
     "address": "F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o",
     "chainId": 101,
@@ -38,6 +38,25 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "ftx-token",
+        "currency": "FTT",
+        "source": "synthetify",
+        "sourceUrl": "https://app.synthetify.io/staking",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
+      "name": "Synthetic FTT",
+      "symbol": "xFTT",
+      "tags": [
+        "saber-mkt-ftt"
+      ]
+    },
     {
       "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "chainId": 101,
@@ -61,25 +80,6 @@
         "wormhole",
         "saber-mkt-ftt",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "ftx-token",
-        "currency": "FTT",
-        "source": "synthetify",
-        "sourceUrl": "https://app.synthetify.io/staking",
-        "twitter": "https://twitter.com/synthetify",
-        "website": "https://synthetify.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
-      "name": "Synthetic FTT",
-      "symbol": "xFTT",
-      "tags": [
-        "saber-mkt-ftt"
       ]
     }
   ]

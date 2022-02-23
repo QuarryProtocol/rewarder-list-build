@@ -40,6 +40,7 @@
           }
         }
       ],
+      "slug": "pusdt-pusdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en"
@@ -83,6 +84,7 @@
           }
         }
       ],
+      "slug": "qrpusdt-pusdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "E7AdPpqpyUsy5dzpDcu6g37Vi8phfNkcCoS2EzTP7w6j"
@@ -118,6 +120,7 @@
           }
         }
       ],
+      "slug": "qrport-cash",
       "stakedToken": {
         "decimals": 2,
         "mint": "9rHYVdW9Q3fa9Hh9R8pEPnNc4BAoBzpdor4kKXksVscn"
@@ -135,6 +138,7 @@
       "quarry": "Z5toEBpMA1B9TWZNBHGUxj7uUECxuTmBtUNvMGK6RWe",
       "replicaMint": "6CCb4RZsGDaG9tLDZ37uZ95RBesnbJyqf7b7PZf4JKT8",
       "replicaQuarries": [],
+      "slug": "pusdt",
       "stakedToken": {
         "decimals": 6,
         "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ"
@@ -152,6 +156,7 @@
       "quarry": "CNNo2mNmWrpvxkF5oijyPV9JCpKNvLvHUkFiRVQX36Wg",
       "replicaMint": "EahnLT6b7SuLDBRPoByr9twrCYGqJph6pkJ1PeL4Seu4",
       "replicaQuarries": [],
+      "slug": "pusdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
@@ -169,6 +174,7 @@
       "quarry": "DVtMXeWuKjpHWnw7UKdFG3GBbTuny5NxsRbNv6JiQKSY",
       "replicaMint": "28uitFXiLT9awyD2Q57oxWfJw1zQnygzQJ3Lo5pGGvFY",
       "replicaQuarries": [],
+      "slug": "pbtc",
       "stakedToken": {
         "decimals": 6,
         "mint": "QN2HkkBaWHfYSU5bybyups9z1UHu8Eu7QeeyMbjD2JA"
@@ -186,6 +192,7 @@
       "quarry": "CmBMuQj1xL5k4wmR3ERP1xVi3jt4N6RRCps7MMZdQr8a",
       "replicaMint": "RXZM55FUxETVibcZNpyWosCa4Nu8Kfi1Jk1gJbBtntp",
       "replicaQuarries": [],
+      "slug": "psbr",
       "stakedToken": {
         "decimals": 6,
         "mint": "FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv"
@@ -203,6 +210,7 @@
       "quarry": "9YG1QxuUxjuQqHeQksRSKchzoAD6nZdUQdSknv5xoYXf",
       "replicaMint": "DDaE8NmKRmaycN5rr3ovJocyL47dVJJ4APA3UyWJPcCo",
       "replicaQuarries": [],
+      "slug": "psrm",
       "stakedToken": {
         "decimals": 6,
         "mint": "77TBgKmTNtMdGrt1ewNRb56F2Xw6fNLZZj33JZ3oGwXh"
@@ -220,6 +228,7 @@
       "quarry": "9ybGfU24cBgM5bvsPvjFUe2C4DhS6evjYrKc6KcquE9Y",
       "replicaMint": "Bxrkh2y162u4hHqebngtonxfA2tbJpoS5jTxjEokWa4J",
       "replicaQuarries": [],
+      "slug": "pmer",
       "stakedToken": {
         "decimals": 6,
         "mint": "6UgGnLA3Lfe8NBLAESctsUXWdP3zjMFzSLEZxS3tiaKh"
@@ -237,6 +246,7 @@
       "quarry": "HTrfmiS4Xeb1XuvM6PD5QDU6JX9zGAszQCmpR8i5QLJT",
       "replicaMint": "CFu94jgKfC4JmKzZEyXLBhpf75g49Apu68g4tf5sGv68",
       "replicaQuarries": [],
+      "slug": "psol",
       "stakedToken": {
         "decimals": 9,
         "mint": "8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg"
@@ -254,6 +264,7 @@
       "quarry": "EuaCwHPRj38f9kkwiM8AVFShDQX9rjcwbP2cRdB2nTAK",
       "replicaMint": "6jnB8pX1hGLwA29sdNB4MmrKJgYorUzdDpSPDYtaLbza",
       "replicaQuarries": [],
+      "slug": "pmsol",
       "stakedToken": {
         "decimals": 9,
         "mint": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA"
@@ -263,5 +274,6 @@
   "rewardsToken": {
     "decimals": 6,
     "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
-  }
+  },
+  "slug": "port"
 }

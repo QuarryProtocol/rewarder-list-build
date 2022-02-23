@@ -3,20 +3,20 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 46,
-      "lastUpdateTs": "1645576865",
-      "numMiners": "528",
-      "rewardsPerTokenStored": "5344343795230301465",
+      "lastUpdateTs": "1645578706",
+      "numMiners": "529",
+      "rewardsPerTokenStored": "5346065500144271770",
       "rewardsShare": "29602134952657",
-      "totalTokensDeposited": "38549047933930"
+      "totalTokensDeposited": "38696624831797"
     },
     "index": 46,
     "quarry": "8hMGkpj9EuTNnMsqrcZ9a9LXh4UCgRS2DaGFJzK5KyaM",
+    "slug": "sun-asol-sol",
     "stakedToken": {
       "decimals": 9,
       "mint": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq"
     }
   },
-  "slug": "sun-asol-sol",
   "stakedToken": {
     "address": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq",
     "chainId": 101,
@@ -38,24 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "So11111111111111111111111111111111111111112",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-        "website": "https://solana.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-      "name": "Wrapped SOL",
-      "symbol": "SOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "chainId": 101,
       "decimals": 9,
@@ -72,6 +54,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
       "name": "aSOL Aggregate Solana Stake Pool",
       "symbol": "aSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "website": "https://solana.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
       "tags": [
         "saber-mkt-sol"
       ]

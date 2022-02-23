@@ -11,12 +11,12 @@
     },
     "index": 22,
     "quarry": "4WQa1nxLe8durEUiykuTVm6J69t72a45P55uq3F4HTMY",
+    "slug": "sun-whusdv1-usdc",
     "stakedToken": {
       "decimals": 8,
       "mint": "DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k"
     }
   },
-  "slug": "sun-whusdv1-usdc",
   "stakedToken": {
     "address": "DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k",
     "chainId": 101,
@@ -38,6 +38,30 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "coingeckoId": "husd",
+        "currency": "USD",
+        "source": "wormhole-v1",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move",
+        "website": "https://www.stcoins.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+      "name": "HUSD Stablecoin (Wormhole v1)",
+      "symbol": "wHUSD_v1",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-usd",
+        "wormhole-v1"
+      ]
+    },
     {
       "address": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
       "chainId": 101,
@@ -76,30 +100,6 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-        "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "coingeckoId": "husd",
-        "currency": "USD",
-        "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move",
-        "website": "https://www.stcoins.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
-      "name": "HUSD Stablecoin (Wormhole v1)",
-      "symbol": "wHUSD_v1",
-      "tags": [
-        "wrapped",
-        "wormhole",
-        "saber-mkt-usd",
-        "wormhole-v1"
       ]
     }
   ]
