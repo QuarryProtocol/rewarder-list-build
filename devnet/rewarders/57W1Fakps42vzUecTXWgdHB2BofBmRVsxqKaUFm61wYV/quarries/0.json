@@ -1,17 +1,22 @@
 {
-  "cached": {
-    "famineTs": "9223372036854775807",
+  "quarry": {
+    "cached": {
+      "famineTs": "9223372036854775807",
+      "index": 0,
+      "lastUpdateTs": "0",
+      "numMiners": "1",
+      "rewardsPerTokenStored": "0",
+      "rewardsShare": "0",
+      "totalTokensDeposited": "0"
+    },
     "index": 0,
-    "lastUpdateTs": "0",
-    "numMiners": "1",
-    "rewardsPerTokenStored": "0",
-    "rewardsShare": "0",
-    "totalTokensDeposited": "0"
+    "quarry": "9TxUauibmss39nEaz7m8t9a99rN8S4v4d5NiRj1HhygK",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "6DK37sDQ5p2ZJqNH5CUmZG4aMhBhv4m8LysEz5Kyjt7H"
+    }
   },
-  "index": 0,
-  "quarry": "9TxUauibmss39nEaz7m8t9a99rN8S4v4d5NiRj1HhygK",
-  "stakedToken": {
-    "decimals": 6,
-    "mint": "6DK37sDQ5p2ZJqNH5CUmZG4aMhBhv4m8LysEz5Kyjt7H"
-  }
+  "slug": "0",
+  "stakedToken": null,
+  "underlyingTokens": []
 }
