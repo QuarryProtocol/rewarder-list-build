@@ -3,6 +3,7 @@
   "mintWrapper": "BkHVzgUyXW8z81sXx8nT6vf9x14Mw7u4t77Zs9ZJCKXB",
   "quarries": [
     {
+      "index": 0,
       "isReplica": false,
       "mergePool": "CvwyZMdeDUprGPaT2jdSaoq5kEua2hYNxFUTbxFWD1zN",
       "primaryQuarries": [],
@@ -19,6 +20,7 @@
       }
     },
     {
+      "index": 1,
       "isReplica": false,
       "mergePool": "DYP9thdSGb5c4zzgqFzNA9L8iLUu6J8STywbJKX4vdbf",
       "primaryQuarries": [],
@@ -36,7 +38,7 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AAhLd4J2kpPQNC5B3K6LWJzG2q3ReAx9wjxoNw3iZEuY"
   }
 }

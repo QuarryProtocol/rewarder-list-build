@@ -3,6 +3,16 @@
   "mintWrapper": "BMLCtNVkVUuqB4EGmzCGGz73KcnUmduxzi7at9HNZmfA",
   "quarries": [
     {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1645414566",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "1117194228907"
+      },
+      "index": 0,
       "quarry": "4msMtiAGc4zmjFwZBzv6aEQsQu3JV3aUX4BWKRzR3uZ2",
       "stakedToken": {
         "decimals": 6,
@@ -10,6 +20,16 @@
       }
     },
     {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "1645414593",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "751297881421"
+      },
+      "index": 1,
       "quarry": "5h8zmpGpbB4yousjEuTV72kmh7NQm2g8dS1zupgkXQMj",
       "stakedToken": {
         "decimals": 6,
@@ -18,7 +38,7 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HCjdYGVgZhmDmt9uy2Ez6sn66wD7YQCWKh6WY5QYD68N"
   }
 }
