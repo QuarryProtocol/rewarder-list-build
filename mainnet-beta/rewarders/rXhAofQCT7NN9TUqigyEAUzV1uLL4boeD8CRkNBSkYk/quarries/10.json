@@ -3,7 +3,7 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 10,
-      "lastUpdateTs": "1645677844",
+      "lastUpdateTs": "1645680134",
       "numMiners": "2379",
       "rewardsPerTokenStored": "564374242656909163",
       "rewardsShare": "0",
@@ -38,28 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "discord": "https://discord.gg/gopartyparrot",
-        "medium": "https://gopartyparrot.medium.com/",
-        "source": "parrot",
-        "sourceUrl": "https://parrot.fi/mint/",
-        "telegram": "https://t.me/gopartyparrot",
-        "twitter": "https://twitter.com/gopartyparrot",
-        "website": "https://parrot.fi"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
-      "name": "prtSOL (Parrot Staked SOL)",
-      "symbol": "prtSOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
       "chainId": 101,
       "decimals": 9,
@@ -78,6 +56,28 @@
       "symbol": "pSOL",
       "tags": [
         "stablecoin",
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "discord": "https://discord.gg/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
+        "source": "parrot",
+        "sourceUrl": "https://parrot.fi/mint/",
+        "telegram": "https://t.me/gopartyparrot",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "website": "https://parrot.fi"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
+      "name": "prtSOL (Parrot Staked SOL)",
+      "symbol": "prtSOL",
+      "tags": [
         "saber-mkt-sol"
       ]
     }

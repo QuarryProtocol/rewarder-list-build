@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 39,
-      "lastUpdateTs": "1645662291",
+      "lastUpdateTs": "1645682764",
       "numMiners": "593",
-      "rewardsPerTokenStored": "323438396995594633",
+      "rewardsPerTokenStored": "323446520856379291",
       "rewardsShare": "669067779556",
-      "totalTokensDeposited": "618925452222897"
+      "totalTokensDeposited": "618577958438507"
     },
     "index": 39,
     "quarry": "A8NH6Fk92PLzQAGwwAY3b2e9Zuryiisvu8WUceu95QK6",
@@ -38,6 +38,24 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
+      "name": "Wrapped USDC (Allbridge from Avalanche)",
+      "symbol": "aaUSDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
@@ -73,24 +91,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
-      "name": "Wrapped USDC (Allbridge from Avalanche)",
-      "symbol": "aaUSDC",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
