@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 62,
-      "lastUpdateTs": "1645703688",
+      "lastUpdateTs": "1645726140",
       "numMiners": "134",
-      "rewardsPerTokenStored": "44752187539174437",
+      "rewardsPerTokenStored": "45205426941907808",
       "rewardsShare": "1926299611309",
-      "totalTokensDeposited": "116210873293187"
+      "totalTokensDeposited": "111210873293187"
     },
     "index": 62,
     "quarry": "3WmX4cKnkMQ4F5HyWgEYjtidNJGpeBDBAq8EHqe2AqD3",
@@ -68,6 +68,23 @@
       ]
     },
     {
+      "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "magic-internet-money",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
+      "name": "Wrapped MIM (Allbridge from Ethereum)",
+      "symbol": "aeMIM",
+      "tags": [
+        "saber-mkt-usd"
+      ]
+    },
+    {
       "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "chainId": 101,
       "decimals": 6,
@@ -89,23 +106,6 @@
         "stablecoin",
         "saber-mkt-usd",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "magic-internet-money",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
-      "name": "Wrapped MIM (Allbridge from Ethereum)",
-      "symbol": "aeMIM",
-      "tags": [
-        "saber-mkt-usd"
       ]
     }
   ]

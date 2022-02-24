@@ -39,6 +39,29 @@
   },
   "underlyingTokens": [
     {
+      "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "coingeckoId": "frax",
+        "currency": "USD",
+        "source": "wormhole-v1",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+      "name": "Frax (Wormhole v1)",
+      "symbol": "wFRAX_v1",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-usd",
+        "wormhole-v1"
+      ]
+    },
+    {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
       "decimals": 9,
@@ -76,29 +99,6 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-        "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
-        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "coingeckoId": "frax",
-        "currency": "USD",
-        "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
-      "name": "Frax (Wormhole v1)",
-      "symbol": "wFRAX_v1",
-      "tags": [
-        "wrapped",
-        "wormhole",
-        "saber-mkt-usd",
-        "wormhole-v1"
       ]
     }
   ]
