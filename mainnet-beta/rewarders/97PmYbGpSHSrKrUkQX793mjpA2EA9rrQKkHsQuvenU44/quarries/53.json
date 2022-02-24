@@ -39,6 +39,29 @@
   },
   "underlyingTokens": [
     {
+      "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
+        "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
+      "name": "Tether USD (Wormhole from BSC)",
+      "symbol": "USDTbs",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-usd",
+        "wormhole-v2"
+      ]
+    },
+    {
       "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
       "chainId": 101,
       "decimals": 8,
@@ -76,29 +99,6 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "address": "0x55d398326f99059ff775485246999027b3197955",
-        "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
-        "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
-      "name": "Tether USD (Wormhole from BSC)",
-      "symbol": "USDTbs",
-      "tags": [
-        "wrapped",
-        "wormhole",
-        "saber-mkt-usd",
-        "wormhole-v2"
       ]
     }
   ]
