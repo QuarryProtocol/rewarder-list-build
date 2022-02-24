@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 74,
-      "lastUpdateTs": "1645666010",
+      "lastUpdateTs": "1645690488",
       "numMiners": "188",
-      "rewardsPerTokenStored": "1807169465018665592",
+      "rewardsPerTokenStored": "1807169474385630109",
       "rewardsShare": "213329369",
       "totalTokensDeposited": "204630941705924"
     },
@@ -38,23 +38,6 @@
     ]
   },
   "underlyingTokens": [
-    {
-      "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "magic-internet-money",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
-      "name": "Wrapped MIM (Allbridge from Ethereum)",
-      "symbol": "aeMIM",
-      "tags": [
-        "saber-mkt-usd"
-      ]
-    },
     {
       "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
       "chainId": 101,
@@ -95,6 +78,23 @@
       "symbol": "CASH",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "magic-internet-money",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
+      "name": "Wrapped MIM (Allbridge from Ethereum)",
+      "symbol": "aeMIM",
+      "tags": [
+        "saber-mkt-usd"
       ]
     }
   ]
