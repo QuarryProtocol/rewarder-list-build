@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 18,
-      "lastUpdateTs": "1645672944",
+      "lastUpdateTs": "1645678861",
       "numMiners": "104",
-      "rewardsPerTokenStored": "43148616321177087033445",
+      "rewardsPerTokenStored": "43148722335761855983150",
       "rewardsShare": "111840589167",
       "totalTokensDeposited": "19763508763"
     },
@@ -40,6 +40,20 @@
   },
   "underlyingTokens": [
     {
+      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://mixture.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
+      "name": "MIX",
+      "symbol": "MIX",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -52,20 +66,6 @@
       "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
       "name": "Cashio Dollar",
       "symbol": "CASH",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
-      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "website": "https://mixture.money/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
-      "name": "MIX",
-      "symbol": "MIX",
       "tags": [
         "stablecoin"
       ]
