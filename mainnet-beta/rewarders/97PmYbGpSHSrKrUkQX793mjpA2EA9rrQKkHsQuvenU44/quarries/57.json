@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 57,
-      "lastUpdateTs": "1645687210",
+      "lastUpdateTs": "1645712195",
       "numMiners": "174",
-      "rewardsPerTokenStored": "5497356263880356075",
+      "rewardsPerTokenStored": "5505242478291584432",
       "rewardsShare": "5136798963491",
       "totalTokensDeposited": "19819783004808"
     },
@@ -39,24 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "So11111111111111111111111111111111111111112",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-        "website": "https://solana.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-      "name": "Wrapped SOL",
-      "symbol": "SOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
       "chainId": 101,
       "decimals": 9,
@@ -71,6 +53,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
       "name": "Synthetic SOL",
       "symbol": "xSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "website": "https://solana.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
       "tags": [
         "saber-mkt-sol"
       ]
