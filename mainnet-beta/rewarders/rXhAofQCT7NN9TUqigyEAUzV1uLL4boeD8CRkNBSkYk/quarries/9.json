@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 9,
-      "lastUpdateTs": "1645694426",
+      "lastUpdateTs": "1645697945",
       "numMiners": "3275",
-      "rewardsPerTokenStored": "138978807477675726",
+      "rewardsPerTokenStored": "138978843559232751",
       "rewardsShare": "5846337212",
-      "totalTokensDeposited": "209300290455794"
+      "totalTokensDeposited": "208733827817770"
     },
     "index": 9,
     "quarry": "2isVhcqVVpsAeZ94d1DGVErCQ7uZQNSJ85xikN8awHeC",
@@ -38,24 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "So11111111111111111111111111111111111111112",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-        "website": "https://solana.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-      "name": "Wrapped SOL",
-      "symbol": "SOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "chainId": 101,
       "decimals": 9,
@@ -70,6 +52,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
       "name": "Lido Staked SOL",
       "symbol": "stSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "website": "https://solana.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
       "tags": [
         "saber-mkt-sol"
       ]

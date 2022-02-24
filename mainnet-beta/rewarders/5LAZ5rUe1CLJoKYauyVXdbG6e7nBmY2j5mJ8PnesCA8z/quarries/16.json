@@ -40,21 +40,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "allbridge",
-        "medium": "https://allbridge.medium.com/",
-        "telegram": "https://t.me/allbridge_announcements",
-        "twitter": "https://twitter.com/Allbridge_io",
-        "website": "https://allbridge.io/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
-      "name": "Allbridge",
-      "symbol": "ABR"
-    },
-    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -70,6 +55,21 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "allbridge",
+        "medium": "https://allbridge.medium.com/",
+        "telegram": "https://t.me/allbridge_announcements",
+        "twitter": "https://twitter.com/Allbridge_io",
+        "website": "https://allbridge.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/allbridge-io/media/main/token.svg",
+      "name": "Allbridge",
+      "symbol": "ABR"
     }
   ]
 }
