@@ -39,24 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
-      "name": "Wrapped USDT (Allbridge from Ethereum)",
-      "symbol": "aeUSDT",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
       "chainId": 101,
       "decimals": 9,
@@ -76,6 +58,24 @@
         "stablecoin",
         "saber-mkt-usd",
         "saber-dec-wrapped"
+      ]
+    },
+    {
+      "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+      "name": "Wrapped USDT (Allbridge from Ethereum)",
+      "symbol": "aeUSDT",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     },
     {

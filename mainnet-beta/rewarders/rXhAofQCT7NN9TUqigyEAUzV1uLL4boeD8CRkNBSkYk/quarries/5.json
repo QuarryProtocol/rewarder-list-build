@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 5,
-      "lastUpdateTs": "1645671218",
+      "lastUpdateTs": "1645675584",
       "numMiners": "2240",
-      "rewardsPerTokenStored": "839870170352223170145",
+      "rewardsPerTokenStored": "840464903315327864812",
       "rewardsShare": "33455583713402",
-      "totalTokensDeposited": "90151701755"
+      "totalTokensDeposited": "90101711809"
     },
     "index": 5,
     "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
@@ -38,25 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "renbtc",
-        "currency": "BTC",
-        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-        "source": "renbridge",
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "website": "https://renproject.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-      "name": "renBTC",
-      "symbol": "renBTC",
-      "tags": [
-        "saber-mkt-btc"
-      ]
-    },
-    {
       "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
       "chainId": 101,
       "decimals": 8,
@@ -81,6 +62,25 @@
         "ethereum",
         "saber-mkt-btc",
         "saber-dec-wrapped"
+      ]
+    },
+    {
+      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "renbtc",
+        "currency": "BTC",
+        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "website": "https://renproject.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "tags": [
+        "saber-mkt-btc"
       ]
     },
     {
