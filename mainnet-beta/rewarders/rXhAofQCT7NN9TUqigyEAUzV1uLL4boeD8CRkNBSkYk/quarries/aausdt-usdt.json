@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 40,
-      "lastUpdateTs": "1645694700",
+      "lastUpdateTs": "1645704286",
       "numMiners": "414",
-      "rewardsPerTokenStored": "7944018959728750",
+      "rewardsPerTokenStored": "7960093319406274",
       "rewardsShare": "669067779556",
       "totalTokensDeposited": "146459470257793"
     },
@@ -38,24 +38,6 @@
     ]
   },
   "underlyingTokens": [
-    {
-      "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
-      "name": "Wrapped USDT (Allbridge from Avalanche)",
-      "symbol": "aaUSDT",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
     {
       "address": "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
       "chainId": 101,
@@ -91,6 +73,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
       "name": "USDT",
       "symbol": "USDT",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
+      "name": "Wrapped USDT (Allbridge from Avalanche)",
+      "symbol": "aaUSDT",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
