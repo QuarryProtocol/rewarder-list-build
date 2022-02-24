@@ -39,26 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "currency": "USD",
-        "source": "port",
-        "sourceUrl": "https://mainnet.port.finance/#/markets",
-        "website": "https://port.finance"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
-      "name": "Port Finance USDC",
-      "symbol": "pUSDC",
-      "tags": [
-        "port",
-        "lending",
-        "collateral-tokens",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "chainId": 101,
       "decimals": 6,
@@ -71,6 +51,26 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
       "name": "Port Finance USDT",
       "symbol": "pUSDT",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "currency": "USD",
+        "source": "port",
+        "sourceUrl": "https://mainnet.port.finance/#/markets",
+        "website": "https://port.finance"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
+      "name": "Port Finance USDC",
+      "symbol": "pUSDC",
       "tags": [
         "port",
         "lending",
