@@ -13,7 +13,26 @@
       "method": "saber",
       "redeemerKey": "7GYvUVtcihiEwe8yjFeYuoaetdZiC8dh6P18mr61WgJr",
       "redeemerVaultATA": "4fKnVmwmu9u873GLaJgX84CH39LhfSY1P2b9fFSCXQFk",
-      "underlyingToken": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+      "underlyingToken": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+      "underlyingTokenInfo": {
+        "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+        "chainId": 103,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+            "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+          ],
+          "website": "https://app.saber.so/#/pools/btc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+        "name": "Saber renBTC-WBTC LP",
+        "symbol": "renBTC-WBTC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      }
     },
     "website": "https://saber.so"
   },

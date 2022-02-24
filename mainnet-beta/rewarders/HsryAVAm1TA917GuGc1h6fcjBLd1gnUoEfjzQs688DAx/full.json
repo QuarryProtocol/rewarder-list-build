@@ -13,7 +13,25 @@
       "method": "quarry-redeemer",
       "redeemerKey": "27zGCKRwhkjVJvCZJUYuu8eUfu7tFgW5W6hfumR8xr26",
       "redeemerVaultATA": "54LgmJdEfH2KKeQStRQnM5fCdzYcZGkpxvd18KUejWQw",
-      "underlyingToken": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+      "underlyingToken": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+      "underlyingTokenInfo": {
+        "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "description": "The Jungle Finance governance token.",
+          "discord": "https://discord.gg/2DWjx5NywE",
+          "medium": "https://medium.com/@JungleDeFi",
+          "twitter": "https://twitter.com/JungleDeFi",
+          "website": "https://jungledefi.io/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+        "name": "Jungle DeFi",
+        "symbol": "JFI",
+        "tags": [
+          "governance-token"
+        ]
+      }
     },
     "website": "https://jungledefi.io"
   },

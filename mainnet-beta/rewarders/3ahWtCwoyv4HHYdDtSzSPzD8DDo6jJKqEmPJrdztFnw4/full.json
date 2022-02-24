@@ -13,7 +13,23 @@
       "method": "quarry-redeemer",
       "redeemerKey": "8BMiauMWKAHfsmhYYLqLTcUfswryHvzvteBS6A4a3JzD",
       "redeemerVaultATA": "6kpVKCdVLHGmrBYs5EvitRPqjxZPtkJR2KAUB5nEostb",
-      "underlyingToken": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+      "underlyingToken": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+      "underlyingTokenInfo": {
+        "address": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "discord": "https://discord.gg/RASngHfHhS",
+          "github": "https://github.com/pole-finance",
+          "medium": "https://medium.com/pole-aggregator",
+          "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+          "twitter": "https://twitter.com/Pole_Finance",
+          "website": "https://pole.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+        "name": "Pole Aggregator Governance Token",
+        "symbol": "POLE"
+      }
     },
     "website": "https://pole.finance/"
   },

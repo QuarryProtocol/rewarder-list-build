@@ -14,7 +14,27 @@
       "method": "quarry-redeemer",
       "redeemerKey": "3sEPPrBnSwb1rZyraXH7BNr8ZXoz9L37hyoNNBRshd4v",
       "redeemerVaultATA": "CNn6zFHasehW3YGwbYzJaqLBW5xQx5RgRNmk5tdCo72o",
-      "underlyingToken": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
+      "underlyingToken": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6",
+      "underlyingTokenInfo": {
+        "address": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "hubble",
+          "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/",
+          "discord": "https://discord.gg/d44A8WvK",
+          "twitter": "https://twitter.com/hubbleprotocol",
+          "website": "https://hubbleprotocol.io/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
+        "name": "Hubble Protocol Token",
+        "symbol": "HBB",
+        "tags": [
+          "stake-pool-token",
+          "utility-token",
+          "community-token"
+        ]
+      }
     },
     "website": "https://hubbleprotocol.io"
   },
