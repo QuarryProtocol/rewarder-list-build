@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 4,
-      "lastUpdateTs": "1645739843",
+      "lastUpdateTs": "1645743375",
       "numMiners": "4010",
-      "rewardsPerTokenStored": "65216951619848769880",
+      "rewardsPerTokenStored": "65239017614025607637",
       "rewardsShare": "575588954058609",
       "totalTokensDeposited": "112203188735510"
     },
@@ -38,24 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://www.centre.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "chainId": 101,
       "decimals": 6,
@@ -68,6 +50,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
       "name": "USDT",
       "symbol": "USDT",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
