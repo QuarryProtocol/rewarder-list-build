@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 64,
-      "lastUpdateTs": "1645574048",
+      "lastUpdateTs": "1645651395",
       "numMiners": "73",
-      "rewardsPerTokenStored": "64673222886916399",
+      "rewardsPerTokenStored": "65653984394988631",
       "rewardsShare": "1926299611309",
-      "totalTokensDeposited": "185906727627408"
+      "totalTokensDeposited": "166057586900998"
     },
     "index": 64,
     "quarry": "EYWdteNQk9twExmpQvR3LoTkBGzRE8HBZxcjq3XSbC5A",
@@ -68,23 +68,6 @@
       ]
     },
     {
-      "address": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "fei-usd",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2.png",
-      "name": "Wrapped FEI (Allbridge from Ethereum)",
-      "symbol": "aeFEI",
-      "tags": [
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "chainId": 101,
       "decimals": 6,
@@ -106,6 +89,23 @@
         "stablecoin",
         "saber-mkt-usd",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "fei-usd",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2.png",
+      "name": "Wrapped FEI (Allbridge from Ethereum)",
+      "symbol": "aeFEI",
+      "tags": [
+        "saber-mkt-usd"
       ]
     }
   ]

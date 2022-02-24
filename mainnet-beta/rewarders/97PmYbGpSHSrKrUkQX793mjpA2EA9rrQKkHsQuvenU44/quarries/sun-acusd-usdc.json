@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 10,
-      "lastUpdateTs": "1645547916",
+      "lastUpdateTs": "1645652950",
       "numMiners": "892",
-      "rewardsPerTokenStored": "42527899118960415",
+      "rewardsPerTokenStored": "42803099188002615",
       "rewardsShare": "3210499352182",
-      "totalTokensDeposited": "1492325810089194"
+      "totalTokensDeposited": "1492220810089194"
     },
     "index": 10,
     "quarry": "9zDN4DGYCg7ykJgoVhEzv6VFrmi3rqH2hmCWABYfhUEf",
@@ -39,24 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "celo-dollar",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-      "name": "Wrapped CUSD (Allbridge from Celo)",
-      "symbol": "acUSD",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
       "decimals": 9,
@@ -76,6 +58,24 @@
         "stablecoin",
         "saber-mkt-usd",
         "saber-dec-wrapped"
+      ]
+    },
+    {
+      "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "celo-dollar",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+      "name": "Wrapped CUSD (Allbridge from Celo)",
+      "symbol": "acUSD",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     },
     {

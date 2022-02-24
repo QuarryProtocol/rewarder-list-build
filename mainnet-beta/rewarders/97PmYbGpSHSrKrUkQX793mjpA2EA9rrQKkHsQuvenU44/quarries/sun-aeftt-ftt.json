@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 41,
-      "lastUpdateTs": "1645574906",
+      "lastUpdateTs": "1645655260",
       "numMiners": "139",
-      "rewardsPerTokenStored": "1317363206847752385",
+      "rewardsPerTokenStored": "1329438902297813198",
       "rewardsShare": "5778898833927",
       "totalTokensDeposited": "46754106834906"
     },
@@ -68,23 +68,6 @@
       ]
     },
     {
-      "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "ftx-token",
-        "currency": "FTT",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-      "name": "Wrapped FTT (Allbridge from Ethereum)",
-      "symbol": "aeFTT",
-      "tags": [
-        "saber-mkt-ftt"
-      ]
-    },
-    {
       "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "chainId": 101,
       "decimals": 8,
@@ -107,6 +90,23 @@
         "wormhole",
         "saber-mkt-ftt",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "ftx-token",
+        "currency": "FTT",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+      "name": "Wrapped FTT (Allbridge from Ethereum)",
+      "symbol": "aeFTT",
+      "tags": [
+        "saber-mkt-ftt"
       ]
     }
   ]
