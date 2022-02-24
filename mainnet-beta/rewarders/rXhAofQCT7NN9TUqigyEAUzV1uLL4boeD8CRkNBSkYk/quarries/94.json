@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 94,
-      "lastUpdateTs": "1645716784",
-      "numMiners": "50",
-      "rewardsPerTokenStored": "1152345013107509273",
+      "lastUpdateTs": "1645721382",
+      "numMiners": "51",
+      "rewardsPerTokenStored": "1170041928479335223",
       "rewardsShare": "24758592681326",
-      "totalTokensDeposited": "2361244438744"
+      "totalTokensDeposited": "2415736663293"
     },
     "index": 94,
     "quarry": "ByuGnzyRgj73HKmQnLLC61Qgn6EtteeQ7qx9TPHwDYzN",
@@ -39,26 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "currency": "USD",
-        "source": "solend",
-        "sourceUrl": "https://solend.fi/dashboard",
-        "website": "https://solend.fi"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk.png",
-      "name": "Solend USDC",
-      "symbol": "cUSDC",
-      "tags": [
-        "solend",
-        "lending",
-        "collateral-tokens",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
       "chainId": 101,
       "decimals": 6,
@@ -71,6 +51,26 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8.png",
       "name": "Solend USDT",
       "symbol": "cUSDT",
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "currency": "USD",
+        "source": "solend",
+        "sourceUrl": "https://solend.fi/dashboard",
+        "website": "https://solend.fi"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk.png",
+      "name": "Solend USDC",
+      "symbol": "cUSDC",
       "tags": [
         "solend",
         "lending",

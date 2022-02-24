@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 51,
-      "lastUpdateTs": "1645716593",
+      "lastUpdateTs": "1645719514",
       "numMiners": "101",
-      "rewardsPerTokenStored": "73556704011110689316",
+      "rewardsPerTokenStored": "73597992120602226337",
       "rewardsShare": "5778898833927",
       "totalTokensDeposited": "497905821151"
     },
@@ -39,6 +39,25 @@
   },
   "underlyingTokens": [
     {
+      "address": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "currency": "ETH",
+        "source": "synthetify",
+        "sourceUrl": "https://app.synthetify.io/staking",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
+      "name": "Synthetic ETH",
+      "symbol": "xETH",
+      "tags": [
+        "saber-mkt-eth"
+      ]
+    },
+    {
       "address": "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
       "chainId": 101,
       "decimals": 9,
@@ -65,25 +84,6 @@
         "saber-mkt-eth",
         "wormhole-v2",
         "saber-dec-wrapped"
-      ]
-    },
-    {
-      "address": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "ethereum",
-        "currency": "ETH",
-        "source": "synthetify",
-        "sourceUrl": "https://app.synthetify.io/staking",
-        "twitter": "https://twitter.com/synthetify",
-        "website": "https://synthetify.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
-      "name": "Synthetic ETH",
-      "symbol": "xETH",
-      "tags": [
-        "saber-mkt-eth"
       ]
     },
     {

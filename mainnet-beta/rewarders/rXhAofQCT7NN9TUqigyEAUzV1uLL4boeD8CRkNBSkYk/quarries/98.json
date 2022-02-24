@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 98,
-      "lastUpdateTs": "1645681277",
+      "lastUpdateTs": "1645720529",
       "numMiners": "5",
       "rewardsPerTokenStored": "0",
       "rewardsShare": "0",
-      "totalTokensDeposited": "14834413757"
+      "totalTokensDeposited": "14850674383"
     },
     "index": 98,
     "quarry": "CEZw8iG7fHou9JV8v3ZqG1Ax2LbQaFYYP7aT8Tu55Xft",
@@ -38,26 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "terrausd",
-        "currency": "USD",
-        "medium": "https://medium.com/solunadao",
-        "source": "soluna",
-        "sourceUrl": "https://soluna.money/#/deposit",
-        "twitter": "https://twitter.com/solunaDAO",
-        "website": "https://soluna.money"
-      },
-      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
-      "name": "solUST",
-      "symbol": "solUST",
-      "tags": [
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "chainId": 101,
       "decimals": 6,
@@ -74,6 +54,26 @@
       "symbol": "USDH",
       "tags": [
         "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "terrausd",
+        "currency": "USD",
+        "medium": "https://medium.com/solunadao",
+        "source": "soluna",
+        "sourceUrl": "https://soluna.money/#/deposit",
+        "twitter": "https://twitter.com/solunaDAO",
+        "website": "https://soluna.money"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+      "name": "solUST",
+      "symbol": "solUST",
+      "tags": [
         "saber-mkt-usd"
       ]
     }

@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 58,
-      "lastUpdateTs": "1645708581",
+      "lastUpdateTs": "1645719500",
       "numMiners": "73",
-      "rewardsPerTokenStored": "79435168825335669541",
+      "rewardsPerTokenStored": "79808661172693846019",
       "rewardsShare": "43372661608186",
       "totalTokensDeposited": "1544232843176"
     },
@@ -38,6 +38,25 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+      "chainId": 101,
+      "decimals": 10,
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "currency": "BTC",
+        "source": "synthetify",
+        "sourceUrl": "https://app.synthetify.io/staking",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
+      "name": "Synthetic BTC",
+      "symbol": "xBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
     {
       "address": "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
       "chainId": 101,
@@ -76,25 +95,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
       "name": "renBTC",
       "symbol": "renBTC",
-      "tags": [
-        "saber-mkt-btc"
-      ]
-    },
-    {
-      "address": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
-      "chainId": 101,
-      "decimals": 10,
-      "extensions": {
-        "coingeckoId": "bitcoin",
-        "currency": "BTC",
-        "source": "synthetify",
-        "sourceUrl": "https://app.synthetify.io/staking",
-        "twitter": "https://twitter.com/synthetify",
-        "website": "https://synthetify.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
-      "name": "Synthetic BTC",
-      "symbol": "xBTC",
       "tags": [
         "saber-mkt-btc"
       ]

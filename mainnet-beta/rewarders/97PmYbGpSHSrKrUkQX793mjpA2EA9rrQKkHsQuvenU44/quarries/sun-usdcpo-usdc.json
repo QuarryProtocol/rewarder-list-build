@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 56,
-      "lastUpdateTs": "1645701609",
+      "lastUpdateTs": "1645722167",
       "numMiners": "57",
-      "rewardsPerTokenStored": "42500551250527528762",
+      "rewardsPerTokenStored": "42758080114433978409",
       "rewardsShare": "1926299611309",
-      "totalTokensDeposited": "187270083227"
+      "totalTokensDeposited": "188208704450"
     },
     "index": 56,
     "quarry": "EGqkvcUgwuA1ggFTKWNVBbMXzsXbWGNs9qDxkGZrjyjc",
@@ -39,24 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://www.centre.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
       "chainId": 101,
       "decimals": 6,
@@ -76,6 +58,24 @@
         "wrapped",
         "saber-mkt-usd",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     }
   ]
