@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 12,
-      "lastUpdateTs": "1645645355",
+      "lastUpdateTs": "1645667288",
       "numMiners": "1698",
-      "rewardsPerTokenStored": "11279736951798770180",
+      "rewardsPerTokenStored": "11284963879955214724",
       "rewardsShare": "3236025786100",
-      "totalTokensDeposited": "16537087878129"
+      "totalTokensDeposited": "16519407185158"
     },
     "index": 12,
     "quarry": "EuQRwGreQZ56tfHrB1dvQfkm8gYkKp6HPbTK1Z6fGZhy",
@@ -38,28 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "discord": "https://discord.gg/gopartyparrot",
-        "medium": "https://gopartyparrot.medium.com/",
-        "source": "parrot",
-        "sourceUrl": "https://parrot.fi/mint/",
-        "telegram": "https://t.me/gopartyparrot",
-        "twitter": "https://twitter.com/gopartyparrot",
-        "website": "https://parrot.fi"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
-      "name": "prtSOL (Parrot Staked SOL)",
-      "symbol": "prtSOL",
-      "tags": [
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
       "chainId": 101,
       "decimals": 9,
@@ -78,6 +56,28 @@
       "symbol": "pSOL",
       "tags": [
         "stablecoin",
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "discord": "https://discord.gg/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
+        "source": "parrot",
+        "sourceUrl": "https://parrot.fi/mint/",
+        "telegram": "https://t.me/gopartyparrot",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "website": "https://parrot.fi"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
+      "name": "prtSOL (Parrot Staked SOL)",
+      "symbol": "prtSOL",
+      "tags": [
         "saber-mkt-sol"
       ]
     }

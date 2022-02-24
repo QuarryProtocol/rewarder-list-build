@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 83,
-      "lastUpdateTs": "1645662291",
+      "lastUpdateTs": "1645670583",
       "numMiners": "27",
-      "rewardsPerTokenStored": "2675260470654149366924",
+      "rewardsPerTokenStored": "2675260821735710385046",
       "rewardsShare": "1162066293573",
       "totalTokensDeposited": "10074552799093"
     },
@@ -39,6 +39,30 @@
   },
   "underlyingTokens": [
     {
+      "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "bilira",
+        "currency": "TRY",
+        "github": "https://github.com/bilira-org",
+        "instagram": "https://instagram.com/bilira_official",
+        "source": "biLira",
+        "sourceUrl": "https://www.bilira.co/",
+        "telegram": "https://t.me/BiLira_Official",
+        "website": "http://bilira.co"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "tags": [
+        "tryb",
+        "bilira",
+        "stablecoin",
+        "saber-mkt-try"
+      ]
+    },
+    {
       "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
       "chainId": 101,
       "decimals": 6,
@@ -63,30 +87,6 @@
         "wrapped",
         "saber-mkt-try",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "bilira",
-        "currency": "TRY",
-        "github": "https://github.com/bilira-org",
-        "instagram": "https://instagram.com/bilira_official",
-        "source": "biLira",
-        "sourceUrl": "https://www.bilira.co/",
-        "telegram": "https://t.me/BiLira_Official",
-        "website": "http://bilira.co"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
-      "name": "BiLira",
-      "symbol": "TRYB",
-      "tags": [
-        "tryb",
-        "bilira",
-        "stablecoin",
-        "saber-mkt-try"
       ]
     }
   ]
