@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 38,
-      "lastUpdateTs": "1645704286",
-      "numMiners": "472",
-      "rewardsPerTokenStored": "21043786105009224",
+      "lastUpdateTs": "1645736228",
+      "numMiners": "473",
+      "rewardsPerTokenStored": "21081115164070948",
       "rewardsShare": "669067779556",
-      "totalTokensDeposited": "210149701994270"
+      "totalTokensDeposited": "230029674595409"
     },
     "index": 38,
     "quarry": "GBkRWmWtDtHwnjhhDXGuHTDbVNQAs14nbUkwNpWXE2xp",
@@ -38,24 +38,6 @@
     ]
   },
   "underlyingTokens": [
-    {
-      "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "multi-collateral-dai",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
-      "name": "Wrapped DAI (Allbridge from Ethereum)",
-      "symbol": "aeDAI",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
@@ -91,6 +73,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "multi-collateral-dai",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
+      "name": "Wrapped DAI (Allbridge from Ethereum)",
+      "symbol": "aeDAI",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
