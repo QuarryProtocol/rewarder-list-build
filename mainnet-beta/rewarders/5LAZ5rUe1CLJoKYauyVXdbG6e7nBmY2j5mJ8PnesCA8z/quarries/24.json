@@ -39,22 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "oogi",
-        "discord": "https://discord.gg/oogi",
-        "serumV3Usdc": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
-        "telegram": "https://t.me/oogicoin",
-        "twitter": "https://twitter.com/oogicoin",
-        "website": "https://oogi.com/"
-      },
-      "logoURI": "https://oogi.com/icon.png",
-      "name": "OOGI",
-      "symbol": "OOGI"
-    },
-    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -70,6 +54,22 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "address": "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "oogi",
+        "discord": "https://discord.gg/oogi",
+        "serumV3Usdc": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
+        "telegram": "https://t.me/oogicoin",
+        "twitter": "https://twitter.com/oogicoin",
+        "website": "https://oogi.com/"
+      },
+      "logoURI": "https://oogi.com/icon.png",
+      "name": "OOGI",
+      "symbol": "OOGI"
     }
   ]
 }
