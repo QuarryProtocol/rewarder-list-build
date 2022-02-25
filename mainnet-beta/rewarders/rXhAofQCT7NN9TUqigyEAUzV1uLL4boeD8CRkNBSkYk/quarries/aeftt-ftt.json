@@ -64,23 +64,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "ftx-token",
-        "currency": "FTT",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
-      "name": "Wrapped FTT (Allbridge from Ethereum)",
-      "symbol": "aeFTT",
-      "tags": [
-        "saber-mkt-ftt"
-      ]
-    },
-    {
       "address": "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
       "chainId": 101,
       "decimals": 9,
@@ -132,6 +115,23 @@
         "wormhole",
         "saber-mkt-ftt",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "ftx-token",
+        "currency": "FTT",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+      "name": "Wrapped FTT (Allbridge from Ethereum)",
+      "symbol": "aeFTT",
+      "tags": [
+        "saber-mkt-ftt"
       ]
     }
   ]
