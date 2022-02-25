@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 14,
-      "lastUpdateTs": "1645786417",
+      "lastUpdateTs": "1645821449",
       "numMiners": "2613",
       "rewardsPerTokenStored": "39778055787926173",
       "rewardsShare": "0",
-      "totalTokensDeposited": "18938756847317"
+      "totalTokensDeposited": "18935864181026"
     },
     "index": 14,
     "quarry": "AB17JLiVcGQ6DjRy69Pz2ydMcaJW6kNZVX2ajWT4g1Ke",
@@ -38,29 +38,6 @@
     ]
   },
   "underlyingTokens": [
-    {
-      "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "coingeckoId": "ftx-token",
-        "currency": "FTT",
-        "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
-      "name": "FTT (Wormhole v1)",
-      "symbol": "wFTT_v1",
-      "tags": [
-        "wrapped",
-        "wormhole",
-        "saber-mkt-ftt",
-        "wormhole-v1"
-      ]
-    },
     {
       "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
       "chainId": 101,
@@ -107,6 +84,29 @@
       "tags": [
         "wrapped-sollet",
         "ethereum"
+      ]
+    },
+    {
+      "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "coingeckoId": "ftx-token",
+        "currency": "FTT",
+        "source": "wormhole-v1",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
+      "name": "FTT (Wormhole v1)",
+      "symbol": "wFTT_v1",
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-ftt",
+        "wormhole-v1"
       ]
     }
   ]

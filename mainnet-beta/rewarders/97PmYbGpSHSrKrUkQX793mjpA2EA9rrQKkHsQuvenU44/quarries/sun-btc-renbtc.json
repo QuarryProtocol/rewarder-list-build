@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 6,
-      "lastUpdateTs": "1645819478",
+      "lastUpdateTs": "1645822934",
       "numMiners": "1355",
-      "rewardsPerTokenStored": "16421667477502229357774",
+      "rewardsPerTokenStored": "16422083697244387717040",
       "rewardsShare": "8405779419604",
-      "totalTokensDeposited": "85001987520"
+      "totalTokensDeposited": "85000311427"
     },
     "index": 6,
     "quarry": "6kRXYhMe7vZ18XtvVsPRpDuRBr8nhMLpbriRAKf6XS75",
@@ -37,6 +37,25 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "renbtc",
+        "currency": "BTC",
+        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "website": "https://renproject.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
     {
       "address": "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv",
       "chainId": 101,
@@ -80,25 +99,6 @@
       "tags": [
         "wrapped-sollet",
         "ethereum"
-      ]
-    },
-    {
-      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "renbtc",
-        "currency": "BTC",
-        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-        "source": "renbridge",
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "website": "https://renproject.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-      "name": "renBTC",
-      "symbol": "renBTC",
-      "tags": [
-        "saber-mkt-btc"
       ]
     }
   ]
