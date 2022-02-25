@@ -17,6 +17,31 @@
       "mint": "5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD"
     }
   },
+  "rewarder": {
+    "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    }
+  },
+  "rewardsToken": {
+    "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "sunny-aggregator",
+      "discord": "https://chat.sunny.ag",
+      "github": "https://github.com/SunnyAggregator",
+      "medium": "https://medium.com/sunny-aggregator",
+      "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+      "twitter": "https://twitter.com/SunnyAggregator",
+      "website": "https://sunny.ag/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+    "name": "Sunny IOU Token (Quarry Rewards)",
+    "symbol": "SUNNY"
+  },
   "stakedToken": {
     "address": "5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD",
     "chainId": 101,
@@ -38,28 +63,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "currency": "SOL",
-        "discord": "https://discord.gg/gopartyparrot",
-        "medium": "https://gopartyparrot.medium.com/",
-        "source": "parrot",
-        "sourceUrl": "https://parrot.fi/mint/",
-        "telegram": "https://t.me/gopartyparrot",
-        "twitter": "https://twitter.com/gopartyparrot",
-        "website": "https://parrot.fi"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
-      "name": "pSOL (Parrot SOL)",
-      "symbol": "pSOL",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "chainId": 101,
       "decimals": 9,
@@ -78,6 +81,28 @@
       "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
       "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "currency": "SOL",
+        "discord": "https://discord.gg/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
+        "source": "parrot",
+        "sourceUrl": "https://parrot.fi/mint/",
+        "telegram": "https://t.me/gopartyparrot",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "website": "https://parrot.fi"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
+      "name": "pSOL (Parrot SOL)",
+      "symbol": "pSOL",
+      "tags": [
+        "stablecoin",
         "saber-mkt-sol"
       ]
     }

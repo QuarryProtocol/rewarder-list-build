@@ -17,6 +17,31 @@
       "mint": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i"
     }
   },
+  "rewarder": {
+    "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    }
+  },
+  "rewardsToken": {
+    "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "sunny-aggregator",
+      "discord": "https://chat.sunny.ag",
+      "github": "https://github.com/SunnyAggregator",
+      "medium": "https://medium.com/sunny-aggregator",
+      "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+      "twitter": "https://twitter.com/SunnyAggregator",
+      "website": "https://sunny.ag/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+    "name": "Sunny IOU Token (Quarry Rewards)",
+    "symbol": "SUNNY"
+  },
   "stakedToken": {
     "address": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i",
     "chainId": 101,
@@ -38,6 +63,30 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "bilira",
+        "currency": "TRY",
+        "github": "https://github.com/bilira-org",
+        "instagram": "https://instagram.com/bilira_official",
+        "source": "biLira",
+        "sourceUrl": "https://www.bilira.co/",
+        "telegram": "https://t.me/BiLira_Official",
+        "website": "http://bilira.co"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+      "name": "BiLira",
+      "symbol": "TRYB",
+      "tags": [
+        "tryb",
+        "bilira",
+        "stablecoin",
+        "saber-mkt-try"
+      ]
+    },
     {
       "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
       "chainId": 101,
@@ -63,30 +112,6 @@
         "wrapped",
         "saber-mkt-try",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "bilira",
-        "currency": "TRY",
-        "github": "https://github.com/bilira-org",
-        "instagram": "https://instagram.com/bilira_official",
-        "source": "biLira",
-        "sourceUrl": "https://www.bilira.co/",
-        "telegram": "https://t.me/BiLira_Official",
-        "website": "http://bilira.co"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
-      "name": "BiLira",
-      "symbol": "TRYB",
-      "tags": [
-        "tryb",
-        "bilira",
-        "stablecoin",
-        "saber-mkt-try"
       ]
     }
   ]

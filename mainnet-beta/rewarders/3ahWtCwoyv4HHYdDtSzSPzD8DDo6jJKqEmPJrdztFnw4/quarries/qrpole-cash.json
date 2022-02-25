@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 2,
-      "lastUpdateTs": "1645817210",
+      "lastUpdateTs": "1645828092",
       "numMiners": "38",
-      "rewardsPerTokenStored": "68235209243709991997227",
+      "rewardsPerTokenStored": "68707773672070402525029",
       "rewardsShare": "121312564414876",
       "totalTokensDeposited": "10444695666"
     },
@@ -15,6 +15,14 @@
     "stakedToken": {
       "decimals": 2,
       "mint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK"
+    }
+  },
+  "rewarder": {
+    "authority": "FXish3WUZYR5cjh1Q3E3tD6QVtKfYEDBEFT1vn9Q9q2x",
+    "mintWrapper": "CtqVH46ZzoFU6CeFT9YSPfaZkUANYePaDksaK6Hyr8gi",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
     }
   },
   "stakedToken": {
@@ -63,6 +71,22 @@
       "symbol": "POLE-CASH"
     },
     {
+      "address": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.gg/RASngHfHhS",
+        "github": "https://github.com/pole-finance",
+        "medium": "https://medium.com/pole-aggregator",
+        "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+        "twitter": "https://twitter.com/Pole_Finance",
+        "website": "https://pole.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+      "name": "Pole Aggregator Governance Token",
+      "symbol": "POLE"
+    },
+    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -78,22 +102,6 @@
       "tags": [
         "stablecoin"
       ]
-    },
-    {
-      "address": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "discord": "https://discord.gg/RASngHfHhS",
-        "github": "https://github.com/pole-finance",
-        "medium": "https://medium.com/pole-aggregator",
-        "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
-        "twitter": "https://twitter.com/Pole_Finance",
-        "website": "https://pole.finance"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
-      "name": "Pole Aggregator Governance Token",
-      "symbol": "POLE"
     }
   ]
 }

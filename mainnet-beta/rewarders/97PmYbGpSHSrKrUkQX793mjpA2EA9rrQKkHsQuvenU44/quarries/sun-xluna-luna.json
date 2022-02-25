@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 76,
-      "lastUpdateTs": "1645826760",
+      "lastUpdateTs": "1645826935",
       "numMiners": "56",
-      "rewardsPerTokenStored": "2576439671504396926409",
+      "rewardsPerTokenStored": "2576600912532257870435",
       "rewardsShare": "1927961229842",
-      "totalTokensDeposited": "2548333948"
+      "totalTokensDeposited": "2546203948"
     },
     "index": 76,
     "quarry": "DGgCBQQyWNUAa926HN9UJFvL9LCrhD9KHTH2jSnq7tvb",
@@ -16,6 +16,31 @@
       "decimals": 6,
       "mint": "FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb"
     }
+  },
+  "rewarder": {
+    "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    }
+  },
+  "rewardsToken": {
+    "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "sunny-aggregator",
+      "discord": "https://chat.sunny.ag",
+      "github": "https://github.com/SunnyAggregator",
+      "medium": "https://medium.com/sunny-aggregator",
+      "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+      "twitter": "https://twitter.com/SunnyAggregator",
+      "website": "https://sunny.ag/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+    "name": "Sunny IOU Token (Quarry Rewards)",
+    "symbol": "SUNNY"
   },
   "stakedToken": {
     "address": "FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb",

@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 95,
-      "lastUpdateTs": "1645823069",
-      "numMiners": "44",
-      "rewardsPerTokenStored": "213492939675136728",
+      "lastUpdateTs": "1645829565",
+      "numMiners": "45",
+      "rewardsPerTokenStored": "215596319399617528",
       "rewardsShare": "20184676464637",
-      "totalTokensDeposited": "22881986538053"
+      "totalTokensDeposited": "22884440423628"
     },
     "index": 95,
     "quarry": "7Cvc9vEFztaUEY5r27sj8BXUYpNMxRWTLSUwvQi19ug7",
@@ -16,6 +16,31 @@
       "decimals": 9,
       "mint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa"
     }
+  },
+  "rewarder": {
+    "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    }
+  },
+  "rewardsToken": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "saber",
+      "discord": "https://chat.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+      "twitter": "https://twitter.com/saber_hq",
+      "website": "https://saber.so"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber IOU Token (Liquidity Mining Rewards)",
+    "symbol": "SBR"
   },
   "stakedToken": {
     "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
@@ -39,26 +64,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "currency": "SOL",
-        "source": "solend",
-        "sourceUrl": "https://solend.fi/dashboard",
-        "website": "https://solend.fi"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV.png",
-      "name": "Solend SOL",
-      "symbol": "cSOL",
-      "tags": [
-        "solend",
-        "lending",
-        "collateral-tokens",
-        "saber-mkt-sol"
-      ]
-    },
-    {
       "address": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
       "chainId": 101,
       "decimals": 9,
@@ -71,6 +76,26 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h.png",
       "name": "Solend mSOL",
       "symbol": "cmSOL",
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "currency": "SOL",
+        "source": "solend",
+        "sourceUrl": "https://solend.fi/dashboard",
+        "website": "https://solend.fi"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV.png",
+      "name": "Solend SOL",
+      "symbol": "cSOL",
       "tags": [
         "solend",
         "lending",
