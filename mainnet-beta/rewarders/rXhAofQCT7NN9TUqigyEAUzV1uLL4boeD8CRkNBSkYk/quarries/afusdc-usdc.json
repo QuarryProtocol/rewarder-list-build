@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 71,
-      "lastUpdateTs": "1645795821",
+      "lastUpdateTs": "1645798456",
       "numMiners": "200",
-      "rewardsPerTokenStored": "19795863135656337623",
+      "rewardsPerTokenStored": "19795864044486990341",
       "rewardsShare": "669067779556",
-      "totalTokensDeposited": "712051440433369"
+      "totalTokensDeposited": "606185960426509"
     },
     "index": 71,
     "quarry": "12sujUAou8V518isa7o2q8ZMrkH5ivF2UrbZdTYVGpUj",
@@ -38,6 +38,24 @@
     ]
   },
   "underlyingTokens": [
+    {
+      "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u.png",
+      "name": "Wrapped USDC (Allbridge from Fantom)",
+      "symbol": "afUSDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
@@ -73,24 +91,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u.png",
-      "name": "Wrapped USDC (Allbridge from Fantom)",
-      "symbol": "afUSDC",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
