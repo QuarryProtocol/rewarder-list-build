@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 18,
-      "lastUpdateTs": "1645717328",
+      "lastUpdateTs": "1645756925",
       "numMiners": "104",
-      "rewardsPerTokenStored": "43149430113728152572244",
+      "rewardsPerTokenStored": "43150184049683362282677",
       "rewardsShare": "111840589167",
-      "totalTokensDeposited": "18597558192"
+      "totalTokensDeposited": "18387654384"
     },
     "index": 18,
     "quarry": "4tssPMzeW59KKi2o1dxMqxnv8tid4X7fHkWxpuSXaenm",
@@ -35,24 +35,10 @@
       "website": "https://saros.finance/pool/ARYg2ZRHstDLYibjVDV4fnMVVG1jtJAaUVNfJce4pn1A"
     },
     "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Ey8M9ZK6bqzXCSuvJFMaQMFNgWShn6aCahTvL1nbcFyk/icon.png",
-    "name": "Saros MIX-CASH Saros LP",
+    "name": "Saros MIX-CASH LP",
     "symbol": "MIX-CASH"
   },
   "underlyingTokens": [
-    {
-      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "website": "https://mixture.money/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
-      "name": "MIX",
-      "symbol": "MIX",
-      "tags": [
-        "stablecoin"
-      ]
-    },
     {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
@@ -66,6 +52,20 @@
       "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
       "name": "Cashio Dollar",
       "symbol": "CASH",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://mixture.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
+      "name": "MIX",
+      "symbol": "MIX",
       "tags": [
         "stablecoin"
       ]

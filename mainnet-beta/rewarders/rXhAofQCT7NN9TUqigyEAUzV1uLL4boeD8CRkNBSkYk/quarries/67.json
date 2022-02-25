@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 67,
-      "lastUpdateTs": "1645746949",
+      "lastUpdateTs": "1645758147",
       "numMiners": "437",
-      "rewardsPerTokenStored": "7465523659304164809963",
+      "rewardsPerTokenStored": "7465534316218641192042",
       "rewardsShare": "669067779556",
       "totalTokensDeposited": "258061191883"
     },
@@ -39,25 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "serum",
-        "currency": "SRM",
-        "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
-        "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
-        "waterfallbot": "https://bit.ly/SRMwaterfall",
-        "website": "https://projectserum.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
-      "name": "Serum",
-      "symbol": "SRM",
-      "tags": [
-        "saber-mkt-srm"
-      ]
-    },
-    {
       "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "chainId": 101,
       "decimals": 6,
@@ -78,6 +59,25 @@
         "wormhole",
         "saber-mkt-srm",
         "wormhole-v2"
+      ]
+    },
+    {
+      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "serum",
+        "currency": "SRM",
+        "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+        "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+        "waterfallbot": "https://bit.ly/SRMwaterfall",
+        "website": "https://projectserum.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+      "name": "Serum",
+      "symbol": "SRM",
+      "tags": [
+        "saber-mkt-srm"
       ]
     }
   ]

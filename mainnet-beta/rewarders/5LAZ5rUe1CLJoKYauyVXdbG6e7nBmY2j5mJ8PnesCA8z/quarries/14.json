@@ -35,27 +35,10 @@
       "website": "https://saros.finance/pool/UwajxALhC5razPkgWkwMuMC6C6J8C3c8TNAztX6egkL"
     },
     "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5csZtCiN3Rap6vk8xwoj8bhHb1rwzdXDtrAkKq1TGRp4/icon.png",
-    "name": "Saros SONAR-CASH Saros LP",
+    "name": "Saros SONAR-CASH LP",
     "symbol": "SONAR-CASH"
   },
   "underlyingTokens": [
-    {
-      "address": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "sonarwatch",
-        "discord": "https://discord.gg/sonarwatch",
-        "twitter": "https://twitter.com/Sonarwatch",
-        "website": "https://sonar.watch/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png",
-      "name": "Sonar Watch",
-      "symbol": "SONAR",
-      "tags": [
-        "utility-token"
-      ]
-    },
     {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
@@ -71,6 +54,23 @@
       "symbol": "CASH",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "address": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "sonarwatch",
+        "discord": "https://discord.gg/sonarwatch",
+        "twitter": "https://twitter.com/Sonarwatch",
+        "website": "https://sonar.watch/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE/logo.png",
+      "name": "Sonar Watch",
+      "symbol": "SONAR",
+      "tags": [
+        "utility-token"
       ]
     }
   ]
