@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 2,
-      "lastUpdateTs": "1645746299",
+      "lastUpdateTs": "1645753707",
       "numMiners": "1441",
-      "rewardsPerTokenStored": "5420537049958392",
+      "rewardsPerTokenStored": "5421478101458711",
       "rewardsShare": "669067779556",
-      "totalTokensDeposited": "1933309113978343"
+      "totalTokensDeposited": "1933309115196547"
     },
     "index": 2,
     "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5",
@@ -38,27 +38,6 @@
     ]
   },
   "underlyingTokens": [
-    {
-      "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "mimatic",
-        "currency": "USD",
-        "discord": "https://discord.com/invite/mQq55j65xJ",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge",
-        "twitter": "https://twitter.com/QiDaoProtocol",
-        "website": "https://mai.finance/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
-      "name": "MAI Stablecoin",
-      "symbol": "MAI",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
     {
       "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
       "chainId": 101,
@@ -94,6 +73,27 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "mimatic",
+        "currency": "USD",
+        "discord": "https://discord.com/invite/mQq55j65xJ",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "twitter": "https://twitter.com/QiDaoProtocol",
+        "website": "https://mai.finance/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
+      "name": "MAI Stablecoin",
+      "symbol": "MAI",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
