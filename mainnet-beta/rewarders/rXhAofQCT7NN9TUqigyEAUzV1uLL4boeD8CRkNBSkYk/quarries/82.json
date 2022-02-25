@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 82,
-      "lastUpdateTs": "1645785605",
+      "lastUpdateTs": "1645803456",
       "numMiners": "102",
-      "rewardsPerTokenStored": "57994300657804265",
+      "rewardsPerTokenStored": "58017952510114857",
       "rewardsShare": "5799582004733",
       "totalTokensDeposited": "1606710697787687"
     },
@@ -71,6 +71,23 @@
       ]
     },
     {
+      "address": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "currency": "EUR",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
+      "name": "Wrapped CEUR (Allbridge from Celo)",
+      "symbol": "acEUR",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-eur"
+      ]
+    },
+    {
       "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
       "chainId": 101,
       "decimals": 8,
@@ -91,23 +108,6 @@
         "ethereum",
         "wrapped",
         "wormhole"
-      ]
-    },
-    {
-      "address": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "currency": "EUR",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
-      "name": "Wrapped CEUR (Allbridge from Celo)",
-      "symbol": "acEUR",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-eur"
       ]
     }
   ]

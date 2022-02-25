@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 49,
-      "lastUpdateTs": "1645801161",
+      "lastUpdateTs": "1645805336",
       "numMiners": "299",
-      "rewardsPerTokenStored": "38981051308642553035",
+      "rewardsPerTokenStored": "38981112718428543254",
       "rewardsShare": "59589096195",
-      "totalTokensDeposited": "1487039382474"
+      "totalTokensDeposited": "1487079794144"
     },
     "index": 49,
     "quarry": "GWTy8S43vAUMCQpjNV9JBp5NPNSuCyCn34wz9Roz63YF",
@@ -62,25 +62,6 @@
       ]
     },
     {
-      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "renbtc",
-        "currency": "BTC",
-        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
-        "source": "renbridge",
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "website": "https://renproject.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
-      "name": "renBTC",
-      "symbol": "renBTC",
-      "tags": [
-        "saber-mkt-btc"
-      ]
-    },
-    {
       "address": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
       "chainId": 101,
       "decimals": 10,
@@ -95,6 +76,25 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
       "name": "Synthetic BTC",
       "symbol": "xBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
+    {
+      "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "renbtc",
+        "currency": "BTC",
+        "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "website": "https://renproject.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+      "name": "renBTC",
+      "symbol": "renBTC",
       "tags": [
         "saber-mkt-btc"
       ]
