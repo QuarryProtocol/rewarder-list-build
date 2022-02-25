@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 61,
-      "lastUpdateTs": "1645765471",
+      "lastUpdateTs": "1645769252",
       "numMiners": "324",
-      "rewardsPerTokenStored": "2875122813761209792158435",
+      "rewardsPerTokenStored": "2875122817601803528034350",
       "rewardsShare": "144042185303246",
-      "totalTokensDeposited": "172700465134678"
+      "totalTokensDeposited": "172700508648167"
     },
     "index": 61,
     "quarry": "FFKbSbquWuTNwqpAq9pvxUzVHe1KgnWxWcK6PMvDQx4e",
@@ -38,6 +38,24 @@
   },
   "underlyingTokens": [
     {
+      "address": "So11111111111111111111111111111111111111112",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "website": "https://solana.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
       "chainId": 101,
       "decimals": 9,
@@ -54,24 +72,6 @@
       "symbol": "daoSOL",
       "tags": [
         "stake-pool-token",
-        "saber-mkt-sol"
-      ]
-    },
-    {
-      "address": "So11111111111111111111111111111111111111112",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "solana",
-        "currency": "SOL",
-        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
-        "website": "https://solana.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
-      "name": "Wrapped SOL",
-      "symbol": "SOL",
-      "tags": [
         "saber-mkt-sol"
       ]
     }
