@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 77,
-      "lastUpdateTs": "1645776505",
+      "lastUpdateTs": "1645780051",
       "numMiners": "391",
-      "rewardsPerTokenStored": "25327319666253517699",
+      "rewardsPerTokenStored": "25396920315764873805",
       "rewardsShare": "289533080755806",
-      "totalTokensDeposited": "17964554204712"
+      "totalTokensDeposited": "17964723078436"
     },
     "index": 77,
     "quarry": "5C88C8sRAbgqodhXtz756UrkfHgqfwXPKcf7ozcdqsJy",
@@ -38,6 +38,24 @@
   },
   "underlyingTokens": [
     {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
       "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "chainId": 101,
       "decimals": 6,
@@ -54,24 +72,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
       "name": "UXD Stablecoin",
       "symbol": "UXD",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://www.centre.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-      "name": "USD Coin",
-      "symbol": "USDC",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
