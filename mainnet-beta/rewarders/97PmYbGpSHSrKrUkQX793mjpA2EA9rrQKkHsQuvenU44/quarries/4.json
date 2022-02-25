@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 4,
-      "lastUpdateTs": "1645743375",
+      "lastUpdateTs": "1645747887",
       "numMiners": "4010",
-      "rewardsPerTokenStored": "65239017614025607637",
+      "rewardsPerTokenStored": "65267206109253838046",
       "rewardsShare": "575588954058609",
-      "totalTokensDeposited": "112203188735510"
+      "totalTokensDeposited": "112203190103877"
     },
     "index": 4,
     "quarry": "CDBn1CbSdM5UMerjUWoQHZemRsMtTM1F59CwKaoSLshU",
@@ -38,24 +38,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://tether.to/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
-      "name": "USDT",
-      "symbol": "USDT",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "chainId": 101,
       "decimals": 6,
@@ -68,6 +50,24 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://tether.to/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+      "name": "USDT",
+      "symbol": "USDT",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"

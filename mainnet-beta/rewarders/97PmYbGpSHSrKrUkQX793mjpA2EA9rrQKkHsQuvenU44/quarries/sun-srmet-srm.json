@@ -3,9 +3,9 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 63,
-      "lastUpdateTs": "1645737449",
+      "lastUpdateTs": "1645746945",
       "numMiners": "154",
-      "rewardsPerTokenStored": "66461495115405239098",
+      "rewardsPerTokenStored": "66634814284213354186",
       "rewardsShare": "1956779386214",
       "totalTokensDeposited": "130566428847"
     },
@@ -39,6 +39,25 @@
   },
   "underlyingTokens": [
     {
+      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "serum",
+        "currency": "SRM",
+        "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+        "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+        "waterfallbot": "https://bit.ly/SRMwaterfall",
+        "website": "https://projectserum.com/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+      "name": "Serum",
+      "symbol": "SRM",
+      "tags": [
+        "saber-mkt-srm"
+      ]
+    },
+    {
       "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "chainId": 101,
       "decimals": 6,
@@ -59,25 +78,6 @@
         "wormhole",
         "saber-mkt-srm",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "serum",
-        "currency": "SRM",
-        "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
-        "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
-        "waterfallbot": "https://bit.ly/SRMwaterfall",
-        "website": "https://projectserum.com/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
-      "name": "Serum",
-      "symbol": "SRM",
-      "tags": [
-        "saber-mkt-srm"
       ]
     }
   ]
