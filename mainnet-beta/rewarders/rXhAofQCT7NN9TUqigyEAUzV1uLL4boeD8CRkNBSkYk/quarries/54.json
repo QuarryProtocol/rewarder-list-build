@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 54,
-      "lastUpdateTs": "1645763496",
-      "numMiners": "228",
-      "rewardsPerTokenStored": "8485712868842080",
-      "rewardsShare": "669067779556",
-      "totalTokensDeposited": "308639506351791"
-    },
     "index": 54,
+    "isReplica": false,
+    "mergePool": "J8RqPoriEuLkBbexH54yAngbg7fqH3Z664TXAmrcWH8o",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR"
+    },
     "quarry": "8T7Few94jmgsPNtG1e3Q16Bm4nQZVDjt9sUbzPaN23w4",
+    "replicaMint": "CZWzHEhAtLfhmQg83tM5UUdETN7tvN7xNm12g8Mb1W5T",
+    "replicaQuarries": [],
     "slug": "ahusdt-usdc",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,51 @@
   },
   "rewarder": {
     "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-    }
+    },
+    "slug": "saber"
   },
   "rewardsToken": {
     "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
@@ -64,25 +104,21 @@
   },
   "underlyingTokens": [
     {
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
       "chainId": 101,
       "decimals": 9,
       "extensions": {
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "tether",
         "currency": "USD",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "website": "https://app.saber.so"
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
       },
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "symbol": "sUSDC-9",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
+      "name": "Wrapped USDT (Allbridge from HECO)",
+      "symbol": "ahUSDT",
       "tags": [
         "stablecoin",
-        "saber-mkt-usd",
-        "saber-dec-wrapped"
+        "saber-mkt-usd"
       ]
     },
     {
@@ -98,24 +134,6 @@
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "name": "USD Coin",
       "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
-      "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
-      "name": "Wrapped USDT (Allbridge from HECO)",
-      "symbol": "ahUSDT",
       "tags": [
         "stablecoin",
         "saber-mkt-usd"

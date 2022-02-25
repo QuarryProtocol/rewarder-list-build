@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 0,
-      "lastUpdateTs": "1645808352",
-      "numMiners": "15",
-      "rewardsPerTokenStored": "8862665538108659576153839",
-      "rewardsShare": "17205387210",
-      "totalTokensDeposited": "18881150357"
-    },
     "index": 0,
+    "isReplica": false,
+    "mergePool": "HqYwSuf2Eoi6y9htEYX5FZJvchhD8hwjZoTdmjHFCnhq",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+    },
     "quarry": "Hs2XmWQFw3ExawMQkCsBGQGX73JG1n2Qpjm8G7dYRw7m",
+    "replicaMint": "J6dfrHc3gfKqZzHgZWM3ENRNB7Z1xmW66jvR3aSexVbd",
+    "replicaQuarries": [],
     "slug": "0",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,46 @@
   },
   "rewarder": {
     "authority": "7Q42pBSxR8bbWJkhSQZLDqpcR9xCv9z3zBSGPc7PdXkt",
+    "info": {
+      "address": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+      "color": "#EF39F8",
+      "description": "The easiest way to stake Solana.",
+      "id": "marinade",
+      "name": "Marinade",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "marinade",
+        "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
+        "redeemerVaultATA": "4zDEyfrJcGR3DQRzaThYSRxkeFM7zE4q12diwtbzQXPJ",
+        "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "underlyingTokenInfo": {
+          "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "coingeckoId": "marinade",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+          "name": "Marinade",
+          "symbol": "MNDE"
+        }
+      },
+      "website": "https://marinade.finance"
+    },
     "mintWrapper": "Cz2x6Rmwa3aJRXpaFyw13EBoz3V4UBBNqWZEbjYmJjDZ",
     "rewardsToken": {
       "decimals": -1,
       "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
-    }
+    },
+    "slug": "marinade"
   },
   "stakedToken": null,
   "underlyingTokens": []

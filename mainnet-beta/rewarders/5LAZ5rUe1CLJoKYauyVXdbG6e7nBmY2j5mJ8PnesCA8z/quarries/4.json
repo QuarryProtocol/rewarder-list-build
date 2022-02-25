@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 4,
-      "lastUpdateTs": "1645828092",
-      "numMiners": "161",
-      "rewardsPerTokenStored": "81548872548133346130231",
-      "rewardsShare": "0",
-      "totalTokensDeposited": "16089468781"
-    },
     "index": 4,
+    "isReplica": false,
+    "mergePool": "VbgZzncNSKxLjtddF67KAQYbTziDEMprptwyTbbtueY",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA"
+    },
     "quarry": "8ZQdi83kJHNSr8zYma432AXbXtqYNVJYGCo3d2iZ4GSF",
+    "replicaMint": "CUEnoeXNycJkCHUanSTtTCKgHfJFrGvG8Wz6z468f7kh",
+    "replicaQuarries": [],
     "slug": "sasol-cash",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",

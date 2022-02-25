@@ -1,16 +1,26 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 8,
-      "lastUpdateTs": "1645792133",
-      "numMiners": "27",
-      "rewardsPerTokenStored": "760370504199189739969962",
-      "rewardsShare": "292971319287868",
-      "totalTokensDeposited": "4423617740"
-    },
     "index": 8,
+    "isReplica": false,
+    "mergePool": "9KmPzuRjoa8BHB5ypsE8KeddyFYSD8vc291snDeUjbwM",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW"
+    },
     "quarry": "CpxUJPQibBjUXLhXzzvN3F2mARzBiSEgKPNa8D2tMQ2a",
+    "replicaMint": "9rHYVdW9Q3fa9Hh9R8pEPnNc4BAoBzpdor4kKXksVscn",
+    "replicaQuarries": [
+      {
+        "quarry": "8e8EnejyFYCcXiot1nEn2ayx4KAtYUFwcmGVvJ6TjNPT",
+        "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
+        },
+        "slug": "qrport-cash"
+      }
+    ],
     "slug": "port-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +29,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",

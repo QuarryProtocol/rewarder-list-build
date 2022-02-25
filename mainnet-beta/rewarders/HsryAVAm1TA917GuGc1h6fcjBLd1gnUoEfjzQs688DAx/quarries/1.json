@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 1,
-      "lastUpdateTs": "1645819705",
-      "numMiners": "14",
-      "rewardsPerTokenStored": "4485898730376406628",
-      "rewardsShare": "2",
-      "totalTokensDeposited": "17879775857192"
-    },
     "index": 1,
+    "isReplica": false,
+    "mergePool": "8esKYp6Ba5rQmAmzLLX91gbaA5bAVAAYrWv2Fhoyv5J9",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4"
+    },
     "quarry": "Acrvt5xP8KNAKgBdgzSNgj6c48yjc556yHhka4Nfcxhh",
+    "replicaMint": "GqHHg3ZAYrmch5BwBjrXSSVJHUm215Bo7tohAsoKhq3x",
+    "replicaQuarries": [],
     "slug": "1",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,47 @@
   },
   "rewarder": {
     "authority": "F8dEYehnrP6V88YSTLtAQfQ2BbMjdBRAHqodfcpPqePn",
+    "info": {
+      "address": "HsryAVAm1TA917GuGc1h6fcjBLd1gnUoEfjzQs688DAx",
+      "color": "#00ff0a",
+      "description": "Jungle Finance Governance Token",
+      "id": "Jungle",
+      "name": "Jungle Finance",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "27zGCKRwhkjVJvCZJUYuu8eUfu7tFgW5W6hfumR8xr26",
+        "redeemerVaultATA": "54LgmJdEfH2KKeQStRQnM5fCdzYcZGkpxvd18KUejWQw",
+        "underlyingToken": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+        "underlyingTokenInfo": {
+          "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "description": "The Jungle Finance governance token.",
+            "discord": "https://discord.gg/2DWjx5NywE",
+            "medium": "https://medium.com/@JungleDeFi",
+            "twitter": "https://twitter.com/JungleDeFi",
+            "website": "https://jungledefi.io/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+          "name": "Jungle DeFi",
+          "symbol": "JFI",
+          "tags": [
+            "governance-token"
+          ]
+        }
+      },
+      "website": "https://jungledefi.io"
+    },
     "mintWrapper": "EZARnar6qGf5qCwkp3pvYV3B6hszPhFNSGyiLzR3uPXb",
     "rewardsToken": {
       "decimals": -1,
       "mint": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4"
-    }
+    },
+    "slug": "Jungle"
   },
   "stakedToken": null,
   "underlyingTokens": []

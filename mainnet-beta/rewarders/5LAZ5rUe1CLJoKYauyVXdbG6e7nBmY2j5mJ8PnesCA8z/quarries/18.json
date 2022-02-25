@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 18,
-      "lastUpdateTs": "1645829976",
-      "numMiners": "104",
-      "rewardsPerTokenStored": "43151835164270952164182",
-      "rewardsShare": "111840589167",
-      "totalTokensDeposited": "11575302359"
-    },
     "index": 18,
+    "isReplica": false,
+    "mergePool": "7Sb9CQdpxpgEpPxRuQzE8ms3KSPcXGvtuRQeD2t4scLo",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "Ey8M9ZK6bqzXCSuvJFMaQMFNgWShn6aCahTvL1nbcFyk"
+    },
     "quarry": "4tssPMzeW59KKi2o1dxMqxnv8tid4X7fHkWxpuSXaenm",
+    "replicaMint": "6UNmpb7kJo6uxJGiR39c1tMyAARMHr2ccfUd1xznJKrZ",
+    "replicaQuarries": [],
     "slug": "mix-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +19,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
@@ -65,6 +77,20 @@
   },
   "underlyingTokens": [
     {
+      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://mixture.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
+      "name": "MIX",
+      "symbol": "MIX",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -77,20 +103,6 @@
       "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
       "name": "Cashio Dollar",
       "symbol": "CASH",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
-      "address": "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "website": "https://mixture.money/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
-      "name": "MIX",
-      "symbol": "MIX",
       "tags": [
         "stablecoin"
       ]

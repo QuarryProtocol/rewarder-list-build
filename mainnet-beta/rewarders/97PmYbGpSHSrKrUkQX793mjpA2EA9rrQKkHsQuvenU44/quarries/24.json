@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 24,
-      "lastUpdateTs": "1645563241",
-      "numMiners": "1885",
-      "rewardsPerTokenStored": "21332734053309543",
-      "rewardsShare": "0",
-      "totalTokensDeposited": "41605225184929"
-    },
     "index": 24,
+    "isReplica": false,
+    "mergePool": "CaUSz4Wme5K9owWYFNHpFhf18Y2G2MXW3EoidPuJbiAt",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q"
+    },
     "quarry": "EfU5ygEbZ5VwKQZKFD41Uyi873T6w18Jdu34871bt2Yq",
+    "replicaMint": "eayTeh69cXpAGkAcETFuZwv1CmVdH9QvC9heZmmoKSD",
+    "replicaQuarries": [],
     "slug": "sun-wustv1-usdc",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,49 @@
   },
   "rewarder": {
     "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "info": {
+      "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
+      "color": "#DC723F",
+      "description": "Solana's cross-chain DeFi yield aggregator.",
+      "hidden": true,
+      "id": "sunny",
+      "name": "Sunny Aggregator",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "sunny",
+        "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
+        "redeemerVaultATA": "9nRrFiRtGNHRyou1mAjpMmtfzExKH8xgfYkmhBS3udPd",
+        "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "underlyingTokenInfo": {
+          "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
+          "symbol": "SUNNY"
+        }
+      },
+      "website": "https://sunny.ag"
+    },
     "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
     "rewardsToken": {
       "decimals": 6,
       "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
-    }
+    },
+    "slug": "sunny"
   },
   "rewardsToken": {
     "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
@@ -64,25 +102,21 @@
   },
   "underlyingTokens": [
     {
-      "address": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "chainId": 101,
-      "decimals": 9,
+      "decimals": 6,
       "extensions": {
         "coingeckoId": "usd-coin",
         "currency": "USD",
         "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "underlyingTokens": [
-          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "website": "https://app.saber.so"
+        "website": "https://www.centre.io/"
       },
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
-      "name": "Saber Wrapped USD Coin (9 decimals)",
-      "symbol": "sUSDC-9",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "tags": [
         "stablecoin",
-        "saber-mkt-usd",
-        "saber-dec-wrapped"
+        "saber-mkt-usd"
       ]
     },
     {
@@ -107,24 +141,6 @@
         "wormhole",
         "saber-mkt-usd",
         "wormhole-v1"
-      ]
-    },
-    {
-      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "usd-coin",
-        "currency": "USD",
-        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "website": "https://www.centre.io/"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
       ]
     }
   ]

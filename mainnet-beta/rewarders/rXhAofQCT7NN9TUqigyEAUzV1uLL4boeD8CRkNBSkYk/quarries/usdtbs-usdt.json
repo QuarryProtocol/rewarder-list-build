@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 62,
-      "lastUpdateTs": "1645782730",
-      "numMiners": "210",
-      "rewardsPerTokenStored": "21367383700641977452",
-      "rewardsShare": "669067779556",
-      "totalTokensDeposited": "30057909343560"
-    },
     "index": 62,
+    "isReplica": false,
+    "mergePool": "DmpEqQfZTy7J8kF7gDDuSvBFbbv1e78xVTtrP2L81pJj",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 8,
+      "mint": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv"
+    },
     "quarry": "86tqayCSmxprknt6Lu6rpJx7B7HjaurHXUmzev7Hx8v6",
+    "replicaMint": "4aFZMCFfsLSu5gxMXBegge8pL3tx1qti5m9YoGD9Dpz1",
+    "replicaQuarries": [],
     "slug": "usdtbs-usdt",
     "stakedToken": {
       "decimals": 8,
@@ -19,11 +19,51 @@
   },
   "rewarder": {
     "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-    }
+    },
+    "slug": "saber"
   },
   "rewardsToken": {
     "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
@@ -84,28 +124,6 @@
         "wormhole",
         "saber-mkt-usd",
         "wormhole-v2"
-      ]
-    },
-    {
-      "address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "tether",
-        "currency": "USD",
-        "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "underlyingTokens": [
-          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ],
-        "website": "https://app.saber.so"
-      },
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw/icon.png",
-      "name": "Saber Wrapped USDT (8 decimals)",
-      "symbol": "sUSDT-8",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd",
-        "saber-dec-wrapped"
       ]
     },
     {

@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 5,
-      "lastUpdateTs": "1642583639",
-      "numMiners": "5",
-      "rewardsPerTokenStored": "23845304087312486148734",
-      "rewardsShare": "200",
-      "totalTokensDeposited": "85116600557"
-    },
     "index": 5,
+    "isReplica": false,
+    "mergePool": "2nzWVp9LoVKuK7QdB8DAud6ryiGLxtyEjesDApCuWQNj",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
+    },
     "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE",
+    "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",
+    "replicaQuarries": [],
     "slug": "usdt-cash",
     "stakedToken": {
       "decimals": 6,
@@ -19,12 +19,110 @@
   },
   "rewarder": {
     "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
       "decimals": -1,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-    }
+    },
+    "slug": "saber"
   },
-  "stakedToken": null,
-  "underlyingTokens": []
+  "stakedToken": {
+    "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+      ],
+      "website": "https://app.saber.so/#/pools/usdt_cash"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+    "name": "Saber USDT-CASH LP",
+    "symbol": "USDT-CASH",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
+      "name": "USDT (Saber Devnet)",
+      "symbol": "USDT",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "source": "cashio",
+        "sourceUrl": "https://cashio.app/#/print",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://cashio.app"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+      "name": "Cashio Dollar",
+      "symbol": "CASH",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    }
+  ]
 }

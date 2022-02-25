@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 16,
-      "lastUpdateTs": "1645741695",
-      "numMiners": "1519",
-      "rewardsPerTokenStored": "1535917356878265057",
-      "rewardsShare": "0",
-      "totalTokensDeposited": "9824157686256"
-    },
     "index": 16,
+    "isReplica": false,
+    "mergePool": "5JR4Er7tjvgKejqo8i7gk9grNs7VJ4f1TBqGjBH7UpbL",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP"
+    },
     "quarry": "EPmv3W1ixyHnKMM1tbmn6exm3nyP5RUVYUVygsRfeoj6",
+    "replicaMint": "5Soh9pwLeeTFAJd8KdfeuqFmYWUKncjKCnHgcYJ7YeqD",
+    "replicaQuarries": [],
     "slug": "sun-wfttv1-softt",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,49 @@
   },
   "rewarder": {
     "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "info": {
+      "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
+      "color": "#DC723F",
+      "description": "Solana's cross-chain DeFi yield aggregator.",
+      "hidden": true,
+      "id": "sunny",
+      "name": "Sunny Aggregator",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "sunny",
+        "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
+        "redeemerVaultATA": "9nRrFiRtGNHRyou1mAjpMmtfzExKH8xgfYkmhBS3udPd",
+        "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "underlyingTokenInfo": {
+          "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
+          "symbol": "SUNNY"
+        }
+      },
+      "website": "https://sunny.ag"
+    },
     "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
     "rewardsToken": {
       "decimals": 6,
       "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
-    }
+    },
+    "slug": "sunny"
   },
   "rewardsToken": {
     "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
@@ -84,34 +122,6 @@
         "wormhole",
         "saber-mkt-ftt",
         "wormhole-v1"
-      ]
-    },
-    {
-      "address": "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "coingeckoId": "ftx-token",
-        "currency": "FTT",
-        "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
-        "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
-        "source": "sollet",
-        "sourceUrl": "https://www.sollet.io/",
-        "underlyingTokens": [
-          "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
-        ],
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "website": "https://app.saber.so"
-      },
-      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt/icon.png",
-      "name": "Saber Wrapped Wrapped FTT (Sollet) (9 decimals)",
-      "symbol": "ssoFTT-9",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum",
-        "saber-mkt-ftt",
-        "saber-dec-wrapped"
       ]
     },
     {

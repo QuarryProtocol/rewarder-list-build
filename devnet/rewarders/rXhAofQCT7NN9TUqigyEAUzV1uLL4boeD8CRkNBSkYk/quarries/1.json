@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 1,
-      "lastUpdateTs": "1645579744",
-      "numMiners": "467",
-      "rewardsPerTokenStored": "276685934848094365",
-      "rewardsShare": "1",
-      "totalTokensDeposited": "4726582629028"
-    },
     "index": 1,
+    "isReplica": false,
+    "mergePool": "ACnAHxMYYN5VTtHVaorRhhWrhXUjorCr12vFkhLW6Dkp",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
+    },
     "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq",
+    "replicaMint": "DAvvWrBic2wtK4UMkNrpdQXWLBCH8dmW3ck4KDGhNTUH",
+    "replicaQuarries": [],
     "slug": "usdc-pai",
     "stakedToken": {
       "decimals": 6,
@@ -19,12 +19,102 @@
   },
   "rewarder": {
     "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
       "decimals": -1,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-    }
+    },
+    "slug": "saber"
   },
-  "stakedToken": null,
-  "underlyingTokens": []
+  "stakedToken": {
+    "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+        "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+      ],
+      "website": "https://app.saber.so/#/pools/usdc_pai"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J/icon.png",
+    "name": "Saber USDC-PAI LP",
+    "symbol": "USDC-PAI",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "name": "USD Coin (Saber Devnet)",
+      "symbol": "USDC",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "currency": "USD"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/pai.svg",
+      "name": "PAI",
+      "symbol": "PAI",
+      "tags": [
+        "saber-mkt-usd"
+      ]
+    }
+  ]
 }

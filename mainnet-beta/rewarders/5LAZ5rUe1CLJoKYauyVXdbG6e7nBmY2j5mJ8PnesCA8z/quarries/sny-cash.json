@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 15,
-      "lastUpdateTs": "1645792141",
-      "numMiners": "9",
-      "rewardsPerTokenStored": "323152839011042173490656",
-      "rewardsShare": "55751694824630",
-      "totalTokensDeposited": "1630830060"
-    },
     "index": 15,
+    "isReplica": false,
+    "mergePool": "6gH5qLu2nJSZYRXhoaUqdYw9aMte2sF2S9P1xTBPwzgh",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "3EC7pn6pXDCm1BBuAXXwUUnhay6FVKZxHP7KZc1Z27nk"
+    },
     "quarry": "FCah768kx2biJVUoxoptc4UHFsvMWihTz4tp5vNcD9sb",
+    "replicaMint": "52YpRBpNCHyVdo4o89zqarXtuL3Fqizqp3SUQCvmbAST",
+    "replicaQuarries": [],
     "slug": "sny-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +19,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
@@ -65,6 +77,20 @@
   },
   "underlyingTokens": [
     {
+      "address": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "synthetify-token",
+        "serumV3Usdc": "DPfj2jYwPaezkCmUNm5SSYfkrkz8WFqwGLcxDDUsN3gA",
+        "twitter": "https://twitter.com/synthetify",
+        "website": "https://synthetify.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y/logo.png",
+      "name": "Synthetify",
+      "symbol": "SNY"
+    },
+    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -80,20 +106,6 @@
       "tags": [
         "stablecoin"
       ]
-    },
-    {
-      "address": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "synthetify-token",
-        "serumV3Usdc": "DPfj2jYwPaezkCmUNm5SSYfkrkz8WFqwGLcxDDUsN3gA",
-        "twitter": "https://twitter.com/synthetify",
-        "website": "https://synthetify.io/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y/logo.png",
-      "name": "Synthetify",
-      "symbol": "SNY"
     }
   ]
 }

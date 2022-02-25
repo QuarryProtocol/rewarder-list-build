@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 0,
-      "lastUpdateTs": "1644633696",
-      "numMiners": "0",
-      "rewardsPerTokenStored": "0",
-      "rewardsShare": "100",
-      "totalTokensDeposited": "0"
-    },
     "index": 0,
+    "isReplica": false,
+    "mergePool": "2zLzfCALztZH2y3xCeMp2qwNr5VnZD92r7U9PdCffvS9",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "27hdcZv7RtuMp75vupThR3T4KLsL61t476eosMdoec4c"
+    },
     "quarry": "HNkjQNJ98LRXfyaHGDScVyoNPgbwMnr6TxKJL1FQLDfi",
+    "replicaMint": "F9p9inKRtENUFw7XCE2Cj7wKaZgtWQdfkQqwitZS8gmC",
+    "replicaQuarries": [],
     "slug": "0",
     "stakedToken": {
       "decimals": 9,
@@ -19,11 +19,29 @@
   },
   "rewarder": {
     "authority": "8UaZw2jDhJzv5V53569JbCd3bD4BnyCfBH3sjwgajGS9",
+    "info": {
+      "address": "2ZP24TRHo5fJMdLuiTSzzpPfFcjkCtML4wxeRNWgwprP",
+      "color": "#ff0000",
+      "description": "Sentre dummy des",
+      "id": "sentre-devnet",
+      "name": "Sentre Protocol",
+      "networks": [
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "FvNtZdWva5uDG3FgtCc6bKzBHrQQeTkUzgAQAQpbYX5F",
+        "redeemerVaultATA": "8QyMH2oPYrodVaFBjp1eH3jszZ8jwD2mdJH7t7ENPZUi",
+        "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+      },
+      "website": "https://sentre.io"
+    },
     "mintWrapper": "7ZHHMsxBhL4cRpJ7pUzQAzwBmCwkPRWGobiR5by3DZrz",
     "rewardsToken": {
       "decimals": -1,
       "mint": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7"
-    }
+    },
+    "slug": "sentre-devnet"
   },
   "stakedToken": null,
   "underlyingTokens": []

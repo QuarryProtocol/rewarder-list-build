@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 1,
-      "lastUpdateTs": "0",
-      "numMiners": "1",
-      "rewardsPerTokenStored": "0",
-      "rewardsShare": "0",
-      "totalTokensDeposited": "0"
-    },
     "index": 1,
+    "isReplica": false,
+    "mergePool": "69hPhrT38oC2nAETuTthoWN8thKCe9YGYAh4VJsEQff",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "9yAobKjkzPj8tpqGAagUv6mMFNTs3RAhKAUzLZX1TVj2"
+    },
     "quarry": "BGBAgqvwRGvjrJiWGmZVjsyffwQuAgN9NZ98JWdzxajV",
+    "replicaMint": "AofG125YHESdRCGJz3GxSqYYGzCXqkToPjn6pHY1wuqZ",
+    "replicaQuarries": [],
     "slug": "1",
     "stakedToken": {
       "decimals": 6,
@@ -23,7 +23,8 @@
     "rewardsToken": {
       "decimals": -1,
       "mint": "AjhvrLc4PWLakXK6KbVsM7FdMUr7vyKFwRhTkFSiXVsn"
-    }
+    },
+    "slug": "2NWx4pXrBLdbePYXqGG9q98m3tXKQRy6pZVtYtwf6BdN"
   },
   "stakedToken": null,
   "underlyingTokens": []

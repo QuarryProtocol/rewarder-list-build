@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 20,
-      "lastUpdateTs": "1645603936",
-      "numMiners": "8",
-      "rewardsPerTokenStored": "2728163141457675121039258",
-      "rewardsShare": "6752645097434",
-      "totalTokensDeposited": "9829941"
-    },
     "index": 20,
+    "isReplica": false,
+    "mergePool": "7e8WaATxzbCFNdimhqRo5mb33TdpGp97yA6Y8T4SSCva",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "813D4afWKgjHfc65LiPtF1rodNreuJ6ZQH4tMhuFrX2k"
+    },
     "quarry": "GaMtV3AAYTRzcUMDJb4bk9aP5Ski8goW94TT87AyF3zc",
+    "replicaMint": "A5Vm4L51XrKHmSxiG6T4yuhJATXwc7U6pc7yNkBb71kn",
+    "replicaQuarries": [],
     "slug": "god-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +19,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
@@ -65,6 +77,19 @@
   },
   "underlyingTokens": [
     {
+      "address": "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.gg/4wvSFbkFqY",
+        "twitter": "https://twitter.com/gods_sol",
+        "website": "https://gods.so/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6/logo.png",
+      "name": "GOD",
+      "symbol": "GOD"
+    },
+    {
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "decimals": 6,
@@ -80,19 +105,6 @@
       "tags": [
         "stablecoin"
       ]
-    },
-    {
-      "address": "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "discord": "https://discord.gg/4wvSFbkFqY",
-        "twitter": "https://twitter.com/gods_sol",
-        "website": "https://gods.so/"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6/logo.png",
-      "name": "GOD",
-      "symbol": "GOD"
     }
   ]
 }

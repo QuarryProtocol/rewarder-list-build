@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 11,
-      "lastUpdateTs": "1645789884",
-      "numMiners": "9",
-      "rewardsPerTokenStored": "1492650174484588499397390",
-      "rewardsShare": "50644838230755",
-      "totalTokensDeposited": "355585424"
-    },
     "index": 11,
+    "isReplica": false,
+    "mergePool": "GBbMuNdcjQRzJ6DNAd9mEkw77JSduJseBkw8vLSNqYTm",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "BteRTgfrrxyVwJAgAvv9GsLuyn4CWdBRYbBBqE3FM94z"
+    },
     "quarry": "5wHd1JFqXeTmSUUtB3FYT3YbgnnfEV2ENuYubbr2CTZm",
+    "replicaMint": "GVFXKs6zLHGGZ14ocHwxTNXv1uP2DFnm7156Z7WQaRfK",
+    "replicaQuarries": [],
     "slug": "step-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +19,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
@@ -65,23 +77,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "discord": "https://discord.com/invite/GmkRRKJkuh",
-        "medium": "https://medium.com/@cashioapp",
-        "twitter": "https://twitter.com/CashioApp",
-        "website": "https://cashio.app"
-      },
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
-      "name": "Cashio Dollar",
-      "symbol": "CASH",
-      "tags": [
-        "stablecoin"
-      ]
-    },
-    {
       "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
       "chainId": 101,
       "decimals": 9,
@@ -97,6 +92,23 @@
       "symbol": "STEP",
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://cashio.app"
+      },
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
+      "name": "Cashio Dollar",
+      "symbol": "CASH",
+      "tags": [
+        "stablecoin"
       ]
     }
   ]

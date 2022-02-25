@@ -1,16 +1,62 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 0,
-      "lastUpdateTs": "1635607530",
-      "numMiners": "0",
-      "rewardsPerTokenStored": "0",
-      "rewardsShare": "1",
-      "totalTokensDeposited": "0"
-    },
     "index": 0,
+    "isReplica": false,
+    "mergePool": "Hzf4ch5iPzApy1uGFnusnkM1cGF4j6YStomxoGuFrBEz",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "u8bKRdJGNuHq9q4Q3jcFbwoRDCx2zZF2iAr94VzrNHn"
+    },
     "quarry": "FRzCx2G2ggKtXEVPmvtWDAGTp6PuhTraLTS1oNEn9M4C",
+    "replicaMint": "ENBS5gxFfZ1oMvbckQb7AvEeXio3HuKXN9Hq48SGJyJ",
+    "replicaQuarries": [
+      {
+        "quarry": "HawgjCNmn28BveVX5q8h31VtQi8miA2orKZv7CawR9Bj",
+        "rewarder": "3GDUjaKdFfHtVPhZsFufUokiqrHyXtHEdEyV7xvZ9Jqh",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "7sbYKrWs5Rn5NVWB5soNHiwLeHaS3xwLwd4nzzMpMzLH"
+        },
+        "slug": "0"
+      },
+      {
+        "quarry": "HZAbk4cF4ksLjxzTTLk8LLMCmwnjrU6DdT2X8UJGK4rP",
+        "rewarder": "9McvJXdYH2T1RzknQ9yJcWaDJ1L8L8swJ1bgLwy2eE9R",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "5KLUeVwHUcfL9NKJoUXKyUSmMEmSTpqSZZoTTB4hnWUR"
+        },
+        "slug": "0"
+      },
+      {
+        "quarry": "2m2vbpWi2SoxhBKZS3g3ndyfgTPiT2YvnfEoXLVE9kQg",
+        "rewarder": "Backrz2snzAmwzrgpw39cuwNkzTpPCzduQRcZu4f4iab",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "HBQREAG7na17RN7kow3bz1Q9k2FkMtFA93LpeG8rvWiT"
+        },
+        "slug": "0"
+      },
+      {
+        "quarry": "9Wfy4qvkXCJEQSX9GLyYuxRKWQv5wPqnbdrgAa6MxzaH",
+        "rewarder": "CT6EqdRKniFTjmhhsQdr2eURjLdYg5eDWtYww6pXFcBc",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "35HUKZe2PAf6G2wja7TghTKFhHSiq4R7amJ8N3SU7uSu"
+        },
+        "slug": "0"
+      },
+      {
+        "quarry": "8XVK6B6ZrZaB6V24LxJNtw3bFn52XBb3tY8GQsvEscrt",
+        "rewarder": "E3LzbsvEoaSXpZBiE68EWxJKVjKjcnwTrk7V3xhLiYcD",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "DrjXoTBFF9j3Cc6qyntEvhFaWod6bnmCqujBNHwpnXBk"
+        },
+        "slug": "0"
+      }
+    ],
     "slug": "0",
     "stakedToken": {
       "decimals": 9,
@@ -23,7 +69,8 @@
     "rewardsToken": {
       "decimals": -1,
       "mint": "Ejhd1XwFws7MWcmWKZgZWM5hkm4jTYx3Azc6D5Zq9ePa"
-    }
+    },
+    "slug": "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y"
   },
   "stakedToken": null,
   "underlyingTokens": []

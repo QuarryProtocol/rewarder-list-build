@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 8,
-      "lastUpdateTs": "1645794562",
-      "numMiners": "1",
-      "rewardsPerTokenStored": "462579943918524",
-      "rewardsShare": "225389",
-      "totalTokensDeposited": "10000000"
-    },
     "index": 8,
+    "isReplica": false,
+    "mergePool": "3EmLkTyk4JSr2o8uJpkL8ywUsFJwk7eYsg8ryjpMwAUa",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "6UgGnLA3Lfe8NBLAESctsUXWdP3zjMFzSLEZxS3tiaKh"
+    },
     "quarry": "9ybGfU24cBgM5bvsPvjFUe2C4DhS6evjYrKc6KcquE9Y",
+    "replicaMint": "Bxrkh2y162u4hHqebngtonxfA2tbJpoS5jTxjEokWa4J",
+    "replicaQuarries": [],
     "slug": "pmer",
     "stakedToken": {
       "decimals": 6,
@@ -19,11 +19,48 @@
   },
   "rewarder": {
     "authority": "8T5a1VgmPhvAmxndHm4oCQiS48A3eyykQNtNLF7vWy6Y",
+    "info": {
+      "address": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm",
+      "color": "#806df9",
+      "description": "Port Finance aims to provide a suite of fixed income products.",
+      "id": "port",
+      "name": "Port Finance",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "F8zEcm7zGWiJiodZxLFpuRd4A8yntyd5DGAkaD4AdH5h",
+        "redeemerVaultATA": "6XG499sh19K6fGdjbaZgdMJWpVqvHifsrGUNWTH7914D",
+        "underlyingToken": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+        "underlyingTokenInfo": {
+          "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "port-finance",
+            "discord": "https://discord.gg/nAMXAYhTb2",
+            "github": "https://github.com/port-finance/",
+            "medium": "https://medium.com/port-finance",
+            "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+            "telegram": "https://t.me/port_finance",
+            "twitter": "https://twitter.com/port_finance",
+            "waterfallbot": "https://bit.ly/PORTwaterfall",
+            "website": "https://port.finance/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+          "name": "Port Finance Token",
+          "symbol": "PORT"
+        }
+      },
+      "website": "https://port.finance"
+    },
     "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W",
     "rewardsToken": {
       "decimals": -1,
       "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
-    }
+    },
+    "slug": "port"
   },
   "stakedToken": {
     "address": "6UgGnLA3Lfe8NBLAESctsUXWdP3zjMFzSLEZxS3tiaKh",

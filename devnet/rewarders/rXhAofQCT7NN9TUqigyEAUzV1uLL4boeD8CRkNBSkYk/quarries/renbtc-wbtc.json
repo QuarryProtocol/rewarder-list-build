@@ -1,16 +1,26 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 2,
-      "lastUpdateTs": "1645078350",
-      "numMiners": "615",
-      "rewardsPerTokenStored": "934542679271295858",
-      "rewardsShare": "1000",
-      "totalTokensDeposited": "1382273027709349"
-    },
     "index": 2,
+    "isReplica": false,
+    "mergePool": "B56ZQjHikGLSYpjF5PGrooGnXZoAAKP3gBUKpXcjVoPV",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 8,
+      "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+    },
     "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi",
+    "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
+    "replicaQuarries": [
+      {
+        "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
+        "rewarder": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9"
+        },
+        "slug": "qrrenbtc-wbtc"
+      }
+    ],
     "slug": "renbtc-wbtc",
     "stakedToken": {
       "decimals": 8,
@@ -19,12 +29,99 @@
   },
   "rewarder": {
     "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
       "decimals": -1,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-    }
+    },
+    "slug": "saber"
   },
-  "stakedToken": null,
-  "underlyingTokens": []
+  "stakedToken": {
+    "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+    "chainId": 103,
+    "decimals": 8,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+        "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+      ],
+      "website": "https://app.saber.so/#/pools/btc"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+    "name": "Saber renBTC-WBTC LP",
+    "symbol": "renBTC-WBTC",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+      "chainId": 103,
+      "decimals": 8,
+      "extensions": {
+        "currency": "BTC"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",
+      "name": "Test RenBTC",
+      "symbol": "renBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    },
+    {
+      "address": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "currency": "BTC"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
+      "name": "Test WBTC",
+      "symbol": "WBTC",
+      "tags": [
+        "saber-mkt-btc"
+      ]
+    }
+  ]
 }

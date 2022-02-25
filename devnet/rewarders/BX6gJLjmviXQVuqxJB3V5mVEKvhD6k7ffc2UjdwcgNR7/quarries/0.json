@@ -1,16 +1,81 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 0,
-      "lastUpdateTs": "1637458246",
-      "numMiners": "3",
-      "rewardsPerTokenStored": "6656426245882547067816134",
-      "rewardsShare": "50",
-      "totalTokensDeposited": "110000000"
-    },
     "index": 0,
+    "isReplica": true,
+    "mergePool": "DxeP8fHu2jKxAevUNKdCKmHrCFcymLAWNPgNaambJdRX",
+    "primaryQuarries": [
+      {
+        "quarry": "5fW6pGKwoMRLk7AMcMDtWL9PXk4JYT2LWq9FMDUkB7qx",
+        "rewarder": "29r5L2uGgsJmM4aJryWXNJ1ooAm4acHgMh6LGeL3KQst",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "5xM8Ngg1GLaSx8X7uKUPURVU2pSQMoi5rhKcarv3iXWH"
+        },
+        "slug": "usdc"
+      },
+      {
+        "quarry": "7hiC9Q3MgNiyXEBBQwNhnftCL8rGY7jjHZrWijYn3AET",
+        "rewarder": "54azuTM8zVMkDm9eY6UriWSoPrBhtybXb64EY2dvVykA",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "4foEYhrGbBVh4jQZgdJNSAvL4k8AtrXxc1UibKcsdZFZ"
+        },
+        "slug": "usdc"
+      },
+      {
+        "quarry": "GyFR21ZUDd7nTg4dzfN5RimmtSUsY8EpcMaDxwFVGEfq",
+        "rewarder": "7WqMqLaYpadshvUPuaHHf8busLU2XUDNRWw7g3xv4Aum",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "GVBDKkgmptbjrjMsgfnbh1nKG6kpCPBKLdhNrerwQ33J"
+        },
+        "slug": "usdc"
+      },
+      {
+        "quarry": "C5uHB9V7h6uxfCNo37Hj5KU98UVteMuF5NRg8Mhh4EGk",
+        "rewarder": "AaQnmceRh5phVdqYsH8QnoYeYPMvGm2PtYJoe2T3w5oE",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX"
+        },
+        "slug": "usdc"
+      },
+      {
+        "quarry": "8XDGCqMCwCDxXCjTFG1yHYNFTbb3oUeyd8hZBbP71XUc",
+        "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+        },
+        "slug": "usdc"
+      },
+      {
+        "quarry": "CdtymnxMgM9EVu6r1NovEcpHgFwEMWfyyfYMj2nzu2T2",
+        "rewarder": "J9cK2anexHbkfBZaL71ZHkZ8zinzy1CqLVww8kKgBghT",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "FyZ6iCf893zc9EU4ppmYvN9s2BXNXoA7ejR53USkjYhD"
+        },
+        "slug": "usdc"
+      }
+    ],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+    },
     "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+    "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
+    "replicaQuarries": [
+      {
+        "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
+        "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+        },
+        "slug": "qrusdc"
+      }
+    ],
     "slug": "qrusdc",
     "stakedToken": {
       "decimals": 6,
@@ -19,12 +84,63 @@
   },
   "rewarder": {
     "authority": "6kRPKz9dietfo81JuNTBGqH1t9oT7tueftUNtcTepCzE",
+    "info": {
+      "address": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
+      "color": "#00ffff",
+      "description": "Larry is giving out more fake and useless tokens on devnet.",
+      "id": "larry-test-other",
+      "name": "Larry's Other Testing Rewarder",
+      "networks": [
+        "devnet"
+      ],
+      "website": "https://quarry.so"
+    },
     "mintWrapper": "5Pvdq738YHSRJXrwixS7BWw7GRoZ6UBEQWmUVU9oczCq",
     "rewardsToken": {
       "decimals": -1,
       "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
-    }
+    },
+    "slug": "larry-test-other"
   },
-  "stakedToken": null,
-  "underlyingTokens": []
+  "stakedToken": {
+    "address": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "usd-coin",
+      "currency": "USD",
+      "source": "quarry-merge-mine-replica",
+      "underlyingTokens": [
+        "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+      ],
+      "website": "https://saber.so/"
+    },
+    "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+    "name": "USD Coin (Saber Devnet) (Replica)",
+    "symbol": "qrUSDC",
+    "tags": [
+      "saber-mkt-usd",
+      "stablecoin",
+      "quarry-merge-mine-replica"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "name": "USD Coin (Saber Devnet)",
+      "symbol": "USDC",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    }
+  ]
 }

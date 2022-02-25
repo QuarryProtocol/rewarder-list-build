@@ -1,16 +1,16 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 0,
-      "lastUpdateTs": "1641716034",
-      "numMiners": "0",
-      "rewardsPerTokenStored": "0",
-      "rewardsShare": "99871751",
-      "totalTokensDeposited": "0"
-    },
     "index": 0,
+    "isReplica": false,
+    "mergePool": "2nzWVp9LoVKuK7QdB8DAud6ryiGLxtyEjesDApCuWQNj",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
+    },
     "quarry": "6JHgp4x49G48dgLt5ARbhmQyaCcRCBcWvm9cPfeqbCMy",
+    "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",
+    "replicaQuarries": [],
     "slug": "usdt-cash",
     "stakedToken": {
       "decimals": 6,
@@ -23,8 +23,67 @@
     "rewardsToken": {
       "decimals": -1,
       "mint": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh"
-    }
+    },
+    "slug": "5NPXAXnkkXvw6kfXtvo78mS99LPz4oGekjkUAUzHEyHP"
   },
-  "stakedToken": null,
-  "underlyingTokens": []
+  "stakedToken": {
+    "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+        "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+      ],
+      "website": "https://app.saber.so/#/pools/usdt_cash"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+    "name": "Saber USDT-CASH LP",
+    "symbol": "USDT-CASH",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
+      "name": "USDT (Saber Devnet)",
+      "symbol": "USDT",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "source": "cashio",
+        "sourceUrl": "https://cashio.app/#/print",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://cashio.app"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
+      "name": "Cashio Dollar",
+      "symbol": "CASH",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    }
+  ]
 }

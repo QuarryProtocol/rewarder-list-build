@@ -1,16 +1,26 @@
 {
   "quarry": {
-    "cached": {
-      "famineTs": "9223372036854775807",
-      "index": 9,
-      "lastUpdateTs": "1645828092",
-      "numMiners": "128",
-      "rewardsPerTokenStored": "757073408725528014794318",
-      "rewardsShare": "849995343123380",
-      "totalTokensDeposited": "13865068466"
-    },
     "index": 9,
+    "isReplica": false,
+    "mergePool": "FDtmVxFwf9XjswwFwQDtzy91irXjce71rHQW8rdTGHiT",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 2,
+      "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
+    },
     "quarry": "9uN6j3CL7aYNHbCvSg919NaEXSp6KJcTakZ5fQi9daaU",
+    "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
+    "replicaQuarries": [
+      {
+        "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+        "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+        },
+        "slug": "qrpole-cash"
+      }
+    ],
     "slug": "pole-cash",
     "stakedToken": {
       "decimals": 2,
@@ -19,11 +29,23 @@
   },
   "rewarder": {
     "authority": "6jmBNuXPX9FvAMSX1HZi3EkxuyRb9vGmwyCoX4eVh3qz",
+    "info": {
+      "address": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+      "color": "#01EB00",
+      "description": "Cashio’s fair launch memecoin",
+      "id": "cash-cow",
+      "name": "Cash Cow",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://cashio.app"
+    },
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo",
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-    }
+    },
+    "slug": "cash-cow"
   },
   "rewardsToken": {
     "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
