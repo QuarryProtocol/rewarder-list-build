@@ -3,11 +3,11 @@
     "cached": {
       "famineTs": "9223372036854775807",
       "index": 68,
-      "lastUpdateTs": "1645811568",
+      "lastUpdateTs": "1645813389",
       "numMiners": "139",
-      "rewardsPerTokenStored": "4214452809490090111637190",
+      "rewardsPerTokenStored": "4214452962587829630949357",
       "rewardsShare": "669067779556",
-      "totalTokensDeposited": "2921156895"
+      "totalTokensDeposited": "2914956895"
     },
     "index": 68,
     "quarry": "AVFD1KFfbG1sc7ExxqLHaSJKbDCA6PMkUgGPovD21Dbe",
@@ -39,6 +39,24 @@
   },
   "underlyingTokens": [
     {
+      "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "bitcoin",
+        "currency": "BTC",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
+      },
+      "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
+      "name": "ibBTC (Wormhole)",
+      "symbol": "wibBTC",
+      "tags": [
+        "saber-mkt-btc",
+        "wormhole-v2"
+      ]
+    },
+    {
       "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "chainId": 101,
       "decimals": 8,
@@ -55,24 +73,6 @@
       "symbol": "renBTC",
       "tags": [
         "saber-mkt-btc"
-      ]
-    },
-    {
-      "address": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
-      "chainId": 101,
-      "decimals": 8,
-      "extensions": {
-        "coingeckoId": "bitcoin",
-        "currency": "BTC",
-        "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
-      },
-      "logoURI": "https://registry.saber.so/token-icons/ibbtc.svg",
-      "name": "ibBTC (Wormhole)",
-      "symbol": "wibBTC",
-      "tags": [
-        "saber-mkt-btc",
-        "wormhole-v2"
       ]
     }
   ]
