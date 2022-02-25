@@ -39,24 +39,6 @@
   },
   "underlyingTokens": [
     {
-      "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
-      "chainId": 101,
-      "decimals": 9,
-      "extensions": {
-        "coingeckoId": "celo-dollar",
-        "currency": "USD",
-        "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge"
-      },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
-      "name": "Wrapped CUSD (Allbridge from Celo)",
-      "symbol": "acUSD",
-      "tags": [
-        "stablecoin",
-        "saber-mkt-usd"
-      ]
-    },
-    {
       "address": "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
       "chainId": 101,
       "decimals": 9,
@@ -96,6 +78,24 @@
       "symbol": "CASH",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "celo-dollar",
+        "currency": "USD",
+        "source": "allbridge",
+        "sourceUrl": "https://app.allbridge.io/bridge"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+      "name": "Wrapped CUSD (Allbridge from Celo)",
+      "symbol": "acUSD",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     }
   ]
