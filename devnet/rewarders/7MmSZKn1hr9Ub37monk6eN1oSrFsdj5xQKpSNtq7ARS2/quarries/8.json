@@ -1,0 +1,44 @@
+{
+  "quarry": {
+    "index": 8,
+    "isReplica": false,
+    "mergePool": "4kVxVgzTjdJD2LUZWJvYmDCHsRyBvBJvR5MUQnj6y63E",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T"
+    },
+    "quarry": "AoQiueipZeVYkf2ho2kRsAJDTqVE3dnCFebiXNbH4Erc",
+    "replicaMint": "3hc7vS8PbXDoYcdEDWkBgdKoER33japm2ZRbie6j7yAB",
+    "replicaQuarries": [],
+    "slug": "usdc-cash",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T"
+    }
+  },
+  "rewarder": {
+    "authority": "2usaNXXRyQGobJBSevEqQ5VXCEgKQgYs2PynmX13oaf9",
+    "mintWrapper": "Da6B5yuX2nSnmMq6rhxW2mVCpXkCiU9GrqbRenzR4jtX",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "5thfi9cDKV9BLvgVPd6f5F984tAsGAk4yJzTng8wn891"
+    },
+    "slug": "7MmSZKn1hr9Ub37monk6eN1oSrFsdj5xQKpSNtq7ARS2"
+  },
+  "stakedToken": {
+    "address": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T",
+    "chainId": 103,
+    "decimals": 9,
+    "extensions": {
+      "website": "https://dev.ratio.finance/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T/logo.png",
+    "name": "USDC-CASH Saber LP",
+    "symbol": "USDC-CASH",
+    "tags": [
+      "ratio-token"
+    ]
+  },
+  "underlyingTokens": []
+}

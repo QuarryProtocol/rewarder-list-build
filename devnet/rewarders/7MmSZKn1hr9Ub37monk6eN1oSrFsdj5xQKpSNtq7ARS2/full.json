@@ -109,6 +109,78 @@
         "decimals": 6,
         "mint": "Hu3JGy6tvrtBcxHq9xvP1UhKUv3RHzqR3hJUdWEg2vRX"
       }
+    },
+    {
+      "index": 6,
+      "isReplica": false,
+      "mergePool": "EwQSi28S6Dy2KBZBEjZLqL7BbnpCwFsoNZ5achmsvyes",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "7gJWEW3vGDgUNbg3agG9DSSkb271tpk82K4ixAGXeuoh"
+      },
+      "quarry": "3uF7QEjX36VFsN1jxhoQbQCqWnjHeFenmb1chfNrokwQ",
+      "replicaMint": "94onnJQNsSKFbyZJApztkHpoCLXHSeUEh6AHqY33mRze",
+      "replicaQuarries": [],
+      "slug": "usdc-pai",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "7gJWEW3vGDgUNbg3agG9DSSkb271tpk82K4ixAGXeuoh"
+      }
+    },
+    {
+      "index": 7,
+      "isReplica": false,
+      "mergePool": "DPxu2g6iEFaYfMvJNuT5fByCtZ37VawYAYiLRMSWCygr",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "9RBrjJLKK7xm5275iNHPDdtMEN3nZFhPDiUkZGmkTUrd"
+      },
+      "quarry": "BbPxes6M8d4si77pyv38B98MqhGYyQ8nW8hbwyVuPze3",
+      "replicaMint": "2ybQYRwUfQsRRwHXuL7Z3rvu9Qi7D3HoWGF1uvCuCpwo",
+      "replicaQuarries": [],
+      "slug": "usdt-cash",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "9RBrjJLKK7xm5275iNHPDdtMEN3nZFhPDiUkZGmkTUrd"
+      }
+    },
+    {
+      "index": 8,
+      "isReplica": false,
+      "mergePool": "4kVxVgzTjdJD2LUZWJvYmDCHsRyBvBJvR5MUQnj6y63E",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T"
+      },
+      "quarry": "AoQiueipZeVYkf2ho2kRsAJDTqVE3dnCFebiXNbH4Erc",
+      "replicaMint": "3hc7vS8PbXDoYcdEDWkBgdKoER33japm2ZRbie6j7yAB",
+      "replicaQuarries": [],
+      "slug": "usdc-cash",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T"
+      }
+    },
+    {
+      "index": 9,
+      "isReplica": false,
+      "mergePool": "H6Kqp1FkQk9h3kxUYHRGrcaueuMQ3GWPK57orMXoaqGg",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg"
+      },
+      "quarry": "FNQfQSBAPSacaEo3cQkqhVyhRzgwhWDsMpX3zv4vwNF7",
+      "replicaMint": "8T6HaCqEvchmqmDV9VCqbpBaQc8guoHpQiZ9TsrNr77",
+      "replicaQuarries": [],
+      "slug": "usdc-usdt",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg"
+      }
     }
   ],
   "rewardsToken": {
