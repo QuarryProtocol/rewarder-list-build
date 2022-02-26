@@ -3026,6 +3026,16 @@
     },
     "slug": "2SgYwZduh1xw7uE755wMs3V5z8uiPEVWxZCtSEZyYH3Y"
   },
+  "2TZ3om34qc3Hmd5QufxQtTg4Cc5hV9kvhEu96pK4or9e": {
+    "authority": "DF45Keju1iXGz45smompKNYMnspgQcHBMurHo56boRVf",
+    "mintWrapper": "3vKPk5z3TpK2PjonTRS1hHgN4YGQjmyzxMMoixtAzVJh",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "Bxm47Xmpsp81pPAmG94vrJB7vxKxXribwANxMfp2eomA"
+    },
+    "slug": "2TZ3om34qc3Hmd5QufxQtTg4Cc5hV9kvhEu96pK4or9e"
+  },
   "2Uj4YtqFeyjWfs4v9iNMQwkAdQMYR641NppgsTJXKbYC": {
     "authority": "8WoYfcwEEHszucQye6kLfm5Ap2DNom1bAvFRRdJuJokx",
     "mintWrapper": "AY77b5yxS7tKLLKDyhw1r8jUgVEXHEWUgQTNyZgdRvTM",
@@ -41747,6 +41757,35 @@
     },
     "slug": "9NdLQHhaP83FA4q7cM45JW6gMD47Gd2diGemCTiKcjwK"
   },
+  "9PMXm9wgHdkP2tKHJFBNJTxFkwLu1dnY3dHJpyZc9aE7": {
+    "authority": "DF45Keju1iXGz45smompKNYMnspgQcHBMurHo56boRVf",
+    "mintWrapper": "6jiidK3sLGpi9xToU5UeKkAS1yrF3rHxMrxXXrxNFsDt",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "8Qj8y5vpyvPymkKRJmH9YATEu98869cdHyNGN42iNh9C",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 2,
+          "mint": "53nSLYN8xGcn4Eft3iVv1vC3tmBU4WFgMN1QVt3dX4ob"
+        },
+        "quarry": "5Xyteip7QdTSceBQqBoJA9d6L8gGSymJtZtsKefjTMKk",
+        "replicaMint": "3r9iErMisWQ6vx6Tk2o9qQtpVuWZEvogo4SscbZbhX5f",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 2,
+          "mint": "53nSLYN8xGcn4Eft3iVv1vC3tmBU4WFgMN1QVt3dX4ob"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "3e6VaaTU4yMXERp6kvVjYjHH29bBGakvMFsTCmDp55PP"
+    },
+    "slug": "9PMXm9wgHdkP2tKHJFBNJTxFkwLu1dnY3dHJpyZc9aE7"
+  },
   "9PaGw4rTU6VBPcGTaPZrjKC9KiT232iFDy4WLQjrxCKR": {
     "authority": "9NMa7eRhQWA93hzQdvQbUcb7CipFLnhmVkgBgS5awdh1",
     "mintWrapper": "8uhdjp8cjpVNBd92yJordu5mqQhLMdjhXWys5sPh9V2p",
@@ -72035,6 +72074,16 @@
     },
     "slug": "Ecsq5Rd4jtRZPP3HM5RaxL7kjMf8wRA8u1HbZxTkXvht"
   },
+  "EdKeWPA8CDZPXB43Z5Ef2xfTq9UV1DzbKfiBemNMdHwP": {
+    "authority": "DF45Keju1iXGz45smompKNYMnspgQcHBMurHo56boRVf",
+    "mintWrapper": "GFE5kLjFPu5MU9yL9dTgWCfcjeGMkWBFFgwiENcDzCoX",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "CTnMDwms5famrAYtnSe2kQSC4PBidPzTUADazSxHrbcS"
+    },
+    "slug": "EdKeWPA8CDZPXB43Z5Ef2xfTq9UV1DzbKfiBemNMdHwP"
+  },
   "EfNY7wNx4w64TMGVDahgUas3kLCcZFdegd4BZY6RRZNd": {
     "authority": "ArC3jiYErfQmM2izH3dGpv7gpuuxbCMW4nHPeA2kxaLa",
     "mintWrapper": "9nf6WSWKEMvMZih6pv5Ech4ssKB7fc3jQYTTv7RLvVo2",
@@ -94496,27 +94545,7 @@
         "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 101,
-              "decimals": 6,
-              "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "waterfallbot": "https://bit.ly/SBRwaterfall",
-                "website": "https://saber.so"
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": [
-                "saber-hidden"
-              ]
-            },
+            "displayRewardsToken": null,
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
             "rewarder": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
             "rewardsToken": {
