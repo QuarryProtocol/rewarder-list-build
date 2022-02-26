@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-02-25T23:22:01.556Z",
+  "timestamp": "2022-02-26T00:29:53.997Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -5315,6 +5315,26 @@
       "decimals": 6,
       "name": "Token GhhE",
       "symbol": "GhhEP"
+    },
+    {
+      "address": "GqLcJdCkLgk5AsJ2gBadYpPRNHxoYFWpwb7csJ2ED176",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "source": "quarry-merge-mine-replica",
+        "underlyingTokens": [
+          "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD"
+        ],
+        "website": "https://app.saber.so/#/pools/frax_ust"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
+      "name": "Saber FRAX-UST LP (Replica)",
+      "symbol": "qrFRAX-UST",
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2",
+        "quarry-merge-mine-replica"
+      ]
     },
     {
       "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
