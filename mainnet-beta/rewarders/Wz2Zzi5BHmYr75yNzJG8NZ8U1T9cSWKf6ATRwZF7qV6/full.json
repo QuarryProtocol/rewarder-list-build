@@ -46,13 +46,7 @@
       "mergePool": "BSaqrvXoUrHQyjrTJ1qWfw7Ek89Vh3rZ7F2fLgcYqQa1",
       "primaryQuarries": [
         {
-          "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
-          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
-          "rewardsToken": {
-            "decimals": 6,
-            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-          },
-          "rewardsTokenInfo": {
+          "displayRewardsToken": {
             "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
             "chainId": 101,
             "decimals": 6,
@@ -68,6 +62,12 @@
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
             "name": "Saber IOU Token (Liquidity Mining Rewards)",
             "symbol": "SBR"
+          },
+          "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
           },
           "slug": "usdh-usdc"
         }
@@ -101,13 +101,7 @@
       "mergePool": "5sy4m3CXsu6NzZBzTijDsKfETcCBVrYjavvntA2BF39u",
       "primaryQuarries": [
         {
-          "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
-          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
-          "rewardsToken": {
-            "decimals": 6,
-            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-          },
-          "rewardsTokenInfo": {
+          "displayRewardsToken": {
             "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
             "chainId": 101,
             "decimals": 6,
@@ -123,6 +117,12 @@
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
             "name": "Saber IOU Token (Liquidity Mining Rewards)",
             "symbol": "SBR"
+          },
+          "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
           },
           "slug": "usdh-cash"
         }

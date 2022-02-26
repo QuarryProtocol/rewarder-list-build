@@ -78,13 +78,7 @@
       "mergePool": "4AKCrdrZKzC7U9TEKVCWxeVgR1undu5c2FAZGvx4mTWx",
       "primaryQuarries": [
         {
-          "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68",
-          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
-          "rewardsToken": {
-            "decimals": 6,
-            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-          },
-          "rewardsTokenInfo": {
+          "displayRewardsToken": {
             "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
             "chainId": 101,
             "decimals": 6,
@@ -100,6 +94,12 @@
             "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
             "name": "Saber IOU Token (Liquidity Mining Rewards)",
             "symbol": "SBR"
+          },
+          "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
           },
           "slug": "msol-sol"
         }

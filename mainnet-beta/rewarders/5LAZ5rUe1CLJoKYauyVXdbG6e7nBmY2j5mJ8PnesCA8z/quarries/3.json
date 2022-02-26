@@ -5,13 +5,7 @@
     "mergePool": "3jzkD1FGvT6ndnKXukqtCgGf2ak4focwcmyHXnXsE61B",
     "primaryQuarries": [
       {
-        "quarry": "F5VvER2JdGfbEtPJBr92qEPJhE3b8tAA3Gi9zyPx2toa",
-        "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
-        "rewardsToken": {
-          "decimals": 6,
-          "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
-        },
-        "rewardsTokenInfo": {
+        "displayRewardsToken": {
           "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
           "chainId": 101,
           "decimals": 6,
@@ -28,6 +22,12 @@
           "name": "Saber IOU Token (Liquidity Mining Rewards)",
           "symbol": "SBR"
         },
+        "quarry": "F5VvER2JdGfbEtPJBr92qEPJhE3b8tAA3Gi9zyPx2toa",
+        "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+        },
         "slug": "acusd-cash"
       }
     ],
@@ -39,13 +39,7 @@
     "replicaMint": "6YSGgj2cbTYc75V6qXBqiAWrHfdoSH4TbqHvN7fANSyj",
     "replicaQuarries": [
       {
-        "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
-        "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
-        "rewardsToken": {
-          "decimals": 6,
-          "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        },
-        "rewardsTokenInfo": {
+        "displayRewardsToken": {
           "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
           "chainId": 101,
           "decimals": 6,
@@ -61,6 +55,12 @@
           "tags": [
             "governance-token"
           ]
+        },
+        "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
+        "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
         },
         "slug": "qracusd-cash"
       }
