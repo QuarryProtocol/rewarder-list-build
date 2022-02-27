@@ -4307,16 +4307,7 @@
         "replicaMint": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "6ywGNd6BjPJi4mg9V8xXQaykM21XxhHEszxArhvobzR2",
             "rewarder": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
             "rewardsToken": {
@@ -4326,16 +4317,7 @@
             "slug": "qrmsol-sol"
           },
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
             "rewarder": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
             "rewardsToken": {
@@ -4436,16 +4418,7 @@
         "replicaMint": "9qkeuJ3bcskGrJySqx7koV7pqCVkVeywDzX47v3vdxJC",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "CagEB6JXq2kVtFLTgEt3PKG6UnZS1Pomb91VCPELCNB2",
             "rewarder": "3UqiNcE1S2MoQ1M1PvrQf3gCkM7KB1nWfZdoQckobHpz",
             "rewardsToken": {
@@ -4455,16 +4428,7 @@
             "slug": "qrstsol-sol"
           },
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "73MxqaQeQwoHZAuCEFyyC94XYnJw1PPepiX1FBZXXX2E",
             "rewarder": "CXer5v3osVQFDWUB3SJUPB1PN1dB3dQSQfymyAnmCryp",
             "rewardsToken": {
@@ -4925,16 +4889,7 @@
         "replicaMint": "E7AdPpqpyUsy5dzpDcu6g37Vi8phfNkcCoS2EzTP7w6j",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "6SATFnRVoXHPnKKvtejYDoAni8XX26SDwfi5e3pfL1xN",
             "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm",
             "rewardsToken": {
@@ -5270,14 +5225,21 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
+              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+              "chainId": 101,
               "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
+              "extensions": {
+                "discord": "https://discord.com/invite/GmkRRKJkuh",
+                "medium": "https://medium.com/@cashioapp",
+                "twitter": "https://twitter.com/CashioApp",
+                "website": "https://cashio.app"
+              },
+              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "name": "Cash Cow",
+              "symbol": "COW",
+              "tags": [
+                "governance-token"
+              ]
             },
             "quarry": "9bPMa5dzJ44UGnkx4st2apPJNxb1h5DT2XbzqBh7ELUZ",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -5380,14 +5342,21 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
+              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+              "chainId": 101,
               "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
+              "extensions": {
+                "discord": "https://discord.com/invite/GmkRRKJkuh",
+                "medium": "https://medium.com/@cashioapp",
+                "twitter": "https://twitter.com/CashioApp",
+                "website": "https://cashio.app"
+              },
+              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "name": "Cash Cow",
+              "symbol": "COW",
+              "tags": [
+                "governance-token"
+              ]
             },
             "quarry": "CgiCrf6uVZgvovSgiFYSPqginW2xgfMxBU418zr8D8pn",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -5418,14 +5387,21 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
+              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+              "chainId": 101,
               "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
+              "extensions": {
+                "discord": "https://discord.com/invite/GmkRRKJkuh",
+                "medium": "https://medium.com/@cashioapp",
+                "twitter": "https://twitter.com/CashioApp",
+                "website": "https://cashio.app"
+              },
+              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "name": "Cash Cow",
+              "symbol": "COW",
+              "tags": [
+                "governance-token"
+              ]
             },
             "quarry": "E2zqjr8DsAXotspX5Eays37w9vnZaCWPokbaSnSfpf9n",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -5436,16 +5412,7 @@
             "slug": "qrust-cash"
           },
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "H5X3fTtypufVaPtH8D7GbMffCqSRHA3MWNj3FT4tVXQU",
             "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
             "rewardsToken": {
@@ -5475,14 +5442,21 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
+              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+              "chainId": 101,
               "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
+              "extensions": {
+                "discord": "https://discord.com/invite/GmkRRKJkuh",
+                "medium": "https://medium.com/@cashioapp",
+                "twitter": "https://twitter.com/CashioApp",
+                "website": "https://cashio.app"
+              },
+              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "name": "Cash Cow",
+              "symbol": "COW",
+              "tags": [
+                "governance-token"
+              ]
             },
             "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -5854,16 +5828,7 @@
         "replicaMint": "GqLcJdCkLgk5AsJ2gBadYpPRNHxoYFWpwb7csJ2ED176",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "48n63dcqQ3zX1rinAksYu42J4aSpJbte3Mt6bNCnymio",
             "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
             "rewardsToken": {
@@ -6090,16 +6055,7 @@
         "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
             "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
             "rewardsToken": {
@@ -6128,16 +6084,7 @@
         "replicaMint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 103,
-              "decimals": 6,
-              "extensions": {},
-              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": []
-            },
+            "displayRewardsToken": null,
             "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
             "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
             "rewardsToken": {
