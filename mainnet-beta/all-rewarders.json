@@ -1199,7 +1199,17 @@
   "9JrJzACR6MbqXdBPKD5YPUEVbxaC3KeHZEymafkw5VYw": {
     "authority": "BTziQWZizrCsmmJX2stipZ66xa8NHXhaSSDsX7qDAfVT",
     "mintWrapper": "GGdEkKHeBXyasQcgB1gxCqrTkDUXsnLAUGJspsdhkmsn",
-    "quarries": [],
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "En7M6um6nPhUyko6cAtW9B6pHuLbHmieTPeN3BC2FNSs",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc"
+        }
+      }
+    ],
     "rewardsToken": {
       "decimals": -1,
       "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"

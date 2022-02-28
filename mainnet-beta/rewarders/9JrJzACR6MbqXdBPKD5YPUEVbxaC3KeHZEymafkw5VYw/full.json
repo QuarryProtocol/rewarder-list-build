@@ -37,7 +37,26 @@
     "website": "https://sentre.io"
   },
   "mintWrapper": "GGdEkKHeBXyasQcgB1gxCqrTkDUXsnLAUGJspsdhkmsn",
-  "quarries": [],
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "7twxFYPC8gwjj4fMZHmcXk1dhWtEwxXbhoii2CFpgrv5",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc"
+      },
+      "quarry": "En7M6um6nPhUyko6cAtW9B6pHuLbHmieTPeN3BC2FNSs",
+      "replicaMint": "Hu6KM33m6mFKvKek7BCf4FeWBgVPEaMV4tgYuqCPsG3T",
+      "replicaQuarries": [],
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc"
+      }
+    }
+  ],
   "rewardsToken": {
     "decimals": -1,
     "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"
