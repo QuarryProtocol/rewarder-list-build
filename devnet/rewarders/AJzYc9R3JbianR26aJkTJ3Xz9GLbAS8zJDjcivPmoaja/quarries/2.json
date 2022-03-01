@@ -1,0 +1,48 @@
+{
+  "quarry": {
+    "index": 2,
+    "isReplica": false,
+    "mergePool": "3tDSxMpancPXSzVAukAoV6RCWW1CrUrVVZgvj6Gavxf1",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 8,
+      "mint": "7HhdWJLQsy6x1cTfpLWh2BW6oubyojR1rwDXCgheBHUm"
+    },
+    "quarry": "nGf5hP9DmBXmru53J8AGDz7CftQUKGrythNRW48ygoL",
+    "replicaMint": "E4pNSKxMxBGcbwW1RR7fqePWmkidYuWP1UVqScbfKhHb",
+    "replicaQuarries": [],
+    "slug": "2",
+    "stakedToken": {
+      "decimals": 8,
+      "mint": "7HhdWJLQsy6x1cTfpLWh2BW6oubyojR1rwDXCgheBHUm"
+    }
+  },
+  "rewarder": {
+    "authority": "3WtHHBTgnNjQpWLRmNAQkqRfeNLfpxQfcHqbz3L9uDFT",
+    "info": {
+      "address": "AJzYc9R3JbianR26aJkTJ3Xz9GLbAS8zJDjcivPmoaja",
+      "color": "#277CE2",
+      "description": "Swim Protocol is a seamless multi-chain liquidity protocol",
+      "id": "swim",
+      "name": "Swim Protocol",
+      "networks": [
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "5Xd8xVo1qCdBU7rVaE1up9WZv1cuf5KGpLte4FheoP63",
+        "redeemerVaultATA": "3PEJsaKJzWJeU6CsYEtCRsURWvemCL29wXrzUU2uwCQG",
+        "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+      },
+      "website": "https://swim.io"
+    },
+    "mintWrapper": "qv2gTM7VzWAo4UgA6J4bdD1UPWnrZsCRfmi7x8ZkTUZ",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ"
+    },
+    "slug": "swim"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
