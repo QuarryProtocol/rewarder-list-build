@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-03-01T04:10:49.936Z",
+  "timestamp": "2022-03-01T05:07:56.425Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -6181,10 +6181,21 @@
     },
     {
       "address": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4",
-      "chainId": 104,
+      "chainId": 101,
       "decimals": 9,
-      "name": "Token J2hG",
-      "symbol": "J2hGH"
+      "extensions": {
+        "description": "The Jungle Finance Raydium LP token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4/logo.png",
+      "name": "Jungle DeFi Raydium LP Token",
+      "symbol": "JFI-USDC",
+      "tags": [
+        "lp-token"
+      ]
     },
     {
       "address": "J7apRHRZCc3uhPqsRoidpmsfVU5DiQ4BrdBGpJW4GvJx",
