@@ -12,7 +12,16 @@
     "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
     "replicaQuarries": [
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {},
+          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": []
+        },
         "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
         "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
         "rewardsToken": {
