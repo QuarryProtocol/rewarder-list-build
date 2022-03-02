@@ -1,0 +1,15 @@
+{
+  "address": "2UsGfm8S36eW58U4JeKgVC9fcXsqf7D6vfm4GHUtnENn",
+  "color": "#6966FB",
+  "description": "Frax rewards for Saber.",
+  "id": "saber-frax",
+  "name": "Saber Frax Rewards",
+  "networks": [
+    "mainnet-beta"
+  ],
+  "redeemer": {
+    "method": "quarry-redeemer",
+    "underlyingToken": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
+  },
+  "website": "https://saber.so"
+}
