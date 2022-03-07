@@ -12,7 +12,16 @@
     "replicaMint": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi",
     "replicaQuarries": [
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {},
+          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": []
+        },
         "quarry": "6ywGNd6BjPJi4mg9V8xXQaykM21XxhHEszxArhvobzR2",
         "rewarder": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
         "rewardsToken": {
@@ -22,7 +31,16 @@
         "slug": "qrmsol-sol"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {},
+          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": []
+        },
         "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
         "rewarder": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
         "rewardsToken": {
@@ -57,13 +75,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
