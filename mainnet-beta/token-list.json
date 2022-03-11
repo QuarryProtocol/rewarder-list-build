@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-03-11T16:11:48.887Z",
+  "timestamp": "2022-03-11T17:11:48.000Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -7002,10 +7002,14 @@
     },
     {
       "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-      "chainId": 104,
+      "chainId": 101,
       "decimals": 6,
-      "name": "Token SLNA",
-      "symbol": "SLNAA"
+      "extensions": {
+        "website": "https://soluna.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA"
     },
     {
       "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
