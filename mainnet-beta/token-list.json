@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-03-14T02:09:42.965Z",
+  "timestamp": "2022-03-14T03:10:22.213Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -4711,10 +4711,19 @@
     },
     {
       "address": "ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY",
-      "chainId": 104,
+      "chainId": 101,
       "decimals": 9,
-      "name": "Token ESzk",
-      "symbol": "ESzkd"
+      "extensions": {
+        "website": "https://port.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY/pstSOL.svg",
+      "name": "Port Finance Lido Staked SOL",
+      "symbol": "pstSOL",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ]
     },
     {
       "address": "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt",
