@@ -19,12 +19,23 @@
   },
   "rewarder": {
     "authority": "BQaLrNofBK1ryepwm3NTm9RCQsfgGLCuXZE3DNCxh4WG",
+    "info": {
+      "address": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
+      "color": "#FEAB53",
+      "description": "The gateway to Anchor interest bearing assets on Solana.",
+      "id": "soluna",
+      "name": "Soluna",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://soluna.money"
+    },
     "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
     "rewardsToken": {
       "decimals": 6,
       "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
     },
-    "slug": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc"
+    "slug": "soluna"
   },
   "rewardsToken": {
     "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",

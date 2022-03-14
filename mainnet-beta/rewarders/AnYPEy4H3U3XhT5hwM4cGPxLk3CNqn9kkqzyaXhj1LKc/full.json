@@ -1,5 +1,16 @@
 {
   "authority": "BQaLrNofBK1ryepwm3NTm9RCQsfgGLCuXZE3DNCxh4WG",
+  "info": {
+    "address": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
+    "color": "#FEAB53",
+    "description": "The gateway to Anchor interest bearing assets on Solana.",
+    "id": "soluna",
+    "name": "Soluna",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "website": "https://soluna.money"
+  },
   "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
   "quarries": [
     {
@@ -36,5 +47,5 @@
     "name": "Soluna Governance Token",
     "symbol": "SLNA"
   },
-  "slug": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc"
+  "slug": "soluna"
 }
