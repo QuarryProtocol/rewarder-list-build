@@ -10,7 +10,18 @@
     },
     "quarry": "3cgT6oz7yAoV3Mv56CVa2Fj3P8vMzVBGQ9vaSbmytzXX",
     "replicaMint": "8XM68kWAuna73c4JnEFKCAiwzfpUpWMF35FxWGTRVFqD",
-    "replicaQuarries": [],
+    "replicaQuarries": [
+      {
+        "displayRewardsToken": null,
+        "quarry": "CmthbUcU4a3WZUY5gWwPknta4gTGzS9p4FRn3YSPGXZT",
+        "rewarder": "CXer5v3osVQFDWUB3SJUPB1PN1dB3dQSQfymyAnmCryp",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC"
+        },
+        "slug": "1"
+      }
+    ],
     "slug": "pstsol",
     "stakedToken": {
       "decimals": 9,
