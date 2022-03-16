@@ -4098,6 +4098,42 @@
   },
   "DMCkQtog6e1Pfo1kYxkDnZPBC8kpMnMysiNkK6evk2zR": {
     "authority": "71jvG5Ks14H7nouJjPD8WqfKcvLeshSZmgiaJBKqYw4T",
+    "info": {
+      "address": "DMCkQtog6e1Pfo1kYxkDnZPBC8kpMnMysiNkK6evk2zR",
+      "color": "#277CE2",
+      "description": "Swim Protocol is a seamless multi-chain liquidity protocol",
+      "id": "swim",
+      "name": "Swim Protocol",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "A4BPXBjrKBGd8xBkzS1xkzPAaz2h7Fy2eoG8SR73ydG7",
+        "redeemerVaultATA": "36f1tt6KzNveDWc44mmSn6fnoGA5hZ9w14x79XA1oSv8",
+        "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+        "underlyingTokenInfo": {
+          "address": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "discord": "https://discord.gg/wGrxQ7GAgP",
+            "medium": "https://medium.com/@swimprotocol",
+            "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+            "twitter": "https://twitter.com/SwimProtocol",
+            "website": "https://swim.io/",
+            "whitepaper": "https://swim.io/whitepaper.pdf"
+          },
+          "logoURI": "https://raw.githubusercontent.com/swim-io/token-list/main/assets/mainnet/swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb/logo.svg",
+          "name": "Swim Protocol Token",
+          "symbol": "SWIM",
+          "tags": [
+            "utility-token"
+          ]
+        }
+      },
+      "website": "https://swim.io"
+    },
     "mintWrapper": "BhT5ptxGomBcZprbGE21SaZa4vAydzHQ7s8zPJw8wrzd",
     "quarries": [
       {
@@ -4123,7 +4159,7 @@
       "decimals": -1,
       "mint": "sWimjs5PUmQqTy1Z1SV4FawmMSDG9URFePPch6dFLkP"
     },
-    "slug": "DMCkQtog6e1Pfo1kYxkDnZPBC8kpMnMysiNkK6evk2zR"
+    "slug": "swim"
   },
   "DMtQMeb8eJhqAtYjqQK4gNAWoL3kEgNRLmrzLDtJwYer": {
     "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
