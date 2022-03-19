@@ -10,7 +10,18 @@
     },
     "quarry": "CHmN4STnaahM8JyBq3DjYfJK1FgDPNJQVGzCbW4kyCXX",
     "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
-    "replicaQuarries": [],
+    "replicaQuarries": [
+      {
+        "displayRewardsToken": null,
+        "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
+        "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+        },
+        "slug": "1"
+      }
+    ],
     "slug": "usdc-usdt",
     "stakedToken": {
       "decimals": 6,
