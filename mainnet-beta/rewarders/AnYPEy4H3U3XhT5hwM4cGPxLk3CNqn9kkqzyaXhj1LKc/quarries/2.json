@@ -1,0 +1,101 @@
+{
+  "quarry": {
+    "index": 2,
+    "isReplica": true,
+    "mergePool": "9XxyZAEhnb9BdSeU5VW63i7iKGWuhGsfRxnYW3gTS4ne",
+    "primaryQuarries": [
+      {
+        "displayRewardsToken": {
+          "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+          "name": "Saber IOU Token (Liquidity Mining Rewards)",
+          "symbol": "SBR"
+        },
+        "quarry": "CEZw8iG7fHou9JV8v3ZqG1Ax2LbQaFYYP7aT8Tu55Xft",
+        "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+        },
+        "slug": "solust-usdh"
+      }
+    ],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9"
+    },
+    "quarry": "AiAca6swabjKjApzWvsLRidfKXNdYPh5mYU6NpHPKRud",
+    "replicaMint": "5AfedLnewM7J8jeBrx3QaPydJtspdhLEXZFycGnXQBfq",
+    "replicaQuarries": [
+      {
+        "displayRewardsToken": {
+          "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "website": "https://soluna.money/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+          "name": "Soluna Governance Token",
+          "symbol": "SLNA"
+        },
+        "quarry": "AiAca6swabjKjApzWvsLRidfKXNdYPh5mYU6NpHPKRud",
+        "rewarder": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+        },
+        "slug": "2"
+      }
+    ],
+    "slug": "2",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "5AfedLnewM7J8jeBrx3QaPydJtspdhLEXZFycGnXQBfq"
+    }
+  },
+  "rewarder": {
+    "authority": "H4VXFyfeUDahSokaE9mjGUaP6UDREqyXcjiHWmfq9yQs",
+    "info": {
+      "address": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
+      "color": "#FEAB53",
+      "description": "The gateway to Anchor interest bearing assets on Solana.",
+      "id": "soluna",
+      "name": "Soluna",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://soluna.money"
+    },
+    "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+    },
+    "slug": "soluna"
+  },
+  "rewardsToken": {
+    "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "website": "https://soluna.money/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+    "name": "Soluna Governance Token",
+    "symbol": "SLNA"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
