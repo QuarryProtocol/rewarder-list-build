@@ -42734,6 +42734,16 @@
     },
     "slug": "9WKxqyb69SAbHyABgv8QMivu2KmgeffGbDhN8DBrUNR4"
   },
+  "9X2CtnmJSTF91BvpdugSmbL8xFe6KWfCP8FuSi6Fen9M": {
+    "authority": "GavnzVNFAAyLC3obnVfHP3CYrcb8rXYYRQj3qxubeAG5",
+    "mintWrapper": "FdMnMTaUKvuTLN3NF88mkxMNa9jTi3nnv6BA22USGGGm",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "EwYkwC73ughoBhoVp5LYvqwaiBF7NQ87htCavGcufhMr"
+    },
+    "slug": "9X2CtnmJSTF91BvpdugSmbL8xFe6KWfCP8FuSi6Fen9M"
+  },
   "9Xa96zFYxoeegeF9HHQTQ1S3yex6dyRRQE3GDEv3357y": {
     "authority": "J8cgZEeYRzQf71cHJsWa9AbzMsbfwsPLxSaBx6pz4LVH",
     "mintWrapper": "9kp8oJKWQVnCSou6A4FYvwu341XZG6dWJJAdhuFbJNG9",
@@ -94807,27 +94817,7 @@
         "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 101,
-              "decimals": 6,
-              "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "waterfallbot": "https://bit.ly/SBRwaterfall",
-                "website": "https://saber.so"
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": [
-                "saber-hidden"
-              ]
-            },
+            "displayRewardsToken": null,
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
             "rewardsToken": {
@@ -94874,27 +94864,7 @@
         "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
         "replicaQuarries": [
           {
-            "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 101,
-              "decimals": 6,
-              "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "waterfallbot": "https://bit.ly/SBRwaterfall",
-                "website": "https://saber.so"
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": [
-                "saber-hidden"
-              ]
-            },
+            "displayRewardsToken": null,
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
             "rewarder": "58u68XDr3VF31PPssUM4MKWduXxWoYmZWdpGRz74Lhuo",
             "rewardsToken": {
