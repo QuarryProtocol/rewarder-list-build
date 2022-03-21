@@ -110,15 +110,19 @@
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "coingeckoId": "ethereum",
+        "currency": "ETH",
         "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
-        "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF"
+        "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk.png",
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "soETH",
       "tags": [
         "wrapped-sollet",
-        "ethereum"
+        "ethereum",
+        "saber-mkt-eth"
       ]
     },
     {

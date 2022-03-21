@@ -126,15 +126,19 @@
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "coingeckoId": "bitcoin",
+        "currency": "BTC",
         "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
-        "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4"
+        "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+        "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E.png",
       "name": "Wrapped Bitcoin (Sollet)",
       "symbol": "BTC",
       "tags": [
         "wrapped-sollet",
-        "ethereum"
+        "ethereum",
+        "saber-mkt-btc"
       ]
     }
   ]
