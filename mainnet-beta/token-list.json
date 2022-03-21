@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-03-21T02:21:53.582Z",
+  "timestamp": "2022-03-21T02:53:11.771Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -5205,10 +5205,23 @@
     },
     {
       "address": "FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB",
-      "chainId": 104,
+      "chainId": 101,
       "decimals": 6,
-      "name": "Token FjFW",
-      "symbol": "FjFWk"
+      "extensions": {
+        "description": "Sencha LP token between Soluna Governance Token and solUST",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "medium": "https://medium.com/senchadex",
+        "source": "sencha",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "underlyingTokens": [
+          "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+          "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+        ],
+        "website": "https://sencha.so/#/pool/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+      },
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB/icon.png",
+      "name": "Sencha SLNA-solUST LP",
+      "symbol": "sSLNA-solUST"
     },
     {
       "address": "FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r",
