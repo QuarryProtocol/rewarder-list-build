@@ -33,11 +33,17 @@
       "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
       "replicaQuarries": [
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token SLNA",
+            "symbol": "SLNAA"
+          },
           "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
           "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
           },
           "slug": "qrusdc-usdt"
@@ -51,8 +57,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh"
+  },
+  "rewardsTokenInfo": {
+    "address": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3rZN",
+    "symbol": "3rZNc"
   },
   "slug": "5NPXAXnkkXvw6kfXtvo78mS99LPz4oGekjkUAUzHEyHP"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Goczp8C9w5tgDJueYi4tZwJWbsm85WVNc7sU9vxLLL7J",
-      "slug": "0",
+      "slug": "e4nm1",
       "stakedToken": {
         "decimals": 6,
         "mint": "E4nM1C9gatGjnPRtb1jBbmWip5jGBPXFKQGWvXV3vZQp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fcu6VGQjvRRXSvarP6RrzTwExRJpMuVtMFUu4qvHN2P8",
-      "slug": "1",
+      "slug": "3pyub",
       "stakedToken": {
         "decimals": 6,
         "mint": "3pYuBgn99HsLhW2rA2KvWPKn3SKhwbCdZmDm6ApBw75d"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Fw2saDAXAgCxkFboxeC8oEs3bRrNEvCNSPt2vgM92FTE"
+  },
+  "rewardsTokenInfo": {
+    "address": "Fw2saDAXAgCxkFboxeC8oEs3bRrNEvCNSPt2vgM92FTE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fw2s",
+    "symbol": "Fw2sa"
   }
 }

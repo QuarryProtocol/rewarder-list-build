@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DQ1cAwCmgwarzCuYiF2WqHEHFAjPCjaYboqMotcCKipT",
-      "slug": "0",
+      "slug": "qxjuh",
       "stakedToken": {
         "decimals": 6,
         "mint": "qxJUHnNo3yVwzaPcEhmdMuNeeseDeqHg7yt7pyYpGgz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9653ySCDTca1zF1698s3Ym72DrdzQtVS1FaWWLri5sbP",
-      "slug": "1",
+      "slug": "5nbcm",
       "stakedToken": {
         "decimals": 6,
         "mint": "5NbcmosWhfS1fpeyZa12Q5hNvmHysEv16bK267sfkrNu"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GHd5aoFfbDtHvkh7HuvZj2go2gFKtzfP4qMfhXUxypPQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "GHd5aoFfbDtHvkh7HuvZj2go2gFKtzfP4qMfhXUxypPQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GHd5",
+    "symbol": "GHd5a"
   }
 }

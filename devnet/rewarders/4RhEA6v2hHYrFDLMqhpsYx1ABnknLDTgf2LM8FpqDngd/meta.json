@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F8MK8NP1deyk3yAvhCrpZEsSkcF51RFdBNocYHs7eRy5",
-      "slug": "0",
+      "slug": "v2y35",
       "stakedToken": {
         "decimals": 6,
         "mint": "v2y35aAuoLze29YjcBaACDYiYkR4WijtTX2tRcoW3S7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "vsVAcs6e1Ae8KxLzUnup9R6vhn8eS9Ny7LSzyBkJ9L6",
-      "slug": "1",
+      "slug": "5xxd6",
       "stakedToken": {
         "decimals": 6,
         "mint": "5xXd66gwcrLHx22YRRnuvdJbWRPzMB6qVNeCQZmWQt23"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BFCHtL79DEwuZWCBNVprEEtWSsrSKLbEtuVH6tGCx3YP"
+  },
+  "rewardsTokenInfo": {
+    "address": "BFCHtL79DEwuZWCBNVprEEtWSsrSKLbEtuVH6tGCx3YP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BFCH",
+    "symbol": "BFCHt"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "JQqX9aHuVB7aR4GAsMDWxvQ7ddYmp4uEfXfhdYvP7xm",
-      "slug": "0",
+      "slug": "4gwmu",
       "stakedToken": {
         "decimals": 6,
         "mint": "4gwmuQz6wgTciS6Wnj8yL2WETkM4rBi5XEAC5NBmBBAZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "78pJPaypw5YH8JTjmdSXt7hQh1YNg3mNgDxMffAPTJ7z",
-      "slug": "1",
+      "slug": "47ttd",
       "stakedToken": {
         "decimals": 6,
         "mint": "47TtDJwJSYCm74ZAtFoN2NtxEDzn79NdM8AZPMzjytvf"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG"
+  },
+  "rewardsTokenInfo": {
+    "address": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FxEo",
+    "symbol": "FxEop"
   }
 }

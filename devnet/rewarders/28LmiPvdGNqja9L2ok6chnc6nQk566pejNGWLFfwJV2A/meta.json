@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "59wibYxAoRMzCPqGeCee7JgHqwvDiehyCVRon51hGHnC",
-      "slug": "0",
+      "slug": "b6npj",
       "stakedToken": {
         "decimals": 6,
         "mint": "B6NPjLafKQKLTgUh2FWbS1pPF7qYgJ3ur4oHm5CAoXRA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EDY8RZykpPd6j9oSDrxxwqLHzkiuFxSBMBeAq9vFS8of",
-      "slug": "1",
+      "slug": "fsb4i",
       "stakedToken": {
         "decimals": 6,
         "mint": "FSb4iXd1E1FCvoGy3xQrK4LPAHcxodc5UBK1xh7aRQwk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "36bPP6qyqy8bx7MQPun9DdrexbPvXC8t67SuP9izcEWA"
+  },
+  "rewardsTokenInfo": {
+    "address": "36bPP6qyqy8bx7MQPun9DdrexbPvXC8t67SuP9izcEWA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 36bP",
+    "symbol": "36bPP"
   }
 }

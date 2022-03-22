@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7ZXrgyWw6yksFY6UvTdCpPCTvqMDMKLxrkzDdiUGEAPe",
-      "slug": "0",
+      "slug": "5mskw",
       "stakedToken": {
         "decimals": 6,
         "mint": "5MskwNJqo1fLSWMtBK4VTHcgRpNCy6ib3RJbbafvP127"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "93cymYYQDyhHfuwmQ6qfUJKDAxnNJyhsgK2o1t5XF5wS",
-      "slug": "1",
+      "slug": "6whnw",
       "stakedToken": {
         "decimals": 6,
         "mint": "6WhnWK4hQmBsp7awP6BbaZKFHMhMpZiuhVY4LUT5N73V"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "A7ijxywGWUyiqz9J18Fts8ixnugjhDCkLQTkTzQGQry5"
+  },
+  "rewardsTokenInfo": {
+    "address": "A7ijxywGWUyiqz9J18Fts8ixnugjhDCkLQTkTzQGQry5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token A7ij",
+    "symbol": "A7ijx"
   }
 }

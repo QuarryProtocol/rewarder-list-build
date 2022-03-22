@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BAbr6xQofjvskm39NKHYGSPgPhwft8nUkogznNzFhDKa",
-      "slug": "0",
+      "slug": "g8zzy",
       "stakedToken": {
         "decimals": 6,
         "mint": "G8zZyX7yU1KaQ9sNuUQFDQ8kKFPbC89cRt8oeyL6Gbrn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7wQjNXk8oGiXwt79ixxo7M25WskFXBsJTSCMoUBsVckf",
-      "slug": "1",
+      "slug": "exah5",
       "stakedToken": {
         "decimals": 6,
         "mint": "Exah5vKwqTxNQQmJwXjW2skkyzQmq5AKnjsYUFvhg7Vi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BWGA8dYHdsSYNbeAcHdiinGvVLC6bze8QBByZs1pyrqh"
+  },
+  "rewardsTokenInfo": {
+    "address": "BWGA8dYHdsSYNbeAcHdiinGvVLC6bze8QBByZs1pyrqh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BWGA",
+    "symbol": "BWGA8"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6rr5woTDiKQFXXv81JMTsbEU28qPE2QDqANWsq5ar4Jb",
-      "slug": "0",
+      "slug": "5tbey",
       "stakedToken": {
         "decimals": 6,
         "mint": "5TbeykAtvbxiD3WPw1Zya2PpwTiNn6oqS1AqxHPgNHdo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EHf2L44dJVcZCBEco1BTygvSRL4htbPaFFThN7LVY8xZ",
-      "slug": "1",
+      "slug": "77ynj",
       "stakedToken": {
         "decimals": 6,
         "mint": "77yNj1NMwtpXkfqTTohr4caDVuHpKt2LMmTCBkbimr87"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3QRKT5SyNJ76H9X1qVvBJVAx5T4TBh1sAifkiAv9DF4M"
+  },
+  "rewardsTokenInfo": {
+    "address": "3QRKT5SyNJ76H9X1qVvBJVAx5T4TBh1sAifkiAv9DF4M",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3QRK",
+    "symbol": "3QRKT"
   }
 }

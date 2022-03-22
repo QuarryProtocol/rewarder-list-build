@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H3jjRGi8tBHpMxnfeYg7hpjaXE5EJmbajUoxy17M4V3K",
-      "slug": "0",
+      "slug": "heigo",
       "stakedToken": {
         "decimals": 6,
         "mint": "HEiGo4i1ksmWBSPBv17mVCLiSjhbYJHxgURqUtoKBTmo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BsG1jgBcG5GqtHe1Fpfiw75mqPkjMQj59JHsqaAUFdap",
-      "slug": "1",
+      "slug": "8hzzq",
       "stakedToken": {
         "decimals": 6,
         "mint": "8HzZqc4jnBa2tXYL53EtrVqT5m7Bymhsuk7oCxtTJ9kU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9aDWc2uRqVQSRnx2nceTf6tPutxRD9BinbHx3TepRLBi"
+  },
+  "rewardsTokenInfo": {
+    "address": "9aDWc2uRqVQSRnx2nceTf6tPutxRD9BinbHx3TepRLBi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9aDW",
+    "symbol": "9aDWc"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "7aVgoAVjprpuwhUjS53FxZfCskW2GzTjXLHtJYaugGUd",
       "replicaMint": "F5MRyrrcpquHdkZQzoogfVN6iEUW5ZLZibJsVLo3hpr2",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dcdav",
       "stakedToken": {
         "decimals": 6,
         "mint": "DCDavLAqWuvBkL9FNKGKqhdWJZtsGXPcUNzpEvEtPpT"
@@ -32,7 +32,7 @@
       "quarry": "BBmBB8o71DGKGmmHVG1qwuo8rPjVaAC8KFPUQ5ro8An2",
       "replicaMint": "DJfbuvkw3qroTNhFJfinf97myvx8ckaLcDpz6xsm2V9M",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "g3yhb",
       "stakedToken": {
         "decimals": 6,
         "mint": "G3YHByH2Jp9CFMFNYEzUy6rJ4qJzmpDE8r82ioKsEWNF"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EvdEer1ShyYzN2PT98tfkV29QB4kBHHTVBJXtBmHgsCA"
+  },
+  "rewardsTokenInfo": {
+    "address": "EvdEer1ShyYzN2PT98tfkV29QB4kBHHTVBJXtBmHgsCA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EvdE",
+    "symbol": "EvdEe"
   },
   "slug": "7pvUTUVs9mcE5GL9pc4MHqJyZtEqhz3qeNbgzDAHCwX9"
 }

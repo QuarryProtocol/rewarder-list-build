@@ -14,7 +14,7 @@
       "quarry": "5PiK83vioGJGtGFxzTUkiG6cSphxDbj83CiCVGMiu6hj",
       "replicaMint": "E5Jy4aMmcqF6snrhLEVtNaGYng9npKgdLBY1XE5iDPyV",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "2zuzv",
       "stakedToken": {
         "decimals": 6,
         "mint": "2zuzVmC5TGbQna7XpjdjzUHrBB2gJquBcfoxNCSqonpZ"
@@ -32,7 +32,7 @@
       "quarry": "AfZuEtFoX5ZCtEqgpLoHMjKFb45pwsCytZu8SoUiYPas",
       "replicaMint": "9z11tYZvu86sLm42PQ527cMPAf3gZLEYg6xBQSKV233Q",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "317st",
       "stakedToken": {
         "decimals": 6,
         "mint": "317STvh4vJ7VzAgPJMqNozseGEBp8TFuUxszHZux8jPs"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9RaMVk3h4c4bRz59QnBzGEHgMWc162jf4Z4nuH2DVZPH"
+  },
+  "rewardsTokenInfo": {
+    "address": "9RaMVk3h4c4bRz59QnBzGEHgMWc162jf4Z4nuH2DVZPH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9RaM",
+    "symbol": "9RaMV"
   },
   "slug": "AcqPvcyMP3oT2SREuEPSptHwAzhPXU9zDh3GiXugXvqh"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C5MR1wEfxDwCDZotygDgs9YSTHMqdRZbEdnGHh2YgKWD",
-      "slug": "0",
+      "slug": "3voey",
       "stakedToken": {
         "decimals": 6,
         "mint": "3voEyyapqAJiXpWbNpW9PSfwbZdvD26HVW4yTdFX3YJN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HbyVfcjYD2GoXJEw9TE8Lcv6YfKmUorVvDkRzz1ovskG",
-      "slug": "1",
+      "slug": "6xnwv",
       "stakedToken": {
         "decimals": 6,
         "mint": "6xNWV1e4o8LtFqUhkeCUF4wMXRGMmRaMEv8tH859DCJU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bme7s3fd5VzLVvcPBsBFHJcJd4k8SV8H3B6JxnsUfJnM"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bme7s3fd5VzLVvcPBsBFHJcJd4k8SV8H3B6JxnsUfJnM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bme7",
+    "symbol": "Bme7s"
   }
 }

@@ -16,24 +16,13 @@
       "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "underlyingTokenInfo": {
         "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-        "chainId": 101,
+        "chainId": 103,
         "decimals": 6,
-        "extensions": {
-          "coingeckoId": "saber",
-          "discord": "https://chat.saber.so",
-          "github": "https://github.com/saber-hq",
-          "medium": "https://blog.saber.so",
-          "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-          "twitter": "https://twitter.com/saber_hq",
-          "waterfallbot": "https://bit.ly/SBRwaterfall",
-          "website": "https://saber.so"
-        },
-        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+        "extensions": {},
+        "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
         "name": "Saber Protocol Token",
         "symbol": "SBR",
-        "tags": [
-          "saber-hidden"
-        ]
+        "tags": []
       }
     },
     "website": "https://saber.so"
@@ -92,20 +81,9 @@
       "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
       "underlyingTokenInfo": {
         "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
-        "chainId": 101,
+        "chainId": 103,
         "decimals": 6,
-        "extensions": {
-          "coingeckoId": "sunny-aggregator",
-          "discord": "https://chat.sunny.ag",
-          "github": "https://github.com/SunnyAggregator",
-          "medium": "https://medium.com/sunny-aggregator",
-          "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
-          "twitter": "https://twitter.com/SunnyAggregator",
-          "waterfallbot": "https://bit.ly/SUNNYwaterfall",
-          "website": "https://sunny.ag/"
-        },
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
-        "name": "Sunny Governance Token",
+        "name": "Token SUNN",
         "symbol": "SUNNY"
       }
     },
@@ -124,7 +102,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "17QZwHniDeZcwY7fkTd2igKPRGDM86kgByfasHhckfb",
       "redeemerVaultATA": "4rdWDiVVKaLP4JocnaBSVCaj2BqYwWgfnAVdNQDr9c2N",
-      "underlyingToken": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+      "underlyingToken": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+      "underlyingTokenInfo": {
+        "address": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token 2jmz",
+        "symbol": "2jmzZ"
+      }
     },
     "website": "https://quarry.so"
   },
@@ -156,19 +141,10 @@
       "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
       "underlyingTokenInfo": {
         "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-        "chainId": 101,
+        "chainId": 103,
         "decimals": 9,
-        "extensions": {
-          "coingeckoId": "marinade",
-          "discord": "https://discord.gg/mGqZA5pjRN",
-          "github": "https://github.com/marinade-finance",
-          "medium": "https://medium.com/marinade-finance",
-          "twitter": "https://twitter.com/MarinadeFinance",
-          "website": "https://marinade.finance"
-        },
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-        "name": "Marinade",
-        "symbol": "MNDE"
+        "name": "Token MNDE",
+        "symbol": "MNDEF"
       }
     },
     "website": "https://marinade.finance"
@@ -186,7 +162,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "JBUCsSTFCd7eNwBoKPS9V6bi2DUS9WhHNvW3gBUYq4Cs",
       "redeemerVaultATA": "5DEwfJ2hgnViWyK69MheVro5pAdhpoqoEzJbiBCnSUPK",
-      "underlyingToken": "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3"
+      "underlyingToken": "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3",
+      "underlyingTokenInfo": {
+        "address": "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token G2Ft",
+        "symbol": "G2Ftt"
+      }
     },
     "website": "https://swim.io"
   },
@@ -203,7 +186,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "5Xd8xVo1qCdBU7rVaE1up9WZv1cuf5KGpLte4FheoP63",
       "redeemerVaultATA": "3PEJsaKJzWJeU6CsYEtCRsURWvemCL29wXrzUU2uwCQG",
-      "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+      "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+      "underlyingTokenInfo": {
+        "address": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token swim",
+        "symbol": "swimn"
+      }
     },
     "website": "https://swim.io"
   },
@@ -220,7 +210,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "FvNtZdWva5uDG3FgtCc6bKzBHrQQeTkUzgAQAQpbYX5F",
       "redeemerVaultATA": "8QyMH2oPYrodVaFBjp1eH3jszZ8jwD2mdJH7t7ENPZUi",
-      "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+      "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ",
+      "underlyingTokenInfo": {
+        "address": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token 5YwU",
+        "symbol": "5YwUk"
+      }
     },
     "website": "https://sentre.io"
   }

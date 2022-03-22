@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BDvdJE8eWirb4xZqoJAdKVfBd8oEKY9mqKFmKgHadB2s",
-      "slug": "0",
+      "slug": "g86cj",
       "stakedToken": {
         "decimals": 6,
         "mint": "G86cJHARGJzfs1rzNp6jsMqfSyiJSk6CeJQQHRESBwX4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8hGy2NcxH6angKry2TcoYVfzcqJr4ynDHb28CWdQjNUv",
-      "slug": "1",
+      "slug": "dxeu7",
       "stakedToken": {
         "decimals": 6,
         "mint": "DXeU7dZeQjbApwXx3LSLQVCTjU8D98h9SNhVDvR6JVzZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5PpJzTBsfB3v4mZVfLT3jJHCA5rPw94r1HjNU3zYvWPf"
+  },
+  "rewardsTokenInfo": {
+    "address": "5PpJzTBsfB3v4mZVfLT3jJHCA5rPw94r1HjNU3zYvWPf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5PpJ",
+    "symbol": "5PpJz"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C5m39KffP728QkHEcTjLTrnphLPmDZZdWeCu1bqRGbjp",
-      "slug": "0",
+      "slug": "hmxwg",
       "stakedToken": {
         "decimals": 6,
         "mint": "HmxWgQeyCN9hVsJnXCkEkQYZiGiAVB7dUigvvenbphpu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5CM7aWp6uxSPrPYY4FvjhgHkWotYeWoDiWeVRsF3b5gE",
-      "slug": "1",
+      "slug": "dktxs",
       "stakedToken": {
         "decimals": 6,
         "mint": "DktXsKHzuyNk1hmndEBCfMrE3RmRNCuyPpjBFYzhMh84"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9U46apHWR6QNzUc8LUnsJXNLjGiubKo4Tsst2VmeQYCW"
+  },
+  "rewardsTokenInfo": {
+    "address": "9U46apHWR6QNzUc8LUnsJXNLjGiubKo4Tsst2VmeQYCW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9U46",
+    "symbol": "9U46a"
   }
 }

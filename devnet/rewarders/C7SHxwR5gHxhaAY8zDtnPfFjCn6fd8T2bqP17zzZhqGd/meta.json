@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H4r18J3wwvFXxt8akL7DctcLDyDy5HiqitCFfs4BHrHM",
-      "slug": "0",
+      "slug": "9k4pf",
       "stakedToken": {
         "decimals": 6,
         "mint": "9K4PFwYi56uj4B4rNXU3GUsCRWUWXAkSjGh5Cr3sS3tF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "hgFXAPUCVX1KQ2suUuHVAto2snVgb42ATrv9Bw6ekKk",
-      "slug": "1",
+      "slug": "b31z2",
       "stakedToken": {
         "decimals": 6,
         "mint": "B31z27HLkmWF8W8evCdYUg6FuccBKXqiGNrrm61VtAkM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CqAT4kxbFdaaHMqfgBzHiRhypJcETMsHTLXXuq8E6FHq"
+  },
+  "rewardsTokenInfo": {
+    "address": "CqAT4kxbFdaaHMqfgBzHiRhypJcETMsHTLXXuq8E6FHq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CqAT",
+    "symbol": "CqAT4"
   }
 }

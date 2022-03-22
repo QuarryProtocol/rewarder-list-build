@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5uNcaG6tRP9jho3hJahnNu5BHpuv6t5VfkbBBsdBhoum",
-      "slug": "0",
+      "slug": "dyxgf",
       "stakedToken": {
         "decimals": 6,
         "mint": "DyxgFdWoKuvt7mjMjBWY4DVLGKnbwREbCUzYWBjVPMmm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "fw5YPvoz3oKukxwJzdx6CsDyKRgUDnYKsr7P3ueFsFn",
-      "slug": "1",
+      "slug": "gmbhz",
       "stakedToken": {
         "decimals": 6,
         "mint": "GmbhZfbf5ZdHLJZbrk7P56QW6GH2rNEsREqhAaP5uTUv"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DVzQTVq6ZHXoHBAe91eijLzsrrkzRRbiZvZ1AG17CVVG"
+  },
+  "rewardsTokenInfo": {
+    "address": "DVzQTVq6ZHXoHBAe91eijLzsrrkzRRbiZvZ1AG17CVVG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DVzQ",
+    "symbol": "DVzQT"
   }
 }

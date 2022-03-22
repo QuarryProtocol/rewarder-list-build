@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "1vZr3bgBcQgpUEnFW8wfQLLMVsZpEzfFBQucaKc7Ax6",
-      "slug": "0",
+      "slug": "rxfya",
       "stakedToken": {
         "decimals": 6,
         "mint": "rxFYano6GAAhvNSa2geNyj3tH3skhKY7s5Rny4sqvy6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D9tNjXGpmJ1rQZHAg5pHLNKtyjhzZ56AjAeEi8e81YTA",
-      "slug": "1",
+      "slug": "b1wsu",
       "stakedToken": {
         "decimals": 6,
         "mint": "B1wSufM2ZjxaHg5LKeZjCEqiMkYCL8SNkJwAWYyxvugF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2gkxCCYBJw2wBv26FvazgQLA4BSgEzQF2eZz1XsBpL4Z"
+  },
+  "rewardsTokenInfo": {
+    "address": "2gkxCCYBJw2wBv26FvazgQLA4BSgEzQF2eZz1XsBpL4Z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2gkx",
+    "symbol": "2gkxC"
   }
 }

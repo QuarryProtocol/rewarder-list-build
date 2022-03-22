@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H6YK3h6zqWnCTstMFDWQYSrYtptxDc64SVBTejFgvwZa",
-      "slug": "0",
+      "slug": "557q4",
       "stakedToken": {
         "decimals": 6,
         "mint": "557q4Dd2M2YGv9gnKbWxGxianaoCCipPBkCTXtYnc4ok"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "277tU2VZrYuPop12ALZaiBi4CXffCGLN19gA1KpU94RF",
-      "slug": "1",
+      "slug": "awd7k",
       "stakedToken": {
         "decimals": 6,
         "mint": "AWD7kBgGvy9F3w68PjSJ2fWEMtYcp469fuB58LjfJKzH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7eHayyXa2J2AXcvxasvd4bGCt4t5rh8Eaazv6LazueT5"
+  },
+  "rewardsTokenInfo": {
+    "address": "7eHayyXa2J2AXcvxasvd4bGCt4t5rh8Eaazv6LazueT5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7eHa",
+    "symbol": "7eHay"
   }
 }

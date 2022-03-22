@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8UbwDoTaquzWL9tjSL9oQFaDMJAGwvJmQtNkVYAz9S1Y",
-      "slug": "0",
+      "slug": "54fsp",
       "stakedToken": {
         "decimals": 6,
         "mint": "54fSPZAiMvBQheY1PgPG3abmxXWGMzD175ZQzKPagNVL"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "992C57v7cyGE7Azht4Abwa4nCv3Pw5LBURvSSGaxCq44",
-      "slug": "1",
+      "slug": "cqhpp",
       "stakedToken": {
         "decimals": 6,
         "mint": "CqHpppszBiYNgnTZHAN5xQcmJgPRSic9d7E7Afn7gANV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FqJZ22QdznzvYuGja42scuJxVj498hhMYP2gqfzUi78r"
+  },
+  "rewardsTokenInfo": {
+    "address": "FqJZ22QdznzvYuGja42scuJxVj498hhMYP2gqfzUi78r",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FqJZ",
+    "symbol": "FqJZ2"
   }
 }

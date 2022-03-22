@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CKSG58mV7sqrp3wG5FC3PRkyTG2MnynFaZjqrqvmyuks",
-      "slug": "0",
+      "slug": "6vujh",
       "stakedToken": {
         "decimals": 6,
         "mint": "6vuJhJTgWEyGhuAZfuM5VUqa8i81aEsToPmJCyVTb5pj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BFxYPj2dfGoUphByBW4smqVpHdv5YSyfdYT9oQRw2mCq",
-      "slug": "1",
+      "slug": "cu1bb",
       "stakedToken": {
         "decimals": 6,
         "mint": "CU1bbJtcHdbS4TEh9Da4PNNmaTnJRe3jHidRkT3vkx8g"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FbFnrXfpF4BfDKToV8Q4yCM45K7vqbXkTX2HzosSNwsT"
+  },
+  "rewardsTokenInfo": {
+    "address": "FbFnrXfpF4BfDKToV8Q4yCM45K7vqbXkTX2HzosSNwsT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FbFn",
+    "symbol": "FbFnr"
   }
 }

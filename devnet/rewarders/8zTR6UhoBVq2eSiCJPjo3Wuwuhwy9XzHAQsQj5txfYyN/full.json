@@ -14,7 +14,7 @@
       "quarry": "Asot94dJTifNorgeMjXgWyQSMpm6MjeWsL9ZWSqBPVGe",
       "replicaMint": "BfywY47L4NG138cb4NC7w6kbGthFuDG2u7YQ4dqCFCDn",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6ncu4",
       "stakedToken": {
         "decimals": 6,
         "mint": "6NCU4rtBDRWAsmC7pG6iboUJtimbEKxafeutTTJGukn8"
@@ -32,7 +32,7 @@
       "quarry": "3TufTUkLiQTMuHciYCWgnvXELCGydctTZDCeBipFFYes",
       "replicaMint": "81dFYmydFngCrBtwiJcorZqxQrmJwKc1RYUnY57zZA9K",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "eizui",
       "stakedToken": {
         "decimals": 6,
         "mint": "EizuiC4UQocgz6cn85k7uJPfW3wbVKnp63P6RaNdUrw4"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "33bcj4uehYYjKAMY9NsFFw3vhdQBBeWzNDx6AXKL2AL3"
+  },
+  "rewardsTokenInfo": {
+    "address": "33bcj4uehYYjKAMY9NsFFw3vhdQBBeWzNDx6AXKL2AL3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 33bc",
+    "symbol": "33bcj"
   },
   "slug": "8zTR6UhoBVq2eSiCJPjo3Wuwuhwy9XzHAQsQj5txfYyN"
 }

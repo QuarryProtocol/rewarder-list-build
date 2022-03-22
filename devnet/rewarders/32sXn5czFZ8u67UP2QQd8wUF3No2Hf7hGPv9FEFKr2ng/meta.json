@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7Uiettzsphdwy9bem8nDJsDFF1FfiTWeKwusWCL3VJGo",
-      "slug": "0",
+      "slug": "c8cxc",
       "stakedToken": {
         "decimals": 6,
         "mint": "C8cXCV2nffCiNHnm3CfhjmgPCnT74bfQxUq6VX9xxoQU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GNKVzyK7X1n2BUwerHiyLwESZTPrbB45UzDHGYQv8o6i",
-      "slug": "1",
+      "slug": "5dvfp",
       "stakedToken": {
         "decimals": 6,
         "mint": "5dVFp2vLgCkfVpGMKUrY4EqLk9oxVBZKCT7ryGApogWk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3h7VemtqH3wRXMSMW3RFTMKciZ6n8MynsnjWUnkZWCqA"
+  },
+  "rewardsTokenInfo": {
+    "address": "3h7VemtqH3wRXMSMW3RFTMKciZ6n8MynsnjWUnkZWCqA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3h7V",
+    "symbol": "3h7Ve"
   }
 }

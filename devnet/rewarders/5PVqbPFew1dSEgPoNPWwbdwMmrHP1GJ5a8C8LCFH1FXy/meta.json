@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HsXTRN5dKiV5sWZi4kh6gh6hDDPdnbxiyBXbiJ9rgjRf",
-      "slug": "0",
+      "slug": "fpshe",
       "stakedToken": {
         "decimals": 6,
         "mint": "FPsHeHGeF5za6KG7eYtTUrko5zQpXKVLzNF5NR3e6xhf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CmBa962udtR2skWVEWz7qd78NFJnLfiN7wtx2mu8sAK6",
-      "slug": "1",
+      "slug": "ajqch",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJQChsUAKUqNbrTkW1bfoXwduKpd9dp4BG71sS9a1Q26"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F1c5oJoby6HcMeWE1yhDFQeTwrjX5Xgd7idBDg2mzgmm"
+  },
+  "rewardsTokenInfo": {
+    "address": "F1c5oJoby6HcMeWE1yhDFQeTwrjX5Xgd7idBDg2mzgmm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F1c5",
+    "symbol": "F1c5o"
   }
 }

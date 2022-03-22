@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GNMDe3obTuBfsxE2hVx8mWc8PRfnUw7AxAH8jYMN4gYv",
-      "slug": "0",
+      "slug": "cqoyy",
       "stakedToken": {
         "decimals": 6,
         "mint": "CqoYyQTiZ6T6Jm5wC3dfmDD7v1GduYcMfN8v9DCLpmik"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8eWHtbvAMjkmHvyLURBnrcyEknV73rFfjindHakmyMeG",
-      "slug": "1",
+      "slug": "ajehx",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJeHX11dwEHw8287kutSZF2w7bFiaJxqq1EhbFcip5hZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BPVKkjMupyVGbA4H5TyqDeMMoyXv2hmbe2FNhaMrtTWk"
+  },
+  "rewardsTokenInfo": {
+    "address": "BPVKkjMupyVGbA4H5TyqDeMMoyXv2hmbe2FNhaMrtTWk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BPVK",
+    "symbol": "BPVKk"
   }
 }

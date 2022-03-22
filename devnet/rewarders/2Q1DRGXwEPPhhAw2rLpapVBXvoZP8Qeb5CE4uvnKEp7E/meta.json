@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6dqqLyZcxUcUY6JW2wu4DRHc1gjHqoZYYmJG5ay34B3x",
-      "slug": "0",
+      "slug": "cqdje",
       "stakedToken": {
         "decimals": 6,
         "mint": "CQDJeDzPUuCcbZezSqsG23ArWvxphG9j5PJBAgimAd8s"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HcnG3QwnjdqkGDxryaY1wmaaNDHZRmFG5T82Crf5zsR",
-      "slug": "1",
+      "slug": "2q5ji",
       "stakedToken": {
         "decimals": 6,
         "mint": "2q5jimo3fN2K2RwWcnXuvWffAUWKTKkfBwzmJ8zxRAi4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HA4bcF6iHotqi5zkMiAvBDwWAgyoa3XmUzQVmiVv9nSE"
+  },
+  "rewardsTokenInfo": {
+    "address": "HA4bcF6iHotqi5zkMiAvBDwWAgyoa3XmUzQVmiVv9nSE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HA4b",
+    "symbol": "HA4bc"
   }
 }

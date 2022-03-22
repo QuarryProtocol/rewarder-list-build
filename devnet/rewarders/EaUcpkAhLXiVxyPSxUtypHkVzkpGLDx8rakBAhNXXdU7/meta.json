@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "kqEgVML5qzx7RZ4LmA3yCQK5BUyAX6mLYSHT26qx92i",
-      "slug": "0",
+      "slug": "dqfcw",
       "stakedToken": {
         "decimals": 6,
         "mint": "DqFcwPC167vwqWTfJM71H2onyDztzmR4qswGTCRFQaxJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6kb4okang72wRmNSv1HYGrgkA9RYPmxjBzkgfKYvfRMZ",
-      "slug": "1",
+      "slug": "dfwjk",
       "stakedToken": {
         "decimals": 6,
         "mint": "DfwJKJziWb1kq57qy9snLkBJzsDCvfR8njjvMR1Q3usU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8kNz5JHYakFyBEhXk7V7zDqSXrPaQPMF75YiWwZL4VfU"
+  },
+  "rewardsTokenInfo": {
+    "address": "8kNz5JHYakFyBEhXk7V7zDqSXrPaQPMF75YiWwZL4VfU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8kNz",
+    "symbol": "8kNz5"
   }
 }

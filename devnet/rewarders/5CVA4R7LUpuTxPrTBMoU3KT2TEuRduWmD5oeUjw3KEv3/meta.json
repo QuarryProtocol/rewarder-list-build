@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FNWPvXWhRiKsF85uUfa5jhbm8JCsRLpsHX7UuKWPBUCx",
-      "slug": "0",
+      "slug": "3ql4n",
       "stakedToken": {
         "decimals": 6,
         "mint": "3qL4NdQeT3QP6UkWjbH696qKJuGpshDEKHg8ccFyLX7f"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "F51tUREToaXdKhixJxLpYG8oagxKH6ys3vskXmbWtQAQ",
-      "slug": "1",
+      "slug": "3ihkh",
       "stakedToken": {
         "decimals": 6,
         "mint": "3iHkH1ACcN7gvGcT4mJCPdb8YjX9J5s5ifz1aPUxT8Fe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GhF2XxaJmG9jNAH3BKpp1wj4Dnzssch3qxRc679Yhc45"
+  },
+  "rewardsTokenInfo": {
+    "address": "GhF2XxaJmG9jNAH3BKpp1wj4Dnzssch3qxRc679Yhc45",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GhF2",
+    "symbol": "GhF2X"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BLQhj5d4cYtvFrU6wots7QPNxWUo3dEVbAg8K6fpki4X",
-      "slug": "0",
+      "slug": "dzhic",
       "stakedToken": {
         "decimals": 6,
         "mint": "DZHiCucxdqntHVPWj6K3R8Bh1XMVtrE5i2RAayjFgyEF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5gh9vA44Wf3Fih3EgV3iwp4mPqPVB2tC9HMAwCaboZzq",
-      "slug": "1",
+      "slug": "8cemn",
       "stakedToken": {
         "decimals": 6,
         "mint": "8CEmNpn1J5BMLsKpSMvNyS334YAP9o7Uw9xux4eK1MMP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "W997QhcdGR7Z4DTWRmVQz2ygB5Af5nu4nGUxoHveq3Z"
+  },
+  "rewardsTokenInfo": {
+    "address": "W997QhcdGR7Z4DTWRmVQz2ygB5Af5nu4nGUxoHveq3Z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token W997",
+    "symbol": "W997Q"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "XxgH9BBa3h33WF13cYHHfs1ArhxRCjQNimn234LjZVp",
-      "slug": "0",
+      "slug": "apmni",
       "stakedToken": {
         "decimals": 6,
         "mint": "ApMniS8xo8qAUBT7SQ82aryga9eHi2hk7bh4scjjQmCB"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ApMniS8xo8qAUBT7SQ82aryga9eHi2hk7bh4scjjQmCB"
+  },
+  "rewardsTokenInfo": {
+    "address": "ApMniS8xo8qAUBT7SQ82aryga9eHi2hk7bh4scjjQmCB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ApMn",
+    "symbol": "ApMni"
   }
 }

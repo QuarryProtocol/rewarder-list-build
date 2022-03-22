@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FQ6WM37p3CeMA3rBHj7EFHuQA3CfkPKC9mdYw93iSrtk",
-      "slug": "0",
+      "slug": "4jpnn",
       "stakedToken": {
         "decimals": 6,
         "mint": "4jPnNzB7KkGg5BJKZXYzN6UkXtyF85QX1EPQSEWubbr8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4zxgmzCXFV6dD2AS6vu2dRCqL39VWFSJuE7LauzCiQMm",
-      "slug": "1",
+      "slug": "7ryxn",
       "stakedToken": {
         "decimals": 6,
         "mint": "7ryXNx36qQjNKMCeb8axBfsQ7nVU5avyXtsK5yzFJBbo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AbyRN4E1HjWfQ6R62bAtJquXCdkB5tfZwzagxHv6LeNn"
+  },
+  "rewardsTokenInfo": {
+    "address": "AbyRN4E1HjWfQ6R62bAtJquXCdkB5tfZwzagxHv6LeNn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AbyR",
+    "symbol": "AbyRN"
   }
 }

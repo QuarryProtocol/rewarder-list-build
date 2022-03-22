@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HYZJkbTCNBuXpUx6bju8JHdETyrdSGSd3rKJmEkiU8Tv",
-      "slug": "0",
+      "slug": "j5tp1",
       "stakedToken": {
         "decimals": 6,
         "mint": "J5Tp1vmzVeyLvRvwXbQUfptAa9CwdoLxpakZiRbxkhKV"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7S39RacuqbDNkg4937XDrMRF38SoFopibBJdsFgj7phL",
-      "slug": "1",
+      "slug": "32jkn",
       "stakedToken": {
         "decimals": 6,
         "mint": "32jKNSDW8YGmNTvd4LsqoDmpUQW3VX94Lw71qPKx7CTb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7owpwKnKgQ6L5BAfrshFou5LRXGi4iyu6ocfsD9ja5MW"
+  },
+  "rewardsTokenInfo": {
+    "address": "7owpwKnKgQ6L5BAfrshFou5LRXGi4iyu6ocfsD9ja5MW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7owp",
+    "symbol": "7owpw"
   }
 }

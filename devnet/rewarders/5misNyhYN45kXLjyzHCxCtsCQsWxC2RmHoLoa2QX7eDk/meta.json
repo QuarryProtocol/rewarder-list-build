@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CEZno6xAgxPAyEM6yLr9Bsitm13QhAqeYqHinQNTrZGm",
-      "slug": "0",
+      "slug": "7t6z6",
       "stakedToken": {
         "decimals": 6,
         "mint": "7T6Z6wrshx6jQrGzAU3TSzuLrP6gQfwrJrGF7QmJuK8s"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BVMU7weH95Grvju2vv8DQ1sXZqTfRMufAJY1wi3pE2o3",
-      "slug": "1",
+      "slug": "6ttju",
       "stakedToken": {
         "decimals": 6,
         "mint": "6ttjukFhwmajmYU6qCuJkBuvRtrmm75pfRCU4L6tu691"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6rrgJvDodSdRp6pgXoN3YqsmiTUhjD9dixQu7u5k9CAy"
+  },
+  "rewardsTokenInfo": {
+    "address": "6rrgJvDodSdRp6pgXoN3YqsmiTUhjD9dixQu7u5k9CAy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6rrg",
+    "symbol": "6rrgJ"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2EuQU3kPcNVoMTkG8GH16JZRu1aPZs3Sx4Ne2sgWNbeY",
-      "slug": "0",
+      "slug": "fzc6k",
       "stakedToken": {
         "decimals": 6,
         "mint": "FZc6kr83CYRX7TwrXr4nAaPtukbSS2fSgPSnjBefGpPQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CfS3JfSMriF9WtGDFQB6ST1o4KKf94c3gtwpr2nrXR9u",
-      "slug": "1",
+      "slug": "alse7",
       "stakedToken": {
         "decimals": 6,
         "mint": "ALse7NnFKusKdAanW9bZU7yv7LwYsbiJUCnibrasU2kc"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9szP5BoEAZn2795y6vjyZH9TJfe6uRDtsBYSMi8jj1SH"
+  },
+  "rewardsTokenInfo": {
+    "address": "9szP5BoEAZn2795y6vjyZH9TJfe6uRDtsBYSMi8jj1SH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9szP",
+    "symbol": "9szP5"
   }
 }

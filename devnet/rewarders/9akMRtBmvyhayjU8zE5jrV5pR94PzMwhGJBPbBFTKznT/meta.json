@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EigL4VA3TkN5vb52bSNKU8RhV5dnujHp8DUDEFPnJdCY",
-      "slug": "0",
+      "slug": "5vdzc",
       "stakedToken": {
         "decimals": 6,
         "mint": "5vDzCcnQjYGvEs7gkq29u63HGNcTu6ZNJsPUjduh1sjJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C7hzVJYrfStKWaAPpkHKxag9GqvRvE6nQRLnZyVhfPQr",
-      "slug": "1",
+      "slug": "gdkz6",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gdkz6YDhUHRiWnKRZtatir4RxLYZG5HDpCUCaH3kiymP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GxzbsTzoAEW72tBswxnmqt4hoGFKkCs1WRhLK8jiRgjR"
+  },
+  "rewardsTokenInfo": {
+    "address": "GxzbsTzoAEW72tBswxnmqt4hoGFKkCs1WRhLK8jiRgjR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gxzb",
+    "symbol": "Gxzbs"
   }
 }

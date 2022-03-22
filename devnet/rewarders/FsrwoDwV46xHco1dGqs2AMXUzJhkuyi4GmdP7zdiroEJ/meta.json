@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C1hHiG3hDQnWq6Nd6ZhVt3eDp85m3jLGZsGnZtofWg6C",
-      "slug": "0",
+      "slug": "7th5l",
       "stakedToken": {
         "decimals": 6,
         "mint": "7TH5LStCLZQUBUDGjt9E5xArePeMJLD6P53BFxeNZW5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "H1DSZHLUtceiahCNLfeKoVbN36B2qFaNJcYpYb3sPtvR",
-      "slug": "1",
+      "slug": "avjxd",
       "stakedToken": {
         "decimals": 6,
         "mint": "AvJXdLXZGBTqxMG5rGcracKCa6wh84rjpxQh5samkkhE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "89giGsepGHnS7QWtqsBbVDFSzjckTDGKkXmstMb8Gx8Q"
+  },
+  "rewardsTokenInfo": {
+    "address": "89giGsepGHnS7QWtqsBbVDFSzjckTDGKkXmstMb8Gx8Q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 89gi",
+    "symbol": "89giG"
   }
 }

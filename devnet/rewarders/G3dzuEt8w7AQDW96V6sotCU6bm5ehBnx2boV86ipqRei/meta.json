@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4CPEHdHBcNzuRz8n6enjsx3VcZoQUsyx7oCfDEXh35za",
-      "slug": "0",
+      "slug": "7r7bg",
       "stakedToken": {
         "decimals": 6,
         "mint": "7r7Bg5BfAko7fY6GoLXaMuHV5TRWqiF6sFAe81y87zhN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HXuHC3i2goX7TmsnUqofA6wVmmb5NYEvpaP5WLYoqUmn",
-      "slug": "1",
+      "slug": "frmiy",
       "stakedToken": {
         "decimals": 6,
         "mint": "FRmiY9qLNTHncWYZ887q2vHS7fDHMN2jo1Gh8Bef5nsC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8rL8odSbQ1AK9gvKFywvWyX5o7JyGB8VvaFAs8T6sqg1"
+  },
+  "rewardsTokenInfo": {
+    "address": "8rL8odSbQ1AK9gvKFywvWyX5o7JyGB8VvaFAs8T6sqg1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8rL8",
+    "symbol": "8rL8o"
   }
 }

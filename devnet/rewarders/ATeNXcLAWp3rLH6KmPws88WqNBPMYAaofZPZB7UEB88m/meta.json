@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "PjivoJ4HV1Py7SgYqXw3WWQU4ogMAgUMBCJfrSr6b3p",
-      "slug": "0",
+      "slug": "hnemv",
       "stakedToken": {
         "decimals": 6,
         "mint": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EMocJdYBnujB4LFxHN2Dhzh7T7ryDXXCTsV7mRjL1hFS",
-      "slug": "1",
+      "slug": "2kadc",
       "stakedToken": {
         "decimals": 6,
         "mint": "2KADC9LkRwR5wYxi5XwGZ5kx5CRo1Y6tr8gFiSGQbCxT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HNEm",
+    "symbol": "HNEmv"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HTENNDTdKaoWEaaq67VuBdmPajdmQFS7y62YdkXx4Mje",
-      "slug": "0",
+      "slug": "5qwdp",
       "stakedToken": {
         "decimals": 6,
         "mint": "5QwdPS1a9MmkSeBgnWxXY16heVj1Yw8FZEQAUSJUB2rU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "45q35e1cpWJScx5UqLdYvx7N3TMQfyW13vK13WCVJq6t",
-      "slug": "1",
+      "slug": "bqery",
       "stakedToken": {
         "decimals": 6,
         "mint": "BqEryUFo4viLzN57om6irsKrziR9Kajia4CqZvFmrkwx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "A4uubjw3FdhVdfiX6k77xNWmiHxnVj3EAtJNmodJgNwt"
+  },
+  "rewardsTokenInfo": {
+    "address": "A4uubjw3FdhVdfiX6k77xNWmiHxnVj3EAtJNmodJgNwt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token A4uu",
+    "symbol": "A4uub"
   }
 }

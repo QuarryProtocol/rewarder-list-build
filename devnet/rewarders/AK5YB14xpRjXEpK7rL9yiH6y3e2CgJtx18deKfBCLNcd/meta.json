@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5UR2DxdzoYUHGd1baHfm88FzXE8Wts7dhFP7a2xotz3n",
-      "slug": "0",
+      "slug": "dwnmu",
       "stakedToken": {
         "decimals": 6,
         "mint": "DWnMuKrjvjPqU9DoN5uQTxygSLw6bRaK7heuTyfrrGwy"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HeC4vL8m6ByY8upWPp4cjGhMS7SVEcgQ7HCCGSNzqiaB",
-      "slug": "1",
+      "slug": "cncde",
       "stakedToken": {
         "decimals": 6,
         "mint": "CncDExPDh4uE3mZncAd4HJXZaiwGtxSEpLdXhko8J4zm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GsLvAgyR4epS6T6cheHWvU2pdCVYoWesH1wz56RT7g2P"
+  },
+  "rewardsTokenInfo": {
+    "address": "GsLvAgyR4epS6T6cheHWvU2pdCVYoWesH1wz56RT7g2P",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GsLv",
+    "symbol": "GsLvA"
   }
 }

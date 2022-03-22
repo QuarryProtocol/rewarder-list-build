@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C3uvjdmbsSFj6CpqAquA3zS7SeCtbJcVHs1GcwaYUnNk",
-      "slug": "0",
+      "slug": "7ss9a",
       "stakedToken": {
         "decimals": 6,
         "mint": "7Ss9aTJAhYoFZ7AVdEAmge3JnRTJzwGSrNyLLkxMSUNN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2KwnRUN1JusVuS8n8zsNhHgYhDnV1T7uJLMRDuCRiS6i",
-      "slug": "1",
+      "slug": "b7cey",
       "stakedToken": {
         "decimals": 6,
         "mint": "B7cEYkwJNLtSPADfwtdWqinMZV5dkGDiuBYU1RfvaHz6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "52za2LxLZuTrsKr9Mt5EJY3j8oqhFtLQ3TswKpdsWt3B"
+  },
+  "rewardsTokenInfo": {
+    "address": "52za2LxLZuTrsKr9Mt5EJY3j8oqhFtLQ3TswKpdsWt3B",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 52za",
+    "symbol": "52za2"
   }
 }

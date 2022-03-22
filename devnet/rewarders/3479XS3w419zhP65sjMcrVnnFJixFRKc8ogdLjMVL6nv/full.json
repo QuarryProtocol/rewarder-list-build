@@ -14,7 +14,7 @@
       "quarry": "8ry87XHFxMb8z4r1bu7JRBoUSpoEmegYn2HZQgSCs2AP",
       "replicaMint": "9KrDRHhYpXx99uQQv8WGZSk55Csxt6CWqWs1qq3RNXQX",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6nltf",
       "stakedToken": {
         "decimals": 6,
         "mint": "6nLTFdFRsfFQ84gWURWtxMDSJzCq8oAqxAWxP2B9EBCp"
@@ -32,7 +32,7 @@
       "quarry": "85koi7qJRWuvaoNoFZn3zYo8Y8WhWUQCWmUJfRxPxDCv",
       "replicaMint": "FYaVeyUAtXGsZ2Vk973FgJxQbTgQL3pV7m4E83W1V2JT",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "yjuqd",
       "stakedToken": {
         "decimals": 6,
         "mint": "YjuqdQF8mYq7g1jkQDJ6D1e6wv2NaV1N6ZBTwsp6Dvi"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5tKnNkHvTzdHbEJSBoA3kLxSj1wfdf9sC1EQNfNFY9sj"
+  },
+  "rewardsTokenInfo": {
+    "address": "5tKnNkHvTzdHbEJSBoA3kLxSj1wfdf9sC1EQNfNFY9sj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5tKn",
+    "symbol": "5tKnN"
   },
   "slug": "3479XS3w419zhP65sjMcrVnnFJixFRKc8ogdLjMVL6nv"
 }

@@ -14,7 +14,7 @@
       "quarry": "GRUj8XYvDF6V8Jr3r6zMyfTPBCidBKm2eyi4MoRXaNye",
       "replicaMint": "5JUav5VHV4K8pdhYzkBQaJkvamCpvsMjnMCJKiERvpZx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "2ngyi",
       "stakedToken": {
         "decimals": 6,
         "mint": "2ngYiZLTLtb9qJVmrSTCUg6ySZEvUitkqMzT23dMAxgE"
@@ -32,7 +32,7 @@
       "quarry": "4foBL94bpUYHM5xL6FCLBoaEWUP7gJTrAzoMVVkRcNuJ",
       "replicaMint": "4TPn3ZfWKrHEDpheruVufVe1QyjC7MS7cVmgxDCGSuMN",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "4stst",
       "stakedToken": {
         "decimals": 6,
         "mint": "4StSTR4G3DcNbzrxQYeYzYvx3KeRYhaYFAiyDuwkm2xd"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "677mWMCD3fDqsyBptHvSX1jCuAjfkVeV7kGnDEegB36d"
+  },
+  "rewardsTokenInfo": {
+    "address": "677mWMCD3fDqsyBptHvSX1jCuAjfkVeV7kGnDEegB36d",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 677m",
+    "symbol": "677mW"
   },
   "slug": "GcKJrPxXh4TREomTENiU9krJ1KvKN79kohxbdfDorF2b"
 }

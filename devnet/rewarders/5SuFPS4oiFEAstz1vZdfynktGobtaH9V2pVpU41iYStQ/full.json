@@ -14,7 +14,7 @@
       "quarry": "2iEHFJC8PCsu4QsGAbHNAo9yot4Ncgf4h7k1B77TSHjC",
       "replicaMint": "8UNb3Yh8WkPF7xJdwMZfPtByg5EExD5KKn5Spge1MGv4",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "sunny",
       "stakedToken": {
         "decimals": 6,
         "mint": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GNcqBr4RtQoeNDjMmQFUZES3TWecriYfo18AStAogsLi"
+  },
+  "rewardsTokenInfo": {
+    "address": "GNcqBr4RtQoeNDjMmQFUZES3TWecriYfo18AStAogsLi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GNcq",
+    "symbol": "GNcqB"
   },
   "slug": "5SuFPS4oiFEAstz1vZdfynktGobtaH9V2pVpU41iYStQ"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A3XVFQo4cPaCXFQoqXmbL8TFhapYxXdhrmq5KADEFEgS",
-      "slug": "0",
+      "slug": "7boja",
       "stakedToken": {
         "decimals": 6,
         "mint": "7boja3AmwCciBEZaCoJoUd1zyWXWTmEBJLwzQinGBbJG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EEWZkyWn5g9xTmpPkzBhDhjkU3re5re6xoQhKE9Xcgp5",
-      "slug": "1",
+      "slug": "dp3x4",
       "stakedToken": {
         "decimals": 6,
         "mint": "DP3X4LRcjWkvv2X2CcUFDfpDhfbruLs1rE2mVsW8auFH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DPCLJqHGpdsXeyrkMz9fpiMyjwrySQYyCpd94WDGUTG2"
+  },
+  "rewardsTokenInfo": {
+    "address": "DPCLJqHGpdsXeyrkMz9fpiMyjwrySQYyCpd94WDGUTG2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DPCL",
+    "symbol": "DPCLJ"
   }
 }

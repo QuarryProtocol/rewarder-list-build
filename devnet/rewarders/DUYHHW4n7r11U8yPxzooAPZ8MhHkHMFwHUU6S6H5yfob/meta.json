@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "89Me3N9nuyXv1kGrWJbobE97kaHF35cS4pHzGf2SQbVb",
-      "slug": "0",
+      "slug": "djznd",
       "stakedToken": {
         "decimals": 6,
         "mint": "DJzNdbR9FKK25df3dcQK7ZRrttNu1QJpDGd6uJpCUZhS"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DJzNdbR9FKK25df3dcQK7ZRrttNu1QJpDGd6uJpCUZhS"
+  },
+  "rewardsTokenInfo": {
+    "address": "DJzNdbR9FKK25df3dcQK7ZRrttNu1QJpDGd6uJpCUZhS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DJzN",
+    "symbol": "DJzNd"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HLUcC8ecjtjzthYP5813ecrU8QeZzd2RpsRu5pZw823r",
-      "slug": "0",
+      "slug": "hdr6c",
       "stakedToken": {
         "decimals": 6,
         "mint": "HDR6cxXSt6j5NYR7519MkrAxWwYc7DWuFxigWTGJeBih"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "26LfTvQNyuzRhY2u1Wh8RKgLEhFpYsUTW3ahkAfn1Kze",
-      "slug": "1",
+      "slug": "5s5jw",
       "stakedToken": {
         "decimals": 6,
         "mint": "5s5jwsxDrHKPEwCRNbzSe6EWyxy5xDs9euNQUwkhbPWM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3gKEXdpcxfre4ajfN7gDJSGM1Yrefq6oyDGRderktWQw"
+  },
+  "rewardsTokenInfo": {
+    "address": "3gKEXdpcxfre4ajfN7gDJSGM1Yrefq6oyDGRderktWQw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3gKE",
+    "symbol": "3gKEX"
   }
 }

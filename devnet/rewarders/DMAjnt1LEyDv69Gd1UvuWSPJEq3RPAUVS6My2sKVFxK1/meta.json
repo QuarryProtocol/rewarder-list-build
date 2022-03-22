@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2oGzhU4zytnY2HxN2RyTnur71WM61TaWJaPEUFtcJztV",
-      "slug": "0",
+      "slug": "bnmqz",
       "stakedToken": {
         "decimals": 6,
         "mint": "BNMqZ51YYfjU4aMddqAEY4VQNkx5JfLM51D6CnKT2svU"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DXcWGAMRMVwrCT5hxDRY43uyrhr7JdTa8kjDNfqmc6zX"
+  },
+  "rewardsTokenInfo": {
+    "address": "DXcWGAMRMVwrCT5hxDRY43uyrhr7JdTa8kjDNfqmc6zX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DXcW",
+    "symbol": "DXcWG"
   }
 }

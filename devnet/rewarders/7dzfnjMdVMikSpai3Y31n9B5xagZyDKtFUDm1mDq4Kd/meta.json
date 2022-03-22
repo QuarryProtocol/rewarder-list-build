@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2FhUwoU9exgXwq2HoBuxu3rVgpvqhGLnpr9VTavnurwJ",
-      "slug": "0",
+      "slug": "7wa3a",
       "stakedToken": {
         "decimals": 6,
         "mint": "7WA3AAaUCgETTPi77YVAVLjeUzRX9jwYLXGSEVZYEs9A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G1zsnfozVYCH4348DN5DVpKAuBDYAs2S31pNo9uKv13a",
-      "slug": "1",
+      "slug": "64szb",
       "stakedToken": {
         "decimals": 6,
         "mint": "64szBwSPH7E1BhqMimj8kqwu3jpiHjEkc49bMYMoVKvy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2AcvCsRYUZ81syzNa4aCG8j3y7k7WFXn3qabC2PxG7eD"
+  },
+  "rewardsTokenInfo": {
+    "address": "2AcvCsRYUZ81syzNa4aCG8j3y7k7WFXn3qabC2PxG7eD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2Acv",
+    "symbol": "2AcvC"
   }
 }

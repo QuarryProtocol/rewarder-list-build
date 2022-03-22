@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7SaqV1wubvZ7xHZ34rdHRNUpi2EooKBiHT15Z36EkEf4",
-      "slug": "0",
+      "slug": "dsyxt",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dsyxtfq5tTV9GTtkjJzB4jen99kjvD2pqEqGPGfLwRNQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2wANv1bvKGtg6rEczyzQFH5xAnkRByx7BSyajP6esxsp",
-      "slug": "1",
+      "slug": "9dkra",
       "stakedToken": {
         "decimals": 6,
         "mint": "9DKrAW8YYZtYKsVBUKyQRVfymr772XYxwJhLkGEt7u7M"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3miFwYDq6wW2qTQ4S5E8cnP4cvsc2iGkc8S3BoXW6cqz"
+  },
+  "rewardsTokenInfo": {
+    "address": "3miFwYDq6wW2qTQ4S5E8cnP4cvsc2iGkc8S3BoXW6cqz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3miF",
+    "symbol": "3miFw"
   }
 }

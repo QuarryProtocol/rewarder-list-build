@@ -14,7 +14,7 @@
       "quarry": "8eJDX6TmAbNCLj6uttDh4xcW7QZ9YFerwZftBEAMcpY4",
       "replicaMint": "4auoRhxEuHr1rzTWRiEgGChHpKaHmUSbT5ymVTTWu7h4",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "htgpk",
       "stakedToken": {
         "decimals": 6,
         "mint": "HtgpK9txj11HvwYbpEzGPW5NRMEpM7MvGYer4omPKExo"
@@ -32,7 +32,7 @@
       "quarry": "4yDGNEbZtVds29vwuosiu79ujHHrD9482iGiNynSzpgc",
       "replicaMint": "53qKWV8Z2uHGkN8DnqAy9NP7JqjcV1BRbYRysYikmKHa",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ewq82",
       "stakedToken": {
         "decimals": 6,
         "mint": "EWq82DgXg5PQf9x5Z9dwnENJXs3TPPGxGRcZtCZuTNQr"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GMNTvGrWkEPf8xFDRXbsFbMwp4t2peauYpseGSy7Z3w2"
+  },
+  "rewardsTokenInfo": {
+    "address": "GMNTvGrWkEPf8xFDRXbsFbMwp4t2peauYpseGSy7Z3w2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GMNT",
+    "symbol": "GMNTv"
   },
   "slug": "6TwD41Q81zS98d5nkPbPTXFs2UY2Y4R5yzLUFtZasJDB"
 }

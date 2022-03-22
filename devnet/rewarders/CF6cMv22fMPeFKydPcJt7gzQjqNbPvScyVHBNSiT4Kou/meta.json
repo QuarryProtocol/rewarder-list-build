@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DLHKt1D4kkQDctT5C4ZriYQXQWVPYVvYTrTm6wGKrHyS",
-      "slug": "0",
+      "slug": "fpw9g",
       "stakedToken": {
         "decimals": 6,
         "mint": "FPw9G9q41rxjhGAioJomcLyod4xaugmVTWkP9GuNppHH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "X2CjKa5LSn5upkENrXx3f3StZKr2JZ77HWySyDqnXz7",
-      "slug": "1",
+      "slug": "gffre",
       "stakedToken": {
         "decimals": 6,
         "mint": "GfFrebaNte2GEAfeMZWzS8h8w4xfgfqPMQSkdMAbJWgx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "kHQLh6EXf6m6eR19sDvN9NqwALdUqHsQtmUwMfkBQ69"
+  },
+  "rewardsTokenInfo": {
+    "address": "kHQLh6EXf6m6eR19sDvN9NqwALdUqHsQtmUwMfkBQ69",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token kHQL",
+    "symbol": "kHQLh"
   }
 }

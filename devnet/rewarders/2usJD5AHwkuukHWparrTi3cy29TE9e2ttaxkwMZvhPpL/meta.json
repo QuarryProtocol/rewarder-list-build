@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2nU9G8cVJnQAD5cNagWdiximopYtpDifPMX8qCV93ATL",
-      "slug": "0",
+      "slug": "cttx9",
       "stakedToken": {
         "decimals": 6,
         "mint": "CTtx92CY9ZN1tREg49e14LrV7U72URsimYdJG93hciXx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3pY2zDzWBrfiPYxyhDjnUwm26VH3psismz7Cz5RMkNdW",
-      "slug": "1",
+      "slug": "bqacu",
       "stakedToken": {
         "decimals": 6,
         "mint": "BqAcUM5jhuh4HYRcqCmCduY3f28oF5ZeERJnai2XpqUz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Cz7o4gfh6aAhsu4vMYrrSFVWE44tmurwonFS9GBFGh7R"
+  },
+  "rewardsTokenInfo": {
+    "address": "Cz7o4gfh6aAhsu4vMYrrSFVWE44tmurwonFS9GBFGh7R",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Cz7o",
+    "symbol": "Cz7o4"
   }
 }

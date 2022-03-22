@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FPnocT4mWCT8n2F1r5rVszYbN8FdLDypBG7CCGYvru3J",
-      "slug": "0",
+      "slug": "ar9f7",
       "stakedToken": {
         "decimals": 6,
         "mint": "AR9f7W2qqqcm7iwJZsdctiXrqsgXF1F5PQbn8UCDnoHj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6DQYcttvLGKgkFNCpJRKrRTexU19gLxd3Bf9M9rj7QNx",
-      "slug": "1",
+      "slug": "e2cxt",
       "stakedToken": {
         "decimals": 6,
         "mint": "E2CxtwSPYTTAosQ2t1feyfVMu6B2cpPz7zwaifSTqqFj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FaBGxedConEDGEeymE1jRNg72uH8XWrz7GixQbAuxV54"
+  },
+  "rewardsTokenInfo": {
+    "address": "FaBGxedConEDGEeymE1jRNg72uH8XWrz7GixQbAuxV54",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FaBG",
+    "symbol": "FaBGx"
   }
 }

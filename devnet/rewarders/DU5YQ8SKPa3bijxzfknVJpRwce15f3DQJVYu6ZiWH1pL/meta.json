@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H6N7ZM32yUzKdpG4SzPakvBuVBnc6Ly2PNWH2FnfKCT5",
-      "slug": "0",
+      "slug": "7jpmt",
       "stakedToken": {
         "decimals": 6,
         "mint": "7JpMtFokEF739FWzPRBABxaWDsQuhj4HpvgtvwmUmQCt"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DquBq5ePcZCV8EUAq1mgY9t4iQHA5u5KpNPukVyxwn2q",
-      "slug": "1",
+      "slug": "4pp4b",
       "stakedToken": {
         "decimals": 6,
         "mint": "4PP4BpaeD14rABR7AoAba8iC4V7E6q5HhZayeB7mJrzp"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HvDX9BGMu4SqEP6PgSdZTbszyUcDMnaNKabPSBjoAkY3"
+  },
+  "rewardsTokenInfo": {
+    "address": "HvDX9BGMu4SqEP6PgSdZTbszyUcDMnaNKabPSBjoAkY3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HvDX",
+    "symbol": "HvDX9"
   }
 }

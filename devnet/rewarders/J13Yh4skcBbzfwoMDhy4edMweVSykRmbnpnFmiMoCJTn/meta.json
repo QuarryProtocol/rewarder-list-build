@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3USJTKJxiYnyEJxG3MTTLHznjNFnxNBpw7h3QqdBKNe8",
-      "slug": "0",
+      "slug": "9b9v8",
       "stakedToken": {
         "decimals": 6,
         "mint": "9B9V8D2qr9naQ2zNj3EafXbpTBjWCaFxT5u2xyWGFXPW"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5ik9e7ojhAKXWw6curey9cfYbtcVuDqVB1zsUSYGsxS3",
-      "slug": "1",
+      "slug": "3eqgb",
       "stakedToken": {
         "decimals": 6,
         "mint": "3eqGbWRFGVULmStvC2MjY97X1s1dPcx6mJhogo9b4sfy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7eXSxA7SB4YCDDCPGDmubobhqLamtbqpi7wHVCFZpgQL"
+  },
+  "rewardsTokenInfo": {
+    "address": "7eXSxA7SB4YCDDCPGDmubobhqLamtbqpi7wHVCFZpgQL",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7eXS",
+    "symbol": "7eXSx"
   }
 }

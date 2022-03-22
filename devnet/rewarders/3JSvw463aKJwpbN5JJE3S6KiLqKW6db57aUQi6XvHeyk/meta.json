@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "386sRqxA8A6HGLnWaV12Fp6SusHkyMDktHSudK2gpZo3",
-      "slug": "0",
+      "slug": "dqft8",
       "stakedToken": {
         "decimals": 6,
         "mint": "DqFT8xBuDszKjMCphvbVFd3UHeHMrEuWgxPbZJmvCsQk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5bQTop9u54YTUjdUW6BddeGVxt1JDHEMYU4jkVZot7Z5",
-      "slug": "1",
+      "slug": "ezjqn",
       "stakedToken": {
         "decimals": 6,
         "mint": "eZJQNbEekis3Vphj8DxgWyyYiKpSmWJ5hiakbktQDcp"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8MqNus22bAiJgJ16nQ9ACRuKmXnPPdVWNdU6ZVPSQCMo"
+  },
+  "rewardsTokenInfo": {
+    "address": "8MqNus22bAiJgJ16nQ9ACRuKmXnPPdVWNdU6ZVPSQCMo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8MqN",
+    "symbol": "8MqNu"
   }
 }

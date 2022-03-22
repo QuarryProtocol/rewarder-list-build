@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GWLcRrZeMjH1qfH9amQRsLuqXrnyib89tgx7b3i1j3PN",
-      "slug": "0",
+      "slug": "2ya8x",
       "stakedToken": {
         "decimals": 6,
         "mint": "2yA8xRhPR56r6G3i8G6XTcyWqkTPqNaCtmBcJC36sT7M"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6yc27EaizCEn56j8UYWJMb9Y4V9kd3fwuRJqofZAPdch",
-      "slug": "1",
+      "slug": "e3bcs",
       "stakedToken": {
         "decimals": 6,
         "mint": "E3bCsmr2uK1p8bBQ4z9BWznTDtNzS1R8164TWEmFEnn5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9ES3K6tWUtQ7pvfXPzmHeMJWW88UyhyMbZaWeDAYDYme"
+  },
+  "rewardsTokenInfo": {
+    "address": "9ES3K6tWUtQ7pvfXPzmHeMJWW88UyhyMbZaWeDAYDYme",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9ES3",
+    "symbol": "9ES3K"
   }
 }

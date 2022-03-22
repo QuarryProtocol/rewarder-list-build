@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EDAH76sDTExMQLHPKHYiUsze9zYYJcDKEnGq6HuW6zLj",
-      "slug": "0",
+      "slug": "79zkp",
       "stakedToken": {
         "decimals": 6,
         "mint": "79ZkpY55e135ArxQby4b5MwzErq3MEYXrwxcymskZ3wH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G5utm2CLqishfuZ54QbehupfYfudka4P8QuLKqdwqr28",
-      "slug": "1",
+      "slug": "dhk2x",
       "stakedToken": {
         "decimals": 2,
         "mint": "DHK2XEeh1Zs3XEUe5eNqaAUzSZuZnECDyNkWVeSQKqFD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "715trdovi2ABdpd684o5humBjm65fBUfG9RHtpzEqMqe"
+  },
+  "rewardsTokenInfo": {
+    "address": "715trdovi2ABdpd684o5humBjm65fBUfG9RHtpzEqMqe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 715t",
+    "symbol": "715tr"
   }
 }

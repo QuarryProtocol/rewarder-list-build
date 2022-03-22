@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2kfVnDw38LNghGbh7yJ3px3XMW2LXhBY1ZH1yBD4vnxA",
-      "slug": "0",
+      "slug": "2u352",
       "stakedToken": {
         "decimals": 6,
         "mint": "2u352Vnkrd9dwmmUUmsvo1jeEL2bR4rKKzGsGrP8yA6W"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HKUyc5AAAbAyfomyASaoqfM5RsrKHQHuP61e6f3VKaFd",
-      "slug": "1",
+      "slug": "ajov3",
       "stakedToken": {
         "decimals": 6,
         "mint": "AjoV3EkQu7UMnugVtheEFQZAh11nn5hwpoG5KhLQPeiy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8cEB5u2FiNnJuQPVJYW4haPuyZyDwXYmGUGteFAzE71Y"
+  },
+  "rewardsTokenInfo": {
+    "address": "8cEB5u2FiNnJuQPVJYW4haPuyZyDwXYmGUGteFAzE71Y",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8cEB",
+    "symbol": "8cEB5"
   }
 }

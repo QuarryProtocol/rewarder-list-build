@@ -14,7 +14,7 @@
       "quarry": "HTdrSM8xX1NdTGbYg82oRg37jpgWYQGENC6YvEia6Q25",
       "replicaMint": "B11eScuSM1UASmkGiWE9usNKLN2rvvHTj6zY6asBRdKM",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cf1tj",
       "stakedToken": {
         "decimals": 6,
         "mint": "CF1TJUFGCFR1Dj5gGwFCc7x9dA5MP6wkBb5cBJ17JYK7"
@@ -32,7 +32,7 @@
       "quarry": "3BCghNiAjf52v7Sp8qHH7BzPQ4VvijdEBJmNqqgDw4CK",
       "replicaMint": "G2UtkCFSGAm6gvyPN8Qux48Jc95c571CCxPmz51JcHsk",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "fzeou",
       "stakedToken": {
         "decimals": 6,
         "mint": "FzEouhtyV4YBwBpGpn9WnTPeYpb9TNiu4jWeaUJRhuPb"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DXYkKeJsKwFAVdde7qgzqGoJHwjsis65QyYDfJ6HYD32"
+  },
+  "rewardsTokenInfo": {
+    "address": "DXYkKeJsKwFAVdde7qgzqGoJHwjsis65QyYDfJ6HYD32",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DXYk",
+    "symbol": "DXYkK"
   },
   "slug": "EFQifRJEiKVh9QY9bnn7vAvW6uyBm1YnqTT2Qp638bBJ"
 }

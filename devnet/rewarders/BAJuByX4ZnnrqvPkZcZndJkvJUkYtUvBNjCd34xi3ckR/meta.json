@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DQbWLcZ4W11eS6x851PavSjqXxka49nE8vmkUVn7ibcJ",
-      "slug": "0",
+      "slug": "g9vin",
       "stakedToken": {
         "decimals": 6,
         "mint": "G9vin7NYUFKHQX2zXizVjkHJyNowKDHQBHCS6mcEkYaV"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4zPS5WrsCmRj7enoYevTsp9b1TJMCqZ46yGZcdDHT57i",
-      "slug": "1",
+      "slug": "6lgjp",
       "stakedToken": {
         "decimals": 6,
         "mint": "6LgjPrEGUc8kMCUB4tVuLennxvhGHJWCp44fWaFXxVbP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GpZhTZNkkHTwFYC76a56fpefmRSY1xrQDRYWkTML6FgS"
+  },
+  "rewardsTokenInfo": {
+    "address": "GpZhTZNkkHTwFYC76a56fpefmRSY1xrQDRYWkTML6FgS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GpZh",
+    "symbol": "GpZhT"
   }
 }

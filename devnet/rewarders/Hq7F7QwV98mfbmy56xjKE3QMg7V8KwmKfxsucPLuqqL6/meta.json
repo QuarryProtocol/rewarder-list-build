@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7z4hhopVwXDfssET5PNaeFudbF7mxwAQvn6ykrZL2U6D",
-      "slug": "0",
+      "slug": "6ss7m",
       "stakedToken": {
         "decimals": 6,
         "mint": "6SS7mxMoFUHdNJu3f9gaRH5fPTAS7Ns6KR4YnHxBGBsD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AWHEv8tHkfcHYizbcYDX98cg73qhY1VGUNMwZDkQ5ubW",
-      "slug": "1",
+      "slug": "hfogq",
       "stakedToken": {
         "decimals": 6,
         "mint": "HfoGqLkZB2n6jM8x9NgXj9izD9izQMZ1WV1gdpzVjXWd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3r8ezfomH69LSo9rF8BfSDzoQQvRRqRUvQ3ntnXJtczY"
+  },
+  "rewardsTokenInfo": {
+    "address": "3r8ezfomH69LSo9rF8BfSDzoQQvRRqRUvQ3ntnXJtczY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3r8e",
+    "symbol": "3r8ez"
   }
 }

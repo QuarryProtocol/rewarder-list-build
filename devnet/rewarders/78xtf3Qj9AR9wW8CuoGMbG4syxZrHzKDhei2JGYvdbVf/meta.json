@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Ga4CRcphGx8Lr1cVj3s67Edx3Y1h26dBsiQFTbHHWHYX",
-      "slug": "0",
+      "slug": "bafsj",
       "stakedToken": {
         "decimals": 6,
         "mint": "BafSJAMRC6NgCxShjtjqn9BDPgccmz1cbtx4BUDwKEQm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D4VWFjeJdSSug9hW4dvAEHjCAzhpngCHAcbN6BGaoP4m",
-      "slug": "1",
+      "slug": "294wj",
       "stakedToken": {
         "decimals": 6,
         "mint": "294wj8MSkgsbUr8VEbsUTuGTAkSx9RVNGWpryPuMygVR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GAWb2rPncB5LQZLWLZXzZv1buF5QrkrqUCWVKVU71cfx"
+  },
+  "rewardsTokenInfo": {
+    "address": "GAWb2rPncB5LQZLWLZXzZv1buF5QrkrqUCWVKVU71cfx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GAWb",
+    "symbol": "GAWb2"
   }
 }

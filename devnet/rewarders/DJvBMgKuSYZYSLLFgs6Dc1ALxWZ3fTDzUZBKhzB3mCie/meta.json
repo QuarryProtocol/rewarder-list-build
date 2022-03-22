@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5yWcoZLGHnJhEv2GeLMwEfXDSJxJijedjtGFfWJY5XSx",
-      "slug": "0",
+      "slug": "hmyjv",
       "stakedToken": {
         "decimals": 6,
         "mint": "HmyJVCTbimcmxPDN5opeyQxme66fcJZ2DVGgt1teYRko"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ALfaURXjM6UrB3WBsMWt5cTSjc9PhTXUF3pVsBzRK4XY",
-      "slug": "1",
+      "slug": "aek3o",
       "stakedToken": {
         "decimals": 6,
         "mint": "AEk3oArKWSkb8Lxt65BjG8XFX8dPt1ANTDM7FRWD3J1Z"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DbpJs7Ci89MsqXCbXwNNQbenWChF4nHP1RvYGdDrHAET"
+  },
+  "rewardsTokenInfo": {
+    "address": "DbpJs7Ci89MsqXCbXwNNQbenWChF4nHP1RvYGdDrHAET",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DbpJ",
+    "symbol": "DbpJs"
   }
 }

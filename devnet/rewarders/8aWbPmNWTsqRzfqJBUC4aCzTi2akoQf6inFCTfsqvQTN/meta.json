@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FiBn2QfbQVwPzh8E7oH5oD2mf5rt1h697saRB3teF43u",
-      "slug": "0",
+      "slug": "ptpye",
       "stakedToken": {
         "decimals": 6,
         "mint": "PTpYeeyCtZCxca9BgEqqdUV4NBT8iyuTp6HNKQ9pMyA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HGW9F8M6NgE3RPSs58Fbo8jviT8YugoDC9iqEjmBNzPM",
-      "slug": "1",
+      "slug": "8pu6s",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Pu6StFrJLncGRmHeQFiYR7JcjigSUkcej5jbfeiLReD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4e37iikfmEyRvrHUdJ8BypkEz4guLXgnNkxUvuko7fou"
+  },
+  "rewardsTokenInfo": {
+    "address": "4e37iikfmEyRvrHUdJ8BypkEz4guLXgnNkxUvuko7fou",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4e37",
+    "symbol": "4e37i"
   }
 }

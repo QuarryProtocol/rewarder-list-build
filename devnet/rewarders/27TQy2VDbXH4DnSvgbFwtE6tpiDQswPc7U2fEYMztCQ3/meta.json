@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CdT7iAEgPaTBe2QRAmPBNd5qp3zNBt88ZZ72mwFabRS6",
-      "slug": "0",
+      "slug": "3prg7",
       "stakedToken": {
         "decimals": 6,
         "mint": "3prG7FSZVenrDjXdQafQjtKJTpu1v6FnpCH7WkXboV31"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AbeajZeabYq7YzDTvNPNGFGW4Qq6KWUurx8NBXLCMtee",
-      "slug": "1",
+      "slug": "ehhe2",
       "stakedToken": {
         "decimals": 6,
         "mint": "EHhe2hvSxWuhZb6aMNJ3Ptk6STPrhNeZmqhaZdRJ4Wsk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DzVQc85HGBAjbBgMLk2LjK8SZXJCjtYtnXJHQVc2QHah"
+  },
+  "rewardsTokenInfo": {
+    "address": "DzVQc85HGBAjbBgMLk2LjK8SZXJCjtYtnXJHQVc2QHah",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DzVQ",
+    "symbol": "DzVQc"
   }
 }

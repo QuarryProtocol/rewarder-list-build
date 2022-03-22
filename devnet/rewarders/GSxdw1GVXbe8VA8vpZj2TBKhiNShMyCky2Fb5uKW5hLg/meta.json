@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5BAMNuxpUeKiveHbRvTQ2LeKF9hbzWjjauf9Bvz7qNuS",
-      "slug": "0",
+      "slug": "homqn",
       "stakedToken": {
         "decimals": 6,
         "mint": "HomQNLxijqgXDc7a89KrLnqLhx5hwMdFTu2JZmoxSCBm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fna2gBvp1orDNCe32eXpBxo7VMw7V3WJHpuXt9Mk5Rbw",
-      "slug": "1",
+      "slug": "7g9th",
       "stakedToken": {
         "decimals": 6,
         "mint": "7G9tHc2fzFHnyLgcNHqrw1bZZhhEYrRrPQVseX5wRrNX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B9LnzV7jKpsV3V6Ba27SfGZXvPB8ThawJ6pdhZcr8Bn2"
+  },
+  "rewardsTokenInfo": {
+    "address": "B9LnzV7jKpsV3V6Ba27SfGZXvPB8ThawJ6pdhZcr8Bn2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B9Ln",
+    "symbol": "B9Lnz"
   }
 }

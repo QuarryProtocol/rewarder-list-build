@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C3hTQkCi4wuSdifvfxpGMh915PmTFFBPKe8qvcwVuG6J",
-      "slug": "0",
+      "slug": "hujsq",
       "stakedToken": {
         "decimals": 6,
         "mint": "HuJSqN9kvzvZSaFwAzGMnaQXpPtrFejbEU3YWAaCWF6N"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9A1he7hY1PfB7LDXsHDj1nekXZXkjutFyzqMzqQcnuXu",
-      "slug": "1",
+      "slug": "8fa8j",
       "stakedToken": {
         "decimals": 6,
         "mint": "8fa8Jesv9wHKLX3Yxy8ULJ6spmi91jE6XBpMvUi46KeL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CdWFcRN3xMGh9B7JJLceGHugn2rir6dRCHjXC1DaTyZr"
+  },
+  "rewardsTokenInfo": {
+    "address": "CdWFcRN3xMGh9B7JJLceGHugn2rir6dRCHjXC1DaTyZr",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CdWF",
+    "symbol": "CdWFc"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8SMDDemyrgKisJD75rf7YVnWqBQsD4AxqZHV1ty8KGMh",
-      "slug": "0",
+      "slug": "2j68z",
       "stakedToken": {
         "decimals": 6,
         "mint": "2J68zqd9kLGiEGSDtq3WxgaJqovtUaocAzJbMwdC9LAK"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C6ae3B4Pb53cbkdF8wUp7d2Sw3qqSHiN24hiCyFgjQxo",
-      "slug": "1",
+      "slug": "8jbv4",
       "stakedToken": {
         "decimals": 6,
         "mint": "8jbV4s9npLjCtzTo5p6v8UHChZiuY7L7cnMftb4mcqqd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Lire4fiWNqHf2S7VGZNKzv6uxBY81GZ4FfhdUK2ou77"
+  },
+  "rewardsTokenInfo": {
+    "address": "Lire4fiWNqHf2S7VGZNKzv6uxBY81GZ4FfhdUK2ou77",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Lire",
+    "symbol": "Lire4"
   }
 }

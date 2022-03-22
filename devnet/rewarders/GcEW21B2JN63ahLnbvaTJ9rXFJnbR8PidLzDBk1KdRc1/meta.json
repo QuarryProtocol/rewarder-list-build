@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BLvQMBWpAP283Nk2nNvGTnm2RGzRtL9BRchAfArNTVoR",
-      "slug": "0",
+      "slug": "hhfhu",
       "stakedToken": {
         "decimals": 6,
         "mint": "HhFhUkMT5GXBChhrWqoZtQL2WAnQtocwc6g1dZxocrp8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DWRQktNs3EBkNbSFKxsJ86KCEpJL7jbRnr85ZeswwjzJ",
-      "slug": "1",
+      "slug": "6fgtj",
       "stakedToken": {
         "decimals": 6,
         "mint": "6FGTjF6BGQh8y6Fi7ACGrydGLZmb5JPtcqtSj3ZmF8fi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H968WCuUysgbzYPCp69kvSd9Xg8RnQpzGDUfAmozVeL"
+  },
+  "rewardsTokenInfo": {
+    "address": "H968WCuUysgbzYPCp69kvSd9Xg8RnQpzGDUfAmozVeL",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H968",
+    "symbol": "H968W"
   }
 }

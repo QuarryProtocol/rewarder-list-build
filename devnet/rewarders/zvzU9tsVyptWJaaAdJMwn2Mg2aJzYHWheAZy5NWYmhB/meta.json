@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8tQqYyVthibPp8H8otCGYRSJWX5paq4yiYrtqyS6tMie",
-      "slug": "0",
+      "slug": "bw1gt",
       "stakedToken": {
         "decimals": 6,
         "mint": "Bw1GTn7bgHBqcmpG89j3VJrHZUrLYvnY7mhCvYUrfDP2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DAXhi9pjYTLQyr3GYWTCvKbvgUu1PZt5bMyFB7vrwjwP",
-      "slug": "1",
+      "slug": "fepv2",
       "stakedToken": {
         "decimals": 6,
         "mint": "FepV27TBdGExPog4RRePkn3B16eGbQFzpuj8eUN5D4FB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J61URW5pdkEa287sbEDefdAYgU64f8y2cdRh6zStyWY4"
+  },
+  "rewardsTokenInfo": {
+    "address": "J61URW5pdkEa287sbEDefdAYgU64f8y2cdRh6zStyWY4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J61U",
+    "symbol": "J61UR"
   }
 }

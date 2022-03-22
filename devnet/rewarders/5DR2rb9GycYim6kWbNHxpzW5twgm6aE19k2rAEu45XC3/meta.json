@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CruB81WuUkHz9gbczAKY5ZfY2uUdprmkMRj5q3yc4oks",
-      "slug": "0",
+      "slug": "b9qnw",
       "stakedToken": {
         "decimals": 6,
         "mint": "b9QnwmSL9SCnr8VPwwUoXdxefZPmB5nwGRARcVTcDUs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8u1H8Qxi7wmJqujyJUymbR9WqUQEpoz9jcoFkLhBX6RC",
-      "slug": "1",
+      "slug": "4fpqe",
       "stakedToken": {
         "decimals": 6,
         "mint": "4FPQeo7SMCKUAeFdsEs22Vfbqa1C2pruX68NtNqCe3pr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3rudn3oWDpPuHxbCKiF7mWUPmYErt2bMXKBgLajcfv7Z"
+  },
+  "rewardsTokenInfo": {
+    "address": "3rudn3oWDpPuHxbCKiF7mWUPmYErt2bMXKBgLajcfv7Z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3rud",
+    "symbol": "3rudn"
   }
 }

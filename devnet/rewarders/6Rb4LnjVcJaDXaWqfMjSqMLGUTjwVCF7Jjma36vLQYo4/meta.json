@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "51uP1YEePGQzcazaeFBEYeDnjrQyLNgUEZUQMXJEQy8E",
-      "slug": "0",
+      "slug": "dmmth",
       "stakedToken": {
         "decimals": 6,
         "mint": "DMmThu5we5DyNu8QGTz6mT3PkRTpsik37znCSvbKcsSM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BdgTqT8NQZxZgqc5YtZGBB4QbPhv6DM5tYyX6itLV45i",
-      "slug": "1",
+      "slug": "gpcj1",
       "stakedToken": {
         "decimals": 6,
         "mint": "GpCJ1aQU2C9XJxKCCqHoazgkpzxFbXYeF92quLMY2E8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BJR5KFCKkFNtteqUXsLahiXt22N4FdihMvvfjhqhXYEu"
+  },
+  "rewardsTokenInfo": {
+    "address": "BJR5KFCKkFNtteqUXsLahiXt22N4FdihMvvfjhqhXYEu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BJR5",
+    "symbol": "BJR5K"
   }
 }

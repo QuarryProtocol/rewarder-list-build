@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "74smCdaiB2Xm9guigub25ezDJsdtAQCDALrjSSJSS26z",
-      "slug": "0",
+      "slug": "6pgbd",
       "stakedToken": {
         "decimals": 6,
         "mint": "6PgbD9gv5wN3arZiBpSYiVKLAXfM9UXusy2adbvYRhSM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8UTT7JvC5QHq3vitFFiM8mz9eSZrFWmDDyvDSfsDRGC8",
-      "slug": "1",
+      "slug": "ctgku",
       "stakedToken": {
         "decimals": 6,
         "mint": "CtGkuiiHA3yam3vKsMvmWxJLbbQ7iaf7P8883tWvRV33"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HPYH9ucgkdDwmnfs8jA3CU1HcRSgkqY8GgRHtc2z32jb"
+  },
+  "rewardsTokenInfo": {
+    "address": "HPYH9ucgkdDwmnfs8jA3CU1HcRSgkqY8GgRHtc2z32jb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HPYH",
+    "symbol": "HPYH9"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5LgXy1PHgVipytrwg2UPqJswLmypYYCdPhQtXZFFpSRD",
-      "slug": "0",
+      "slug": "4zvrt",
       "stakedToken": {
         "decimals": 6,
         "mint": "4ZvRTc4ZbtgQb3sE1FSmb7LprUmxWg7B2KQ3dDoEwcGj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3hnENtjXhdrm6f8Fkfs5JsX332bCsDAQzNcgKMUwt4zh",
-      "slug": "1",
+      "slug": "3fa1h",
       "stakedToken": {
         "decimals": 6,
         "mint": "3FA1HxgjzxcpC2RbnXKhcoxWdFN4hdipyq9qS9X3sbqu"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5iejs1q7EYebCrF2VDMMiEBve5xDPsidztLUpnLj93YN"
+  },
+  "rewardsTokenInfo": {
+    "address": "5iejs1q7EYebCrF2VDMMiEBve5xDPsidztLUpnLj93YN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5iej",
+    "symbol": "5iejs"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GW4VLdt6PfRAsD9kpmpp2qAs3is8JGW5idkKC25hZ3hv",
-      "slug": "0",
+      "slug": "bxqsr",
       "stakedToken": {
         "decimals": 6,
         "mint": "BXqSRfX3pS1qWdaY1aWdFmixiM8MFPpKjhTmtDCE7zKd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2WzSj9XT83XuZWtQ8bnw5NAFvQhYBapL71vmbayiNsXA",
-      "slug": "1",
+      "slug": "h5mva",
       "stakedToken": {
         "decimals": 6,
         "mint": "H5mvAwQG2NtAWtFYTAM2bAknf6Tgb8XaSrKfj9UUujJ5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AB7Gg7t81a2azg8Gk4p13R1cMjqXtisFTTYXHYp6au1P"
+  },
+  "rewardsTokenInfo": {
+    "address": "AB7Gg7t81a2azg8Gk4p13R1cMjqXtisFTTYXHYp6au1P",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AB7G",
+    "symbol": "AB7Gg"
   }
 }

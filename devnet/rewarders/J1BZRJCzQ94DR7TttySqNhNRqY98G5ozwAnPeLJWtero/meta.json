@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J9YuQKoWn6MPwFEXSY2LspSUQFJQga3P9vkrBaEUX7gT",
-      "slug": "0",
+      "slug": "dm26l",
       "stakedToken": {
         "decimals": 6,
         "mint": "DM26LPtQ6BHPZTYqcox5SQ9usKpKxHcJFCCR8bKLeZov"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7EKYkYQPFn7qxaUqCRidccxvWmwFassf8tVM98BSGkmR",
-      "slug": "1",
+      "slug": "4xhls",
       "stakedToken": {
         "decimals": 6,
         "mint": "4XHLsjVxSBubCPwYSQbGavGgvSa4ZZCk7ByBbFZU1tCP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "PR4Tg3W7EqjrkCZypWp1JZYB63H1DF3VqdVBh9AvUDt"
+  },
+  "rewardsTokenInfo": {
+    "address": "PR4Tg3W7EqjrkCZypWp1JZYB63H1DF3VqdVBh9AvUDt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token PR4T",
+    "symbol": "PR4Tg"
   }
 }

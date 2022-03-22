@@ -14,7 +14,7 @@
       "quarry": "GFNgodgzHHUuc7wtWLA5wVndYL76h6fBWXXeZk3zV2Zi",
       "replicaMint": "9ZuJEtzMx2qyVgDeTzJytmDy88ECYGcpobnZcMtZ8SLx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "25xmf",
       "stakedToken": {
         "decimals": 6,
         "mint": "25xMfEfADhyQhzHjpp2euEsGnqcjbnXUHP5BdMprZweq"
@@ -32,7 +32,7 @@
       "quarry": "7sd9P29Y58ryzEYYxdj9nEFJCrTVeb7fzrvMq1BCTRhs",
       "replicaMint": "CCKpxKYD42q22cbJnkWGnA9SEuHWp9iAnqMzzYZLfMeG",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "76dom",
       "stakedToken": {
         "decimals": 6,
         "mint": "76DomLQC9NNz49cArXL9ZWzKWVRaNpNm7RSaMnH4aiCg"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EFn8FWuxJcH5bpYR3MyDUha95AeiMdmtt7gtCg3qQdPV"
+  },
+  "rewardsTokenInfo": {
+    "address": "EFn8FWuxJcH5bpYR3MyDUha95AeiMdmtt7gtCg3qQdPV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EFn8",
+    "symbol": "EFn8F"
   },
   "slug": "91J7PxWhTfUxisuEriVTFv7BXs2ByHuqnVtwKxSGT74g"
 }

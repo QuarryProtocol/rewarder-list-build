@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HYjEzBE1oGxWqXNhRNPPMpwarYs3hqfL6HUYhma4G8gc",
-      "slug": "0",
+      "slug": "2utmk",
       "stakedToken": {
         "decimals": 6,
         "mint": "2uTMkuDwc3yrmTJMLgTXu9TaNoBYMoRNGGKYHvGkSvNu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9niajGGhZGUvBSrR8iRmx65aZTUnUj8H583id4KTAJKU",
-      "slug": "1",
+      "slug": "b5rzg",
       "stakedToken": {
         "decimals": 6,
         "mint": "B5rZgQx4mHEPANVoSdVGnQhydTCKtfu7n9qfoD2TLBaV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GRSewSR9KCCcypiL1RbUUyM2tYofdzZhb33wRALkvHyH"
+  },
+  "rewardsTokenInfo": {
+    "address": "GRSewSR9KCCcypiL1RbUUyM2tYofdzZhb33wRALkvHyH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GRSe",
+    "symbol": "GRSew"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4ZorStoEXmDbrotGaAWpsr7X7KVEdBDVBGWjdTUGGvbS",
-      "slug": "0",
+      "slug": "9krvr",
       "stakedToken": {
         "decimals": 6,
         "mint": "9KRvrgtLYBjHDY26TLQWX9vb7Ja3FmceZHB3ZmEYjz9b"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9oNWisoVLBoDhpP4BQBdy7Xq24MnWXHDHnKD6Pu8PrNp",
-      "slug": "1",
+      "slug": "fkevr",
       "stakedToken": {
         "decimals": 6,
         "mint": "FkEVrHiNoFxpvr76VsLSnPc3mEZrGH7XNcM9ZbZpwpCZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Fr1iXEvCr7fDDbr6N6W4ogcxAH58bs1kKSP8e8srLGgm"
+  },
+  "rewardsTokenInfo": {
+    "address": "Fr1iXEvCr7fDDbr6N6W4ogcxAH58bs1kKSP8e8srLGgm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fr1i",
+    "symbol": "Fr1iX"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "49bBggYfaLPG9EC1cztRAhhrK2cz7AJVcP6ocWk8kws9",
-      "slug": "0",
+      "slug": "btkgr",
       "stakedToken": {
         "decimals": 6,
         "mint": "bTKgrijeZ9G8iytj78wg88gHYB1FjxTgChdEutJUoN2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CrR9ptu9g99ir66tu9bfhKHYzp2TuxqbwrASgp8jT5FT",
-      "slug": "1",
+      "slug": "coxzh",
       "stakedToken": {
         "decimals": 6,
         "mint": "CoxzhfgHdwjXVgwAfR5WifUAAxtSeBnzCn8gSsDhWbH1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9hq9jjp9vNys2LVuVMnCxesRaaVKg7R4eg9tRRUtiS8i"
+  },
+  "rewardsTokenInfo": {
+    "address": "9hq9jjp9vNys2LVuVMnCxesRaaVKg7R4eg9tRRUtiS8i",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9hq9",
+    "symbol": "9hq9j"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6S2zhE2y9h44mYkMxne5vafR3mCVMVKi5CrPgoEFuHqb",
-      "slug": "0",
+      "slug": "9gbb8",
       "stakedToken": {
         "decimals": 6,
         "mint": "9gBB898M8FHkS6kX7fomcKvhw7S5XUSWwqDHysYkg3Zz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fbc9vUAeea8JpX9givfXMJgRBsybyznhjavkGLQpcRtZ",
-      "slug": "1",
+      "slug": "fcmgf",
       "stakedToken": {
         "decimals": 6,
         "mint": "FcMgFXwc5eGKYgPp2fv6KqojLN7qVKtcAPyoAk718AQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EDXXBuprGA9bCX3KddM7TbfNGfKMCRt3xey49TLfqXLG"
+  },
+  "rewardsTokenInfo": {
+    "address": "EDXXBuprGA9bCX3KddM7TbfNGfKMCRt3xey49TLfqXLG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EDXX",
+    "symbol": "EDXXB"
   }
 }

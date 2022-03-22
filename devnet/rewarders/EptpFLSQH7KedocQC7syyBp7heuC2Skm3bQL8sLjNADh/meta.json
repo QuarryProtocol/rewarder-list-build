@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ECGPHvuKozraebnntN9GvF3ckZQy1MzE3JLHp15gza8X",
-      "slug": "0",
+      "slug": "adsln",
       "stakedToken": {
         "decimals": 6,
         "mint": "ADsLngkgYJbJ64Bg19AQeYurL63XxqAwzRANB3p8rAvv"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AhhnVXmtWek7f2uhyAmuoMtEEqWj83pRJY5gbA74n7xQ",
-      "slug": "1",
+      "slug": "8axjg",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Axjg93pujWLSg2Ncjyr7rpzHSPivfEWNzfzzHSDsHub"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J88znmbzrkxnDVGNG2THA3Z7je7cQh6MCntzZXZTQDTD"
+  },
+  "rewardsTokenInfo": {
+    "address": "J88znmbzrkxnDVGNG2THA3Z7je7cQh6MCntzZXZTQDTD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J88z",
+    "symbol": "J88zn"
   }
 }

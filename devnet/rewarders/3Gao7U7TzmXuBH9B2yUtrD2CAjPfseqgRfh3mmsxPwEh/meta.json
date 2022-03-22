@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FbKStNnkcvd9aF4TSwWZN2GReSjuBpUii7BYJJofBv59",
-      "slug": "0",
+      "slug": "cuoar",
       "stakedToken": {
         "decimals": 6,
         "mint": "CuoarhG3PsxXiX2GmbR2444NG46pSuuMBknHNEDEQkLB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D8G6oswLitRGmC3mHdNShFeDyTTpypMfq5pqZopE8fig",
-      "slug": "1",
+      "slug": "cnthl",
       "stakedToken": {
         "decimals": 6,
         "mint": "CNthLVJuVG17fuKPJFNX4rWpjY24bWQCm1GmsNsBWX9o"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4VJcQKhsKUqbd2AZKCui971vHDLLKQdvGTHVxsqEQVkd"
+  },
+  "rewardsTokenInfo": {
+    "address": "4VJcQKhsKUqbd2AZKCui971vHDLLKQdvGTHVxsqEQVkd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4VJc",
+    "symbol": "4VJcQ"
   }
 }

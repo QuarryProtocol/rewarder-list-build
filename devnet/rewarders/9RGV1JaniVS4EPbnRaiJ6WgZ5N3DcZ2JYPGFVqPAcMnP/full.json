@@ -14,7 +14,7 @@
       "quarry": "76cEsoFz5fCrF4qHTQQoR3yxDDC7GAXbDckS4gzR33hh",
       "replicaMint": "6DGtY9aBm1kdz744XE4SHQxG6sGASaX8JpGHpnq97P5s",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dfrtz",
       "stakedToken": {
         "decimals": 6,
         "mint": "DFRtZ4cbDVBNoJ3ZQV4jq582zTf5LZJiBk51Qx5jafnC"
@@ -32,7 +32,7 @@
       "quarry": "HUz3mtNrUis8A5tidKHctEFdadf9EkB9sAdtEJWDJheG",
       "replicaMint": "6iyffSQQvvUAGPsLzKQUjjrhsNoCfnVJQaDcuzEY4R9Z",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "jbdqa",
       "stakedToken": {
         "decimals": 6,
         "mint": "JBDQamnRHVCCyiMsSrzZK9PNSs3CNxViNGzhVRBeeKe2"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3Xhesd6QxM9mQudF1qzcbfgtAijRPiVfxiykiSvsREUw"
+  },
+  "rewardsTokenInfo": {
+    "address": "3Xhesd6QxM9mQudF1qzcbfgtAijRPiVfxiykiSvsREUw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Xhe",
+    "symbol": "3Xhes"
   },
   "slug": "9RGV1JaniVS4EPbnRaiJ6WgZ5N3DcZ2JYPGFVqPAcMnP"
 }

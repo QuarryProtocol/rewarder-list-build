@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C27Q9ZXBrnMGtniSjvHNJg5o469GfXzdYbf2JR8hcGJm",
-      "slug": "0",
+      "slug": "ahljy",
       "stakedToken": {
         "decimals": 6,
         "mint": "AhLJyc2BxySYWUxXJzPQhLJ36oBZF2bBSbW2pkjyMSyo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9Rqy2u4ubn9NwoHkgDzLXn8TacwBMgULEYtTzXi2m57W",
-      "slug": "1",
+      "slug": "8bpuy",
       "stakedToken": {
         "decimals": 6,
         "mint": "8BpuYbRZmJxASaHiDehdAunHKHWNos5txfWMypYSWo3h"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "988XSz9xhrq2FkHdGgE6rBRXdMeMhXNtcFcBhzTyofiE"
+  },
+  "rewardsTokenInfo": {
+    "address": "988XSz9xhrq2FkHdGgE6rBRXdMeMhXNtcFcBhzTyofiE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 988X",
+    "symbol": "988XS"
   }
 }

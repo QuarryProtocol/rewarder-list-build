@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F5RGqBJdN83nF9h5XHscrkybmrBgcNWHpJiuszkg8RSD",
-      "slug": "0",
+      "slug": "faemc",
       "stakedToken": {
         "decimals": 6,
         "mint": "FaEMCK4XxpJ8mxEUaCpuqdTJXnbW8GNupNM5CQT1WKsf"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FaEMCK4XxpJ8mxEUaCpuqdTJXnbW8GNupNM5CQT1WKsf"
+  },
+  "rewardsTokenInfo": {
+    "address": "FaEMCK4XxpJ8mxEUaCpuqdTJXnbW8GNupNM5CQT1WKsf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FaEM",
+    "symbol": "FaEMC"
   }
 }

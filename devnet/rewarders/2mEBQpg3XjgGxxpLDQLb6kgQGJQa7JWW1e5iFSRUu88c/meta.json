@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H28pyKrmxyKDVsGeQoAoc8biEduJy5AbzNmRx57bbt6p",
-      "slug": "0",
+      "slug": "6mung",
       "stakedToken": {
         "decimals": 6,
         "mint": "6muNGEuZqQhTxibQNZoKm7kArcbBxvaLv9WBAVBpCc3K"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4qWHo6YhJmdwa5EM4UyRNUPaXa4xuY9WjHCpD1vboqqf",
-      "slug": "1",
+      "slug": "31vng",
       "stakedToken": {
         "decimals": 6,
         "mint": "31vnGTYmmFeHYzg1KVjFuFqWkjPKkq77qC1jDfEG9HUd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GynzXnXi5vPv9QD3Cx2rAazuWLTMWDhQvuRRgHY8vcAW"
+  },
+  "rewardsTokenInfo": {
+    "address": "GynzXnXi5vPv9QD3Cx2rAazuWLTMWDhQvuRRgHY8vcAW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gynz",
+    "symbol": "GynzX"
   }
 }

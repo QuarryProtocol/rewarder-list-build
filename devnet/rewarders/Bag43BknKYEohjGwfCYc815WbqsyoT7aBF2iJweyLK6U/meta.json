@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GuusHsZY28tk9hp2zYiCwW24HPkRBtWWzdXTXwKGzp8p",
-      "slug": "0",
+      "slug": "aeiks",
       "stakedToken": {
         "decimals": 6,
         "mint": "AEikSHypzHSvLRqAn9DHsVEfrvRkGnmM3rvtoTWGff3K"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AEikSHypzHSvLRqAn9DHsVEfrvRkGnmM3rvtoTWGff3K"
+  },
+  "rewardsTokenInfo": {
+    "address": "AEikSHypzHSvLRqAn9DHsVEfrvRkGnmM3rvtoTWGff3K",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AEik",
+    "symbol": "AEikS"
   }
 }

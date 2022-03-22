@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5xf8xFRXqVnF51JragWiPXMoJtVknEaYFPXPakVk5zQ2",
-      "slug": "0",
+      "slug": "cdvzj",
       "stakedToken": {
         "decimals": 6,
         "mint": "CdVzjuA5EGprkNG6X1BQgtSRnzmqP6a6F4dY5LRkCEpF"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2b2fwKapGSN7XD1XEbcdmkfjiwskE8atQSwnyVUwjLEM"
+  },
+  "rewardsTokenInfo": {
+    "address": "2b2fwKapGSN7XD1XEbcdmkfjiwskE8atQSwnyVUwjLEM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2b2f",
+    "symbol": "2b2fw"
   }
 }

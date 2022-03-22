@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6DhcvyWj7qiRmjimz9j4s9Nf1Pfta6U3C2ZZv97sgKF6",
-      "slug": "0",
+      "slug": "ghfe6",
       "stakedToken": {
         "decimals": 6,
         "mint": "GHfE6NWmpD69is19kKh3QYW6QLPajRvLrL67Xqbq4xkf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8hAaUFgmd4dv8VEyDVT7now5xHEpd8NxTRrBKpqb5zPZ",
-      "slug": "1",
+      "slug": "41jc1",
       "stakedToken": {
         "decimals": 6,
         "mint": "41jC1LdT2zVCx51zTdPcQHCzM5AqpcQ9Ho7HhF1gTf2p"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HVMWioDCcgaMxpwUveZbPMRpNd4E2vR7xR6EBJ35fdkJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "HVMWioDCcgaMxpwUveZbPMRpNd4E2vR7xR6EBJ35fdkJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HVMW",
+    "symbol": "HVMWi"
   }
 }

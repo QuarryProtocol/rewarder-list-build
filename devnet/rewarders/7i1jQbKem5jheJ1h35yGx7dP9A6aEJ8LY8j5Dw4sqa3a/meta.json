@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GUU9gG4xcNGfst77bf5nr2bheoFPZtXpUkQvtZ3VgDDM",
-      "slug": "0",
+      "slug": "e24ks",
       "stakedToken": {
         "decimals": 6,
         "mint": "E24KsDYuEPMHR11ej3tBERXcNKUPuWc56PZrBfZZ3hg6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9sWkwSpWEEdbUR89DeFyEEDgxVnPbkgU2E4nFFU9HtJ3",
-      "slug": "1",
+      "slug": "agf4v",
       "stakedToken": {
         "decimals": 6,
         "mint": "AgF4v5ESSp4WBPbRbcNbwHaP6NP7JkvAxwEBPV7gBtD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CJ5XeQrYobuzuZbvCn5YT5iCTR5CUD2vbsV1xyUocbud"
+  },
+  "rewardsTokenInfo": {
+    "address": "CJ5XeQrYobuzuZbvCn5YT5iCTR5CUD2vbsV1xyUocbud",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CJ5X",
+    "symbol": "CJ5Xe"
   }
 }

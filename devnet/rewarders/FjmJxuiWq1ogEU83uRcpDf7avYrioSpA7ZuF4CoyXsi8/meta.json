@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4FFqurViPWEB8DeqohzE54BiKE321k7ivWRKV4hPNpgR",
-      "slug": "0",
+      "slug": "etcdw",
       "stakedToken": {
         "decimals": 6,
         "mint": "EtcdWa9k6Lx9T2mV5FnQWJX4jyTjS7SaFAJnuMW8cxUr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DkFGnwYGqTqmFcjeSEgcGL9mhwE8Gg3ayWQJSHie41sq",
-      "slug": "1",
+      "slug": "5uapz",
       "stakedToken": {
         "decimals": 6,
         "mint": "5uApz45xaNBjixyfnxsJUncgiEL3EL6aseZDNpN6LfQz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6MsgLdhyxWZi6g5HCA76BHtsimgDDfXDzHDfgy2Us2T8"
+  },
+  "rewardsTokenInfo": {
+    "address": "6MsgLdhyxWZi6g5HCA76BHtsimgDDfXDzHDfgy2Us2T8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Msg",
+    "symbol": "6MsgL"
   }
 }

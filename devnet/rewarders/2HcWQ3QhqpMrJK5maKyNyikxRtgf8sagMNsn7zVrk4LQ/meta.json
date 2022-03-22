@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AoGnW8Zpeh3mw6dddQKf2BNRhBESz9UWNvFj3xNodiwf",
-      "slug": "0",
+      "slug": "w4nxn",
       "stakedToken": {
         "decimals": 6,
         "mint": "W4NxNPJV71dBSuoUbMNVYHh913jyJLU9DAcNRFq3ynZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DDyrbKjkjJq7owEvAtyP5Kx1gdzYo1u2gPVC18hsGUV7",
-      "slug": "1",
+      "slug": "53cme",
       "stakedToken": {
         "decimals": 6,
         "mint": "53CmEdFDi37KG8vAx8FoVCYijpNpCxwBUPmWCqnsVJ2b"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5QHZLEEtigbUUTJno4ZuTRsZsDm6DM3EjGVXwiEgx3QF"
+  },
+  "rewardsTokenInfo": {
+    "address": "5QHZLEEtigbUUTJno4ZuTRsZsDm6DM3EjGVXwiEgx3QF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5QHZ",
+    "symbol": "5QHZL"
   }
 }

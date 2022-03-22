@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7cPeyZcvCeWspz2qGTF9phvQEdya1i2bUUtRXHZVYTrE",
-      "slug": "0",
+      "slug": "hjicz",
       "stakedToken": {
         "decimals": 6,
         "mint": "HjiCZ6raoQZkw8duZ53oJgPjbQHNZSRbSfvbajHg4o9r"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FU9AJYMmEb1yPeyZ6eVtbahnwDkasZEUKSPRK4PzFFR9",
-      "slug": "1",
+      "slug": "hbqub",
       "stakedToken": {
         "decimals": 6,
         "mint": "HBqUBz4nkyWC9H5kNLYxqzkh3Uf2DXHY6ZRGpTikvHj4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HbcJkUgoWmP2R5oXZHwSEU5hhTgirQ3v3bm1WLwkjy6p"
+  },
+  "rewardsTokenInfo": {
+    "address": "HbcJkUgoWmP2R5oXZHwSEU5hhTgirQ3v3bm1WLwkjy6p",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HbcJ",
+    "symbol": "HbcJk"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "weNKLpvivFyHwGHyyqM3SSCTXBWB5P9aCWD18vCoFg1",
-      "slug": "0",
+      "slug": "dskje",
       "stakedToken": {
         "decimals": 6,
         "mint": "DSKJeiygWN8qwukNfd7zz6fgPTxpaJuhKQkXBhwZ3Ekg"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6Q7y8EJm8RUCYN5cyVgQ9Kev5AuHY3seHSFwXT9vHprw",
-      "slug": "1",
+      "slug": "flg9d",
       "stakedToken": {
         "decimals": 6,
         "mint": "FLg9dt9JYPRvS2LypudkyW6XBcC5JEnit1vxM8NLuYDa"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "957KG4yg9io1A1GnfKyyrr1BxWeh6iPEp7Vc7x1DTrVp"
+  },
+  "rewardsTokenInfo": {
+    "address": "957KG4yg9io1A1GnfKyyrr1BxWeh6iPEp7Vc7x1DTrVp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 957K",
+    "symbol": "957KG"
   }
 }

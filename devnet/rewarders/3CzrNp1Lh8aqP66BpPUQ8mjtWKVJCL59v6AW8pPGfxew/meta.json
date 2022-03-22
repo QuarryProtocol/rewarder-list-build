@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4DHWJtL1sdUeWFoNJLNaMM9BNJjKpzgjHqWMXg5hiiXz",
-      "slug": "0",
+      "slug": "fdoq3",
       "stakedToken": {
         "decimals": 6,
         "mint": "FDoQ3Zr1qGuaovwJcoxDCihqXhZnkypTp2dTVroVM7LD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Bx3ttkh1tvKHnH8Vzqeq8eWDFgGerSdFMezQdr347Jge",
-      "slug": "1",
+      "slug": "57hru",
       "stakedToken": {
         "decimals": 6,
         "mint": "57HrU9rGEoatCahyeB2rvE18wL5keUKK7GtsfSmwUQit"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FqkZJ4c22e9qYLqCUW4iJLqxdVJTFyEz9pj7rcARiGNh"
+  },
+  "rewardsTokenInfo": {
+    "address": "FqkZJ4c22e9qYLqCUW4iJLqxdVJTFyEz9pj7rcARiGNh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FqkZ",
+    "symbol": "FqkZJ"
   }
 }

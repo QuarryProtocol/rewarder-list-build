@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J8HDdUjvEQuYwBxj778iawdhMpzs51jE21inzuEc8F34",
-      "slug": "0",
+      "slug": "7wmdd",
       "stakedToken": {
         "decimals": 6,
         "mint": "7wMDdEkemtjYNg9wuTpcvrtt2inEtw7uaYrLrVAqWKc4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "TybEGshnpKhh95hKkGVUHHqPrTawdGX2ijjsvzS9vR9",
-      "slug": "1",
+      "slug": "vyekv",
       "stakedToken": {
         "decimals": 6,
         "mint": "VyeKvW7uDx43xh6okXV97F1L2Gfh7kyi1sg1SvCVArR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BWwH6csh7LPgEEWCv8Frfv3yD6aMHTLpx6t1RRxGoAtZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "BWwH6csh7LPgEEWCv8Frfv3yD6aMHTLpx6t1RRxGoAtZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BWwH",
+    "symbol": "BWwH6"
   }
 }

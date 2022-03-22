@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A8DX248XkGViquj4NesafafxSNqJMhLf9PDGwJhLFpRR",
-      "slug": "0",
+      "slug": "bznzx",
       "stakedToken": {
         "decimals": 6,
         "mint": "BznZxQSfJyJYVT6Wu62hoc8Umqa3P7TrMWnap32ZgK7a"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BznZxQSfJyJYVT6Wu62hoc8Umqa3P7TrMWnap32ZgK7a"
+  },
+  "rewardsTokenInfo": {
+    "address": "BznZxQSfJyJYVT6Wu62hoc8Umqa3P7TrMWnap32ZgK7a",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BznZ",
+    "symbol": "BznZx"
   }
 }

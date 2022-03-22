@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DLv2nP2BimZJP7Bptt4UM17ph6V1vJmcftodmTjcA18E",
-      "slug": "0",
+      "slug": "77xjy",
       "stakedToken": {
         "decimals": 6,
         "mint": "77xjYm3sTVP3QZXn2G9iRpzbiNh8zBXboKNaWVsEqDUp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4ivwaffsGeXPoCQYkXxQ1Md46aWvuXNz6NvZGyzWhuNP",
-      "slug": "1",
+      "slug": "ftu6y",
       "stakedToken": {
         "decimals": 6,
         "mint": "FTU6yWNpgKuYFFNDTfL5UfT8LJjHZ9bLNe3P8crgfoL7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4VFB7LzXLwP3QTYeQjAKhAAJmyWBu1ZLFpcx1eUZnhQi"
+  },
+  "rewardsTokenInfo": {
+    "address": "4VFB7LzXLwP3QTYeQjAKhAAJmyWBu1ZLFpcx1eUZnhQi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4VFB",
+    "symbol": "4VFB7"
   }
 }

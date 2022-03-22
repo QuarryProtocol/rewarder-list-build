@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HqjSPH3PN5guYTXntJmtX9KECERxu8gyQF25C3EfdV4s",
-      "slug": "0",
+      "slug": "cvvct",
       "stakedToken": {
         "decimals": 6,
         "mint": "CVvCtXVV9obJp3Tw87z7D8q5a7xK2UmzMaECLmrcBHTE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9VTUZgeYzVK9yorzSUgCfFXwpztgrEuLzxzBy1VjQqhp",
-      "slug": "1",
+      "slug": "fuhee",
       "stakedToken": {
         "decimals": 6,
         "mint": "FuHeEcEPE4UyrXBmh24WYs7DnFfWdC61GGotHgcoDzV9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7XVHEPgrL7qZdUuGi1oNbPpwazv4wDPcZg5H91Qi1iyC"
+  },
+  "rewardsTokenInfo": {
+    "address": "7XVHEPgrL7qZdUuGi1oNbPpwazv4wDPcZg5H91Qi1iyC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7XVH",
+    "symbol": "7XVHE"
   }
 }

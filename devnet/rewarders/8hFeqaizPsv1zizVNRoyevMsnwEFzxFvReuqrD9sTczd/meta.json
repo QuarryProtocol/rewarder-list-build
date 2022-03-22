@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DYbS3w6A6yuUtkBC4Lwf9vDh861nuBEEHVwoTC7q7TWC",
-      "slug": "0",
+      "slug": "fh1xn",
       "stakedToken": {
         "decimals": 6,
         "mint": "FH1XnZRvZSXhuXJ6V4aE1XK5gUJCEivMkBErQ56kth1o"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EXRbGW3S2u8SgE64fm9JTZ8CMi3Q9eddYa4JuLA4bPu8",
-      "slug": "1",
+      "slug": "cl16v",
       "stakedToken": {
         "decimals": 6,
         "mint": "cL16vyxEHAQdWY6bwy5fPLubx5LS6mKevXyDhceL8fQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "p1sq3sS7UYDzbCC5ktRrseuXdCUKoLHcBzzrQenUDdt"
+  },
+  "rewardsTokenInfo": {
+    "address": "p1sq3sS7UYDzbCC5ktRrseuXdCUKoLHcBzzrQenUDdt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token p1sq",
+    "symbol": "p1sq3"
   }
 }

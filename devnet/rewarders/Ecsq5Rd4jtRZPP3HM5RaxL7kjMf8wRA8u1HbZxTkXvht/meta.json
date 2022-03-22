@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2gQtPxUNKQ4b6dcwVR9xXe7PRCWTNYWyg1kpctaYHUcB",
-      "slug": "0",
+      "slug": "hdzma",
       "stakedToken": {
         "decimals": 6,
         "mint": "HDZmApnnTN7gkSMUJ5WUbQ6kFCqpQTLBXBKP4pwZ8JsM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ArxuWPkuhXLz5prSMLdPxsPYZzVHhnT4maLxs6XQVShP",
-      "slug": "1",
+      "slug": "2hufi",
       "stakedToken": {
         "decimals": 6,
         "mint": "2HufioxK826pDPz1WFqFr9yuMjXoNY7ApNv7JrEDhuyL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4BN4nW9k7bnJkxPJoTjU5zN8bG9GsGXyWGxgbWmnMVSF"
+  },
+  "rewardsTokenInfo": {
+    "address": "4BN4nW9k7bnJkxPJoTjU5zN8bG9GsGXyWGxgbWmnMVSF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4BN4",
+    "symbol": "4BN4n"
   }
 }

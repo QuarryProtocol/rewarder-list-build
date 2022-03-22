@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BY37za37jC8boQV5ajE9R8HnuVVHu7JHhWAYndBSj3Vc",
-      "slug": "0",
+      "slug": "98pwe",
       "stakedToken": {
         "decimals": 6,
         "mint": "98PwE6A3EuZNVt4mNSjD5Z4Kox1F33We4DBsnqbSwVB4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GBhZKk6rVnmqWfFc5R9Cnft11ijy2kgYb1LoJYUgR8QU",
-      "slug": "1",
+      "slug": "fsr7f",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fsr7F5EP8vfnStkZumTXfKTRrqPFwwBhUaQ5ekjVC9kk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4FkXu3aQAgrGJrXtsD3HqrAbeiPbWE5KRxEAiYuH9cfx"
+  },
+  "rewardsTokenInfo": {
+    "address": "4FkXu3aQAgrGJrXtsD3HqrAbeiPbWE5KRxEAiYuH9cfx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4FkX",
+    "symbol": "4FkXu"
   }
 }

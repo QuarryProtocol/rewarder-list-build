@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EAX5jX597xnSzypcMfdP3qHdrRmKw8X2XX1h4KYMHMKi",
-      "slug": "0",
+      "slug": "9dq8x",
       "stakedToken": {
         "decimals": 6,
         "mint": "9dQ8xEunsEmKLwf9hgm2MeBFvBcxUgqmXav1qhqm31Bk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6FHwoeQbQdVnHYSZZM9Eun9w5XFF1TaKuDm3so4Ad9HH",
-      "slug": "1",
+      "slug": "5s6cp",
       "stakedToken": {
         "decimals": 6,
         "mint": "5s6CpzV9c2aEHC8jgDb5T26cddoZtorHuXDiyXQ9Qcbs"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FLPy8xNdrNojBfgjgEqEyp7YGs3WHLGa9bKJTKXPazaD"
+  },
+  "rewardsTokenInfo": {
+    "address": "FLPy8xNdrNojBfgjgEqEyp7YGs3WHLGa9bKJTKXPazaD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FLPy",
+    "symbol": "FLPy8"
   }
 }

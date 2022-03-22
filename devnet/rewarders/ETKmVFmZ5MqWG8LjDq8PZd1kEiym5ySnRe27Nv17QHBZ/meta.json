@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DkgnhU8tJ3aS6rMumA4ycGoeabz4ZEKYsdkhKe99rpg7",
-      "slug": "0",
+      "slug": "rmyx8",
       "stakedToken": {
         "decimals": 6,
         "mint": "RMyx8P41TPfdKxXDNrGoDihwguEvRRZPF9rgVoT9uK7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DjLwbnkWrsNnveHUd4NZW424pb6mX6mXXgq6h5pjhkpb",
-      "slug": "1",
+      "slug": "7k22j",
       "stakedToken": {
         "decimals": 6,
         "mint": "7k22jHxXZGQHCSgUGRVqHHDciHRXWisjFh8PjB6aAozF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F5m18ZL8rY9e8wfnM9eN8cabYZsm8vuQk7UEtQvVSMRa"
+  },
+  "rewardsTokenInfo": {
+    "address": "F5m18ZL8rY9e8wfnM9eN8cabYZsm8vuQk7UEtQvVSMRa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F5m1",
+    "symbol": "F5m18"
   }
 }

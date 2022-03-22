@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BB8rKxEaTZPjmcVEdMc5kPA8viD7suT8RP2U39dWPSJZ",
-      "slug": "0",
+      "slug": "bmg6w",
       "stakedToken": {
         "decimals": 6,
         "mint": "BmG6wEt4ezVSFpXu46twWudQxGPmye38chFdbt72N2be"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4NPcQxGW7Vh85Vaij2UZtW6eWAh8puk7s8WD9D8BKVZW",
-      "slug": "1",
+      "slug": "hu5ak",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hu5AkYcUDs6VGrg5io3iQefTTZ2NmQmKhkjMK3J453iU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9EgnzovPRpNeV28k1kRntHz2PA2CJ8ptkgaEKthYDodi"
+  },
+  "rewardsTokenInfo": {
+    "address": "9EgnzovPRpNeV28k1kRntHz2PA2CJ8ptkgaEKthYDodi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9Egn",
+    "symbol": "9Egnz"
   }
 }

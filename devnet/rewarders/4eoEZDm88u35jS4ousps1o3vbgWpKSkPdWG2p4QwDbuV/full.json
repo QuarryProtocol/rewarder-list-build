@@ -14,7 +14,7 @@
       "quarry": "BEQS3ypL4WgrKja8VSSGntoAwmDR8XgRTorikE1V4nc5",
       "replicaMint": "EZad7EciqYRTpiiLJAE9L1zWUufP2cmMJttnBx5UpDqZ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "gtnsm",
       "stakedToken": {
         "decimals": 6,
         "mint": "GTNSMiJLwKbar3g3K9yJGZ54ZdhE5qyiT2EVM6V8nYXH"
@@ -32,7 +32,7 @@
       "quarry": "7tLf8mFbAqkHMFnpK4AFG1TC2512Dv9CpfvxBUUdDzVB",
       "replicaMint": "FsBZQuDmz3UcLo5kQgnzA8cfEuaPm7ecx7SWVPVzZTYG",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8pdex",
       "stakedToken": {
         "decimals": 6,
         "mint": "8pdEXSptCo2hwcKfLe8jDmrhQPULqDYDBETp6cqgR1B5"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HSsUvK3NNGEbsyTt4cMZSSgt84t3DcrvFBFZygx6ETVT"
+  },
+  "rewardsTokenInfo": {
+    "address": "HSsUvK3NNGEbsyTt4cMZSSgt84t3DcrvFBFZygx6ETVT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HSsU",
+    "symbol": "HSsUv"
   },
   "slug": "4eoEZDm88u35jS4ousps1o3vbgWpKSkPdWG2p4QwDbuV"
 }

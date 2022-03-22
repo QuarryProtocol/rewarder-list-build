@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AaNEB8cfFYf2hXDmKVBzt3TYdiw4QAC62uXYgKrsE5XT",
-      "slug": "0",
+      "slug": "gzq1m",
       "stakedToken": {
         "decimals": 6,
         "mint": "GZq1mMfVmkpLgXndeub5jgj17bML4QHJPFf1aNJ4t6gZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CgehDKk83kTBszFSrhYJDE8ADgrJHvRcqsssaKEkkZGz",
-      "slug": "1",
+      "slug": "8e9iw",
       "stakedToken": {
         "decimals": 6,
         "mint": "8e9iWa59Mvb4G4CRs7p2yx4JZXReVYny1ikrJjQM8pej"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EAeuoacut5FfMbYPwA4Cj6ePb4NPWp1QhntUmpBgdAi6"
+  },
+  "rewardsTokenInfo": {
+    "address": "EAeuoacut5FfMbYPwA4Cj6ePb4NPWp1QhntUmpBgdAi6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EAeu",
+    "symbol": "EAeuo"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ZFvRipXYCs4Pwnz1vXyrP82AN98JQzkTdEdTFuLsoTd",
-      "slug": "0",
+      "slug": "eprhj",
       "stakedToken": {
         "decimals": 6,
         "mint": "EprhJAwXj26stdaNj1dFyt5ALkCPGsyPtZSeFMzDcuQM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4y9UHK7HT1dLTczNsXHVAEP8UogciLxmQ2jfiKRkz2wQ",
-      "slug": "1",
+      "slug": "9fhse",
       "stakedToken": {
         "decimals": 6,
         "mint": "9fhsEVnqBa1eK74gHMec464i6VjEwTQi3LMjqcA3PvRm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3bdhnGsuTxhZFbVTnF2ju4m7GezY28h7gzVwzmLjTrkP"
+  },
+  "rewardsTokenInfo": {
+    "address": "3bdhnGsuTxhZFbVTnF2ju4m7GezY28h7gzVwzmLjTrkP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3bdh",
+    "symbol": "3bdhn"
   }
 }

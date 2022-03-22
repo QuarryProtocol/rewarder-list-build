@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FieuQpZe3vRvBzVGQ69C1kCiUswhajNQeGngaS5UJa99",
-      "slug": "0",
+      "slug": "9dkmr",
       "stakedToken": {
         "decimals": 6,
         "mint": "9DkMrfKa5NNh8AFrzRekx31DUAdZeBs4w7R3n3dvAfdn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "RdBdZR58LtPsiM3spvkbRpfVpd5thYRHEP97Vvav9tB",
-      "slug": "1",
+      "slug": "hoghm",
       "stakedToken": {
         "decimals": 6,
         "mint": "HoghMt6KCCn4JRygBrsUFSr1WYndsqaGx3VrDPYqQX1M"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4vxoMWkgthY4QEyFnzDo6wqXEpxmpyGomtZhibcQaPGC"
+  },
+  "rewardsTokenInfo": {
+    "address": "4vxoMWkgthY4QEyFnzDo6wqXEpxmpyGomtZhibcQaPGC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4vxo",
+    "symbol": "4vxoM"
   }
 }

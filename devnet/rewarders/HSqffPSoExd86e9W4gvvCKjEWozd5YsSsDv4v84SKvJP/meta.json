@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EpdsopH2re7Yd4EnqBTo6sBaD9hD391WmJ793q9imziH",
-      "slug": "0",
+      "slug": "j3dwe",
       "stakedToken": {
         "decimals": 6,
         "mint": "J3dWEJq4XmRN1daj1gqibMYEBvpb6FnungYTU12rzGnz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9RjYQ8haXE81HskeZDgaTfJXtkHYByE63WpEfRVRzcSP",
-      "slug": "1",
+      "slug": "h12yu",
       "stakedToken": {
         "decimals": 6,
         "mint": "H12YUdmhaES6pjfpSLCMJpsUWeZKjzPzjtCLaXebkn6K"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "A1gnaGLeoFCVJSYLcpoPtuiMrdPBc3yozBcWr5Z2vRxm"
+  },
+  "rewardsTokenInfo": {
+    "address": "A1gnaGLeoFCVJSYLcpoPtuiMrdPBc3yozBcWr5Z2vRxm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token A1gn",
+    "symbol": "A1gna"
   }
 }

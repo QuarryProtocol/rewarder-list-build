@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6nVdAgzkCNoyN5fNeyuf1kscrCCEqarXoqhioxyswR8g",
-      "slug": "0",
+      "slug": "4mejj",
       "stakedToken": {
         "decimals": 6,
         "mint": "4MeJJzWJ1tuGTkyptoNT78Mz9NXZttXG9SXeAgLozvNr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "635z6CYkjfGFoK7cVFBsc2YZrn4dunn2cjvqNukX8zNh",
-      "slug": "1",
+      "slug": "d8v2z",
       "stakedToken": {
         "decimals": 6,
         "mint": "D8V2ZXa6UKLd97m43AyEFULKd887WEpjP3hKbVfjmU5i"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3eczs8up3UgmKvx6ct1zisLDwVGwiWSKuoJgyT26Ci1w"
+  },
+  "rewardsTokenInfo": {
+    "address": "3eczs8up3UgmKvx6ct1zisLDwVGwiWSKuoJgyT26Ci1w",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3ecz",
+    "symbol": "3eczs"
   }
 }

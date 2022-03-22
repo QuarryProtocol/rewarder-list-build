@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6MDLyqAzwYKgh5REp1U4uXi5PSW8GXhhEapddXKi2Zs7",
-      "slug": "0",
+      "slug": "gyhfv",
       "stakedToken": {
         "decimals": 6,
         "mint": "GYHFvfoR7ynX4eswi3F3Mgo1MsRZgwdBiVYsb6knYKMN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DbEiKYrituLkihfhyFZjcC3Z1tzZ2MMCHjwSS2FPJgrg",
-      "slug": "1",
+      "slug": "aguhg",
       "stakedToken": {
         "decimals": 6,
         "mint": "AGUhgRaQxsAx9fZtpgiUn2TMrTo9VeqJUKVDbVoQwZwp"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "LijoTGESQMZWGQaAH3Bdh6hFVJGnD35W4sFpuQ8tKKH"
+  },
+  "rewardsTokenInfo": {
+    "address": "LijoTGESQMZWGQaAH3Bdh6hFVJGnD35W4sFpuQ8tKKH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Lijo",
+    "symbol": "LijoT"
   }
 }

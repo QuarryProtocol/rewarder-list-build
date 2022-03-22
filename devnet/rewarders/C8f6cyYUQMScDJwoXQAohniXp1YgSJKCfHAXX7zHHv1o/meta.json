@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EktUqKNNBZdvFZ6GhPrHQkH4zAHrveAC8xNCT7PY1XJA",
-      "slug": "0",
+      "slug": "cjnxe",
       "stakedToken": {
         "decimals": 6,
         "mint": "CjnxepfqXWj8B1hfFV6yNGhTk8wyoUX9cE2zEtut3WLp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4AKzdmoe2PjsFbD2qUkSEQbjBJyvegQ8DtAGSxtQB1Ys",
-      "slug": "1",
+      "slug": "b6jlr",
       "stakedToken": {
         "decimals": 6,
         "mint": "B6JLR1JLYQ9JhZkvUtTZxc2sJqmhKE55tFUM4GU1QTtQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BxYBoCemJ1zuSWYf6yyq7CXXF6s8kMGy86o65vs1pDmD"
+  },
+  "rewardsTokenInfo": {
+    "address": "BxYBoCemJ1zuSWYf6yyq7CXXF6s8kMGy86o65vs1pDmD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BxYB",
+    "symbol": "BxYBo"
   }
 }

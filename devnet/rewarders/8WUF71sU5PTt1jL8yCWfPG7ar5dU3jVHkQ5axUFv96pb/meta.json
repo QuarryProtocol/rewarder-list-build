@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HH2y8PXRxULVtZYQqaxuhfDxXqhpQtxbmGZPkkw3i4du",
-      "slug": "0",
+      "slug": "63wuf",
       "stakedToken": {
         "decimals": 6,
         "mint": "63WUfHxRRLhBaANQahKTZZ55Pakgsya2FVJVoHA2RS6b"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8MnVBquhHJcyjN6vSLgxLdDggVQ5UnjHEqDTEqJxnJfZ",
-      "slug": "1",
+      "slug": "8ov6r",
       "stakedToken": {
         "decimals": 6,
         "mint": "8oV6rNgJPRR4x4hh8x3JHeVxWyv444XijTBKk8kcepG6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HVt1vCVqkuyLeLffPSibX8rtCwrY4V6PgCY7qQeF5aFZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "HVt1vCVqkuyLeLffPSibX8rtCwrY4V6PgCY7qQeF5aFZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HVt1",
+    "symbol": "HVt1v"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AXCv6ZvdXstw34CT1kkxjrirEv17PT33GyaZMiehMvUw",
-      "slug": "0",
+      "slug": "prbi7",
       "stakedToken": {
         "decimals": 6,
         "mint": "PrBi7RWFNpAdFf34DvJ91ZnPdwToZt7ezsP1qR1H3Rx"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4NT9tcw6mPg9Myc7ebThLdM6P6FoXRwRsHoTCuzwcans"
+  },
+  "rewardsTokenInfo": {
+    "address": "4NT9tcw6mPg9Myc7ebThLdM6P6FoXRwRsHoTCuzwcans",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4NT9",
+    "symbol": "4NT9t"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "ETLNDdEFVCUR1EbAxjamynHQwLutX1Ep5YXhVXJWUusW",
       "replicaMint": "AR7RMvuiKVGDb87Z3TCi5zvviptegaEt2H1aPvSna8uV",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "36frf",
       "stakedToken": {
         "decimals": 6,
         "mint": "36FrFbqSsmJPDpBua9Q5CvoyLoqofs9k54ZZ4ZfPsfhz"
@@ -32,7 +32,7 @@
       "quarry": "GsQ8F5veKHeVSx17omAGaCaj4uWGitWsNTbSeWPFfRrt",
       "replicaMint": "D2AtZsTtc7paRMCFpQEsDGTh75M6vukFiWzWNmcfzqYh",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5eyal",
       "stakedToken": {
         "decimals": 6,
         "mint": "5EyALCK8pP1XSLeFyDzqEdwZVGwjtYS1C7LPEqnxc2H4"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HjUnSf1Ud17sXk1JRm5jMnS4cX8a3dYLLBNNZFkXAbAF"
+  },
+  "rewardsTokenInfo": {
+    "address": "HjUnSf1Ud17sXk1JRm5jMnS4cX8a3dYLLBNNZFkXAbAF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HjUn",
+    "symbol": "HjUnS"
   },
   "slug": "7kAnKySd2zqSchp7R33fLqrLx3F2u3pVSnqFALtbgxM1"
 }

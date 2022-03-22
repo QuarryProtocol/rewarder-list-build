@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7YyAGkzRtRw5m2U5d53MAFSrQCHcnYzmv5HNsPdgme6u",
-      "slug": "0",
+      "slug": "aizh4",
       "stakedToken": {
         "decimals": 6,
         "mint": "AiZH4i7uvQKFXPRryJf9mvHgp1TEKCDh5Yj88QcZ2RtQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GtuxHae8UbZNAki4Waiqnq5P4GDjhmCw232G1sfs2j6v",
-      "slug": "1",
+      "slug": "gy9k9",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gy9K9rY1YRGmLNYK4edGW5iXEa8DtLLPd71g9hbadFD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3ErSCBhQGTnyzqwqfmUvGeQemFUTpJTFxzn5Ez8wmb3x"
+  },
+  "rewardsTokenInfo": {
+    "address": "3ErSCBhQGTnyzqwqfmUvGeQemFUTpJTFxzn5Ez8wmb3x",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3ErS",
+    "symbol": "3ErSC"
   }
 }

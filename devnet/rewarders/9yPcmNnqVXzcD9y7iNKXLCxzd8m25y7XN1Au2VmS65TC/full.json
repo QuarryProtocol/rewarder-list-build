@@ -14,7 +14,7 @@
       "quarry": "AxBtXPzHJGhcZBu69FMqoHKKWUSw3Xqpzg9ySBX1FzGc",
       "replicaMint": "7sUunSiynDCscueHpxofsGwJ6caBDdgLCTjJweRehsi7",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "58kdp",
       "stakedToken": {
         "decimals": 6,
         "mint": "58kDpSe2NrwMpbWsbGbg1uqRWKZ4rmpf5NWk5jPoihhR"
@@ -32,7 +32,7 @@
       "quarry": "CWxXrcxfYWhy42h8S1S2CfoWJx9FnwpKD4cPPeLvqE6m",
       "replicaMint": "58aiWoi4WayqN68zad56NFq2EMYAmYERD84muYULec48",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "saqgy",
       "stakedToken": {
         "decimals": 6,
         "mint": "SaQGyeFp8s9FQxTg7jMGbz7TuBtVgnwzULgFP781PP9"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CaL66nm1gEiNmxpBoqJLd6NzV3J9B8ALPHf6cikc5eoy"
+  },
+  "rewardsTokenInfo": {
+    "address": "CaL66nm1gEiNmxpBoqJLd6NzV3J9B8ALPHf6cikc5eoy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CaL6",
+    "symbol": "CaL66"
   },
   "slug": "9yPcmNnqVXzcD9y7iNKXLCxzd8m25y7XN1Au2VmS65TC"
 }

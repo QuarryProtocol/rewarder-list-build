@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9Yr7PMisoKszwpj6dnvRk7fPebJHYiRXUJsi3zECu4L5",
-      "slug": "0",
+      "slug": "4c25b",
       "stakedToken": {
         "decimals": 6,
         "mint": "4c25B7qX4khzahToM5TNpRJw3aEzEqfztQem8JUrXd7J"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8RFVMAWTdJasMXwVcnUCaQhWRLzEpBddx7YXWc1eYPT",
-      "slug": "1",
+      "slug": "7e4if",
       "stakedToken": {
         "decimals": 6,
         "mint": "7E4iFuinSb5yXuXhCQwmQpsbwvmL4TevTo4o9VNzJVn1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "56CGjEX8o2phcZxVB5Svfu35iKeX6m3cQmBfAhWU4ECj"
+  },
+  "rewardsTokenInfo": {
+    "address": "56CGjEX8o2phcZxVB5Svfu35iKeX6m3cQmBfAhWU4ECj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 56CG",
+    "symbol": "56CGj"
   }
 }

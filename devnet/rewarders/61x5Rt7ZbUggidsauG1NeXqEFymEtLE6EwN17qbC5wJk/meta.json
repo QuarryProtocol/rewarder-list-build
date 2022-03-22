@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "XNDUZPUmvnvDk3erM3yyUS1ouACNLhLPfZU89f9MKRY",
-      "slug": "0",
+      "slug": "axv2v",
       "stakedToken": {
         "decimals": 6,
         "mint": "AXV2VqAuLhzS9jMVR3pMT2MW1mH1EWcnkX4a52xHA3iQ"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Fvynn4owyjzicRghnpEUXhcdDyrjjj2fGtCjYhCeiHNW"
+  },
+  "rewardsTokenInfo": {
+    "address": "Fvynn4owyjzicRghnpEUXhcdDyrjjj2fGtCjYhCeiHNW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fvyn",
+    "symbol": "Fvynn"
   }
 }

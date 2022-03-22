@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "NN1bqPLBqRYwCtjBNSxg5QaDtoSesbai1GBZiU91175",
-      "slug": "0",
+      "slug": "8nluv",
       "stakedToken": {
         "decimals": 6,
         "mint": "8NLUv13e1rSYu1LDGTNzPh88VTK5LNq3tCDqBBrBHSnF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Cf7FP7d8SjFojefg64goQGX25DuYjHvVse3zHnpjrtQp",
-      "slug": "1",
+      "slug": "2yj7k",
       "stakedToken": {
         "decimals": 6,
         "mint": "2yJ7KudmF1idhgNrPCU68BuR5atnhqKM6ZtWHkFPp9Uc"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7wTSTfL6MVryCo1arZhXfPFef9UpUAoRBsDuxScNPfXg"
+  },
+  "rewardsTokenInfo": {
+    "address": "7wTSTfL6MVryCo1arZhXfPFef9UpUAoRBsDuxScNPfXg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7wTS",
+    "symbol": "7wTST"
   }
 }

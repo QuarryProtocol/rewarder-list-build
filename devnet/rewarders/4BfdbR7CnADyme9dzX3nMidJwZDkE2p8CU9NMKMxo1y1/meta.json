@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2yhU12qowpVXs5MuBeT7jXcCjshY9jtd4ZDsNKj5fJqo",
-      "slug": "0",
+      "slug": "ujrbt",
       "stakedToken": {
         "decimals": 6,
         "mint": "uJrbt9z8hycP5MMB5J9WqJKn147pKEZ5y3XpAUYdSG6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8FYuVLiKEXtDzE9J9RXUhD6wK9XDeDbrA21Fqmr2cSft",
-      "slug": "1",
+      "slug": "egxmj",
       "stakedToken": {
         "decimals": 6,
         "mint": "EgxMjzNnpPw7cbumHzicbtvBgoVVixghiDUS2ALzGct3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gyrtqaki6zohRgpPGKJ3TSheDEoUxNVYVre9YXKitiBz"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gyrtqaki6zohRgpPGKJ3TSheDEoUxNVYVre9YXKitiBz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gyrt",
+    "symbol": "Gyrtq"
   }
 }

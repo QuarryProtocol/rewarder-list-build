@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ENnw7CqPPPCv8rRQrPsaUzNop2vxoxJXD1BYmHA1awbT",
-      "slug": "0",
+      "slug": "6wx6j",
       "stakedToken": {
         "decimals": 6,
         "mint": "6WX6J7k5D9pqrkjaaq5AZreYZECczaZt8Pyp93aViQCz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7gjjtum9sSkjV15ZxGnJ56jGxydGpyBTyFfkVt7fHLwM",
-      "slug": "1",
+      "slug": "bt8gp",
       "stakedToken": {
         "decimals": 6,
         "mint": "BT8GpZKhZKUPA3nRJt1rb3iKqZ6GhSbMVcsyWgD1HLjF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3inYDPJahXiCBhdnNGynemosBo8UpLFAZ1pENGRPRPuZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "3inYDPJahXiCBhdnNGynemosBo8UpLFAZ1pENGRPRPuZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3inY",
+    "symbol": "3inYD"
   }
 }

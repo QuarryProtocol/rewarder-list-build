@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ETpyy759kvKKG1aJrBE7H1JDrDVzUC7GppWhERpMzKYz",
-      "slug": "0",
+      "slug": "4xyzl",
       "stakedToken": {
         "decimals": 6,
         "mint": "4XYzLHXpnFU1bUMPbRyt8uK1vB1anhrYg1KP9cpg7e9g"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9w5TPjj2mLNTdHVk9tqceY2DmMpwUuxEqQszgaAVYorw",
-      "slug": "1",
+      "slug": "dkuat",
       "stakedToken": {
         "decimals": 6,
         "mint": "DKuAtkWPyY8gzYGFCSXcrgsBgLjnJ5neoQh1Y6k8Pisq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HMJQpovfCgt5Y4ZNzueAaWEFsbwF2Acfe9htCkfCRQ5X"
+  },
+  "rewardsTokenInfo": {
+    "address": "HMJQpovfCgt5Y4ZNzueAaWEFsbwF2Acfe9htCkfCRQ5X",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HMJQ",
+    "symbol": "HMJQp"
   }
 }

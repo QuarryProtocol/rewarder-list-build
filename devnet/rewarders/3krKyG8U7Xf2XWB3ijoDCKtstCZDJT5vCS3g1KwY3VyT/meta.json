@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9c2kwAm7KCC8gQTnQChbyi5bXbNxhrmPDJTnW2WD5yUh",
-      "slug": "0",
+      "slug": "ffjim",
       "stakedToken": {
         "decimals": 6,
         "mint": "FfjiMZNQK3scKEu5b9mUQqZbAXmyhexn3Qbec9Kap2JH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GbscZFZsEipTxDNJXN3AzvQS1CKUowyjtxWM5afRd2dD",
-      "slug": "1",
+      "slug": "75zzc",
       "stakedToken": {
         "decimals": 6,
         "mint": "75zzc2skgmrGWXB4SgRz7d5nisfb4NUiKxfNY8u7MNeU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BGjajrAxPc6GyKScbWmp6U655rryuunh1tkMLhxNZbM8"
+  },
+  "rewardsTokenInfo": {
+    "address": "BGjajrAxPc6GyKScbWmp6U655rryuunh1tkMLhxNZbM8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BGja",
+    "symbol": "BGjaj"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "87q1anth312pZ78sECXHsq8zGhfwrVEKAnDhNXcPQVH4",
-      "slug": "0",
+      "slug": "emobs",
       "stakedToken": {
         "decimals": 6,
         "mint": "EmoBSYU6BNZtCgGT7QPqNXpqmDTSXVFD7HobSYFMQDZk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B4dJSk9cHJtRqrMtmgGx9rbxaAzi9qM7ExxiyHzoxvRF",
-      "slug": "1",
+      "slug": "5bxpm",
       "stakedToken": {
         "decimals": 6,
         "mint": "5bXPMsL4zJ1ki5uFQQrF6qrcGuPiqDWwxrFP8cM6BFFj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "41NLDprMQjQFZ6CymSTVx22GRUadWJmhsnNHcf6AGxy2"
+  },
+  "rewardsTokenInfo": {
+    "address": "41NLDprMQjQFZ6CymSTVx22GRUadWJmhsnNHcf6AGxy2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 41NL",
+    "symbol": "41NLD"
   }
 }

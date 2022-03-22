@@ -14,7 +14,7 @@
       "quarry": "82Nf1PcprYHBS72hvoytep5kxWspkznJCidHyHhUYbPA",
       "replicaMint": "FtvsrwNvKdwsN1YmfhN97pgkzCoJpbcfdtLHmq5yFdDx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dybbm",
       "stakedToken": {
         "decimals": 6,
         "mint": "DYBBMd6HpE4CnXWTyaUhriw2yUSCzyXVnFXp2KKQXyvM"
@@ -32,7 +32,7 @@
       "quarry": "GBwwFsD4aCGNMEpzfx7a5eb3gTs7bGR2ETJmBx6QiUi1",
       "replicaMint": "7dkezEE4Cws6qusKxXy68FYAEKo8MbEpqjjueD4471hm",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "4bijw",
       "stakedToken": {
         "decimals": 6,
         "mint": "4biJWJZMXGygaynM3VmBiM9jYtstzhw6M9XRZev9LD5Z"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "21JbqqAEBUuPnXHAAuJ1BgtooBVrWX66hbLTR84pYtsc"
+  },
+  "rewardsTokenInfo": {
+    "address": "21JbqqAEBUuPnXHAAuJ1BgtooBVrWX66hbLTR84pYtsc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 21Jb",
+    "symbol": "21Jbq"
   },
   "slug": "Bsawy3vGR2uNr37K2XX9boaTMDKUojkQGSedf31VDJ6A"
 }

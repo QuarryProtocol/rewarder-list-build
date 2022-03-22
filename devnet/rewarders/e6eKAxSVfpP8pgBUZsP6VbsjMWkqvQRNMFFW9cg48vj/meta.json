@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "pejuKwkVjYEGnjRCJxUrPvzr9kpTNLZSexWrssHko55",
-      "slug": "0",
+      "slug": "2agsq",
       "stakedToken": {
         "decimals": 6,
         "mint": "2AgSqznuG3xmTDrKu5PENGHSUC3ZQqPxNZs5ibAdGV1A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AShMVgHENN7BNYLA49uQJiSQ2dB8sMZ4tY3Cg9M9Ha1B",
-      "slug": "1",
+      "slug": "jafww",
       "stakedToken": {
         "decimals": 6,
         "mint": "JAfWwXPzU2Gr4Njd8iPgEMVhGx4ArvHbzxAmARQQNoSC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4EE4zzMdWnC8hXfdZYGhNuSZegw9bAsTZR2cZRFmqooa"
+  },
+  "rewardsTokenInfo": {
+    "address": "4EE4zzMdWnC8hXfdZYGhNuSZegw9bAsTZR2cZRFmqooa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4EE4",
+    "symbol": "4EE4z"
   }
 }

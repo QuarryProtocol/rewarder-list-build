@@ -14,7 +14,7 @@
       "quarry": "9wTcitrdkmdTwKC6315T7mxtCw9p5gB7f95V46nSNRbH",
       "replicaMint": "CasFNGm78ThvUSMr5oYV4Qw6vhvb2DfKyKH5pPEQKQgn",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "eobse",
       "stakedToken": {
         "decimals": 6,
         "mint": "EobsEHxvmYzYaC8rVv9YeegJHS4eWFK1VhTZATCBxhQm"
@@ -32,7 +32,7 @@
       "quarry": "DpbRm5fEDHHCWRr2p5tgoFZtnLbEcZPf8p9YKychrGFE",
       "replicaMint": "Btcm2Fztsso6vsYs3ETbUYqNVfZBJaGtFmAizT3YvuRf",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "9jkcu",
       "stakedToken": {
         "decimals": 6,
         "mint": "9JKCunHmezFa6uhUUXxBQdiXDgrrmcpjxm7ve5feEPo9"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HTvnKiLVwsUibdRdiCFAYiQkAitEjo3ut9GNV44hdUJu"
+  },
+  "rewardsTokenInfo": {
+    "address": "HTvnKiLVwsUibdRdiCFAYiQkAitEjo3ut9GNV44hdUJu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HTvn",
+    "symbol": "HTvnK"
   },
   "slug": "HVhEifazdraM8UX9zpEcZavpP625krAQ6DpdeytvM7n6"
 }

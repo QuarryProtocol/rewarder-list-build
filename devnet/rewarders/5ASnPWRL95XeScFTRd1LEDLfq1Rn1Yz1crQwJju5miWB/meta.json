@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2swLKothVW9esr5uaiBfnepEdWbiLmS1P3k9Bof6GLsG",
-      "slug": "0",
+      "slug": "2rvdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "2rVdCkeAqaK6xXwiBwsEYpm5DmVUKAq9V37wQwyAVcCa"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DkynHJDS2xD24Z2zNnj4enpBn1usPbDqEFr3n7ePXLnQ",
-      "slug": "1",
+      "slug": "9fd2e",
       "stakedToken": {
         "decimals": 6,
         "mint": "9FD2euLawNrtNfgqphqr37KzmpNBNU9d2MRFrBCw1i5t"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "644pCG1bkfw5UVrMvfUNPxSpiHNaUtZkoCZJrKybfd3N"
+  },
+  "rewardsTokenInfo": {
+    "address": "644pCG1bkfw5UVrMvfUNPxSpiHNaUtZkoCZJrKybfd3N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 644p",
+    "symbol": "644pC"
   }
 }

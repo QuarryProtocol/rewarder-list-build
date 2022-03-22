@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GKeX2nCUdDQexp6Syc5fAVDp2Y9MC7QRHxPXCFXH1Gh5",
-      "slug": "0",
+      "slug": "grp6q",
       "stakedToken": {
         "decimals": 6,
         "mint": "GrP6qJkoDYBbULBcWkeKWnUdFx2GjyvvneieHAnFXYnf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "689QYxGLXr2hXRgo9KL6nJnp8yRB33SEdRNspBFuyVVt",
-      "slug": "1",
+      "slug": "cktdf",
       "stakedToken": {
         "decimals": 6,
         "mint": "CktdFSA5uew3hDh6NDTm9n1ouHLa3U3sEQ2WyhJUMsg6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BQ2TKjBqhj8d7p39xzgr6biqaEMrk4oJAV4QGX2LuUKU"
+  },
+  "rewardsTokenInfo": {
+    "address": "BQ2TKjBqhj8d7p39xzgr6biqaEMrk4oJAV4QGX2LuUKU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BQ2T",
+    "symbol": "BQ2TK"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6TG7Wwa47KRqGjqRsLTp4X73HSpxXbErm5RcXu3KXrbb",
-      "slug": "0",
+      "slug": "d1uke",
       "stakedToken": {
         "decimals": 6,
         "mint": "D1UkEFyuBr4b5dgqbskqA5yAQ1uhMnz4am4UeDeC1mhj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CHnKqv7hvCXvtijXnbvGGTopjrbQ4KZHVfz8PdTKba4c",
-      "slug": "1",
+      "slug": "8hpe4",
       "stakedToken": {
         "decimals": 6,
         "mint": "8HPe442mcJjmemoku4Q6GFRXUYsnVWnazgefxZiRA2Wy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4usLbPgyn7f2KESCXenAqt6V474X35XwnV7rokn5cq4P"
+  },
+  "rewardsTokenInfo": {
+    "address": "4usLbPgyn7f2KESCXenAqt6V474X35XwnV7rokn5cq4P",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4usL",
+    "symbol": "4usLb"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4Ra61Y2rgX5GvjLjZghtg4HhgeKUHLqb9hygVAFCT25g",
-      "slug": "0",
+      "slug": "7uvez",
       "stakedToken": {
         "decimals": 6,
         "mint": "7UVezpPXALFAcmEr6b3tFVbEspyngjqjBiohF4icxfeh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4PhMft1PtVTooeVE5cm8RvsbFGNGSth2BuE74Rnq4v17",
-      "slug": "1",
+      "slug": "fnw7x",
       "stakedToken": {
         "decimals": 6,
         "mint": "FnW7xju3FM9ownpn1Wei4LStiq8HfMsUzLPHnSY3u3Lb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DbvKBeZuY5mGKbSwpSmGkagNcBnZe6rvEFHJPssaSBpT"
+  },
+  "rewardsTokenInfo": {
+    "address": "DbvKBeZuY5mGKbSwpSmGkagNcBnZe6rvEFHJPssaSBpT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DbvK",
+    "symbol": "DbvKB"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "rwE7ngBMRymfJxPMFTaD5kkeVLhyoCnQAEWAJ9qLx5G",
       "replicaMint": "DYpniNtk6A5phHuv6E8TdhR86Aa6R4xR1hBqMACv4mWa",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "2udnz",
       "stakedToken": {
         "decimals": 6,
         "mint": "2uDnZokN99fP8rtUpzef8XpSuqbaCwMXCefhs9LqJiyF"
@@ -32,7 +32,7 @@
       "quarry": "DhzxYokRpufu848rZmDoh87qe28ZfgsDGFnApR6SKngz",
       "replicaMint": "BG34kZDhhcpHxqJDFryBwLe8FvDJkreKxxxp8xduFbX5",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hycgn",
       "stakedToken": {
         "decimals": 6,
         "mint": "HycgNCgmi5Tkdwq93qTDzYUmps11KbShMH12KWe2Zb4A"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CCAvQTZEedaXGvYAD4m3hZL1zGyXufQaxVmVZwEq81h6"
+  },
+  "rewardsTokenInfo": {
+    "address": "CCAvQTZEedaXGvYAD4m3hZL1zGyXufQaxVmVZwEq81h6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CCAv",
+    "symbol": "CCAvQ"
   },
   "slug": "4tRwjv9hKYn6UMZumQHjCSWRGPjxhfErgx63ohDWSq1V"
 }

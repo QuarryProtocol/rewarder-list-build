@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HyQht7vpMq58y8CRVveprTpTcmW4AYL8wjqMuuM9o7q4",
-      "slug": "0",
+      "slug": "axwpr",
       "stakedToken": {
         "decimals": 6,
         "mint": "AXWpRMTHpbFW3r9z2driRDYgWr7qM22eWezqMjXLBjuM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5rcduv9hQpz2qZr5k1TeHRF31tUWqq56utqJxbcdkZMh",
-      "slug": "1",
+      "slug": "g4lgt",
       "stakedToken": {
         "decimals": 6,
         "mint": "G4LGTsi5LmKjbVj6A4XRSFwKB3upJfCKuPLyYQX2oxqB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5RNKejnHK6gAVvFySoxq32Q8bhzhn4UXXC2SuyxzR8ox"
+  },
+  "rewardsTokenInfo": {
+    "address": "5RNKejnHK6gAVvFySoxq32Q8bhzhn4UXXC2SuyxzR8ox",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5RNK",
+    "symbol": "5RNKe"
   }
 }

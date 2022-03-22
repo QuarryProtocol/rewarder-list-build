@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GjcSWEJyxheQXZ7kryxZodohDdfAKQHhgBvatqsoDaX7",
-      "slug": "0",
+      "slug": "hesbl",
       "stakedToken": {
         "decimals": 6,
         "mint": "HesbLizEFwkFQLG8VyCfAGkbRfocqoNjoQJkvgcRkxnX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4sG2shz9cXF4tjkPYbZLkN5BbEo3o1NJqca15DkAR6az",
-      "slug": "1",
+      "slug": "8ghjy",
       "stakedToken": {
         "decimals": 6,
         "mint": "8GhjYfr1CR5CHhdXmPsR5j9TsW5MqVRdnk4RnBWMMCMX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D3MYu3UC34XbtuCRW3smZhUexz5tk9K56VPcTDGtymNG"
+  },
+  "rewardsTokenInfo": {
+    "address": "D3MYu3UC34XbtuCRW3smZhUexz5tk9K56VPcTDGtymNG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D3MY",
+    "symbol": "D3MYu"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CuS4pcYu6EJU4Q65ZAeGnGLhDFG4qezWcNF9rVQJwCEG",
-      "slug": "0",
+      "slug": "3eghz",
       "stakedToken": {
         "decimals": 6,
         "mint": "3EGhZXqot8DK3LvNQTfHGcZZqew8VwBQ8LhXQSTBCiMo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EzAR3wcRks9TqYThotBseRndiB3u3LkTQAmtti64dpYw",
-      "slug": "1",
+      "slug": "crzsu",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrZSuHiUyresg83o5jk3qbMXw9ae39gyMpsH8wQXq27Z"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GkhBheaA8UmxtLGW85CDLgyhR2iYzTpZBkRL4kJXkFjj"
+  },
+  "rewardsTokenInfo": {
+    "address": "GkhBheaA8UmxtLGW85CDLgyhR2iYzTpZBkRL4kJXkFjj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GkhB",
+    "symbol": "GkhBh"
   }
 }

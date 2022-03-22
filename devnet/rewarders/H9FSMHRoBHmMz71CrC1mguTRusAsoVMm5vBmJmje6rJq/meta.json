@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ECocxn6beqFqUyhiMQf9f1n5TXxCgLxC7yEuCbQ7zJGY",
-      "slug": "0",
+      "slug": "bqags",
       "stakedToken": {
         "decimals": 6,
         "mint": "BQagsMMZrvATSE5vP98d8UJg1HSkbWwVchv6eGfhLzk8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HKpKowhrkAQzTXDSgrw2Y1uptBzkZinujLy7FTCGLqro",
-      "slug": "1",
+      "slug": "9pzum",
       "stakedToken": {
         "decimals": 6,
         "mint": "9pzumrJ46pJpqxpPcVwy2TWupHLzUY4TXhc26RU5uxBC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3UmYJmgGKw3UBVUcnRbvDqsTd4EouPKYHS8LD11G3Gbe"
+  },
+  "rewardsTokenInfo": {
+    "address": "3UmYJmgGKw3UBVUcnRbvDqsTd4EouPKYHS8LD11G3Gbe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3UmY",
+    "symbol": "3UmYJ"
   }
 }

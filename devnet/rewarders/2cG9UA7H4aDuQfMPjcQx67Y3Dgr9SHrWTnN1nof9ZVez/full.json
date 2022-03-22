@@ -14,7 +14,7 @@
       "quarry": "CyLQxzZxTHu35481W9Zhujw388u2pTLrfwgqtiin4a7P",
       "replicaMint": "28C92YkcredDFHF12GMJoiun3EQNRucPerhLmQPRTSRR",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ckxwg",
       "stakedToken": {
         "decimals": 6,
         "mint": "CKxwgMar2EtYjyCypLSUCNpmudz18E1s8XFV9dFkLmA1"
@@ -32,7 +32,7 @@
       "quarry": "9URVJyfGbDBJ2Ji4JrwAv71PkSZV2798AQar8U61hzfF",
       "replicaMint": "7Ndrerwv86E3RCW1pPxoWh5Ryb7x3LYZSt6wmCB9SDd9",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "bucnq",
       "stakedToken": {
         "decimals": 6,
         "mint": "BucnQzeCPnTHdjfZZfN1Av8335BwDP8YxXLfGqikDx7t"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FzNQ7yPpLkkjrvajmTP2eW4JFZWvhoPTeEdLnPNSvZWS"
+  },
+  "rewardsTokenInfo": {
+    "address": "FzNQ7yPpLkkjrvajmTP2eW4JFZWvhoPTeEdLnPNSvZWS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FzNQ",
+    "symbol": "FzNQ7"
   },
   "slug": "2cG9UA7H4aDuQfMPjcQx67Y3Dgr9SHrWTnN1nof9ZVez"
 }

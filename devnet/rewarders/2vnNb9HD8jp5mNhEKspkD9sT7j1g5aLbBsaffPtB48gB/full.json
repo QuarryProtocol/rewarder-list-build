@@ -14,7 +14,7 @@
       "quarry": "5hxTTfpjaYgs1fc1nbjvbk8UCjPkgr6t5tSyiZVoLfgk",
       "replicaMint": "F4mdarQwW9w6cZMDvv1qhk3Xyg6jGFGpcAEqtjfWb8rr",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dwjac",
       "stakedToken": {
         "decimals": 6,
         "mint": "DWjAcavK2nHhB7kjrPfHRYNxGm2Rvwtm9vT4RiTxuNAb"
@@ -32,7 +32,7 @@
       "quarry": "DP1BajytJYqcGzYpxFHMRBCeDVfGufSrmwGGF2MUJC91",
       "replicaMint": "FA7y2fcDAxRQKirxFiffHxPqspqfMnFXHePqXuCm4SCd",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "2kenp",
       "stakedToken": {
         "decimals": 6,
         "mint": "2keNP9hpSbdSR6REs6qSEzhqPjKYTxU7btTj9o4eFeRR"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "99PN7GmkGYtmmpSAvRXCbBkTqdaSzYBQpDWcTZuEPMKc"
+  },
+  "rewardsTokenInfo": {
+    "address": "99PN7GmkGYtmmpSAvRXCbBkTqdaSzYBQpDWcTZuEPMKc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 99PN",
+    "symbol": "99PN7"
   },
   "slug": "2vnNb9HD8jp5mNhEKspkD9sT7j1g5aLbBsaffPtB48gB"
 }

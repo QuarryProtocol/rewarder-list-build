@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DE2WAtsaB6TdQwgriAgBEcWKiABdC141nADULs3AzdJ5",
-      "slug": "0",
+      "slug": "alupb",
       "stakedToken": {
         "decimals": 6,
         "mint": "ALuPbeW54TyeTmNqTxTE7uZnDYbeD646Fjfm15rdkAD8"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ALuPbeW54TyeTmNqTxTE7uZnDYbeD646Fjfm15rdkAD8"
+  },
+  "rewardsTokenInfo": {
+    "address": "ALuPbeW54TyeTmNqTxTE7uZnDYbeD646Fjfm15rdkAD8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ALuP",
+    "symbol": "ALuPb"
   }
 }

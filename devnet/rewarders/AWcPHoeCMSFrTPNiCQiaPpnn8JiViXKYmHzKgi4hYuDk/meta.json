@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HscvM6muZsgFrBW6TMjDwaMte3xhnv5u3Rahj31PgxUk",
-      "slug": "0",
+      "slug": "5hheo",
       "stakedToken": {
         "decimals": 6,
         "mint": "5hhEoWSfHE852hSm8LPbBNfmqcRqxMoBAwMMdYbpUj5f"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "83wpcePXAxr8JKdNfSmXZy3mPKjvw9DmXmxep2sMFARW",
-      "slug": "1",
+      "slug": "3dvfv",
       "stakedToken": {
         "decimals": 6,
         "mint": "3DVFvWh3fbp8Xxc2FcTZARtCz3eKcEFpKh39zZuG5eMX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "54GRMaqUvyMxp5kHwTLVpAYCnzUKqboGbi8dAGxk28rd"
+  },
+  "rewardsTokenInfo": {
+    "address": "54GRMaqUvyMxp5kHwTLVpAYCnzUKqboGbi8dAGxk28rd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 54GR",
+    "symbol": "54GRM"
   }
 }

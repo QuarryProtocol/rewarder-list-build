@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "rtMtQXiMqjECiy7j591NyJq1tiidvPXmRVY1dPXDaz8",
-      "slug": "0",
+      "slug": "bgmdn",
       "stakedToken": {
         "decimals": 6,
         "mint": "BGMDn5kPxDZwAgzy4jydWeFPKPqFVacnEErdNMqbi1Be"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BmggUEwKQA3gonKsLez3Q92ys3MnJsjcs61URTHqsTQP"
+  },
+  "rewardsTokenInfo": {
+    "address": "BmggUEwKQA3gonKsLez3Q92ys3MnJsjcs61URTHqsTQP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bmgg",
+    "symbol": "BmggU"
   }
 }

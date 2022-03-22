@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FQo4qHhpjcz2nbsfgL6qfhoHz8FPaCzGXJSwGkqBWPg2",
-      "slug": "0",
+      "slug": "61egm",
       "stakedToken": {
         "decimals": 6,
         "mint": "61EGmAJFEYFcwBd1p8LJZdk8p7LsmjGYnvwWbYvphVe9"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GLZzLYvhCULvnQi9bKDCEY5zKMtkW82zBhURbxUARsTN",
-      "slug": "1",
+      "slug": "6uiap",
       "stakedToken": {
         "decimals": 6,
         "mint": "6UiAPqCjwArpSvcBK84zrFnF2hrimoEsWiDeoDsSg95V"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Db6u3eUta7FLKvXA7w4BPw2V8xMsdo39SCKA6cwFue9d"
+  },
+  "rewardsTokenInfo": {
+    "address": "Db6u3eUta7FLKvXA7w4BPw2V8xMsdo39SCKA6cwFue9d",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Db6u",
+    "symbol": "Db6u3"
   }
 }

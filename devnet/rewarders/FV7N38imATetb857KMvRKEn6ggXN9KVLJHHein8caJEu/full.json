@@ -14,7 +14,7 @@
       "quarry": "BhYHsaZHMe6pLS2GG4r4VkZhiet3HZj87tCv4tpQHG72",
       "replicaMint": "C4G6yuifVBSDnbh3ESCZ3xrPs4ozzktiDLgnr6UA2aKF",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ewwzc",
       "stakedToken": {
         "decimals": 6,
         "mint": "EwWZccmd5Vyt38WVix5B8t3boCziwVV2Hc1ifjWuGJQ2"
@@ -32,7 +32,7 @@
       "quarry": "SxK4ioWVoJhfcHpGgw3Z6fjSjF51gytdgCyijmzBwS6",
       "replicaMint": "8g1ZRSuw4taF45FDDMscg35CL5FjVDc75uqsaQakAZPn",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hmrsp",
       "stakedToken": {
         "decimals": 6,
         "mint": "HmrspDCzu2eXb2LKwCa53iUjA7HVV5ox6BXKGzeac36Y"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HjH28PJKCANtXuwhVnvQCuAo6xYEeR1kThgwydF4F3tD"
+  },
+  "rewardsTokenInfo": {
+    "address": "HjH28PJKCANtXuwhVnvQCuAo6xYEeR1kThgwydF4F3tD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HjH2",
+    "symbol": "HjH28"
   },
   "slug": "FV7N38imATetb857KMvRKEn6ggXN9KVLJHHein8caJEu"
 }

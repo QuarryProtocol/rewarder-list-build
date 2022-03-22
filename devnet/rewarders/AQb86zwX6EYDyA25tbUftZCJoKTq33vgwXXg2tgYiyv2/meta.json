@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CRVA4nihMsyajYk8g6yugvqmzVEHmTXpiYstwnDpiygT",
-      "slug": "0",
+      "slug": "hlyyv",
       "stakedToken": {
         "decimals": 6,
         "mint": "HLYyvEzFg6yFTjwuzR1EVw7JyDm8JgAhmSy1VyfYL5hs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B1S1qN3c6m5MW23G3wEc5BRHyNh4yAkqczNK4YK3qcZM",
-      "slug": "1",
+      "slug": "1mh4r",
       "stakedToken": {
         "decimals": 6,
         "mint": "1MH4rVspAh7Dp1QxJYAd4hcfU6eVgA2pmNrK7kNxsie"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DocvrwVBqhgmTtKwVr2WW497wokCAQVeUU5vV7t2fLjZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "DocvrwVBqhgmTtKwVr2WW497wokCAQVeUU5vV7t2fLjZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Docv",
+    "symbol": "Docvr"
   }
 }

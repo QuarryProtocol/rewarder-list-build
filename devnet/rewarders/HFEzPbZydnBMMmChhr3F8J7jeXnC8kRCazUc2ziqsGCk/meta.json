@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GHo99oA9k72oNK51vZkLp1aMGnY2wqLxYnvpnc4Mmb64",
-      "slug": "0",
+      "slug": "bidyb",
       "stakedToken": {
         "decimals": 6,
         "mint": "BidybZDojeyzQwfRMQrqGDAeJWhKuzoSgjMdkRFV7KPT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CNk5gmjLUCZdqpHYSLw8F489caJbmhcB6PuYEULeAYcu",
-      "slug": "1",
+      "slug": "7lqfb",
       "stakedToken": {
         "decimals": 6,
         "mint": "7LqFBabTFC256Qx6ZQbALrsA7MFMjo2oT9Pscdv674bE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8qLZXKatuUdkmtwsKsGmUVoNTekf8XbwnUp1TFBJYSnm"
+  },
+  "rewardsTokenInfo": {
+    "address": "8qLZXKatuUdkmtwsKsGmUVoNTekf8XbwnUp1TFBJYSnm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8qLZ",
+    "symbol": "8qLZX"
   }
 }

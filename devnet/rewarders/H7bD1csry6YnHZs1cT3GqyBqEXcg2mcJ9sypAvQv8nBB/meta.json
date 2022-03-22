@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "APCivdYdFon5gudsU29JuTCmq3R5yDR651ok1nLfGy2t",
-      "slug": "0",
+      "slug": "jcfyx",
       "stakedToken": {
         "decimals": 6,
         "mint": "JCfyxyTd5wvBREDq7tKnD5qkWm9PYVK6DQyTu3cZxVr6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8Zj94RxsWzKpTGSrKr4pX84n4Sb3qUowvZfse5oEK5ku",
-      "slug": "1",
+      "slug": "ydcvu",
       "stakedToken": {
         "decimals": 6,
         "mint": "YDcvUVnopQ1Rfkcadz2g66RdaW82gURzPPdavrSo4Kz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "27Ejgv6wkDcB8UGaXPiUWTYiw72tSSW7vVEG5hZwWwfh"
+  },
+  "rewardsTokenInfo": {
+    "address": "27Ejgv6wkDcB8UGaXPiUWTYiw72tSSW7vVEG5hZwWwfh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 27Ej",
+    "symbol": "27Ejg"
   }
 }

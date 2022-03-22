@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3YbwNmf6CcQ133YDmW43FDuMeDAivfiR8AqwesGMd4Tj",
-      "slug": "0",
+      "slug": "6nadz",
       "stakedToken": {
         "decimals": 6,
         "mint": "6nadZiqSZuDzY5b58YnEsn1rD4SsbQCJgNQyDHQ3Jg5w"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2XJxV5Yrm1WBsqDG5YpJgcxnACNvCmVvrkWziGvgzoE5",
-      "slug": "1",
+      "slug": "haymk",
       "stakedToken": {
         "decimals": 6,
         "mint": "HaYmk1VKXtsBbdRxHLnXk9DuJR5CaH8jA36iRtbYd2VN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H84eET87DhfYdZoLR9vPt8nQ8hoTiYMFn1qWCsCEAgc2"
+  },
+  "rewardsTokenInfo": {
+    "address": "H84eET87DhfYdZoLR9vPt8nQ8hoTiYMFn1qWCsCEAgc2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H84e",
+    "symbol": "H84eE"
   }
 }

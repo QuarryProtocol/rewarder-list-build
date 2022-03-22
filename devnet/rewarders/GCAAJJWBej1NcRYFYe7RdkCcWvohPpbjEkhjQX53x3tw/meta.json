@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DnaxyPwmsEoFqKdwvcto233qsY2irQMm4RpytofcmRP8",
-      "slug": "0",
+      "slug": "94c6p",
       "stakedToken": {
         "decimals": 6,
         "mint": "94C6Ps6r9qVeNpepWASbaH6cc1Pq8fgvhLv396QC8evu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CNXDXHcdMowDHW3P4aZVqR7VH1dyRAEzDmJCXSDz2zwr",
-      "slug": "1",
+      "slug": "5bptr",
       "stakedToken": {
         "decimals": 6,
         "mint": "5BptrYxwQrwaMt8yKmQvKLHgSQTPbx4yKzf7nLT8i32T"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CzucgEv5Kbc8TeGZyKGsfdzqgy6CQtEobLHDHRnPAbSt"
+  },
+  "rewardsTokenInfo": {
+    "address": "CzucgEv5Kbc8TeGZyKGsfdzqgy6CQtEobLHDHRnPAbSt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Czuc",
+    "symbol": "Czucg"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C9emRt4WHkEme9bPsRWEArNfjxLzhCUYxgPJw7scv6F2",
-      "slug": "0",
+      "slug": "5gf4c",
       "stakedToken": {
         "decimals": 6,
         "mint": "5GF4cJgkoZ7kSDoauS9KhSstaNzJPBTcvTngWjM6Lin3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9G55TuBrk4cUgvtF482cZEBVKCv7r5wLiEQowH5JPnZY",
-      "slug": "1",
+      "slug": "3m2k7",
       "stakedToken": {
         "decimals": 6,
         "mint": "3m2k7wt4xzYg2YDkWwwXJAdxDu7PYoRuYxnLdgoN5y1F"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2T4VpD8vLhwHNkqz9jFihbxfRm2CRdJ7NMzynMxzPFNR"
+  },
+  "rewardsTokenInfo": {
+    "address": "2T4VpD8vLhwHNkqz9jFihbxfRm2CRdJ7NMzynMxzPFNR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2T4V",
+    "symbol": "2T4Vp"
   }
 }

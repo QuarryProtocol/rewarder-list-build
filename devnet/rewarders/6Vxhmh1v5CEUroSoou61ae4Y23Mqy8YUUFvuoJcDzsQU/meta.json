@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Eo9ipJGwaKCnQxm9zt4a67i4Zy1jzuqpDfG4TvbgRLBp",
-      "slug": "0",
+      "slug": "7a7du",
       "stakedToken": {
         "decimals": 6,
         "mint": "7a7dUCSWnzAv72Wc8RZEeMYqU3kc9HD5kQpo3miTCD4M"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "47rPtaqVtZy42ng1rCVLHsWc1d9mX2hiHNwRaqym3oyQ",
-      "slug": "1",
+      "slug": "7dczh",
       "stakedToken": {
         "decimals": 6,
         "mint": "7dczhDu84457SbkcHdfqmVH8bUWZBjUpkpVJkRXL5CvZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9wfiXYBywiiPuQZVtJQjWPcGM8WFsewkGTWu8WeJNwxX"
+  },
+  "rewardsTokenInfo": {
+    "address": "9wfiXYBywiiPuQZVtJQjWPcGM8WFsewkGTWu8WeJNwxX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9wfi",
+    "symbol": "9wfiX"
   }
 }

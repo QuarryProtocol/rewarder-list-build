@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ADV1qQevAXS3xdP3HXCYX8SrHGRFrsVKPugjobYaJSBw",
-      "slug": "0",
+      "slug": "2zmt7",
       "stakedToken": {
         "decimals": 6,
         "mint": "2zMt7wB9h9xUJEfFwBoQK1WpKcU1s8Ze5shfEKZGc3CH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HjMMMvdPDUNn7MKGPBtKGdteUxETBKEmP8vGL1gjy4hm",
-      "slug": "1",
+      "slug": "dkhxe",
       "stakedToken": {
         "decimals": 6,
         "mint": "DkhxEbDsHcYnTmvb2LDxg4w5ABicfhDnRKWJyjSA4f5Y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9PA9w5NqPUbPtaJZB2FXnF5Yq4zza9X98WNyddhYFFAm"
+  },
+  "rewardsTokenInfo": {
+    "address": "9PA9w5NqPUbPtaJZB2FXnF5Yq4zza9X98WNyddhYFFAm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9PA9",
+    "symbol": "9PA9w"
   }
 }

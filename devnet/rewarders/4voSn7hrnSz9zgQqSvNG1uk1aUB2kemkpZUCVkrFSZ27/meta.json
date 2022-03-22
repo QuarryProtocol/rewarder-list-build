@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Eb7yJywjgXc2RpdoFtFNiY67YjqM1PXwyZCNR4vdSuPL",
-      "slug": "0",
+      "slug": "3sddz",
       "stakedToken": {
         "decimals": 6,
         "mint": "3sddz4d1kBPiMUd8WjJ7icMRutN41irTjob8A2H4BQBi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Dsv252sEGn233t9BEWBcqAMNUNn1tSmSkBp5BZSPoe1L",
-      "slug": "1",
+      "slug": "8cyew",
       "stakedToken": {
         "decimals": 6,
         "mint": "8cYEwhj9wbyQMFqutPPUtXHV8XBEjVZ3tFHj6Y8Gx47w"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FEv1vub82CErM73nNtwGu1v73LmamDSyJyajY3nK93Ti"
+  },
+  "rewardsTokenInfo": {
+    "address": "FEv1vub82CErM73nNtwGu1v73LmamDSyJyajY3nK93Ti",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FEv1",
+    "symbol": "FEv1v"
   }
 }

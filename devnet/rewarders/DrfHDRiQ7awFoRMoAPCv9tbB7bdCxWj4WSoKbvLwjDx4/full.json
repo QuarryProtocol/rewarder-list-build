@@ -14,7 +14,7 @@
       "quarry": "8gBxZQT5AE3W9gCajA8YxBkyyAEcHiGkqNYMBMUoHFW3",
       "replicaMint": "DVQuf9kMsUyTJYeb2JUwy9acULQn95DbuJga5qBAAYk8",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5pytm",
       "stakedToken": {
         "decimals": 6,
         "mint": "5pytM3ZecoEHEYjfytGPkkxC4hQbq3cBw5V7vvdf3XNF"
@@ -32,7 +32,7 @@
       "quarry": "W2RLfLMcgnhJTFb8F3YerNt5vC14rVLQfJiJkFcXnMM",
       "replicaMint": "ECSw8yUDt9YYB2y9pAkJRf426ThkHvYHAwnpGD9J12UC",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ayvmp",
       "stakedToken": {
         "decimals": 6,
         "mint": "AYvMphqNtd5ZAzRTm4rpqsmkMcMRNh313VihS3bbgQ8S"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FeBrRiWYjutgap9cjjG6UcsnxgQjgT165VCx5HysDECe"
+  },
+  "rewardsTokenInfo": {
+    "address": "FeBrRiWYjutgap9cjjG6UcsnxgQjgT165VCx5HysDECe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FeBr",
+    "symbol": "FeBrR"
   },
   "slug": "DrfHDRiQ7awFoRMoAPCv9tbB7bdCxWj4WSoKbvLwjDx4"
 }

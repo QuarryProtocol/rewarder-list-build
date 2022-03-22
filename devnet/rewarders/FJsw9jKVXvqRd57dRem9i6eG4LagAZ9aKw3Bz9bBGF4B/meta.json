@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3k77HkipWPmbkiuAPaDjzvBpZnNyRG3snn59tKZjcYqL",
-      "slug": "0",
+      "slug": "cptvs",
       "stakedToken": {
         "decimals": 6,
         "mint": "CpTVsu2ESnxi7jbiryxrCXpqcgEiYNPA3n7JGsE1HCaN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8bkXCWqJL511hjJPYcMbFfgKWtyYcYSRScab1tW1UnUQ",
-      "slug": "1",
+      "slug": "a9gyt",
       "stakedToken": {
         "decimals": 6,
         "mint": "A9GYTgmVxnU91YwX9hZjSNqshanuFqdxuaupt89SHue9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "iAHVVcZKbgWkgoCevLkiAtQ7ZGtSfHQY4i6ywWPHK7y"
+  },
+  "rewardsTokenInfo": {
+    "address": "iAHVVcZKbgWkgoCevLkiAtQ7ZGtSfHQY4i6ywWPHK7y",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token iAHV",
+    "symbol": "iAHVV"
   }
 }

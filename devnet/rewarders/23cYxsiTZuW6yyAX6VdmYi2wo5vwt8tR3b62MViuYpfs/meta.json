@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HH98wfvVCp8XMkypS13BGbQX84S37wqWPeHKDnVmiWDb",
-      "slug": "0",
+      "slug": "c7bmn",
       "stakedToken": {
         "decimals": 6,
         "mint": "C7bMNnGoGjKFDVPmmRpcVVDZynbBDBLeixUQMw6zoufB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CytyDixhwqnbbXu54qF6CJdhaaAxEC5DgPt4jpX1ujso",
-      "slug": "1",
+      "slug": "8jt6y",
       "stakedToken": {
         "decimals": 6,
         "mint": "8jT6YAMjfkKZx4QqABG24w4gYJ6xRt7nXWs1qrXgC3GG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BqFQpJxJLAxPkVEsx9AWfMw2pgvq1VvYwZ17nN778Tj5"
+  },
+  "rewardsTokenInfo": {
+    "address": "BqFQpJxJLAxPkVEsx9AWfMw2pgvq1VvYwZ17nN778Tj5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BqFQ",
+    "symbol": "BqFQp"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "RQsKordEwTGKTakqy4QaX55iBNWV1bSEAZsUKHoyr3v",
       "replicaMint": "CHJtxY3yhNgrQLBiSx5v7waxC5Xxo3GaCYc7s2gKaLW4",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "2vrep",
       "stakedToken": {
         "decimals": 6,
         "mint": "2vRePaDTAJ1HJRwnNz3CvGHLyZUUZ6VbhtVZjnjuYYaX"
@@ -32,7 +32,7 @@
       "quarry": "HCZBY8WvRrEss1sRffgm7MV7mwGB3CkPDCdrKeTUyTSr",
       "replicaMint": "AN6prKX7LCPfAvstvJDdL48TV8jLEtVVgotu61J9XceB",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "2cduq",
       "stakedToken": {
         "decimals": 6,
         "mint": "2cDUqvxAU2vCNi7KVhmiKmZGHyJMnhaW1rSNeYMqauHr"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HdQuqhgkMyaDKp22MZafHsxKPqYsGAuHnyWQhjnVuQQG"
+  },
+  "rewardsTokenInfo": {
+    "address": "HdQuqhgkMyaDKp22MZafHsxKPqYsGAuHnyWQhjnVuQQG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HdQu",
+    "symbol": "HdQuq"
   },
   "slug": "7J7n8XokLjwsTP142uH2ZRaC9TKLevBx4qSHvnS7hUQx"
 }

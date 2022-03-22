@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "rwE7ngBMRymfJxPMFTaD5kkeVLhyoCnQAEWAJ9qLx5G",
-      "slug": "0",
+      "slug": "2udnz",
       "stakedToken": {
         "decimals": 6,
         "mint": "2uDnZokN99fP8rtUpzef8XpSuqbaCwMXCefhs9LqJiyF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DhzxYokRpufu848rZmDoh87qe28ZfgsDGFnApR6SKngz",
-      "slug": "1",
+      "slug": "hycgn",
       "stakedToken": {
         "decimals": 6,
         "mint": "HycgNCgmi5Tkdwq93qTDzYUmps11KbShMH12KWe2Zb4A"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CCAvQTZEedaXGvYAD4m3hZL1zGyXufQaxVmVZwEq81h6"
+  },
+  "rewardsTokenInfo": {
+    "address": "CCAvQTZEedaXGvYAD4m3hZL1zGyXufQaxVmVZwEq81h6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CCAv",
+    "symbol": "CCAvQ"
   }
 }

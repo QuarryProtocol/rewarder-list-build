@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FrVbCa41AVfWQK1GvDBwbWBX5vW5tV4bCBofobHQwA4U",
-      "slug": "0",
+      "slug": "3cdx6",
       "stakedToken": {
         "decimals": 6,
         "mint": "3cdx6joK4nuHMLZ5k9Pgp6dhZ6R8ywagtYcANyiLjkAA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GBhzKYApJ6zaj8aFC1PugExEYYb9r5u8zEkNQVToHC8t",
-      "slug": "1",
+      "slug": "bp7vr",
       "stakedToken": {
         "decimals": 6,
         "mint": "BP7VrbAN3ncrqPo3hjKDt6pzbkFS4uobgVR9deEsCRdK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5c9tSmCqsy3nRMP9bvVpnYFUab6qdq6EL6uMRKFnBB3D"
+  },
+  "rewardsTokenInfo": {
+    "address": "5c9tSmCqsy3nRMP9bvVpnYFUab6qdq6EL6uMRKFnBB3D",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5c9t",
+    "symbol": "5c9tS"
   }
 }

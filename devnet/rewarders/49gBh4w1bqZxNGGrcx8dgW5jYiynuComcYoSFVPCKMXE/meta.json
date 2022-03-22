@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HdMP5tSnwUNU5i6t19UXg8XHjHAqbpHKHgxj1m9ApnMU",
-      "slug": "0",
+      "slug": "4zxf5",
       "stakedToken": {
         "decimals": 6,
         "mint": "4zxF5Zmz5djbXCtNeW8pLZwXmKV15qwwPC3tFkoVwdok"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5tuMjUec7RyDZshqnYqZyGytVbKeZU2CevdH2P96Ur1i",
-      "slug": "1",
+      "slug": "cm38y",
       "stakedToken": {
         "decimals": 6,
         "mint": "CM38yMiXAS7zhSg9oHc5mhJB4vk7bzwKVFHrp6Uk9uzX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2879AXczSSdGotpnM1kYmYb2bkLSa6CbffoTXbALGpZq"
+  },
+  "rewardsTokenInfo": {
+    "address": "2879AXczSSdGotpnM1kYmYb2bkLSa6CbffoTXbALGpZq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2879",
+    "symbol": "2879A"
   }
 }

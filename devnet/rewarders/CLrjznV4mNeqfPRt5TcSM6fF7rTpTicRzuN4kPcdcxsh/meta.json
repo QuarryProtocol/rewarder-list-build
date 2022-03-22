@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HyDuatjjzUV8WzudmHGZX518McexYumNg6w9K3bHYhbH",
-      "slug": "0",
+      "slug": "2t5wn",
       "stakedToken": {
         "decimals": 6,
         "mint": "2t5Wnm7Z6MpTmDeB3Eq1pJPjYVTwwhTiTFDRjN8HPYFr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "323YMsM9YaDQrJHxGefVVqTHXeM1BQEWAaBsES9jgsqq",
-      "slug": "1",
+      "slug": "pvhsz",
       "stakedToken": {
         "decimals": 6,
         "mint": "pvhSzNCxHp5urEKZmY2FSCapsmurxHQYBUnASP5U46a"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2m6So5E7GdUTSnaQ1bGWnebao5YuWmoyP3YwTbQTRMLm"
+  },
+  "rewardsTokenInfo": {
+    "address": "2m6So5E7GdUTSnaQ1bGWnebao5YuWmoyP3YwTbQTRMLm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2m6S",
+    "symbol": "2m6So"
   }
 }

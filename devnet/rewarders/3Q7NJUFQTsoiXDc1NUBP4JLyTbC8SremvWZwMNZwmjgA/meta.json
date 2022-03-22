@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "46r1XxgupCXeZqVeJgrkEzPdguZt4tU9hHiqJbMyNeTY",
-      "slug": "0",
+      "slug": "8mmjf",
       "stakedToken": {
         "decimals": 6,
         "mint": "8mmJFA7uqMPHhwCwAWEUQyvFw7svHWaC2QKFvdaZSQS8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HFLyuAQSUUgXpjnteLTcxwCBGLqmHxXpHgC7kUhDHmrj",
-      "slug": "1",
+      "slug": "ejqzr",
       "stakedToken": {
         "decimals": 6,
         "mint": "EJqZrvhDhZqetHLWtP4r24WaDSv7jXKk3jgqQ318bYEW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G5Dwd27W6uPBzVFGDGPrtwjV1EmXEdqqLXuyEw5Wu9ow"
+  },
+  "rewardsTokenInfo": {
+    "address": "G5Dwd27W6uPBzVFGDGPrtwjV1EmXEdqqLXuyEw5Wu9ow",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G5Dw",
+    "symbol": "G5Dwd"
   }
 }

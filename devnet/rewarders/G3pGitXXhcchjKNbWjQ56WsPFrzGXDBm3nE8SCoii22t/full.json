@@ -14,7 +14,7 @@
       "quarry": "5E1P8vA8Us5GXf9oepfExWU4DNAPk5jNGJyRsnkvXgcY",
       "replicaMint": "GBKhfs2zZDzK3hbvWauVrEiFdC2eEhf49yjKsksuHhHv",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "drc5a",
       "stakedToken": {
         "decimals": 6,
         "mint": "Drc5Acb1JEoukG1rimRjGJS96mob9jGmeDbdjod3NNdE"
@@ -32,7 +32,7 @@
       "quarry": "EFz2PAB2Fp7a2zbKEhwPyWr4YvU53Ng9t1pvb5zB3nDM",
       "replicaMint": "D96nMvuu5PGDMrykBu5NT8jxQMu8HjYMea1G1d6DjZjG",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "dpgle",
       "stakedToken": {
         "decimals": 6,
         "mint": "DPGLejbBQTzk1Mjzhy3rLAnWdAwD5E1hqw7nKk36qPVk"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AFDzPFsW1ALwHAChqUFy95ukmcHTwiArZFuj38xmytnM"
+  },
+  "rewardsTokenInfo": {
+    "address": "AFDzPFsW1ALwHAChqUFy95ukmcHTwiArZFuj38xmytnM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AFDz",
+    "symbol": "AFDzP"
   },
   "slug": "G3pGitXXhcchjKNbWjQ56WsPFrzGXDBm3nE8SCoii22t"
 }

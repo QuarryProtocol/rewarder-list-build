@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4wRZkQEDxBBJB8CY4C6V9SawfDQSfeX24dwGzoEhqUJU",
-      "slug": "0",
+      "slug": "8ukn6",
       "stakedToken": {
         "decimals": 6,
         "mint": "8UkN6somM5ucSLuhrDJ2XKXVifDyBP1Qt6C7ZyM7pMVC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AUitX3W5p3wAht4xjiah7JKUsZEnH6Qq1mmjtMaeA8x9",
-      "slug": "1",
+      "slug": "czykt",
       "stakedToken": {
         "decimals": 6,
         "mint": "CZyKtx1Dgnr3tSjdtAkgvxKijaDm7STEY5E1WKzuB7YT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4QodKR7EHJ3gCNtgWQ13p7VdMSwszSrsYMr7bY61DNv1"
+  },
+  "rewardsTokenInfo": {
+    "address": "4QodKR7EHJ3gCNtgWQ13p7VdMSwszSrsYMr7bY61DNv1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4Qod",
+    "symbol": "4QodK"
   }
 }

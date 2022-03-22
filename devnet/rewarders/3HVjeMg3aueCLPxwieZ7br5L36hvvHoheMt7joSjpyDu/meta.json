@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "qt1Hc8kPHmsWfwKfjX8Gxc9Pu5sXtuQ4VFxumVzuEXr",
-      "slug": "0",
+      "slug": "sctat",
       "stakedToken": {
         "decimals": 6,
         "mint": "sctAtR5GvwHm73tYWfbr7zZZuUYdEy4LU3vk3D5iCFC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EGqX79iL6yfZityg1Y6TzfWfWgkiZ8t9TxGoaLWPLj4U",
-      "slug": "1",
+      "slug": "hx1xm",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hx1Xm7Y1Npx3W4fZdwA8vnCugL2PFDAaXKeBxDR8nq5s"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4zBjieWxnyLn7QjUr8cD7G6vQSECfhvTeUdKbXZQkHKr"
+  },
+  "rewardsTokenInfo": {
+    "address": "4zBjieWxnyLn7QjUr8cD7G6vQSECfhvTeUdKbXZQkHKr",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4zBj",
+    "symbol": "4zBji"
   }
 }

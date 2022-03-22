@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2fzwvAZ6wtTa7BxxSx7ukvrVu8L1BXuJBuYzKxsWvJCo",
-      "slug": "0",
+      "slug": "d695o",
       "stakedToken": {
         "decimals": 6,
         "mint": "D695oG6gxC58YWgGiUd7bHn41XW9ejMqbE3LVhUPJhX3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C4KS8iNzQZWPbhuwpikLDNKbTBXWLWpQFxs2MURytFs3",
-      "slug": "1",
+      "slug": "auprv",
       "stakedToken": {
         "decimals": 6,
         "mint": "AuprvX3vmMfNhFoSiSEDz2SaM7kG4nh8UviddnAL3tLH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4B7Yr5qTfnnP8W4AJBxY3zqCNrakK2oCr64XHYdgTpWw"
+  },
+  "rewardsTokenInfo": {
+    "address": "4B7Yr5qTfnnP8W4AJBxY3zqCNrakK2oCr64XHYdgTpWw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4B7Y",
+    "symbol": "4B7Yr"
   }
 }

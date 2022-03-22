@@ -14,7 +14,7 @@
       "quarry": "6k4wUq33eCG1rMZiAE7YnTUv4jnNuwbK7x6mgGAk1Df6",
       "replicaMint": "7LrncvcVBNiyBNCNrfB8njzLaRkPRXv3q6UWR3YzCcFQ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hvbhj",
       "stakedToken": {
         "decimals": 6,
         "mint": "HVBhJ1AvzbpQEwFDBm1fYMgfocQiHkst8rNmTsjDkFRy"
@@ -32,7 +32,7 @@
       "quarry": "7DEW2vZP8NCEEtKWvrVs18z3QxEi5ohwwyoA9BsqPyEF",
       "replicaMint": "HbPuuzfbhz1pp3faT9o5WwmX72JiGoDLGk7NPuocdwj9",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "3mfqd",
       "stakedToken": {
         "decimals": 6,
         "mint": "3mfQdEVeuS8Ttek4mTJKyghSzfx1gLaE6k8UVs9AGBxs"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CXEyxbosvikFgTf2cG1MX3bQPNzHVJvkujYHKznnA883"
+  },
+  "rewardsTokenInfo": {
+    "address": "CXEyxbosvikFgTf2cG1MX3bQPNzHVJvkujYHKznnA883",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CXEy",
+    "symbol": "CXEyx"
   },
   "slug": "Bq4eJxmZgYrUx3XwnQgpKaWgvz9P8RgEV1zvhFi7oR9q"
 }

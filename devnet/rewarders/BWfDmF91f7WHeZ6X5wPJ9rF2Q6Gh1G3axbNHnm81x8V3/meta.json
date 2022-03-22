@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4aaXb9bH3zScr8jXP33KTqAzzjr3n44mTp1Bg7fC3ZRW",
-      "slug": "0",
+      "slug": "8pcmt",
       "stakedToken": {
         "decimals": 6,
         "mint": "8pcMtKdoiVqHwzHzaorYV468nDRACixtDT1hVWeapo3j"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8fr9XtFKUjGadWKRkH1dGbrz6ehXmy8Sq4wXUavbZtQv",
-      "slug": "1",
+      "slug": "4iudb",
       "stakedToken": {
         "decimals": 6,
         "mint": "4iUDByjzCUQM78sF2Wt8B9ZkWEFhwdH5j9Wu8XiLEmnn"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2hEBWw1b9i5cejtpzsUwqi65dAXuoR3RrUGUKArtyt8d"
+  },
+  "rewardsTokenInfo": {
+    "address": "2hEBWw1b9i5cejtpzsUwqi65dAXuoR3RrUGUKArtyt8d",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2hEB",
+    "symbol": "2hEBW"
   }
 }

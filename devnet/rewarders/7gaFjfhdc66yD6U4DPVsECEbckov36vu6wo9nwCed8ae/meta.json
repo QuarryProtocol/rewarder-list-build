@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J1XVna3mCUkdMdzG3EiKnHrv26ixNVyz5j65BMNzJMPc",
-      "slug": "0",
+      "slug": "gcjxp",
       "stakedToken": {
         "decimals": 6,
         "mint": "GcJXPnkKpSjbUpvJJ6kJTVEGe6EWJEDHjjME3gxzwPoW"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BcH5wcZAdCFD5TMJEv6XUAReYTV2oBdCt5WFqWRLvPBQ",
-      "slug": "1",
+      "slug": "gn8po",
       "stakedToken": {
         "decimals": 6,
         "mint": "GN8PoJEn3FJRqLG2ZBYuFwxLBcymE5855XPTxbzXrGvt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DCr2rUi1BGN4woz83KTFWriGbrn2yqQX9Tix5y8F1z8r"
+  },
+  "rewardsTokenInfo": {
+    "address": "DCr2rUi1BGN4woz83KTFWriGbrn2yqQX9Tix5y8F1z8r",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DCr2",
+    "symbol": "DCr2r"
   }
 }

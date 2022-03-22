@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CNSDT3YcDRxmrncSvcxeckQ4g1TXnkZFR39oiFpoHuDn",
-      "slug": "0",
+      "slug": "f6orz",
       "stakedToken": {
         "decimals": 6,
         "mint": "F6oRzMgSdEz8sgbsiZdXnYyMzdSba5SdHKNNUvk5LDhK"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BK3NG7ajipQs6UGWA8tA3CfuA4y2Wkp3oKEZHiZZ4o1f",
-      "slug": "1",
+      "slug": "29b7d",
       "stakedToken": {
         "decimals": 6,
         "mint": "29B7dXtriMcJoddaphLt4YZF7eRAzpJz8CjiV7EbqNpQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ADzmSKihhDc4buCdY8U5rmJ4nzySGgBW6PeAqAQaJrpn"
+  },
+  "rewardsTokenInfo": {
+    "address": "ADzmSKihhDc4buCdY8U5rmJ4nzySGgBW6PeAqAQaJrpn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ADzm",
+    "symbol": "ADzmS"
   }
 }

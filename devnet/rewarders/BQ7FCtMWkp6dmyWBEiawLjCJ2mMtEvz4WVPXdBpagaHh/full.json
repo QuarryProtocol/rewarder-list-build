@@ -14,7 +14,7 @@
       "quarry": "FYiigR7knCxCgk8TMDLVMQtT9ytBB1NFG7domMFn2ehR",
       "replicaMint": "9zNSeVGofyLYSMQ3ieEVEF4G1B8gdxntrcmhh6mFcLuE",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fxyq4",
       "stakedToken": {
         "decimals": 6,
         "mint": "FXYQ4TSsqtazp1KqZcgG5K2xdnboGSp6FEc577kvejSe"
@@ -32,7 +32,7 @@
       "quarry": "B37rvbcV6jW1Jar2YHgiD86BtCeW4x33WGhJwMTwAcaX",
       "replicaMint": "8hhjztdFHVeTLitpyZF78phRvDRWLkkppaDFmbj7wivm",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8bc7q",
       "stakedToken": {
         "decimals": 6,
         "mint": "8bc7q6wuoQdMxPSohiTemKEGWPGTKCDX1rmN8QBb55Ss"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BysRaSrPFaxBjgM4NSywigzspkfTsgrUR2bL5jdbfrmT"
+  },
+  "rewardsTokenInfo": {
+    "address": "BysRaSrPFaxBjgM4NSywigzspkfTsgrUR2bL5jdbfrmT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BysR",
+    "symbol": "BysRa"
   },
   "slug": "BQ7FCtMWkp6dmyWBEiawLjCJ2mMtEvz4WVPXdBpagaHh"
 }

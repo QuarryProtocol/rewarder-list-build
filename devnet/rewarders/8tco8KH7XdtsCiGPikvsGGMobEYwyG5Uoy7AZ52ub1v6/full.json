@@ -14,7 +14,7 @@
       "quarry": "JA82jEGDwsj8Cf632niLaR6m8xgqLTbTeCDVieerTLxn",
       "replicaMint": "6Bep7Diz6SJWuETSGKpBn44AYLHbxKMvBT4VmdAu8qGS",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "erpad",
       "stakedToken": {
         "decimals": 6,
         "mint": "ErPadqg4Hi3HnwGhvpQjgZLmCqcoQjX8zDH7h9GNR117"
@@ -32,7 +32,7 @@
       "quarry": "CA8hHKaKqUSmh6vPWTuXCd99FNYjEBPX3oem3Zyvb1TP",
       "replicaMint": "3zMoqA6Ed5gzjagcnEjdBiAGQuu6CGTZry3MbN2Ywvce",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "9sdoq",
       "stakedToken": {
         "decimals": 6,
         "mint": "9SDoqv3VXmKWvD3vWaKknHNpRxSNYyDySDhEL3ezGDE9"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D2QGeCjYUFJofqxhXrLZh4VQF2WycTYqB6Nq3ApZuw2V"
+  },
+  "rewardsTokenInfo": {
+    "address": "D2QGeCjYUFJofqxhXrLZh4VQF2WycTYqB6Nq3ApZuw2V",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D2QG",
+    "symbol": "D2QGe"
   },
   "slug": "8tco8KH7XdtsCiGPikvsGGMobEYwyG5Uoy7AZ52ub1v6"
 }

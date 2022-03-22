@@ -14,7 +14,7 @@
       "quarry": "FzzH7UVT9PQvdta5aBm9Wbzu6K8KggPEqTd8ADDgQRz9",
       "replicaMint": "FDqPSkxRRH3VrtZ38P4KvZDSBi1zyGeVM2vTWTPM8H5D",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "a1fnu",
       "stakedToken": {
         "decimals": 6,
         "mint": "A1FNu91ifNCJqmzLf3WcGTDDZ3MnyrfQL8kMs9d5gfPR"
@@ -32,7 +32,7 @@
       "quarry": "AQgCpDbeCSemy8WqGkYCWRqAhJoX24MgHYyQbB7VWFaE",
       "replicaMint": "8isTgbMcJvPmAMDqDswfZHXsNKCqydDs1aLBkrrFiEyK",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "gou9m",
       "stakedToken": {
         "decimals": 6,
         "mint": "GoU9mo2KCjHjMUS2GDb4bJ9GmmSRNw4JXJ4f8Es85wj3"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J9necoVgiQvZLZAeu5JHQ3iFvx59ttjYP43kSZDUNHVu"
+  },
+  "rewardsTokenInfo": {
+    "address": "J9necoVgiQvZLZAeu5JHQ3iFvx59ttjYP43kSZDUNHVu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J9ne",
+    "symbol": "J9nec"
   },
   "slug": "EBhU7d71qZHnGqJWs5E1B2S24GFsnibWX68woT3Yhsth"
 }

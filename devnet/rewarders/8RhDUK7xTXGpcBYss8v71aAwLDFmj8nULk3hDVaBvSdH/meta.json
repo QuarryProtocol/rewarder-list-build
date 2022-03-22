@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BAh1mxnK5ZdcmymphykD6jdfwnEm5Q6fAScHXBqLTiMt",
-      "slug": "0",
+      "slug": "9pxcq",
       "stakedToken": {
         "decimals": 6,
         "mint": "9pxcq81QHLgPHRB2jyDgSKeBqyRfp85ia8dCkBbUyhGy"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2jBjmUEmPZHxiDo3ibcbnJoZqazrbwohc4WqP5FD6ahR",
-      "slug": "1",
+      "slug": "afcue",
       "stakedToken": {
         "decimals": 6,
         "mint": "AFCuewxkLcgE47TmrVPMdomgrMYZrc8GWA5ptGYEyimY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "52oraPsdD3Z9gizATeJ6o5kWxSg2HAHQWumNaWakprHc"
+  },
+  "rewardsTokenInfo": {
+    "address": "52oraPsdD3Z9gizATeJ6o5kWxSg2HAHQWumNaWakprHc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 52or",
+    "symbol": "52ora"
   }
 }

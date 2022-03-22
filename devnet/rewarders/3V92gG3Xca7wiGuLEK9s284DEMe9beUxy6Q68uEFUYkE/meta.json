@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9GHsR1rFQ84GUcNrGXSbpktBdrPmTtcyfDDcmXyZmM3h",
-      "slug": "0",
+      "slug": "boap1",
       "stakedToken": {
         "decimals": 6,
         "mint": "Boap1kMdYMAB8yvEmYCTvYLd3d5VjJricpwvihPigTXM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EPsh5Za1VaRkiQ7maPY2b8qSaitCUTdUNuBMRyb1snsS",
-      "slug": "1",
+      "slug": "h6ncb",
       "stakedToken": {
         "decimals": 6,
         "mint": "H6NCbb23Ng29AumbodRFZJ5EPFjroPmR9mFjCGoV8zgi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6NqwKigAHYP9NKvzah935o61zcpMeTEynyGBmff4JkMb"
+  },
+  "rewardsTokenInfo": {
+    "address": "6NqwKigAHYP9NKvzah935o61zcpMeTEynyGBmff4JkMb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Nqw",
+    "symbol": "6NqwK"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "2jfsDrhpSkB2r2HX6zeDD3QC4bd4gXd9hBD9e1BVeTmB",
       "replicaMint": "4pr9fVqqqzZyQ8VLbdonQZA5ZjuHxLVbxBYLFaQyMRTz",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "eehsa",
       "stakedToken": {
         "decimals": 6,
         "mint": "EEhSA3Eu8PhXvs9HB946h7pa4SXUCGymUEdqgK47hkjz"
@@ -32,7 +32,7 @@
       "quarry": "F1vPLgiQ8aBiXvMrYncFvVqXoTCkeJXUSzXDnmFDpSLa",
       "replicaMint": "9epTpScXvFf8gNXZxSU2TA5bmoYzC9fShbCSr9BTh1Ex",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cdmxt",
       "stakedToken": {
         "decimals": 6,
         "mint": "CdmXTcWocRP5kYEgP2sjvRFkPYGtiGzFffKMfNZGd66Q"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D7WJMgKtyVYxAXdoJYURhzupssPpJt3Jxp9bLciyKZXo"
+  },
+  "rewardsTokenInfo": {
+    "address": "D7WJMgKtyVYxAXdoJYURhzupssPpJt3Jxp9bLciyKZXo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D7WJ",
+    "symbol": "D7WJM"
   },
   "slug": "248PRgwJ4NtYPd1ienU5BdzwJttB8k6TGC1ivSUVmGoQ"
 }

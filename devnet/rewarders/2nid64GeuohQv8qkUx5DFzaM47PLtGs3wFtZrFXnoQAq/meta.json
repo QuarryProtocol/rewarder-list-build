@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CFe3ZbndWpF3oFYNZosiZY6oSBFAEHRYFcgqNuXonk3k",
-      "slug": "0",
+      "slug": "72das",
       "stakedToken": {
         "decimals": 6,
         "mint": "72DAsWuzTiYc1x2EqKZhaX5M6QThJYhFutHesCuUaB3t"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G8FtBfbSRTWxPyBZ1WhiLfPE4cHcpKCLsBeGhMt6yvWD",
-      "slug": "1",
+      "slug": "9npov",
       "stakedToken": {
         "decimals": 6,
         "mint": "9NPoV1zjp7V3aHiV22tLgoJ2ynVMat2oLnDcVEEuaRe9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5mH14Do7KDgJMcvs8rbQCwJtibQfvnnewZXbDnJJJzHq"
+  },
+  "rewardsTokenInfo": {
+    "address": "5mH14Do7KDgJMcvs8rbQCwJtibQfvnnewZXbDnJJJzHq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5mH1",
+    "symbol": "5mH14"
   }
 }

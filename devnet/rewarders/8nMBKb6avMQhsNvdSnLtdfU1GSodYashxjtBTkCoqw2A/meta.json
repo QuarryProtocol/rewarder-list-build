@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BKxeHuwEptuTucTeti9a4aRnGTqwjD75CDWKe7FEdvw",
-      "slug": "0",
+      "slug": "ajh5d",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJh5DYadWEYYapSKTFTA9ExLWQ8f1ZRrAXAbCZhri6tg"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G9ELCHBFXWgH446AByoY9Uikue86C7MiqQy1Vfw1KZHd",
-      "slug": "1",
+      "slug": "byqi4",
       "stakedToken": {
         "decimals": 6,
         "mint": "Byqi4sVc5RNd9irMaZGJnsiWiTij6N8vVA4NVgbGLrdW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GoZUx2gerJ25VeENxCNCoBTjQsQZUAtc3KuJ2qReTcpV"
+  },
+  "rewardsTokenInfo": {
+    "address": "GoZUx2gerJ25VeENxCNCoBTjQsQZUAtc3KuJ2qReTcpV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GoZU",
+    "symbol": "GoZUx"
   }
 }

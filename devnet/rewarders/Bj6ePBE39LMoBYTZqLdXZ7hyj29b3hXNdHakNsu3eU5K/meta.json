@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A1VvN9VxaSYNB37qWsinctwh1p6Vbiku4fAT6XJnV6aY",
-      "slug": "0",
+      "slug": "bueke",
       "stakedToken": {
         "decimals": 6,
         "mint": "BUEKEESuFcRfPebdQsAVPpU9sWmpB3ovAaRdW5aWz4ME"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GcBwNEMKLHdebEGTNRv7nUKtr5dnVVCn4CmEi42iA5TA",
-      "slug": "1",
+      "slug": "8duwq",
       "stakedToken": {
         "decimals": 6,
         "mint": "8DuWqzU1Tw3CMm6Gffge1rcy8szpZih347KPNnCWEj45"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AnVLujUyBfTByyanxhUhsrXx2mzgfY8fjrqpFGWBHFr8"
+  },
+  "rewardsTokenInfo": {
+    "address": "AnVLujUyBfTByyanxhUhsrXx2mzgfY8fjrqpFGWBHFr8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AnVL",
+    "symbol": "AnVLu"
   }
 }

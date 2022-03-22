@@ -14,7 +14,7 @@
       "quarry": "BtmC6Sv4x4UZH22MprSGQxmr4SUeTQtmMogv8mXiMgKD",
       "replicaMint": "FLCdA1guNTuJ1DTf6Zxfin5GgdWw36N5pDDyEayxq6wW",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "brnvr",
       "stakedToken": {
         "decimals": 6,
         "mint": "BrNvRJL1GtaVBfu8gZXESkWVyj7etbr5qGLrLjLwc8TR"
@@ -32,7 +32,7 @@
       "quarry": "AuFsixKHkDBQurGjH3YoZAJW1MoEXDUpCyoRiNi3UUXA",
       "replicaMint": "BRKBdTqmjoSW1xnJvP9KAcNVmHe1wQc9QU8KwbMQ7yGR",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "7zfta",
       "stakedToken": {
         "decimals": 6,
         "mint": "7ZFTAG8tDjtYPuMssGdHTou4qvgw3TDUnx1sfjicyPBf"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7PFhT4WJji8K3VuPhHTiSdSabBeVMDGh4TNgNTmfMUB7"
+  },
+  "rewardsTokenInfo": {
+    "address": "7PFhT4WJji8K3VuPhHTiSdSabBeVMDGh4TNgNTmfMUB7",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7PFh",
+    "symbol": "7PFhT"
   },
   "slug": "Dx1pfWxGtUZkdRVqhxQi6AXkw5vWGAMQ67CRd5FhnBRc"
 }

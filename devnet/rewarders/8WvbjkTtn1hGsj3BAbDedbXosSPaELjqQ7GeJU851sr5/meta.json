@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BiLbExsGTrPYfL8AshzcJivzyXXxS3KfTB7YsxqFC4kk",
-      "slug": "0",
+      "slug": "emsbk",
       "stakedToken": {
         "decimals": 6,
         "mint": "EmsBK6ewXb8snf9G37SWMaoSY1aVvL5fGJgPRqSGKHur"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ati2tBJscA4xRjiXKiDUsbRvhMC7g3dQgEbWePDmC33f",
-      "slug": "1",
+      "slug": "eynb9",
       "stakedToken": {
         "decimals": 6,
         "mint": "EyNb9cXMXjT7h9GE6VNohrrz8hrsxyBcZR577aP3izZe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B3v9M8q6z85Wam5UZfFKhfiiT77SLncRQw7ocDUpLGtf"
+  },
+  "rewardsTokenInfo": {
+    "address": "B3v9M8q6z85Wam5UZfFKhfiiT77SLncRQw7ocDUpLGtf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B3v9",
+    "symbol": "B3v9M"
   }
 }

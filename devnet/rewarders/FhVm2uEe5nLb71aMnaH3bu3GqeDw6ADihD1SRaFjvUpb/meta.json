@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EWp5t3Lr8eFpPaVjrK89u8U3PQAEjJ9FaCYFjGGbhmi3",
-      "slug": "0",
+      "slug": "4hf43",
       "stakedToken": {
         "decimals": 6,
         "mint": "4Hf43L685CKVEwaAWa2ZBQcL3csNgzkcAk8UVSRkAij8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GRZ6Wsx7tTFqX1Ez3RhWn82VTJocdoA1kHHEmiHJqqvR",
-      "slug": "1",
+      "slug": "8tu56",
       "stakedToken": {
         "decimals": 6,
         "mint": "8tu56ndHkPApXXSHs8PoGr5pUKW8nPhfndp2wRct22y8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6CidgGQbZw1g5GXGu2g9y1Hr48fyZEkAHzbU5kVJtM2E"
+  },
+  "rewardsTokenInfo": {
+    "address": "6CidgGQbZw1g5GXGu2g9y1Hr48fyZEkAHzbU5kVJtM2E",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Cid",
+    "symbol": "6Cidg"
   }
 }

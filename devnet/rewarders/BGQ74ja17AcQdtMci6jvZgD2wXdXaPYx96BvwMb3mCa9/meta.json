@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BH3pXQpTLJxmkP5ei84xQThbV4PZ2sxAvrsaUnmTHVTU",
-      "slug": "0",
+      "slug": "4nsd6",
       "stakedToken": {
         "decimals": 6,
         "mint": "4NSD69LrPiaDHEkRpQGpCf3LxQdNZ1FJm9PaK99KGKuz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G2cz2gzfrSMj2vrwHP1k2neRRimh8VBWSiHHQW6NBsJA",
-      "slug": "1",
+      "slug": "arzwr",
       "stakedToken": {
         "decimals": 6,
         "mint": "ArzWrNz1LvXXbjBTvsHmoE7WwmDEvNyBrCyxSbRUzYZa"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4ZzngUEizwBaEwEA6KfcdJmMwMZczWMkcXevUDThWRUj"
+  },
+  "rewardsTokenInfo": {
+    "address": "4ZzngUEizwBaEwEA6KfcdJmMwMZczWMkcXevUDThWRUj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4Zzn",
+    "symbol": "4Zzng"
   }
 }

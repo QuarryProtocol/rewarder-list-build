@@ -14,7 +14,7 @@
       "quarry": "73oMgA3YxWkEHX9fiiEwKaauwZKdyFguK1GMHfKRou8n",
       "replicaMint": "FHGph64ruQ2RdswLmWxGNbb365Hd8cqkJk2jfURaWEfC",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "gms51",
       "stakedToken": {
         "decimals": 6,
         "mint": "GMS51yv1haoob8LJJGv9m2QYjGP7yNiiQKRkoUkjsfq9"
@@ -32,7 +32,7 @@
       "quarry": "EYgwgU6LNRBzEb7xfiEzZrye5yXqXVqRvScbYZWQJThJ",
       "replicaMint": "EDLxacXAjAQeqguTkQScA92ntFu8zXPq6EwVNCc5A11K",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "bcy9h",
       "stakedToken": {
         "decimals": 6,
         "mint": "BcY9hiev4oaszyPxGxiTVviG9ZsZ9EfH1bpUiiE3MorS"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "YGR8Kqz5CUHj1zzTVxzT7vY6ehcea86qGDek6WRbm5M"
+  },
+  "rewardsTokenInfo": {
+    "address": "YGR8Kqz5CUHj1zzTVxzT7vY6ehcea86qGDek6WRbm5M",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token YGR8",
+    "symbol": "YGR8K"
   },
   "slug": "BiEr3kyoJKQTCfEAh86zgLcgWszqum7dpFGS7XD33P8v"
 }

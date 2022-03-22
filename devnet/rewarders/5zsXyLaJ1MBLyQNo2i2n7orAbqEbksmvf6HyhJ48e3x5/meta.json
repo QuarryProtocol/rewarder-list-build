@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "46Kb6uf6nuVVZAmRBLt4nJDw6UHZxf58NVjYZzDideBj",
-      "slug": "0",
+      "slug": "48exc",
       "stakedToken": {
         "decimals": 6,
         "mint": "48exCUJDB3ZVmvZ8aZcWsL7Cz9QaEJZaiUJsufEDpnCU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BNUY12aJ4G12N9K3iqpcTDbq5sjsCskNSf7QnT3vmwDn",
-      "slug": "1",
+      "slug": "cqlvw",
       "stakedToken": {
         "decimals": 6,
         "mint": "CQLVWqskrvkJtCdWf3dxXebwQpc58DBBraAk62ineGWH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GxDRx8LmGme6B4rXyt3Dwd5gKCb9TncU6fKPjgPo4oJN"
+  },
+  "rewardsTokenInfo": {
+    "address": "GxDRx8LmGme6B4rXyt3Dwd5gKCb9TncU6fKPjgPo4oJN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GxDR",
+    "symbol": "GxDRx"
   }
 }

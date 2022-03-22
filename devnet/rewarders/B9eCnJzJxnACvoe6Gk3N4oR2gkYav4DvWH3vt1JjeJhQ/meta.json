@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Hnfk2XgGmxuPEjiKtSs3tqViJ3Ld5TMhAeoDWHRgZKSL",
-      "slug": "0",
+      "slug": "haenx",
       "stakedToken": {
         "decimals": 6,
         "mint": "HAEnXc9ot9mNLUQ5hn2Jsrgs1kNeEnE6aTHJBpNeQwJx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EjJxueHK7oExzNU7EdG7MHudG7kNRaz3wskxYMBE1spt",
-      "slug": "1",
+      "slug": "heeg8",
       "stakedToken": {
         "decimals": 6,
         "mint": "HEeg8B3Zhum5hrQePjumy3VpB6GRc6VAQjKBStVufTnk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BG2RhYoDjdcM9Gnt4SfrwXhGAZss3b5T7VboUPDa5jez"
+  },
+  "rewardsTokenInfo": {
+    "address": "BG2RhYoDjdcM9Gnt4SfrwXhGAZss3b5T7VboUPDa5jez",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BG2R",
+    "symbol": "BG2Rh"
   }
 }

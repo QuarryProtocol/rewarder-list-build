@@ -14,7 +14,7 @@
       "quarry": "45X9bz14BroNZzRexniNKp1sRdXSVC3zWZC6UryvszjV",
       "replicaMint": "A9R3A7qv4DFd3BziAcVUZidgpUqDeD7kFfa1PHmfHVoj",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5hu53",
       "stakedToken": {
         "decimals": 6,
         "mint": "5hU53tpCWkCuqbfpsMwtmhbwyiZjexTFCcdinKwZ6cdq"
@@ -32,7 +32,7 @@
       "quarry": "CWGs4nFxeLMNdNPf8a3ppGuSDKXcUEXH7i8MWPXA5BZp",
       "replicaMint": "L6hz6oZApeNKCb1gwvR2jfTyNJFMwfQQS5sULAjqp8M",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "62uvr",
       "stakedToken": {
         "decimals": 6,
         "mint": "62UVrdJU7vkgPUWmjbtsUHUcbDh7mLPcFpuhLxtkrwiR"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CjuAUpFhTEXxd7dUdBJkDvLFFg4c1waEYsHErxbdvqxm"
+  },
+  "rewardsTokenInfo": {
+    "address": "CjuAUpFhTEXxd7dUdBJkDvLFFg4c1waEYsHErxbdvqxm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CjuA",
+    "symbol": "CjuAU"
   },
   "slug": "DvWFGdGnkaZ2gtEAsoGrz5w6gmdEv9j5iccpCD9RvNzi"
 }

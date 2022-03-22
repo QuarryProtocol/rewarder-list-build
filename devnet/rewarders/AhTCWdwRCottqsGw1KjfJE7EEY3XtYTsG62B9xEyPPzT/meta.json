@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BYtvrYuuNZqN6ngYo4K78b5JTzQ2iE8m8we7eLwm6TsC",
-      "slug": "0",
+      "slug": "9evbx",
       "stakedToken": {
         "decimals": 6,
         "mint": "9EvbxH5zgKSG18mbMBLXzccdREQobEaFuF1bsNJUupcs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8YJXJC7RzArCNUakYjh49AKSnSHZA2W7fesXtwJKbgrf",
-      "slug": "1",
+      "slug": "dpmag",
       "stakedToken": {
         "decimals": 6,
         "mint": "DPmaGbjNX6ZDUbiXzH8DkXwfEsjTtagumthMyUtt8NaN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CDk3VoybzHFhmjqeVJRstLc92Dn9hJWQin7gXaXVNWFT"
+  },
+  "rewardsTokenInfo": {
+    "address": "CDk3VoybzHFhmjqeVJRstLc92Dn9hJWQin7gXaXVNWFT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CDk3",
+    "symbol": "CDk3V"
   }
 }

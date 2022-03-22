@@ -14,7 +14,7 @@
       "quarry": "FfSS2LodtzUNkKWBDofkWdpB166P7vxpcm1DR8BKa7y",
       "replicaMint": "AsPssJC5T8To4Bsv86dGCXSaeGQoC7LzhDjE2b6L8ihH",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hoayl",
       "stakedToken": {
         "decimals": 6,
         "mint": "HoAYLyXwwpSPgXQsjbuSosx4TZPZ8Z1LKrUdPFpQxgC7"
@@ -32,7 +32,7 @@
       "quarry": "GgkM4w3X66jj8DuLtHYfwKgyzZrBMCedeRznMfuNwSD2",
       "replicaMint": "u3wwTkBxxyeWbWzLXSey5NnhBy7Cd6bauUsX1ZQsqdN",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hcc9z",
       "stakedToken": {
         "decimals": 6,
         "mint": "HCc9zrcMwKkaex5Q9bgrrpBDhpswKeY8p1KD7suCvW7j"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3auBxMEj32Vjv9omsksGM5VyWeWgFsdMMRpNToj1BRGo"
+  },
+  "rewardsTokenInfo": {
+    "address": "3auBxMEj32Vjv9omsksGM5VyWeWgFsdMMRpNToj1BRGo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3auB",
+    "symbol": "3auBx"
   },
   "slug": "BLnVRhBzcnAmwVknTrHyYFiSKRT6T81eTk2aWWAyQ91K"
 }

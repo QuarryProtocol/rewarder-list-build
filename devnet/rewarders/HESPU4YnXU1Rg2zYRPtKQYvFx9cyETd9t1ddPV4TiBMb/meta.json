@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "54ZSkyDmBp7GC4fMC15etTaeXnrcTGhxsDeVUTYohk33",
-      "slug": "0",
+      "slug": "46gjz",
       "stakedToken": {
         "decimals": 6,
         "mint": "46gJzytZYy7BHs3iynP315FNXGEuJVEZHRsMbjRbu5sw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "XoGb6L2jGnGStfU9oq7ayzm1wKqiACRvpGCCRdkUxpM",
-      "slug": "1",
+      "slug": "abybw",
       "stakedToken": {
         "decimals": 6,
         "mint": "ABybWXBWKvq28d9onjiPQeamX9CpZsHcCwuH84jxfbXW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4P3fHEj5NbQNAgpvaT5coK3xddxVA1dZucDD9ddRWJiN"
+  },
+  "rewardsTokenInfo": {
+    "address": "4P3fHEj5NbQNAgpvaT5coK3xddxVA1dZucDD9ddRWJiN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4P3f",
+    "symbol": "4P3fH"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H3WoDnvbFFH6HxqdJ4j78qusykPtbXymHFAdvzs7NwgR",
-      "slug": "0",
+      "slug": "f9ieh",
       "stakedToken": {
         "decimals": 6,
         "mint": "F9ieHUqjvf6fbjRUESHsFwytaUFQfnjtznzDud3P74te"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GigsfTkDS4ePLW59GVAnwWRgTSjUVvWfPDtb4HM95Vh",
-      "slug": "1",
+      "slug": "hnbbc",
       "stakedToken": {
         "decimals": 6,
         "mint": "HNBbCcoFyyQYLYE25rEYpArof1DEf5RnSi3bSPZ36Vw3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2BZbMyAm3Eig3beG3NuPRCGYEK9bq7JTCLFtN16XqcZe"
+  },
+  "rewardsTokenInfo": {
+    "address": "2BZbMyAm3Eig3beG3NuPRCGYEK9bq7JTCLFtN16XqcZe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2BZb",
+    "symbol": "2BZbM"
   }
 }

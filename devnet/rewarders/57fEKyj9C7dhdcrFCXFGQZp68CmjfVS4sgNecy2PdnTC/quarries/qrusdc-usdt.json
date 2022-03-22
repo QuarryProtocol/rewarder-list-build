@@ -5,21 +5,33 @@
     "mergePool": "EtpVJkqfFhaVmp23jW1LDS9HSwY4qgJ3sEUPzdcyuEj3",
     "primaryQuarries": [
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token 3rZN",
+          "symbol": "3rZNc"
+        },
         "quarry": "CHmN4STnaahM8JyBq3DjYfJK1FgDPNJQVGzCbW4kyCXX",
         "rewarder": "5NPXAXnkkXvw6kfXtvo78mS99LPz4oGekjkUAUzHEyHP",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh"
         },
         "slug": "usdc-usdt"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "FQkaBPYPNNoW2ysphvC5syE5GS5AwBP4DGDBRh73pCHd",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token FQka",
+          "symbol": "FQkaB"
+        },
         "quarry": "abmUEqCjZCZBN6mmZ6iP1YA9Ln68VStczg6rQrYYgFZ",
         "rewarder": "7p7fQ5KAnV4Z2DYamBhMUxdA6ue842YVRhwU4JvJK8Vz",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "FQkaBPYPNNoW2ysphvC5syE5GS5AwBP4DGDBRh73pCHd"
         },
         "slug": "usdc-usdt"
@@ -59,11 +71,17 @@
     "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
     "replicaQuarries": [
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token SLNA",
+          "symbol": "SLNAA"
+        },
         "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
         "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
         },
         "slug": "qrusdc-usdt"
@@ -79,10 +97,17 @@
     "authority": "UfF3oSVNPC86VrKXnXRVhEw6p38U2rLaH9f6fjuUZCZ",
     "mintWrapper": "B9SZQaE7vSGeMH3EMPwnyLzdCGhyCy2rp6mLGofqvzji",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
     },
     "slug": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC"
+  },
+  "rewardsToken": {
+    "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token SLNA",
+    "symbol": "SLNAA"
   },
   "stakedToken": {
     "address": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",

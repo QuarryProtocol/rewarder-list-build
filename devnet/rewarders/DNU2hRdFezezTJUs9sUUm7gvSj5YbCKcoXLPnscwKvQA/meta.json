@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3seSj23VjoRLasG8EMYwcp4DQpXeLyYNosnHqcP6rRt3",
-      "slug": "0",
+      "slug": "1vvv9",
       "stakedToken": {
         "decimals": 6,
         "mint": "1vvv922f6EJyq9GbU7XFqsz6isjWZh7MAAH6UiBhqoe"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AEw89nH5mWogztYdbe2gQm5iH9cntwQecBRjX9ohsAHM",
-      "slug": "1",
+      "slug": "fvtdh",
       "stakedToken": {
         "decimals": 6,
         "mint": "FVtDhkvrGxk6mq9eaWGiBLRBFUL93nGcRgaBCyjnMn5F"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2HHGHSwgBfFjTrHBP6334szVcZiRdjyqPRhcJoNsJJmy"
+  },
+  "rewardsTokenInfo": {
+    "address": "2HHGHSwgBfFjTrHBP6334szVcZiRdjyqPRhcJoNsJJmy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2HHG",
+    "symbol": "2HHGH"
   }
 }

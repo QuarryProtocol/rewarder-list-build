@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FGF6ghFasWZ8433wAATJVbFZ2Bst3iAV7qRZXDL36JAX",
-      "slug": "0",
+      "slug": "dzx32",
       "stakedToken": {
         "decimals": 6,
         "mint": "DzX32zEH1BW5XKeTCgAPQvdJ2fu1D9XbGkR7vcYGXaw5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8VfqDU8t4VM4mAm7VHYJtjvLXaFogc7uVyWZgsYMpXbj",
-      "slug": "1",
+      "slug": "h7ya2",
       "stakedToken": {
         "decimals": 6,
         "mint": "H7yA2FCxXx5tgecjXUqVmujmS8BVwNEerrqEng8tNe4k"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CKDtkHmpfGGZgzHs8Qt5k5BWXJcXBAVBuaNYH2rnw5GW"
+  },
+  "rewardsTokenInfo": {
+    "address": "CKDtkHmpfGGZgzHs8Qt5k5BWXJcXBAVBuaNYH2rnw5GW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CKDt",
+    "symbol": "CKDtk"
   }
 }

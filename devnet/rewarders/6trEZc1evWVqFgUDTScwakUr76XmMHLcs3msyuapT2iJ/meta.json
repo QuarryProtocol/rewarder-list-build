@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C5VAsrUD3fF9skyoCxHpQGSvoQwgPq95RG78cujXFN8j",
-      "slug": "0",
+      "slug": "ekdzj",
       "stakedToken": {
         "decimals": 6,
         "mint": "EkdzJFyWRM9Ehe9jfcMnLTD3vF6q34mRU1knAknxkwTB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7HtaesyZATKc9m9P1ZHwHMrL8QJGLQ9utheywaKmc3Kb",
-      "slug": "1",
+      "slug": "5feky",
       "stakedToken": {
         "decimals": 6,
         "mint": "5FeKy6PD4qu7jmosWWqgoZoVqKyGJK73vziB4bjEDz8p"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EpR856tBS2vevfBQaoDvwaAyv1EHx2QxkXpkiLr63hNt"
+  },
+  "rewardsTokenInfo": {
+    "address": "EpR856tBS2vevfBQaoDvwaAyv1EHx2QxkXpkiLr63hNt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EpR8",
+    "symbol": "EpR85"
   }
 }

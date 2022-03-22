@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BaugMsPovrczTyifCZr5tSSs56orcLVs1bHzkzkeApUs",
-      "slug": "0",
+      "slug": "775a4",
       "stakedToken": {
         "decimals": 6,
         "mint": "775A4hUQ3QY58dHyTK9KzK9VpPQw8kypubVvSdgYHE1r"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9oeA9J4GAdMHeTiryLeF9TWZmyUnuNsrEopJ9hoDYSvr",
-      "slug": "1",
+      "slug": "jcsbw",
       "stakedToken": {
         "decimals": 6,
         "mint": "JCSbWRUwNQTaY6m8R58sGzuXCw5Yjhn6yLSmdmA1kTVD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BquLDfD7C1wU6RJAVY8UbtFqovcyNuzfz4cjbsFF1H3a"
+  },
+  "rewardsTokenInfo": {
+    "address": "BquLDfD7C1wU6RJAVY8UbtFqovcyNuzfz4cjbsFF1H3a",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BquL",
+    "symbol": "BquLD"
   }
 }

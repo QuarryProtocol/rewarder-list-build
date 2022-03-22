@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FDfztCXBxLNG2btdvcCewegpL4AcD44KXPTgF8zNH1Bu",
-      "slug": "0",
+      "slug": "him3p",
       "stakedToken": {
         "decimals": 6,
         "mint": "HiM3PLZgd726oTJ2dC8qXGK9aiWGMJj7XtRpvhQxBG13"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5U8k2UDrSqyyTBpDw2nRBS1F57WWGwfrYackX8CHufLh",
-      "slug": "1",
+      "slug": "feg1y",
       "stakedToken": {
         "decimals": 6,
         "mint": "Feg1yHqfuknHmaznQixNBtKYZJGpte9W255tRRyaxRXt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GfgWFxz9c4TT7YuZzoiwFnqnr7vsivbKn4DxXHce5DLs"
+  },
+  "rewardsTokenInfo": {
+    "address": "GfgWFxz9c4TT7YuZzoiwFnqnr7vsivbKn4DxXHce5DLs",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GfgW",
+    "symbol": "GfgWF"
   }
 }

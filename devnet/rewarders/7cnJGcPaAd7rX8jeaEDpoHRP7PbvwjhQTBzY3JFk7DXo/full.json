@@ -14,7 +14,7 @@
       "quarry": "9NGUe7VeVbWZFSdjWvSjVzdMoRmR4zZPineaCoDCQ6DU",
       "replicaMint": "Bcba3fGvhDr5vzR1dAC2uDhoUsxJA7u1Frs9BcGo5Y4p",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "benng",
       "stakedToken": {
         "decimals": 6,
         "mint": "BenNGcaXPAFgZNuVZBa7Smt8GxR7YhCWFM1Frx2D7ggN"
@@ -32,7 +32,7 @@
       "quarry": "DTzynJmPhZR5WSpVECgxaeZNWk7h7qvkjxp3buveZmCi",
       "replicaMint": "9Sbt58AFXxmJybpfYLaVapJC2zywotHYsZpCJQ7ztUBa",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "4trmx",
       "stakedToken": {
         "decimals": 6,
         "mint": "4TRMXCGaYpXtwSUPCkRfms1HZ1yhYg5863ezXJV9nkaB"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AietgKe5jQoQdzSGivmpgZJQZCMxQ5ggeunuvJ4ZPYnL"
+  },
+  "rewardsTokenInfo": {
+    "address": "AietgKe5jQoQdzSGivmpgZJQZCMxQ5ggeunuvJ4ZPYnL",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Aiet",
+    "symbol": "Aietg"
   },
   "slug": "7cnJGcPaAd7rX8jeaEDpoHRP7PbvwjhQTBzY3JFk7DXo"
 }

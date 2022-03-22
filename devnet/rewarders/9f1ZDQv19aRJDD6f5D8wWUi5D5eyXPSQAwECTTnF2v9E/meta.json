@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Gmb6wT6kzHfjdKTnSr7F5SiquKEwQF7iYeXUNea5mAeg",
-      "slug": "0",
+      "slug": "2mr45",
       "stakedToken": {
         "decimals": 6,
         "mint": "2Mr45Jm78VjvaNrwTeustqSNdvjbMDymsWAP4eWeb123"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AmXZHJrJf8tJShMaAWatK5ms33YUevxQidheQGaRzP1Q",
-      "slug": "1",
+      "slug": "9wc8h",
       "stakedToken": {
         "decimals": 6,
         "mint": "9WC8hkwEcq6WGqhZJwDBfcGAkS4n9h6TwKqZ7thZ2QP5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "quou4gKPBnfpu4Ej1YUt2JXcaubZQNcxaJhTUNvswPR"
+  },
+  "rewardsTokenInfo": {
+    "address": "quou4gKPBnfpu4Ej1YUt2JXcaubZQNcxaJhTUNvswPR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token quou",
+    "symbol": "quou4"
   }
 }

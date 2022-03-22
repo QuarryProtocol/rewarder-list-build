@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2pLKzpXyyYcD2uL9ZiCkQgeZwE3N3qQDsGtK699vGk4P",
-      "slug": "0",
+      "slug": "etpdd",
       "stakedToken": {
         "decimals": 6,
         "mint": "ETpddEuzNzpT7bKDB5X233Lw7mRYqtqAhAzs4Ycmm7P"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ETpddEuzNzpT7bKDB5X233Lw7mRYqtqAhAzs4Ycmm7P"
+  },
+  "rewardsTokenInfo": {
+    "address": "ETpddEuzNzpT7bKDB5X233Lw7mRYqtqAhAzs4Ycmm7P",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ETpd",
+    "symbol": "ETpdd"
   }
 }

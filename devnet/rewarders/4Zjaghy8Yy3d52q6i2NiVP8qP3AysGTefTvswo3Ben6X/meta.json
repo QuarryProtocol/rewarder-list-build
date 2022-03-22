@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "21SUTfm8DUDPdyrCsTe7mPHk7WvLsFFe1W9JRfSEYZz2",
-      "slug": "0",
+      "slug": "3ffmk",
       "stakedToken": {
         "decimals": 6,
         "mint": "3FFmKoXYPtxuc24G79RJPAZB6hrCag3EXsrbm6mFsqrb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HLDUHoWek962KV14HvSoeSkLuMrMhnBQNBmP4jsTds9H",
-      "slug": "1",
+      "slug": "874ar",
       "stakedToken": {
         "decimals": 6,
         "mint": "874Ar3BpGa8yWZ29znVpmGUruTnRnMgEX8r1qLtL9NNL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BpuD7v4NeBFgRX82v4WD6tCZUShFU2nQBDmvvWQsyJUV"
+  },
+  "rewardsTokenInfo": {
+    "address": "BpuD7v4NeBFgRX82v4WD6tCZUShFU2nQBDmvvWQsyJUV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BpuD",
+    "symbol": "BpuD7"
   }
 }

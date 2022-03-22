@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CRwZ3hhf3hfMWyA1TxEwcBsq1rvZQ1M3sdqmMeinfFnn",
-      "slug": "0",
+      "slug": "912pq",
       "stakedToken": {
         "decimals": 6,
         "mint": "912pQsz94G461B7NNMVbKvqgGiwu8HbcFW1fnQM7t1TS"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Degk1brggQwEz9FDnAdxbcmxwcrWprNotR1E6Qk9HmvZ",
-      "slug": "1",
+      "slug": "omfow",
       "stakedToken": {
         "decimals": 6,
         "mint": "oMFowrJeDTJ9fX4Pb66xjAtUupx85Lq1N3LPfWXwohC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FdP1ogDrxuTACrZfRNkP4EqggvGJFxi8qpD5C7mrzaAQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "FdP1ogDrxuTACrZfRNkP4EqggvGJFxi8qpD5C7mrzaAQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FdP1",
+    "symbol": "FdP1o"
   }
 }

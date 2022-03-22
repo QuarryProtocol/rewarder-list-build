@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ARiYcggK4Q2bcksverez8EWBgWmX3BdnSGAtjvjpF2Rp",
-      "slug": "0",
+      "slug": "up7fo",
       "stakedToken": {
         "decimals": 6,
         "mint": "uP7Fo1iRQ3QWYjHow4K91j1ZKp6QFNFzdCC51WVotuN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7B94YVvFdktSkvMzqZ7AddX6HbfUby1XTmpKQ6UsAz9T",
-      "slug": "1",
+      "slug": "fr2fv",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fr2fVjU1iGjwcvasyadJyHhhLtexzqfsWAwgPWviGDpZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DPZhA6g4NtqXyUf6XKpwMgS5LU1cMegn3Bi9mt5i2Mni"
+  },
+  "rewardsTokenInfo": {
+    "address": "DPZhA6g4NtqXyUf6XKpwMgS5LU1cMegn3Bi9mt5i2Mni",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DPZh",
+    "symbol": "DPZhA"
   }
 }

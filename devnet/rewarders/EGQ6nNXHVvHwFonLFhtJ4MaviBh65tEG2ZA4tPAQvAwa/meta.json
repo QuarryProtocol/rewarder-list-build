@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DDw8AFmNVZNmjUUfy36hAA8f6vEo6tDpsknDtpHE37qR",
-      "slug": "0",
+      "slug": "hg4ue",
       "stakedToken": {
         "decimals": 6,
         "mint": "HG4UErAXJphCx4BAiyiRNGxrKEPdvWYhort3KgYUc2ig"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6iLMpArhhEanNZRLBrBaSzyRsrVmsJStXLgvbNujCcSW",
-      "slug": "1",
+      "slug": "5sawf",
       "stakedToken": {
         "decimals": 6,
         "mint": "5SAwfusP4BWu1YAWQXXiKiYsGcwghNcqAHduS7sLSdXT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GqhrTX2hAUsr5i27VEouWzwZk4nUqjys1XxnehirW8pK"
+  },
+  "rewardsTokenInfo": {
+    "address": "GqhrTX2hAUsr5i27VEouWzwZk4nUqjys1XxnehirW8pK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gqhr",
+    "symbol": "GqhrT"
   }
 }

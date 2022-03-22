@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4YsR7yLBa1QdQeze1WPKwHve8YJ1SZm4ffQGDXmYg6ZW",
-      "slug": "0",
+      "slug": "dwcop",
       "stakedToken": {
         "decimals": 6,
         "mint": "DWcoP3r4BjHUwPpUaSk8wrd4ram7JtVbLmvgNvqtVWUU"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DWcoP3r4BjHUwPpUaSk8wrd4ram7JtVbLmvgNvqtVWUU"
+  },
+  "rewardsTokenInfo": {
+    "address": "DWcoP3r4BjHUwPpUaSk8wrd4ram7JtVbLmvgNvqtVWUU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DWco",
+    "symbol": "DWcoP"
   }
 }

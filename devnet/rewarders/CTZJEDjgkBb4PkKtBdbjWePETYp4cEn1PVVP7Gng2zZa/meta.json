@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BqLpupmBMUpttgC2zwpuFx44NvAHWWYY5bpRu3JAJhjA",
-      "slug": "0",
+      "slug": "cxwsd",
       "stakedToken": {
         "decimals": 6,
         "mint": "CXwSD9JcxMK7xpfkfzavfK4ZmWgm9YYw1baVyztbY9wn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7W2utKhvq3StbkdWGyhXC8xSxCk3nfvFR7TdNtn6TicY",
-      "slug": "1",
+      "slug": "gq4v1",
       "stakedToken": {
         "decimals": 6,
         "mint": "GQ4V1pr2SJeWXutRTLyiWn5MXsgGtxTDx9jsYWZibyr7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3SjDMrm1BnCrt3tKBUZN8oJt9GPF363jfzqF4iSeePyR"
+  },
+  "rewardsTokenInfo": {
+    "address": "3SjDMrm1BnCrt3tKBUZN8oJt9GPF363jfzqF4iSeePyR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3SjD",
+    "symbol": "3SjDM"
   }
 }

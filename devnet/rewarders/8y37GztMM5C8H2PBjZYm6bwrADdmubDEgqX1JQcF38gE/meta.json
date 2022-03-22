@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DeCP92XVCtJUhBVWRjhqBX2aHMcNbutZbxnsp767sn9C",
-      "slug": "0",
+      "slug": "26uqu",
       "stakedToken": {
         "decimals": 6,
         "mint": "26uqUSEhXLm66xRuy3DuTq2cLdMqntWihQjWgauHBZ6w"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "668TSsD23R2XbFuoMfcGzxAavKrXQ575QhrzFf7rS25b",
-      "slug": "1",
+      "slug": "gxwmq",
       "stakedToken": {
         "decimals": 6,
         "mint": "GxWmqA4xmFVWccsHfBmRY7dSiLNaD6zk5XrqZG3XQRYy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EokKFdtW5GmRHxUAwdpPBaSrcR9ahKn6ZNJ2bfugWpnE"
+  },
+  "rewardsTokenInfo": {
+    "address": "EokKFdtW5GmRHxUAwdpPBaSrcR9ahKn6ZNJ2bfugWpnE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EokK",
+    "symbol": "EokKF"
   }
 }

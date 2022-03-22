@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "48WyoGyqbMfszNStUQ8fBTYSnD3g3sFDCmA54yA3x4Yg",
-      "slug": "0",
+      "slug": "2qyfn",
       "stakedToken": {
         "decimals": 6,
         "mint": "2qYFN2assxRv6pNUTu539pHRM2LupLSqCP7LFkWK3doY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GsVKzNbBBupXeXeA1nTVu7KJ9WfJ44efsSjsCoGq2z16",
-      "slug": "1",
+      "slug": "evqtv",
       "stakedToken": {
         "decimals": 6,
         "mint": "EVQTVzTn2PmuSWmEahx7X49M7DBTL1NFK5QrpzZygPRH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AV9JqVorRERYGgKejs2LsBu492m7VTorrYu73p6kvQC5"
+  },
+  "rewardsTokenInfo": {
+    "address": "AV9JqVorRERYGgKejs2LsBu492m7VTorrYu73p6kvQC5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AV9J",
+    "symbol": "AV9Jq"
   }
 }

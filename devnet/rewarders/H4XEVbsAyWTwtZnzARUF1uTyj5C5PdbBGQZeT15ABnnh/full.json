@@ -14,7 +14,7 @@
       "quarry": "2ofjNr1cMhsu8RyzkX2vMw4JV92XBzfJ2kyEgmnLf659",
       "replicaMint": "AUc5buYgEP5giQDJJkLLgYfUXCwL79MP3Ccva5sqc39N",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "azalp",
       "stakedToken": {
         "decimals": 6,
         "mint": "AzaLphKYLrsQKiGmYmLmTpS7FMHvsRjDG7DyAfuUhh88"
@@ -32,7 +32,7 @@
       "quarry": "3LEQpACjSGGNL6gejc1jXnTC6YmGq7quvcEYrAoDvurH",
       "replicaMint": "4obCPqPkBuVNQG9kf4FesL9uBSstCA68AKQMngkQGtoB",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5jtph",
       "stakedToken": {
         "decimals": 6,
         "mint": "5JtPHVx3L95bFHbdSwtLA8aPsrz2cKN1mt3jGVVFC2gd"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "29SMAyhpUgQnAS9dBD34dNSNrh95dQRkiBnW6wEWepSZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "29SMAyhpUgQnAS9dBD34dNSNrh95dQRkiBnW6wEWepSZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 29SM",
+    "symbol": "29SMA"
   },
   "slug": "H4XEVbsAyWTwtZnzARUF1uTyj5C5PdbBGQZeT15ABnnh"
 }

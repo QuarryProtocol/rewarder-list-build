@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "55h2jqHsQmRTd2Vh7tQKVtN5zjcY13TdFoXuBobNRz7",
-      "slug": "0",
+      "slug": "9q2p4",
       "stakedToken": {
         "decimals": 6,
         "mint": "9Q2p4kRJvRTZVy32hEyAqSZ6V8mrLLHsiZnnDWuEWky6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DxtZhYeD6cGPFLrXvhZfP8hz8Lt7YdBN6cbbxJy9RQyK",
-      "slug": "1",
+      "slug": "59uvm",
       "stakedToken": {
         "decimals": 6,
         "mint": "59uVM3GSQxeajc6y63vihj6dLKEYjaFyzvSWx9FweAN9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B8CCZboDr6bDj33X9QGB2nwGWYJRU6E417uFKS9Ssgoy"
+  },
+  "rewardsTokenInfo": {
+    "address": "B8CCZboDr6bDj33X9QGB2nwGWYJRU6E417uFKS9Ssgoy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B8CC",
+    "symbol": "B8CCZ"
   }
 }

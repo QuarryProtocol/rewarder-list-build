@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FCwkxB6VTEeZVtPFrkAgmxYP7wDaK15bPo4Gp4QVpGeZ",
-      "slug": "0",
+      "slug": "6vclc",
       "stakedToken": {
         "decimals": 6,
         "mint": "6vCLCjDRRGtyeSrKku3fccJg937GuGJJcXMG4WLPpLoX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BaF31uV3oM7r18z5eBqRRrFeqsNibgu1LXUTscdcP4W7",
-      "slug": "1",
+      "slug": "fpl6z",
       "stakedToken": {
         "decimals": 6,
         "mint": "FpL6ZRPjQAQKEigFt35SKZ5tfS8npsgsokYLBkW81iRe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2TRF67ZhrAPjTcYym23LSaiTpCG477C2oy8Y3kMUwKs4"
+  },
+  "rewardsTokenInfo": {
+    "address": "2TRF67ZhrAPjTcYym23LSaiTpCG477C2oy8Y3kMUwKs4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2TRF",
+    "symbol": "2TRF6"
   }
 }

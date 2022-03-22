@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GUabPG3CJCzaKMzWVSHda7UGGhL8vcNMzQWYFgmLdoFK",
-      "slug": "0",
+      "slug": "cb8et",
       "stakedToken": {
         "decimals": 6,
         "mint": "CB8et2eS1V62XUe9LkwiN723bsTRhYMsamy1ZFWosH9v"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AmgVu5wogtVHYYkds9wgywNULhAvmQkLdAH6YuhWeSKw",
-      "slug": "1",
+      "slug": "cdlsv",
       "stakedToken": {
         "decimals": 6,
         "mint": "CDLSve7r4XHmdsopZe1moYfp6htfoEBG5VtmwmfyibGi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9ca11HVkjtHB6UQ9U2KxsudpaSSkNYpbLnRZPT8jZKxd"
+  },
+  "rewardsTokenInfo": {
+    "address": "9ca11HVkjtHB6UQ9U2KxsudpaSSkNYpbLnRZPT8jZKxd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9ca1",
+    "symbol": "9ca11"
   }
 }

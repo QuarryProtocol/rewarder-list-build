@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3YbUTdvfojLVpojpXDNLgh3aUkbv6PDSQXghkCNUwQnB",
-      "slug": "0",
+      "slug": "fxffp",
       "stakedToken": {
         "decimals": 6,
         "mint": "FxFfpEy3YMf5ksiik2Myeq9vh2CaW72hrrmrhfL69Bh9"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E2kBqpq8VgvQjoccuQQPpxM7E7uPjeDXx3NDR4A7GqD1",
-      "slug": "1",
+      "slug": "8vxzp",
       "stakedToken": {
         "decimals": 6,
         "mint": "8vxzpuFUWcWbZX43uxk3XuSArryAgNAdRsyBF1HP7f33"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ATF2NDKVVrLM2Dsj9ExmbTJz4uC7WJJVTbU6cgrBLsHz"
+  },
+  "rewardsTokenInfo": {
+    "address": "ATF2NDKVVrLM2Dsj9ExmbTJz4uC7WJJVTbU6cgrBLsHz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ATF2",
+    "symbol": "ATF2N"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "82K1RDUYWuT29xk5nNTk6CHZNQDRP67TJV8U1v9eE4LK",
       "replicaMint": "4yskBdGZ6HD1LJiqGv7uiXZ6z2rVRHaXCrzRDCgvPK5o",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5gydr",
       "stakedToken": {
         "decimals": 6,
         "mint": "5GydRxLfDWkp7xuvYqbrSWA5d5JBrD8KWfNERs84ctu2"
@@ -32,7 +32,7 @@
       "quarry": "7wq4fsxKE8pzWT3mR9GUTJwK8bm221XdRyS9s1Dgx6FR",
       "replicaMint": "ChQhL66NpVsQYq8Doh1jVNFurD7RuumtRz9dFpoBHymc",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "4vxmx",
       "stakedToken": {
         "decimals": 6,
         "mint": "4vxmxczyUFG4LbMXtin4S1bJTZpMGH6SSfHTHCNzaLHQ"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gf32aHfxuKpNpKEvH1BQSxSWxjvFrpu8DZ6ggsnkyajA"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gf32aHfxuKpNpKEvH1BQSxSWxjvFrpu8DZ6ggsnkyajA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gf32",
+    "symbol": "Gf32a"
   },
   "slug": "BhM73FRQHpA8DP7RANk2mhZhVx3bVHxLZWNeyX5opeq1"
 }

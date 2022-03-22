@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CBp3pRf7TtGz2NEaewtbuwzC6zNbndoVj6dmdHi8vjhf",
-      "slug": "0",
+      "slug": "6rmay",
       "stakedToken": {
         "decimals": 6,
         "mint": "6RMayy5LwHkmSyHW9i8p3puVUoaMWHMNvK5sp35XKXvX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Aha8HjzXcYFyK8dePGoiF8UvpkcBmwRzcrMKcmc9Xmoj",
-      "slug": "1",
+      "slug": "tkqbq",
       "stakedToken": {
         "decimals": 6,
         "mint": "TKqBQfZiNahJn6UnvnMt48XGevjgkhimRW38fqEfDZY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HUFLRUCpvyjjmrAW9kMfsZh1DyARKit7v1SDHjmNuskV"
+  },
+  "rewardsTokenInfo": {
+    "address": "HUFLRUCpvyjjmrAW9kMfsZh1DyARKit7v1SDHjmNuskV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HUFL",
+    "symbol": "HUFLR"
   }
 }

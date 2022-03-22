@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FBXqXNP6HUjZAbon99e9QzuRKiVDELCRpt9suMH898xz",
-      "slug": "0",
+      "slug": "bbjuy",
       "stakedToken": {
         "decimals": 6,
         "mint": "BBJUy3vmfXf7jsV2jJTzLTZ94EXFx4dGjtiy6aLJjKFH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DUwq4Mrq8RfP7e8AXtSdCX2VsdkFn925edgJvMqAFBJi",
-      "slug": "1",
+      "slug": "5pzcp",
       "stakedToken": {
         "decimals": 6,
         "mint": "5PzCpcEgL7MD2gxspuYSMKZSp9tN5sKnAq7Kym3618ym"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "De8TR7So6euQHEYeWa816DuvvDuYVYDfRjPDky6ggWe8"
+  },
+  "rewardsTokenInfo": {
+    "address": "De8TR7So6euQHEYeWa816DuvvDuYVYDfRjPDky6ggWe8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token De8T",
+    "symbol": "De8TR"
   }
 }

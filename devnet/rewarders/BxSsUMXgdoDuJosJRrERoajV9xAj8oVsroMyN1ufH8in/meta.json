@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GrsgZGeFyDJfzTfjdHTqTS2JAbjHCpJnH1u38otGJpbW",
-      "slug": "0",
+      "slug": "798ts",
       "stakedToken": {
         "decimals": 6,
         "mint": "798tsHUjBvzJUbnumqsBkyzJNnueomUVBriLXVqaaYhE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EMfUtc3GaKcHbtYiXGs6ynaVuPq5w5LYnmhfm5EFbGpj",
-      "slug": "1",
+      "slug": "57se5",
       "stakedToken": {
         "decimals": 6,
         "mint": "57SE5YZdQy8wB6GRspiC3T7UhR5Lp3XZ4v5TmZnwq4bj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2VrtrvxYx1xRWLhUmdmiPTd5XvWchHENDyHDNVfhFgBJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "2VrtrvxYx1xRWLhUmdmiPTd5XvWchHENDyHDNVfhFgBJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2Vrt",
+    "symbol": "2Vrtr"
   }
 }

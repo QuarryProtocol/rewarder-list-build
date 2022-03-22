@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8ynfWcJhMPod2uYqhDHp8TY6f58Gz8dSyFyTu8QqZPTq",
-      "slug": "0",
+      "slug": "cwdhm",
       "stakedToken": {
         "decimals": 6,
         "mint": "CwDhMz6cMYoyYMVXuME7Mbq2dUW5JrBM3C923WTr45az"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AcFESH9FumMsZbkZwWTSWvrarbn7HZoQtJzRiT4CHMpw",
-      "slug": "1",
+      "slug": "7j1gx",
       "stakedToken": {
         "decimals": 6,
         "mint": "7J1gXMSCV7tmBq61y1PtyHBpwm39yoibQx7hv1h8ftEM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "55HVECvnJByy62XDkPPF31e6AtvsMeVBeqCrLEz6uMoB"
+  },
+  "rewardsTokenInfo": {
+    "address": "55HVECvnJByy62XDkPPF31e6AtvsMeVBeqCrLEz6uMoB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 55HV",
+    "symbol": "55HVE"
   }
 }

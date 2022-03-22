@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CuRqKLRCJqqNjDYAxoJG6RMVpxCSvhSiQhESFh9FhvuS",
-      "slug": "0",
+      "slug": "49vir",
       "stakedToken": {
         "decimals": 6,
         "mint": "49VirQv4az4HyyQDySuihi7po4uhtUUTKaiMLNiMbuxf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2gLd5gVAii9kRzWRUzpCY8ZzLmScuNF6xzG5NKwkg8xd",
-      "slug": "1",
+      "slug": "cwzxp",
       "stakedToken": {
         "decimals": 6,
         "mint": "CWZXPiA2UCjSX8Jau4wN4iWtpxyRyDR1vxgCmKk5k8H8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gn3VJLjw9u8N6FjGv6FjxPJtWcp5rbZEPbpHm4FcERz4"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gn3VJLjw9u8N6FjGv6FjxPJtWcp5rbZEPbpHm4FcERz4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gn3V",
+    "symbol": "Gn3VJ"
   }
 }

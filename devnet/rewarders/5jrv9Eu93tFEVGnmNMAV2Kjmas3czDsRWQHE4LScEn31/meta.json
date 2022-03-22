@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Hae9wGi8cS8Xs71irwKu9rETS6A7FXAJTYimgCksEWZq",
-      "slug": "0",
+      "slug": "b8key",
       "stakedToken": {
         "decimals": 6,
         "mint": "B8KeYGzkpEGaaV6ARQAyvBjT35A1aFM8wNcgrPj4jJ7S"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HeYnvCy5hWGpbjtY7x8dPEZTdUGutboG3H5uMNa8et4q",
-      "slug": "1",
+      "slug": "8h8cr",
       "stakedToken": {
         "decimals": 6,
         "mint": "8H8cRTphiVfHRcNMZyyggG2eViiUPCeqau8zUFjKvAZL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FKBFSQ997n3zqaTEKhGd3ACaXzCoBbHjkARrCXqdZ7oX"
+  },
+  "rewardsTokenInfo": {
+    "address": "FKBFSQ997n3zqaTEKhGd3ACaXzCoBbHjkARrCXqdZ7oX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FKBF",
+    "symbol": "FKBFS"
   }
 }

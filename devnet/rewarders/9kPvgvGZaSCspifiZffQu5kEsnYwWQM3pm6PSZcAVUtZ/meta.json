@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "L7oYFbKkpfaQ3R7uqDayEfdRt7RtZqNDSPPLAtRikEM",
-      "slug": "0",
+      "slug": "b1ckc",
       "stakedToken": {
         "decimals": 6,
         "mint": "B1CKcT6pmB8sMxNSuWnMUPVc2cmNHhphjkQmrPUAtD77"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7UMAfwzhXDqhq7gaNrChMYWHxao4T5RokNmbZtDxRc5c",
-      "slug": "1",
+      "slug": "fm7hr",
       "stakedToken": {
         "decimals": 6,
         "mint": "FM7hrJ7xzWwGyqEQVFWQPrPEE5JcLadmUZgP26EKiEau"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "NrjcNjQxapgaMYaBHK1STToR1s79GmKf7QbMuxEByjd"
+  },
+  "rewardsTokenInfo": {
+    "address": "NrjcNjQxapgaMYaBHK1STToR1s79GmKf7QbMuxEByjd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Nrjc",
+    "symbol": "NrjcN"
   }
 }

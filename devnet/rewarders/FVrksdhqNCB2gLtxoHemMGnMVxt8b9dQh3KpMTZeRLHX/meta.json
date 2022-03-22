@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FtchPhe2Gz6TvmBhvqPuAo3w1YMUzAKcdkMEi2Sna7tA",
-      "slug": "0",
+      "slug": "bgma1",
       "stakedToken": {
         "decimals": 6,
         "mint": "BGMA1Apa8zRk1W7Lu3cPuUEyCM8KELrTZxooCy7XasXd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FapXK415cAFD4aHsGYK3GGQCFDjDEpXdRxpP15a457gz",
-      "slug": "1",
+      "slug": "p9ntr",
       "stakedToken": {
         "decimals": 6,
         "mint": "p9nTRf8kLedGBnqGekZZq7LeDDXAbhYw4EnowXotRHN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3NaprFudn4YjA5mLamEApaq6B5P5JPPrTVhg1xoqGB1G"
+  },
+  "rewardsTokenInfo": {
+    "address": "3NaprFudn4YjA5mLamEApaq6B5P5JPPrTVhg1xoqGB1G",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Nap",
+    "symbol": "3Napr"
   }
 }

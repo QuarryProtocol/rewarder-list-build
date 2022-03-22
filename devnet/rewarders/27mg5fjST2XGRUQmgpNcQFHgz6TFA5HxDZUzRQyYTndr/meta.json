@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H4S1Ts2yPV7oFTCr2H69DnyFXG3iNPChSTGEnqgsuM79",
-      "slug": "0",
+      "slug": "5sh7x",
       "stakedToken": {
         "decimals": 6,
         "mint": "5SH7XyXT6JPp2djbQ6FEUHkmTEMWoLKXEpcS6brf8Qj2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GaowWNUsArC6JwHD5CsnAsAMoEns1J856K2YdT5NR6F",
-      "slug": "1",
+      "slug": "cjj8t",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cjj8tGYwicjUbMnX3wrdGoBMz4Xsotj5EDrCPHTK3WB2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4bfivGfn5FG7wY6sg7cpxvzTPJN66mf9EfaXjV9eionG"
+  },
+  "rewardsTokenInfo": {
+    "address": "4bfivGfn5FG7wY6sg7cpxvzTPJN66mf9EfaXjV9eionG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4bfi",
+    "symbol": "4bfiv"
   }
 }

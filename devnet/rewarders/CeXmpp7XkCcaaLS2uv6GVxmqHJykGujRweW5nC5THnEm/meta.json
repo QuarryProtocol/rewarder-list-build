@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "46ECgfcsSqeXQveQ385o2F3PiBDYosSEJMqEjBVPPgzx",
-      "slug": "0",
+      "slug": "bu1qb",
       "stakedToken": {
         "decimals": 6,
         "mint": "Bu1qBcfMdFB992fYHUGDtunfBW1etJiQGtb4NFNfLuto"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FZh1VgqZ3nE98437iPyoYRiavpznrZj6WGv6TBbGroY3",
-      "slug": "1",
+      "slug": "2ehhh",
       "stakedToken": {
         "decimals": 6,
         "mint": "2EhHhZrLnkj6C1JocTbkxBCNf4dHLaR5jddmgwN8o7bK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4efvay1ZNq4S2VgzQ4aX5dcgb2QtsK4QcAQPdVAiEndX"
+  },
+  "rewardsTokenInfo": {
+    "address": "4efvay1ZNq4S2VgzQ4aX5dcgb2QtsK4QcAQPdVAiEndX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4efv",
+    "symbol": "4efva"
   }
 }

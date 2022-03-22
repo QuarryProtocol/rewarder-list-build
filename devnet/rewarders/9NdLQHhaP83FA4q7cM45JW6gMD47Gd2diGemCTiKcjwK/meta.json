@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AZvPEN4Sjn9T1U9khHWbHzHoK9hR21RudsqXoQQvquPL",
-      "slug": "0",
+      "slug": "drxg8",
       "stakedToken": {
         "decimals": 6,
         "mint": "DRXG8hy29pr3HrDzVPrH4fdGq6oj9ekVVHxtwvZMd42u"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GSVzmNdJjdJbbsrjpvBHVcuFgrUG4CUKYYiw4DRCR2Zz",
-      "slug": "1",
+      "slug": "5rzfw",
       "stakedToken": {
         "decimals": 6,
         "mint": "5RZFWgGiiSmhtjYyajFb3YqasBSMvbwBfPNpcG1pEcPi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BVVF7BW7fUtpJ7k5pWpwyxJ2n1LnBbzs9wsjGcoRLiw1"
+  },
+  "rewardsTokenInfo": {
+    "address": "BVVF7BW7fUtpJ7k5pWpwyxJ2n1LnBbzs9wsjGcoRLiw1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BVVF",
+    "symbol": "BVVF7"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DcWpbSDk8pyQHXzfAxCmtoPPAt7nwDMAZRy8EcQrnd2L",
-      "slug": "0",
+      "slug": "hrvto",
       "stakedToken": {
         "decimals": 6,
         "mint": "HrvTorxyK1rwarQTX9v3bBfEroK2N9wLCNNgm8Djag2Z"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "21NCfzaLZBYbvdUNmrP2b7JmpTaGc1aK69Y4QZJMBUmp",
-      "slug": "1",
+      "slug": "5y3j3",
       "stakedToken": {
         "decimals": 6,
         "mint": "5Y3J3mjAjFJ5Q4hQgv5TFw5k1LcZjmwYJaWtjNvre3k7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4QnSjABax21ueYBTQp4kAMHTztvM2185uTMGaLVPjh8v"
+  },
+  "rewardsTokenInfo": {
+    "address": "4QnSjABax21ueYBTQp4kAMHTztvM2185uTMGaLVPjh8v",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4QnS",
+    "symbol": "4QnSj"
   }
 }

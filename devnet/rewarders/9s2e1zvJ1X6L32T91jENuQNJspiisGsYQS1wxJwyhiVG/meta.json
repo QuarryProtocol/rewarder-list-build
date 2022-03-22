@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EtSj6QBahj4xKV5228eFA99H8yZ7wUM1iDugV4SvNiZY",
-      "slug": "0",
+      "slug": "4qrng",
       "stakedToken": {
         "decimals": 6,
         "mint": "4qRNGzTHwEUkSQVsdNpSKVUxjjhaL7DeDuAsFKw6Cn69"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EPmCVom4tEdMBNZBdZPdpXFrvh9BNDgfg4ZMcaThmUXL",
-      "slug": "1",
+      "slug": "7ejqp",
       "stakedToken": {
         "decimals": 6,
         "mint": "7EjqP6hrdUZxVxS7taAXV6ayoxopYcz4wUe6G6FUEJNx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6tpew59qBmXrRKpmbuUvyTHb7B2HSrEF8Gv4BrHxKuAg"
+  },
+  "rewardsTokenInfo": {
+    "address": "6tpew59qBmXrRKpmbuUvyTHb7B2HSrEF8Gv4BrHxKuAg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6tpe",
+    "symbol": "6tpew"
   }
 }

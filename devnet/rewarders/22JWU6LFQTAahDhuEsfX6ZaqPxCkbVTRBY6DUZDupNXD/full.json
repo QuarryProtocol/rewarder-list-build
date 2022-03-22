@@ -14,7 +14,7 @@
       "quarry": "4Ho5RLsLJ6kejrFxX52pzfwSHwatZiddcHgeuW9JtPJ5",
       "replicaMint": "87vZnEniaNGW1fQ6F9Kq1qV3XKTpAFrsguES4YYkx73X",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "afmb2",
       "stakedToken": {
         "decimals": 6,
         "mint": "AFMB2QE5MYytiCAxU9oMyFTmDGhzBbRNCqirvwfbENBB"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AFMB2QE5MYytiCAxU9oMyFTmDGhzBbRNCqirvwfbENBB"
+  },
+  "rewardsTokenInfo": {
+    "address": "AFMB2QE5MYytiCAxU9oMyFTmDGhzBbRNCqirvwfbENBB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AFMB",
+    "symbol": "AFMB2"
   },
   "slug": "22JWU6LFQTAahDhuEsfX6ZaqPxCkbVTRBY6DUZDupNXD"
 }

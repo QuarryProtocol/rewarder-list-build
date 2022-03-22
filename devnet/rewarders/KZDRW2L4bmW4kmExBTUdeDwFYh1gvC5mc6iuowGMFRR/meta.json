@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GPG8EdgoUHYT8yQkF45SveYcgTcqLepFNJcHpMGEr3Kw",
-      "slug": "0",
+      "slug": "5cq7r",
       "stakedToken": {
         "decimals": 6,
         "mint": "5cQ7ruaFbBwWQRZbuTQksungaMbELb261VMZgx2R63iA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Bg52MtbFSsSyMiVeXKd5Y4Tq7FbJZpgkt1UK1xh43wzq",
-      "slug": "1",
+      "slug": "a92da",
       "stakedToken": {
         "decimals": 6,
         "mint": "A92dA7NzHzpFejr3sxwo9Lvs6xvLcKRDUsx8GVS8hD22"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EjnAgyzL8YXfEyTT2XvkexA95XWGhci2k4pGuZeKfeDi"
+  },
+  "rewardsTokenInfo": {
+    "address": "EjnAgyzL8YXfEyTT2XvkexA95XWGhci2k4pGuZeKfeDi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EjnA",
+    "symbol": "EjnAg"
   }
 }

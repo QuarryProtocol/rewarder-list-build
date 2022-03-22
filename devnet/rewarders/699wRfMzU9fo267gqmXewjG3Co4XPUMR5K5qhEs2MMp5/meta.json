@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "76yLhahsdeKw7C3Y9d3mGcyEFL6323DBFpi9HBTXxSv9",
-      "slug": "0",
+      "slug": "e2cm6",
       "stakedToken": {
         "decimals": 6,
         "mint": "E2cM6QCxgnF2WQGtN1WjTyehbbe8S9vr6qW8UvbwaaUd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2jgvZj5dxmTCbWizuo3UkmMwZ9nLBL47RhDsbwFvanog",
-      "slug": "1",
+      "slug": "4wzmy",
       "stakedToken": {
         "decimals": 6,
         "mint": "4WZmyP7cyxCoAxKTjMArUkG1EoQLrWFb1Ru1EbCDee1V"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HjXM7fZUzeoQUbBqvY2WpiQr47y6nngjeFymrpaKxHqy"
+  },
+  "rewardsTokenInfo": {
+    "address": "HjXM7fZUzeoQUbBqvY2WpiQr47y6nngjeFymrpaKxHqy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HjXM",
+    "symbol": "HjXM7"
   }
 }

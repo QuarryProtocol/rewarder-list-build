@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GCvFqLZkZ63Ug5TDFTjq4ZCCP6N9HuY234mfxiAMAxfo",
-      "slug": "0",
+      "slug": "aafap",
       "stakedToken": {
         "decimals": 6,
         "mint": "AAfAPSAiuMMp6tXDxerk7y99fwmr31ZYZtvmyHJ1MLiu"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "36YP5G8vDsgGYKoWJNiiuKkWc3uoJPphrE6ZaAy7Teqc"
+  },
+  "rewardsTokenInfo": {
+    "address": "36YP5G8vDsgGYKoWJNiiuKkWc3uoJPphrE6ZaAy7Teqc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 36YP",
+    "symbol": "36YP5"
   }
 }

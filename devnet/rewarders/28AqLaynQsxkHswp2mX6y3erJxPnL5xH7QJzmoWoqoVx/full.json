@@ -14,7 +14,7 @@
       "quarry": "vkB3YAsftVmjM1CwdRLkMUK6iBp2ahziF8sr9t1WC5H",
       "replicaMint": "BJLPqp2UJvevyBQJiGwLrh3UeM3jofMKQkqi8TRo3PRX",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fikjp",
       "stakedToken": {
         "decimals": 6,
         "mint": "FikJpk9W3dVqBQ1JHtsiA9zPHQggFwgJurZGqAWfx15A"
@@ -32,7 +32,7 @@
       "quarry": "BbKeNjcb1BMp4P15txsfUMCGT21vEe1svt1MzSiQBaJa",
       "replicaMint": "7SQvyJZfWANKEGaEDxNUMuJxRzpPPe7jjsFrrhCTcDsH",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "9z9jb",
       "stakedToken": {
         "decimals": 6,
         "mint": "9Z9Jbe8VNboQdPim8PwFXKek2cn12DmvdzfzXCZu75UG"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "81xi9CawwN26KQLhmScLCt3d5xxQ1K9sAZ9ECu7uSSi6"
+  },
+  "rewardsTokenInfo": {
+    "address": "81xi9CawwN26KQLhmScLCt3d5xxQ1K9sAZ9ECu7uSSi6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 81xi",
+    "symbol": "81xi9"
   },
   "slug": "28AqLaynQsxkHswp2mX6y3erJxPnL5xH7QJzmoWoqoVx"
 }

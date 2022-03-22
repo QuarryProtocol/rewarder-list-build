@@ -14,7 +14,7 @@
       "quarry": "FaamRjBtWyeH9LSaZ78vUwh7UQz6cGHuczcqGHtD4Ar9",
       "replicaMint": "5zxW8894ucd3N7km79EzTdojETU2rECzPJ1HfC7EBCYb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cdfju",
       "stakedToken": {
         "decimals": 6,
         "mint": "CDFjuKsVPvsdFNpG7oSVxcwweyodYjBnhsXkRJKk3oKs"
@@ -32,7 +32,7 @@
       "quarry": "76XotMtNobQtcmfPjMiwYpqVEYChsJ2N7JoqTix5vqM2",
       "replicaMint": "7R3rCGkA8tHkpLXYXgJg9WguM7dNtr8S9ovXCko1BJ3s",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "6gghe",
       "stakedToken": {
         "decimals": 6,
         "mint": "6ggHe9BjeAhQUVvQWMuUEsuX5TNPCtm8HD3mnPLUjWew"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BDX28FbVDHJrb56xQ7yEzgiScfdEo4BcfBUpfEBG8TY5"
+  },
+  "rewardsTokenInfo": {
+    "address": "BDX28FbVDHJrb56xQ7yEzgiScfdEo4BcfBUpfEBG8TY5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BDX2",
+    "symbol": "BDX28"
   },
   "slug": "6JLtWWjjVsA6HdJsgDa7Ys1VnwHkYa3HCvFxda7Seamw"
 }

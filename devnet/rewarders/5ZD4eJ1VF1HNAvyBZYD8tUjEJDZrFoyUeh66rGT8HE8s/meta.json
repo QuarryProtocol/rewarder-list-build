@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7ZR1XbGYtLMLXNWhgn35qfwGFUzj9Tdtpd5TKnEfwVrp",
-      "slug": "0",
+      "slug": "7plhr",
       "stakedToken": {
         "decimals": 6,
         "mint": "7PLHrPrheQsvAFbUk7qiKWrsfv8ZmaZve5ysr9vzQXiL"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BXYUEU3ui16V3G51vVWZDVEfWWAi1UXcCG6svUDMMJt",
-      "slug": "1",
+      "slug": "3gex2",
       "stakedToken": {
         "decimals": 6,
         "mint": "3gEX2W9etCbSaFA6tJQgaN1ey8ectQLVtmjHuMp4QazW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2JJDy2U1ez2Ycn7Lyxjt9HtmKGDw2v56m89YtNHvGZKk"
+  },
+  "rewardsTokenInfo": {
+    "address": "2JJDy2U1ez2Ycn7Lyxjt9HtmKGDw2v56m89YtNHvGZKk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2JJD",
+    "symbol": "2JJDy"
   }
 }

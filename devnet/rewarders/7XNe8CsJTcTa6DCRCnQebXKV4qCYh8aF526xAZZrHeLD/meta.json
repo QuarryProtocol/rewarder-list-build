@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DmMiA7Nps9e7jhwFXw2UA6XqKGmcPgfwFitpcMZU3jLv",
-      "slug": "0",
+      "slug": "djnvl",
       "stakedToken": {
         "decimals": 6,
         "mint": "DJnvLejVAX2bUp3JMFHFRomE4QgPEgG8BE5MBPhLuvGp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4WEBKfByroTksG2LvAARPTXtRFkLDiUDq1Uq5ejVovT5",
-      "slug": "1",
+      "slug": "3hyw8",
       "stakedToken": {
         "decimals": 6,
         "mint": "3HYw87hzFeAL4etFS19SM9XkncFwqXNb3GVgHKxMwryN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3pFGGcZ354aY9vBCyGjT4Uta5J5vZRpMC13NVbQuD4EX"
+  },
+  "rewardsTokenInfo": {
+    "address": "3pFGGcZ354aY9vBCyGjT4Uta5J5vZRpMC13NVbQuD4EX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3pFG",
+    "symbol": "3pFGG"
   }
 }

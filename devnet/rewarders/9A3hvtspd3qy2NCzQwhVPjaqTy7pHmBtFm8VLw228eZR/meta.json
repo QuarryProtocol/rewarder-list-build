@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BgtzqRDN8HamMpYqXKtjdvwb3hhfGx2o9UNazQ9DeSDP",
-      "slug": "0",
+      "slug": "djcg5",
       "stakedToken": {
         "decimals": 6,
         "mint": "Djcg5EQKsY7W64xbCyVCK4VGg6ips78NXpWvoBBwyxiP"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6KHyzBM92yRis4zpweGWEkiY6BVsLztNKhZhh7othpYy",
-      "slug": "1",
+      "slug": "8cde8",
       "stakedToken": {
         "decimals": 6,
         "mint": "8cDE8Z1wsS99mJgZBM5vjHQbDm5DBgqPzte1VLwg7UF6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "vzk2Hw6wMgJ8tiFWqkXJTR56nn1AkWbRGAdeY4MLCov"
+  },
+  "rewardsTokenInfo": {
+    "address": "vzk2Hw6wMgJ8tiFWqkXJTR56nn1AkWbRGAdeY4MLCov",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token vzk2",
+    "symbol": "vzk2H"
   }
 }

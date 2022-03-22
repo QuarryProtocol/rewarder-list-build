@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Gvj5JzF19jGcsmVRznZC9A7cwhWJ8dzbNbuZpBGV6st5",
-      "slug": "0",
+      "slug": "3jyhk",
       "stakedToken": {
         "decimals": 6,
         "mint": "3JYhKeo77EK55AGxnYYgjAhQEM5gsyUtsWC2vxTmko99"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2LMQ5mrHn8PR5XVMN3pqdhsphyANPnvq8Tp839zRevv5",
-      "slug": "1",
+      "slug": "3qbpl",
       "stakedToken": {
         "decimals": 6,
         "mint": "3QbpLPvxd1JB6Z7Qkdy8iAaFeQ4Y9DQCfMdNBwg41PFr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FPbyKtznV1T87mzfpGiW8Gu7EYp1ufx7ZGqCUhhiRbRd"
+  },
+  "rewardsTokenInfo": {
+    "address": "FPbyKtznV1T87mzfpGiW8Gu7EYp1ufx7ZGqCUhhiRbRd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FPby",
+    "symbol": "FPbyK"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FTJizHEVHiPt9beEym5r3vJcyAvfqpCUqH1DXWnv4HCh",
-      "slug": "0",
+      "slug": "afpdv",
       "stakedToken": {
         "decimals": 6,
         "mint": "AFPdvxzEWp3yrjhH5YNnfyNtWeZhsmpv6tcL9MEv2JwA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fccn2VCads2cupds4J8tXj8aPSNsFR9TfenD7NV8jCdN",
-      "slug": "1",
+      "slug": "b8ogi",
       "stakedToken": {
         "decimals": 6,
         "mint": "B8oGiD79h2QjvBNXPq2iSu1TZsxrKeXvsePWFWgB5cd3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9T1Zw6Yt6o1AUA6353cRsFtWD3E1XY3KiBHSqkLLNSzz"
+  },
+  "rewardsTokenInfo": {
+    "address": "9T1Zw6Yt6o1AUA6353cRsFtWD3E1XY3KiBHSqkLLNSzz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9T1Z",
+    "symbol": "9T1Zw"
   }
 }

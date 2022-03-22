@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CbvrTyXjD9HCs4otMf9zyRNA1bnMSP68LXJgzhge59QX",
-      "slug": "0",
+      "slug": "jzzyq",
       "stakedToken": {
         "decimals": 6,
         "mint": "jZZYQ1qhY2jzdM3q87R21w1PRng1hv54ihkX9gFq8AJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9tAEKjeZW7T3fwCjZUBbxRjhChQh3huy1HKuS6F5JY46",
-      "slug": "1",
+      "slug": "6d1tp",
       "stakedToken": {
         "decimals": 6,
         "mint": "6D1TP3pQBz24RiYMN55DYVSCG8V76QuLAqrqZMaD15YF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "24gsuPjdHLgzrvfTCUPxD159KLus4AJ2RzuxdiddaT5e"
+  },
+  "rewardsTokenInfo": {
+    "address": "24gsuPjdHLgzrvfTCUPxD159KLus4AJ2RzuxdiddaT5e",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 24gs",
+    "symbol": "24gsu"
   }
 }

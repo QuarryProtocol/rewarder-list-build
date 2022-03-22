@@ -14,7 +14,7 @@
       "quarry": "6c7CvmqKhsoig6dA5U69RFgJzAKZisqY2GKxL1mBF3c",
       "replicaMint": "8bA1iHZimCzNBGAX9kKLwfPhEGe8LDQWJBszYYpMbnA9",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cmqph",
       "stakedToken": {
         "decimals": 6,
         "mint": "CMQpHg5Z4iat8c5ZRobJNjThiMrWWfwoFWaAqL8BkzzR"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CMQpHg5Z4iat8c5ZRobJNjThiMrWWfwoFWaAqL8BkzzR"
+  },
+  "rewardsTokenInfo": {
+    "address": "CMQpHg5Z4iat8c5ZRobJNjThiMrWWfwoFWaAqL8BkzzR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CMQp",
+    "symbol": "CMQpH"
   },
   "slug": "6aTYtJV2Ymbwgr168DwNzPPNSLdnkbDBNSWkZ9VyFpFT"
 }

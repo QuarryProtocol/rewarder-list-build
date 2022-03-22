@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "G4SV1aTAKmD92SQwYsFbfmfQoRcXZ2Y1GcWXGEkYQoFV",
-      "slug": "0",
+      "slug": "ux1cd",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ux1cDcxA73Kv71UGMAWx57v3XFYZSXYKjLm3zvfoaKQ"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ux1cDcxA73Kv71UGMAWx57v3XFYZSXYKjLm3zvfoaKQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ux1cDcxA73Kv71UGMAWx57v3XFYZSXYKjLm3zvfoaKQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ux1c",
+    "symbol": "Ux1cD"
   }
 }

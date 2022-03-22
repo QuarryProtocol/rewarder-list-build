@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J99SpjgVKKXPDHEgKMYotC9QrWCpe5oaV1Kp6Xm4ipYy",
-      "slug": "0",
+      "slug": "cu3if",
       "stakedToken": {
         "decimals": 6,
         "mint": "CU3ifpuKgPQabaN3zEoyVpcLPQxMMJ3sCWn6mGb7ebNH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Cfv41LJ8Q2bBUgAp3YF2F1eLJc9kNAZGqLH43FbXJTUB",
-      "slug": "1",
+      "slug": "9dvsg",
       "stakedToken": {
         "decimals": 6,
         "mint": "9DVsgReTmzJ4UFundQGZnxbpJ9fJ4icHDKB8DYeVteuo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "C6AHcLUA9MRtcxV4AbgDXLrVSqZuAq2k5ySVTVorvaQ9"
+  },
+  "rewardsTokenInfo": {
+    "address": "C6AHcLUA9MRtcxV4AbgDXLrVSqZuAq2k5ySVTVorvaQ9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token C6AH",
+    "symbol": "C6AHc"
   }
 }

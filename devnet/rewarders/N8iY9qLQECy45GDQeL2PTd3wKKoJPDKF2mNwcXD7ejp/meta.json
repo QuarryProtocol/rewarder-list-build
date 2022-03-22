@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2AsiWxJ76nEZwWxvL4pbwH127sB5E7oQ6tpv3NhMeKFw",
-      "slug": "0",
+      "slug": "42dk1",
       "stakedToken": {
         "decimals": 6,
         "mint": "42DK1PqzVP2kaU64qeSMiuZuSPgkm4bk8mYU41NAsTTd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E59Vt1Mj3cP3u6rUHWzNgX1Jhz463NU65gLhS3KPFmT4",
-      "slug": "1",
+      "slug": "5eac7",
       "stakedToken": {
         "decimals": 6,
         "mint": "5EAC7Pfn3isukuuqBCU5xK4VFCHwKZaEAe8VxzX4JUWo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Frw631axcSiAZCJuosgXXZqsQiGcFEDqXuxTmenJiEMn"
+  },
+  "rewardsTokenInfo": {
+    "address": "Frw631axcSiAZCJuosgXXZqsQiGcFEDqXuxTmenJiEMn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Frw6",
+    "symbol": "Frw63"
   }
 }

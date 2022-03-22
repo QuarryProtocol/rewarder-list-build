@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9xHfw1GeZbZ4GjmtSFWX8b2au2g1gxfV6iWcVH7fsps3",
-      "slug": "0",
+      "slug": "ad1vi",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ad1viCVQXfjkm9sVne1AziDDtetHUfrwxfkdPwYSgm2j"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "SXQmZ3GZs4EDDDKe1vQVuuQ3NDPYPgfEvM1QDFdjKGh",
-      "slug": "1",
+      "slug": "9u7xz",
       "stakedToken": {
         "decimals": 6,
         "mint": "9U7xZiy3D2WMuLLHsL93x1v1ga8BNgEFoF2MVaR6uXdw"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EpGQMRk83t9n9ZrVnWRpuA1dTLv5Vbmey3F49Po6kS4M"
+  },
+  "rewardsTokenInfo": {
+    "address": "EpGQMRk83t9n9ZrVnWRpuA1dTLv5Vbmey3F49Po6kS4M",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EpGQ",
+    "symbol": "EpGQM"
   }
 }

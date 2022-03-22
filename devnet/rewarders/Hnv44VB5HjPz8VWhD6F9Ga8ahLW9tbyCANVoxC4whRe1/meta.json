@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8SN4U4a32susDRcJnbCRYBw5DwYHvfVzTeDNM3judkdM",
-      "slug": "0",
+      "slug": "76uyb",
       "stakedToken": {
         "decimals": 6,
         "mint": "76UYbjGC9Sw1FeEVM3Ehj5wVBYWeoFcnC7Jy3F8VZJEY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2KXRPVypgevsAR5sNJaTrb8a9xqnvfuuYGySEYdyMpUf",
-      "slug": "1",
+      "slug": "hljhu",
       "stakedToken": {
         "decimals": 6,
         "mint": "HLjHUSkQPXdX6H7Q61vdZVKdTapnECmQQ6AnA6LnqR2a"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5eBFMh9fu4szaoFoxwv4aQdmvu7qjkh2K6RmMJPgFa5s"
+  },
+  "rewardsTokenInfo": {
+    "address": "5eBFMh9fu4szaoFoxwv4aQdmvu7qjkh2K6RmMJPgFa5s",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5eBF",
+    "symbol": "5eBFM"
   }
 }

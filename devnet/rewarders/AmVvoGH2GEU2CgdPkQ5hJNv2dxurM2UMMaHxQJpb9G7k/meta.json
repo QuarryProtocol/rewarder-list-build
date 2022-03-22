@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8dvPUk3Q9SUTJvAJGcyjhZXvvQdizCm8zXucWpK9d96a",
-      "slug": "0",
+      "slug": "ajk5d",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ajk5darw3JZjw4XyWFr7XLZKkwKkW2xkHFTeL1vL7rbB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CKTZA3AYGov7c31WMMExeRf3xaqAV8k49ncXziRhECD7",
-      "slug": "1",
+      "slug": "2z2yt",
       "stakedToken": {
         "decimals": 6,
         "mint": "2z2YT6g2K1M4P79ZVfxSb2e2MH8dXCxT2GUmojqZPoni"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "57ihBXwnBhUhJkFvzkxEmtNH8auuBsn1NvPvJtN7zJdT"
+  },
+  "rewardsTokenInfo": {
+    "address": "57ihBXwnBhUhJkFvzkxEmtNH8auuBsn1NvPvJtN7zJdT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 57ih",
+    "symbol": "57ihB"
   }
 }

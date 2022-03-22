@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "PHXKrh6hcF4vPfzGYSgkgpCAUFLKuHSMwsAgnAEhMaP",
-      "slug": "0",
+      "slug": "4ud69",
       "stakedToken": {
         "decimals": 6,
         "mint": "4ud69eg33df8bi2f2E4B46YLPPf4jBswpCvnGRAitxAZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C9RuKSj7ohXBWoNyhZ6sBP4DMqV6kF9cy36AgTi4BfwQ",
-      "slug": "1",
+      "slug": "9nrgl",
       "stakedToken": {
         "decimals": 6,
         "mint": "9NRGLSzQX86dXikgUKzPchPAfzMQEZKX8TFfo4Mu4EAS"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6Y5mUhTjkMzp6Tzj28oonrddtT3qKgTPi71hCsYBrJAG"
+  },
+  "rewardsTokenInfo": {
+    "address": "6Y5mUhTjkMzp6Tzj28oonrddtT3qKgTPi71hCsYBrJAG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Y5m",
+    "symbol": "6Y5mU"
   }
 }

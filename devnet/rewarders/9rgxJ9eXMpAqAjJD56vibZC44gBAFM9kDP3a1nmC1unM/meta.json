@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GJpYCX38GACLmYqYYi6EYBuakAKP355wih3R5L6PhE6F",
-      "slug": "0",
+      "slug": "fj9r2",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fj9r2EVEUgsC6RSDJBTEXfekH5W7WGLjsKZMsCPU8jFh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "JD5xACzh2pbK5dd3K2yTunHGjaxZHhka5BvbobjMrDF",
-      "slug": "1",
+      "slug": "88vrf",
       "stakedToken": {
         "decimals": 6,
         "mint": "88VRfh96nCoV5kqsn4EkinLrHCwKaXLDgbXy9Hz1m7Q6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8iXJfD7FTEPUtcFZjif3V4VKndTNHttaoer1Zk4N3kCw"
+  },
+  "rewardsTokenInfo": {
+    "address": "8iXJfD7FTEPUtcFZjif3V4VKndTNHttaoer1Zk4N3kCw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8iXJ",
+    "symbol": "8iXJf"
   }
 }

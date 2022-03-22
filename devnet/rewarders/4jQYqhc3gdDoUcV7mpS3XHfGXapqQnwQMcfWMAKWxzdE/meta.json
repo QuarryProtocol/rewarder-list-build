@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "29KQdXER7CeKVcZaDGCVqditRwhUn6vjopRnSsWVhKpy",
-      "slug": "0",
+      "slug": "d8gkq",
       "stakedToken": {
         "decimals": 6,
         "mint": "D8gKQUSR7uGVBPFyiNpnxv83wHwfvor2N5xBdM3Lh44j"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GDW3Q8fRPMz16RGqTwWwECvkQSoDT3SFXboHAyQkWDfc",
-      "slug": "1",
+      "slug": "42dfr",
       "stakedToken": {
         "decimals": 6,
         "mint": "42dfR33P7PLjrNYmuDnXDMc4D5hbZVACgdc7DVKad681"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7MSEBA9VbPth1n78srrC9Y4ctocfkP5epkYEyGMAvW76"
+  },
+  "rewardsTokenInfo": {
+    "address": "7MSEBA9VbPth1n78srrC9Y4ctocfkP5epkYEyGMAvW76",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7MSE",
+    "symbol": "7MSEB"
   }
 }

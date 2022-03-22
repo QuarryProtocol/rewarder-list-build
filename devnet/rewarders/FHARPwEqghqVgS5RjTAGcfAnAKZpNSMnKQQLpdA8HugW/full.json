@@ -14,7 +14,7 @@
       "quarry": "4cX9y5h5nocBvqTgXZFzwCGMCxvq7CfFD4ePKk85hbpS",
       "replicaMint": "CfSfnc2dtq6qfDAvH8TTVF7ZY43LBC7ZkZjN4dqy4mJ5",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fjgaf",
       "stakedToken": {
         "decimals": 6,
         "mint": "FJGafYaKYcpLJUgLbQecNVrj3DSj8bi3U4A1URj6atRs"
@@ -32,7 +32,7 @@
       "quarry": "63MPmwo1kU3Ubv5Pjd3LeUzicFmFAmdauwNWd5ZMRvam",
       "replicaMint": "2UGeBUQRpz7EdETy5CFogBKmG3f4NbnELRUooLQvbmjf",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "g3dtg",
       "stakedToken": {
         "decimals": 6,
         "mint": "G3DtgBPALknbuPqRAMGbpehSBRubdLhvmovzYXpm5HyV"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5ot1iT6V8QTBh4EuLkmK11XTzZY8t8c2Shi5Dodz6mjQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "5ot1iT6V8QTBh4EuLkmK11XTzZY8t8c2Shi5Dodz6mjQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5ot1",
+    "symbol": "5ot1i"
   },
   "slug": "FHARPwEqghqVgS5RjTAGcfAnAKZpNSMnKQQLpdA8HugW"
 }

@@ -14,7 +14,7 @@
       "quarry": "GEttbgaZNL1irG2k3zhLeoUVd6am2aMcyfMzfJSTG1v1",
       "replicaMint": "DHrEgh3sLsvyBj5z9Uy7cwgF2TdHXe48JGDsMBz6t4TF",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ajgyp",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJGyPE997DA4NCPE9t7S7J2va6sHz17jVFTCvSUSrZD9"
@@ -32,7 +32,7 @@
       "quarry": "9e4gFdXVSSBWoQSRWU2YBSHoKY3vMUtHCqF2BzfuDKhQ",
       "replicaMint": "6ADD4ddFazfAU2RAkAkdNA4Z3kHxKdZmpb389zaVVcgw",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "bqruz",
       "stakedToken": {
         "decimals": 6,
         "mint": "BqRuzhG8kc2dLpdvP9Ywm1EaGpEzLQkg3Wn2Uhw7gF8E"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G9258z5LKRgcdYUFsdJSBTjvbhJNQZ3C1D3pGktf1F2J"
+  },
+  "rewardsTokenInfo": {
+    "address": "G9258z5LKRgcdYUFsdJSBTjvbhJNQZ3C1D3pGktf1F2J",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G925",
+    "symbol": "G9258"
   },
   "slug": "HWRJdsiesrZMj7QAPYmKcSmq64roCYoiCnw4tDnraKhj"
 }

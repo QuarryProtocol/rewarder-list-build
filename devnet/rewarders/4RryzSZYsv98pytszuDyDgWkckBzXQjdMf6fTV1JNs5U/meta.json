@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6gErSF4DTtDaNnfQias1UH7kuaLV5g29TdxjYKo5mkeF",
-      "slug": "0",
+      "slug": "arkmy",
       "stakedToken": {
         "decimals": 6,
         "mint": "ARKmYQqvapQBLyxa8JkprMWYA1uFc9TGWhCwCsoBfiQq"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FdzrLPRAdwtGDK9eMsjHwiw35o64XpUJECwJ8FfYQQrG",
-      "slug": "1",
+      "slug": "45cu2",
       "stakedToken": {
         "decimals": 6,
         "mint": "45cu2LaPKcUHKioKmGBVjHvqe5VurG34QSPwvy6uPWJp"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "JDySppgV8mftQrBsE9J4M6FwGAPK8jYQPRaS7BTbtQn"
+  },
+  "rewardsTokenInfo": {
+    "address": "JDySppgV8mftQrBsE9J4M6FwGAPK8jYQPRaS7BTbtQn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token JDyS",
+    "symbol": "JDySp"
   }
 }

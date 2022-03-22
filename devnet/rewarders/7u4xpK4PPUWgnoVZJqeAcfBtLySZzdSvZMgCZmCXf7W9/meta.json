@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9c1sVbcPCPAekk7aQsg3hUewBp6YNMuxTfYccuEtz161",
-      "slug": "0",
+      "slug": "641er",
       "stakedToken": {
         "decimals": 6,
         "mint": "641erUVLhvJ5M585Nt42v5B2ovJp9tVEZ67N2P6oD1zq"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4JpsNj8essba4RpDznyMEqBPhRcKkvBM2yeaYeJaVNgY",
-      "slug": "1",
+      "slug": "6yra9",
       "stakedToken": {
         "decimals": 6,
         "mint": "6YrA9CGUgymKnV5HDevUA4HVgDHioca6hgCdpZqWyy3y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J9aaqBoqnNK6SkUSFhKLNqDQseUmqtUYhQP7dcjjZMsz"
+  },
+  "rewardsTokenInfo": {
+    "address": "J9aaqBoqnNK6SkUSFhKLNqDQseUmqtUYhQP7dcjjZMsz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J9aa",
+    "symbol": "J9aaq"
   }
 }

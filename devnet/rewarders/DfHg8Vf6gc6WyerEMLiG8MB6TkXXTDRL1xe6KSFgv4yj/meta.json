@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GMeXLRxU963WC8xXWbcVo34Ku79AzwKmFNCBDhbmM3rf",
-      "slug": "0",
+      "slug": "hyeff",
       "stakedToken": {
         "decimals": 6,
         "mint": "HYeFf1Ee7xhAwmEz2XFiUn7hsMC7dHZqYkxbdbNRahnw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DeMzeEN2gN8oGLjrBn4ZhY97e31KR5JgodhuZHfKYC2Y",
-      "slug": "1",
+      "slug": "8bdd4",
       "stakedToken": {
         "decimals": 6,
         "mint": "8bDD4R5W1owEtHqBRT8RVjkc7d61DcFhaqoCkaxgV5T5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FNvg7vzh7SATGD5YhTeyfxFh7LkdLa2rcEjacgFv4q2L"
+  },
+  "rewardsTokenInfo": {
+    "address": "FNvg7vzh7SATGD5YhTeyfxFh7LkdLa2rcEjacgFv4q2L",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FNvg",
+    "symbol": "FNvg7"
   }
 }

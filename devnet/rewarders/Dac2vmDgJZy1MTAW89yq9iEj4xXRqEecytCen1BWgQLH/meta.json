@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BbTjmopi94JuZ2ngMnzWxLV6aSPk8YNbVJ1LmXpCbfW7",
-      "slug": "0",
+      "slug": "9nkgs",
       "stakedToken": {
         "decimals": 6,
         "mint": "9NKgSFbAiyE2SYnM22uK3FhuaJUBHvdTec3yEQa7fn82"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FcrGjExLHjAcFXn52GxnDcURC6SNt18SQ49ML6osQor5",
-      "slug": "1",
+      "slug": "6l5qv",
       "stakedToken": {
         "decimals": 6,
         "mint": "6L5qVZDJLE7kiyhTJiPZJ6dq4BYHPxpScYAYP3W2ZFbz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6Zay7hYwhid5fhZ42WkFRgfSTfKETPCDngYfPm3MdmXZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "6Zay7hYwhid5fhZ42WkFRgfSTfKETPCDngYfPm3MdmXZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Zay",
+    "symbol": "6Zay7"
   }
 }

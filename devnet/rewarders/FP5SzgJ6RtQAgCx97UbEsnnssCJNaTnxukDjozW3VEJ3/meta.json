@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FxK2nfHsQ6TQpfCAviBFJPuTwFhFNEZZE4Q7RkpEm99X",
-      "slug": "0",
+      "slug": "9j8yl",
       "stakedToken": {
         "decimals": 6,
         "mint": "9j8YL2aRm5vP8yi5TL3wUNLwtXjZ7EzDNnAbbe5rZSQd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2swhbFfXUEYhJ4AEXurmfPgb94ZuQGULxJQN9iXBy8S8",
-      "slug": "1",
+      "slug": "6kmqc",
       "stakedToken": {
         "decimals": 6,
         "mint": "6KmqcRZUwncN6U1NNqzvAbpr7TSRem8fyYcHKTsdgPQ1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CK3nSAREMvW6Y7FGy5Cfeazt2i8fF8JmDLNXsLxfUSjs"
+  },
+  "rewardsTokenInfo": {
+    "address": "CK3nSAREMvW6Y7FGy5Cfeazt2i8fF8JmDLNXsLxfUSjs",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CK3n",
+    "symbol": "CK3nS"
   }
 }

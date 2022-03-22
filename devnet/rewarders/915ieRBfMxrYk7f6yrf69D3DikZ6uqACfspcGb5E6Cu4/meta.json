@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3YnKNdK4QebqXXSCSMSt2nYHxk54HJ6GHhhLq7qubZDX",
-      "slug": "0",
+      "slug": "4rgab",
       "stakedToken": {
         "decimals": 6,
         "mint": "4RgaBwyg6rLDWqBfiPfwPPryzUk48SqB9GFXA1hQymPG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DW59dSbB33upDMmsGCK2QXo2gzrzjcc9jvm7VnziBA44",
-      "slug": "1",
+      "slug": "7z7bh",
       "stakedToken": {
         "decimals": 6,
         "mint": "7z7bhLHozJJF2uLC6CjQQ5YkXEvnH5EWHUta4i7x5F8M"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AQpLvNy5hCViAzfBr9jAGGztemYMNoQUffr7qADD7bAM"
+  },
+  "rewardsTokenInfo": {
+    "address": "AQpLvNy5hCViAzfBr9jAGGztemYMNoQUffr7qADD7bAM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AQpL",
+    "symbol": "AQpLv"
   }
 }

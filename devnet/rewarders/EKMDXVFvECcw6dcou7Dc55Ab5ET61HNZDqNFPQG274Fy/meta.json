@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FBQeqUTYK6tqmP2TWKEYtMd4DxWNKtQwuzPQxPw6TB9J",
-      "slug": "0",
+      "slug": "7v4fq",
       "stakedToken": {
         "decimals": 6,
         "mint": "7v4FQX9xnKUDKrBy5sQrR1nmDv2iT6ZzV7KSuXEMqgU5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HqpWdcXxLRQ6zwLMJ1GdGTPv2EFRXDqQaiXpMSLkZpVR",
-      "slug": "1",
+      "slug": "9am2r",
       "stakedToken": {
         "decimals": 6,
         "mint": "9aM2r9C83tU9Rdi8txwRehhH5wAa37ZD6nooLkcgAyRu"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DsiB3KrXmXz9VYFPPESAjnWmiTQc5RD5b9eqzSacMprW"
+  },
+  "rewardsTokenInfo": {
+    "address": "DsiB3KrXmXz9VYFPPESAjnWmiTQc5RD5b9eqzSacMprW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DsiB",
+    "symbol": "DsiB3"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2VaDzYZgfJZKpBzESTvpWKZvUHgD5MH5f3QgKa3N5b1u",
-      "slug": "0",
+      "slug": "agebm",
       "stakedToken": {
         "decimals": 6,
         "mint": "AgeBmcyMYtrPraEdL1tCP4HUaCjBXWiSZkKvtVq5S8GP"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6yu71np3Ge9v4EAiExm59EEfouBsXtH1ozHy5wF5yJfj",
-      "slug": "1",
+      "slug": "7mgx7",
       "stakedToken": {
         "decimals": 6,
         "mint": "7MgX7BMB3SkNtioMxd6jcpQ8gf3o48bVhNBdW3vo8Kr8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J9Wu4gYwR8eGLPi9JFrdjx4rRvjqd8zxgscG9LZ6iQpa"
+  },
+  "rewardsTokenInfo": {
+    "address": "J9Wu4gYwR8eGLPi9JFrdjx4rRvjqd8zxgscG9LZ6iQpa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J9Wu",
+    "symbol": "J9Wu4"
   }
 }

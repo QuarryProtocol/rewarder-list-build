@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AQRyGpdLYycUgPZtHAbjgy7rFmzEmCmZ8CD2bG9qhweU",
-      "slug": "0",
+      "slug": "6ovjd",
       "stakedToken": {
         "decimals": 6,
         "mint": "6ovJdXkFWSuCyUpsp6u34YZUFS5bTbcgz6d935tzPwL5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2nMKf3x1FjeHGfcKRPyCrVc6srm9CBe4o4y4JUdSH8eN",
-      "slug": "1",
+      "slug": "ajigk",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJigKrbf742Uk4f9tkoQK5t21bHzoioGL8SFrZzG3yRH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H4a7rAhjqLF7HDHvXag1UzEe1sxzyMH2mXSwPVw9FbTP"
+  },
+  "rewardsTokenInfo": {
+    "address": "H4a7rAhjqLF7HDHvXag1UzEe1sxzyMH2mXSwPVw9FbTP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H4a7",
+    "symbol": "H4a7r"
   }
 }

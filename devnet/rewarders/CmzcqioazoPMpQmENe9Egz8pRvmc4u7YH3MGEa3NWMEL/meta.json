@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "59sqVhG6EfKFDJHzmVqLDtwLA2HrCKotRjshiyBrDLC3",
-      "slug": "0",
+      "slug": "8haxm",
       "stakedToken": {
         "decimals": 6,
         "mint": "8HaxMvTwnCvuv59xZemgEYE3JaiomHWGdApNJc9rcPKv"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2VFp7X51yipoCbbBsMeEY4MATftVHSf34ePxyPWuRmzP",
-      "slug": "1",
+      "slug": "5wcs5",
       "stakedToken": {
         "decimals": 6,
         "mint": "5WCs5ajt4cM6LHsqdFjjW8wUPLksdYSPQix8vPFSKxj7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2m3AJQj25D6yijVN5AoPCz7d14nmjfpnsHgag9Nzivsm"
+  },
+  "rewardsTokenInfo": {
+    "address": "2m3AJQj25D6yijVN5AoPCz7d14nmjfpnsHgag9Nzivsm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2m3A",
+    "symbol": "2m3AJ"
   }
 }

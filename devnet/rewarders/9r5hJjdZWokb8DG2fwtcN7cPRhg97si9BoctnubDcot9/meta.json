@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FMoyZRv77Y4ULH5DKnRd44zBp9YzcLhDojTzX553rPuh",
-      "slug": "0",
+      "slug": "a44ah",
       "stakedToken": {
         "decimals": 6,
         "mint": "A44aHJBSZy8br8LmMJU1KenNdEYRndqA2s4ceVvw88x6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EXhVuYH6vfs5jn6dnQRKeZ43b9hZ4YQwJ9bEYSCmjm4y",
-      "slug": "1",
+      "slug": "gqbrt",
       "stakedToken": {
         "decimals": 6,
         "mint": "GqBrTskF35mLxipLwtiTPs216FyVXVynU7jXfovsgUXj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "S8oQASQMagFAgnybjuUSfXBLCPVEeGxevFKQFkQC5d3"
+  },
+  "rewardsTokenInfo": {
+    "address": "S8oQASQMagFAgnybjuUSfXBLCPVEeGxevFKQFkQC5d3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token S8oQ",
+    "symbol": "S8oQA"
   }
 }

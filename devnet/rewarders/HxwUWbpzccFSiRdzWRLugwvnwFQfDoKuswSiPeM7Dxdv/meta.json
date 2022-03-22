@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CgEGGkfYFWfac31az7HPd64UySWYLAgRLdh6eJWrYZvd",
-      "slug": "0",
+      "slug": "hfpvp",
       "stakedToken": {
         "decimals": 6,
         "mint": "HfpvP7d31GRZ8QfFjSBwJkoXC49syxz57Xibr9DN3NE3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Apyhd8n91UBW8DfzsywExq23cgazF3jF6BJpv3FzmVjV",
-      "slug": "1",
+      "slug": "g1gvk",
       "stakedToken": {
         "decimals": 6,
         "mint": "G1GvkMGicLiDxLpRpCYx51c2zWG71n9h5RfBJJL1mAQt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F5oQzfRSf89LX93XgXLKZaRhghF5BtQkyievUMeQa4GC"
+  },
+  "rewardsTokenInfo": {
+    "address": "F5oQzfRSf89LX93XgXLKZaRhghF5BtQkyievUMeQa4GC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F5oQ",
+    "symbol": "F5oQz"
   }
 }

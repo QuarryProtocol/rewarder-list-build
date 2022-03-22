@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A3p47NpfWAuYRCBEnPe7eJwt2pbeKA54MtoBjt9TqrAB",
-      "slug": "0",
+      "slug": "eplqc",
       "stakedToken": {
         "decimals": 6,
         "mint": "EpLqcbUQyPsmQKmE2PH6y1wkvCXxbLskv7CoM8DY9s8V"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HWFCe1torxdKb9RTd1gRVAmrPtE6oSojR7wfxPK6Yks",
-      "slug": "1",
+      "slug": "aewqe",
       "stakedToken": {
         "decimals": 6,
         "mint": "AeWQeSzeQ9W12ztpxaJ1ynH3B8eayK2hXvzUun7mWZvg"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Hk3G1UcAxx8NyTd6nna3EsHtuHg3TDN3XitArTMPWhfn"
+  },
+  "rewardsTokenInfo": {
+    "address": "Hk3G1UcAxx8NyTd6nna3EsHtuHg3TDN3XitArTMPWhfn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Hk3G",
+    "symbol": "Hk3G1"
   }
 }

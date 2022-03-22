@@ -14,7 +14,7 @@
       "quarry": "FbKStNnkcvd9aF4TSwWZN2GReSjuBpUii7BYJJofBv59",
       "replicaMint": "ENrjuK2Qta98SQvrZY3dNy3zTrsKfzjh7ENSdoPmEfAU",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cuoar",
       "stakedToken": {
         "decimals": 6,
         "mint": "CuoarhG3PsxXiX2GmbR2444NG46pSuuMBknHNEDEQkLB"
@@ -32,7 +32,7 @@
       "quarry": "D8G6oswLitRGmC3mHdNShFeDyTTpypMfq5pqZopE8fig",
       "replicaMint": "BUpfZekWtfwF8pveAZFxftFxWnVAF65doRhstNG6YAk4",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cnthl",
       "stakedToken": {
         "decimals": 6,
         "mint": "CNthLVJuVG17fuKPJFNX4rWpjY24bWQCm1GmsNsBWX9o"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4VJcQKhsKUqbd2AZKCui971vHDLLKQdvGTHVxsqEQVkd"
+  },
+  "rewardsTokenInfo": {
+    "address": "4VJcQKhsKUqbd2AZKCui971vHDLLKQdvGTHVxsqEQVkd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4VJc",
+    "symbol": "4VJcQ"
   },
   "slug": "3Gao7U7TzmXuBH9B2yUtrD2CAjPfseqgRfh3mmsxPwEh"
 }

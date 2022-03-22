@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F6YLLBzYo7Hss6QnBMnK9TV6AocvtNyVxAj9Xhgf4miw",
-      "slug": "0",
+      "slug": "59xrk",
       "stakedToken": {
         "decimals": 6,
         "mint": "59xRkwjxjMAz1XPTrSrxHSFXMgi1cPjjAyewQCszA9ki"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4Rzsp36UFuGCMcY5LZrLtVzbjEbGZVZkUJxVMnXLuGz6",
-      "slug": "1",
+      "slug": "eebep",
       "stakedToken": {
         "decimals": 6,
         "mint": "EEBEPGDf9x8dnav78nWHi2SmeXvLdrYTvzUD82teF7zJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5GNym2YjsiHLzBdCBkLtXisuP8xNivkxfSNoZn2cessD"
+  },
+  "rewardsTokenInfo": {
+    "address": "5GNym2YjsiHLzBdCBkLtXisuP8xNivkxfSNoZn2cessD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5GNy",
+    "symbol": "5GNym"
   }
 }

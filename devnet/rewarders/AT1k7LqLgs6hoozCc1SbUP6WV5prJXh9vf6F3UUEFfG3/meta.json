@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AwRketmuYEuG6iNSnLMJDP6fzUR32eKvdCW9MgYUxnFM",
-      "slug": "0",
+      "slug": "4x45x",
       "stakedToken": {
         "decimals": 6,
         "mint": "4x45XnjR9CKPYNd3VBwcXGy2vdvaMzQ6vihiS49b35M1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9pfSZtD3R6agDeXjeVYbNmFPaV2mBg1iCdjYAmuu3wuC",
-      "slug": "1",
+      "slug": "hckds",
       "stakedToken": {
         "decimals": 6,
         "mint": "HcKDSBqNPvQ2N7q9bxmjys3EdSVczWiQKiWRXQehB3dw"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6KuRXq4vPJZpMpfnDhKFbCYn55B3qXjQ7mxcSkxt6aYN"
+  },
+  "rewardsTokenInfo": {
+    "address": "6KuRXq4vPJZpMpfnDhKFbCYn55B3qXjQ7mxcSkxt6aYN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6KuR",
+    "symbol": "6KuRX"
   }
 }

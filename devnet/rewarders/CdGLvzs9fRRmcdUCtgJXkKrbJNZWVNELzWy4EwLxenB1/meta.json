@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6NEsc1Tir9DvBUAYvQRXzDaL4dijxEYZmw5cK4NmTm1u",
-      "slug": "0",
+      "slug": "epkmb",
       "stakedToken": {
         "decimals": 6,
         "mint": "epKmBDQs3rC56Y1ud6Gx5nn5VLdKWbHP1pPNescp2bs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "kWM5UNczQbrdsERJ7ufwgdDP1TAjbY5j1EzQwNsjDiV",
-      "slug": "1",
+      "slug": "ge7gs",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ge7GsRzm3eGpmUumFRV82fuhx4eD5KpZXz2fEW5Ay4aD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5ty4MWsHi2z8DmxJN6kjiLv2B9paEHnP1LohkDGACFSE"
+  },
+  "rewardsTokenInfo": {
+    "address": "5ty4MWsHi2z8DmxJN6kjiLv2B9paEHnP1LohkDGACFSE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5ty4",
+    "symbol": "5ty4M"
   }
 }

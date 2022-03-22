@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9aQvbKenz87FjxkCyR3cCRYJTgky6MQ39qfcJPX1Ekgv",
-      "slug": "0",
+      "slug": "9oct7",
       "stakedToken": {
         "decimals": 6,
         "mint": "9oCT7HrMjjmFY7JnpoKkRsBzHYaKM6VBNYTyobq8T3Ky"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7hfi2tmQ6DuVhG6hsJsbudMugyVYSt8SttCwvPch79MW",
-      "slug": "1",
+      "slug": "2syug",
       "stakedToken": {
         "decimals": 6,
         "mint": "2SyUGDPEecoayc7zEENgaMig6T7m7ZnD5jibifgvrsGx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "C77p4E1FV4G2yZ2fG11zmsZHvD928qmY2ZpT195i6tNw"
+  },
+  "rewardsTokenInfo": {
+    "address": "C77p4E1FV4G2yZ2fG11zmsZHvD928qmY2ZpT195i6tNw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token C77p",
+    "symbol": "C77p4"
   }
 }

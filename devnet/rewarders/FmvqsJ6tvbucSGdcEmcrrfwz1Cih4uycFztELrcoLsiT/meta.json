@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AYD2tpiCe7moV7EmZGXP4VrQ68c8wmHEKz7h1krdwbCP",
-      "slug": "0",
+      "slug": "ctzkj",
       "stakedToken": {
         "decimals": 6,
         "mint": "CtzKJBE7uSMmsc822r6Bpb2wo4tUoZjbz6Eb56vTJCDZ"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CtzKJBE7uSMmsc822r6Bpb2wo4tUoZjbz6Eb56vTJCDZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "CtzKJBE7uSMmsc822r6Bpb2wo4tUoZjbz6Eb56vTJCDZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CtzK",
+    "symbol": "CtzKJ"
   }
 }

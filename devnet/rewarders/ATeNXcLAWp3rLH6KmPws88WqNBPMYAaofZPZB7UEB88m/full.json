@@ -14,7 +14,7 @@
       "quarry": "PjivoJ4HV1Py7SgYqXw3WWQU4ogMAgUMBCJfrSr6b3p",
       "replicaMint": "7DQ6MMMW7CraKS3g1j7QpVxdii8dU6gs7GGFE16zQDjh",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hnemv",
       "stakedToken": {
         "decimals": 6,
         "mint": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ"
@@ -32,7 +32,7 @@
       "quarry": "EMocJdYBnujB4LFxHN2Dhzh7T7ryDXXCTsV7mRjL1hFS",
       "replicaMint": "8vD6WFrc9WGEfu9Np2ky72Bey4BrHZjSngXzyD2oxjNe",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "2kadc",
       "stakedToken": {
         "decimals": 6,
         "mint": "2KADC9LkRwR5wYxi5XwGZ5kx5CRo1Y6tr8gFiSGQbCxT"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "HNEmvF8wUAknQCnpDycqF9abP9B8otCggoetWcvgkczZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HNEm",
+    "symbol": "HNEmv"
   },
   "slug": "ATeNXcLAWp3rLH6KmPws88WqNBPMYAaofZPZB7UEB88m"
 }

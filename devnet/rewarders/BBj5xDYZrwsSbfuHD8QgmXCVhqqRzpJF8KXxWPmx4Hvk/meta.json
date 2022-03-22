@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5DvgNgsgv9JrCNEsq78haegUWmQ8CcY3tvjR7Y13ja9w",
-      "slug": "0",
+      "slug": "8w51c",
       "stakedToken": {
         "decimals": 6,
         "mint": "8w51cW8j9FsUuWZQ4YXNF6bSruR3TT1GG7yZJF8QBo7S"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2611QmE9eX6nsiVgMpk3XtHs1EcFBMhtM1wFDiJ9qkxy",
-      "slug": "1",
+      "slug": "8d2od",
       "stakedToken": {
         "decimals": 6,
         "mint": "8d2odBJeHo1cDE24xD7dbdBvZpqB3qDheBJZDqB9yRrK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gc43KpRgG3GzRRyxvE2sHmMCyovLevkSPm64B7dyxXoV"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gc43KpRgG3GzRRyxvE2sHmMCyovLevkSPm64B7dyxXoV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gc43",
+    "symbol": "Gc43K"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BTSzcaDkUiAm6jS8GyhsB1optVR386jALyZkVkzc9EXk",
-      "slug": "0",
+      "slug": "7srlc",
       "stakedToken": {
         "decimals": 6,
         "mint": "7srLcqMpwP52sF1pWPMhV4faCaXTtoS2y2vC4nK1nXdC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4Qr9qXXzPhGjZWztTSt3u7YwRy5JcLRybvcHfUh8Ghpc",
-      "slug": "1",
+      "slug": "fwmmr",
       "stakedToken": {
         "decimals": 6,
         "mint": "FWMmrKKfJW3HyPkegqXRpn99YFGrvW6K3FYWErp57SKq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GA9rcAis3wgAvSXFVEiz5oinJd3jUQtxwdcKPcxnyjSG"
+  },
+  "rewardsTokenInfo": {
+    "address": "GA9rcAis3wgAvSXFVEiz5oinJd3jUQtxwdcKPcxnyjSG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GA9r",
+    "symbol": "GA9rc"
   }
 }

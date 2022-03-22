@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HAANVfQsUaahdTkL8sYyjBfd5sBdjnt6T49qebgEHf7X",
-      "slug": "0",
+      "slug": "b7wxu",
       "stakedToken": {
         "decimals": 6,
         "mint": "B7wXUNX6oms6zJ2eAbWm5GTTzHZ2um1iYfsBZwTRoMEi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "117aCoXuComb3eLFP4JLjrjVq3MnVTq3K5kpw5Pt67g",
-      "slug": "1",
+      "slug": "crcjh",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrCjhDUstqCxctUjmKUyDEvQTswW1wARV3mQ5E2irWUH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GrNmZXfTAgNoy15qJ3e2PxhRipATbwofv75S4nNeC51g"
+  },
+  "rewardsTokenInfo": {
+    "address": "GrNmZXfTAgNoy15qJ3e2PxhRipATbwofv75S4nNeC51g",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GrNm",
+    "symbol": "GrNmZ"
   }
 }

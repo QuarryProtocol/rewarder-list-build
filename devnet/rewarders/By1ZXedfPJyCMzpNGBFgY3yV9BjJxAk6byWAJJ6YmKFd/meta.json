@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J5xS2Y76TsSF19whdhFphdw78z6ftGtAGDANZQawzvJK",
-      "slug": "0",
+      "slug": "b6xik",
       "stakedToken": {
         "decimals": 6,
         "mint": "B6XikHKzXctyy78at6xxdtJ4WgepzyEkU9r7Pg8QKRia"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AdkjF3NZPtWwKtmN8cNQ8xM15irTkqMLdyZQ8PVKhBHM",
-      "slug": "1",
+      "slug": "b6v8a",
       "stakedToken": {
         "decimals": 6,
         "mint": "B6v8ay1whHMFoeUuRqyd4d37YZSSauLEdYP4bmXv6kBH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E3UnBrTDxNKyW4hvKXB4XmML6jazgWr6UrEiopPtbE5s"
+  },
+  "rewardsTokenInfo": {
+    "address": "E3UnBrTDxNKyW4hvKXB4XmML6jazgWr6UrEiopPtbE5s",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E3Un",
+    "symbol": "E3UnB"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3ea4Kxq8Cbn4gTe731X6WeAkKf23Chmm4oezi7ea1eqV",
-      "slug": "0",
+      "slug": "ejxbe",
       "stakedToken": {
         "decimals": 6,
         "mint": "EJxbeaLwEzvmcQMqhrczoMttCTq13chyMP1M9teAtkGJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HGzqCHW6hNn7EgzpoHKmU4t3wm9G4i371xmkQwaojUGS",
-      "slug": "1",
+      "slug": "fszcv",
       "stakedToken": {
         "decimals": 6,
         "mint": "FSZCv2GkuCdXmfHDzYRb8JwQB3nsdHNWwrtyhbQcSMhW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CKtVSvYUamhkFZftciKgaArykLxaTKfBwH9rPeo94puz"
+  },
+  "rewardsTokenInfo": {
+    "address": "CKtVSvYUamhkFZftciKgaArykLxaTKfBwH9rPeo94puz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CKtV",
+    "symbol": "CKtVS"
   }
 }

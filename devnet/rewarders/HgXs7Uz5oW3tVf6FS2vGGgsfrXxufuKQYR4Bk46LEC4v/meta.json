@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DWM9MT3PR3YnAC1JhWEGztfPLzha3XPCrRoyEiNyeTdE",
-      "slug": "0",
+      "slug": "3wsc6",
       "stakedToken": {
         "decimals": 6,
         "mint": "3WSc6nh5M5o3r5GRwHSF12fNQcVTVsP4TvnKm2kMchri"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CuUfyxMXSoc2rLSTf4Fy4XbovcdnEjw2p6cSe2o7jCug",
-      "slug": "1",
+      "slug": "c5peu",
       "stakedToken": {
         "decimals": 6,
         "mint": "C5peu2hxwhog4Cwdmzf32ZJrdNUQQHuk9eJD776Ju6k"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6LuDVSF3xqH9NrDu8Fmw6VQ6bPWo5wecSp2q7mB7tWYU"
+  },
+  "rewardsTokenInfo": {
+    "address": "6LuDVSF3xqH9NrDu8Fmw6VQ6bPWo5wecSp2q7mB7tWYU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6LuD",
+    "symbol": "6LuDV"
   }
 }

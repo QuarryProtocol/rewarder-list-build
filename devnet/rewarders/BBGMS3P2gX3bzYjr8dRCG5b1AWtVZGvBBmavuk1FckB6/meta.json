@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BCmcQKTSLDXkH4novHSPz2EgGY6jwJn4EXbAzSDDpvmX",
-      "slug": "0",
+      "slug": "c8upx",
       "stakedToken": {
         "decimals": 6,
         "mint": "C8upXpfvZS9RrdYSvboJuuQnzyzhDG8Y3j6LAnDpcsgx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BqcJGXAWY7w6DJYVy2oq6NzqMB6oRQGnXhzkiAzVbTCd",
-      "slug": "1",
+      "slug": "8dnza",
       "stakedToken": {
         "decimals": 6,
         "mint": "8dnZABqiaP5Uets3vjo3bAUU8AwW2smgEKuV93qF9UC7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3vv5mGDxYTRJAXbTUHpsst9krwJbapZit3Expbv9cD1u"
+  },
+  "rewardsTokenInfo": {
+    "address": "3vv5mGDxYTRJAXbTUHpsst9krwJbapZit3Expbv9cD1u",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3vv5",
+    "symbol": "3vv5m"
   }
 }

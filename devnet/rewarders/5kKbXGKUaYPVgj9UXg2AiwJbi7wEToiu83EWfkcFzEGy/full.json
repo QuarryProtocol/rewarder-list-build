@@ -14,7 +14,7 @@
       "quarry": "3J1Dyc7AQxbyvwZb7E84y8MvqGkdK2zcYDLTPrmkE7dB",
       "replicaMint": "Mqzd7PceKtUAzWnrFJLV2X6rxgG62nbWXP7rpDnWFr8",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "j1y8m",
       "stakedToken": {
         "decimals": 6,
         "mint": "J1Y8mnvW8kGYwBzFXkLjgjk64BJUhfRU2DBpAkV18eLP"
@@ -32,7 +32,7 @@
       "quarry": "3SCePQx8vphPZkwnX98AToSWwwb1k2CrR84oKgkUQL3L",
       "replicaMint": "7GYvCFz4ngDj1YFY1MFiypA7wBDuMBXLgeThpZPaG845",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "dgwiu",
       "stakedToken": {
         "decimals": 6,
         "mint": "DgWiuheQAFtcv3ipa1fLLrSDTZHipNLra8Yrn7bezSdB"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4bi1UFmmJrLqLNwZvvziwiuHHhWrfSHkMCaf3ykFejfN"
+  },
+  "rewardsTokenInfo": {
+    "address": "4bi1UFmmJrLqLNwZvvziwiuHHhWrfSHkMCaf3ykFejfN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4bi1",
+    "symbol": "4bi1U"
   },
   "slug": "5kKbXGKUaYPVgj9UXg2AiwJbi7wEToiu83EWfkcFzEGy"
 }

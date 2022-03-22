@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "JDV4Po8zPCjbPnzCCyoQFYExqA8PazdnVySzdCac4Ny3",
-      "slug": "0",
+      "slug": "2pixu",
       "stakedToken": {
         "decimals": 6,
         "mint": "2PiXuxPsAWWD4EHwjfuuJL88gGFz1xPqC1ZgRViDYQZs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "H6WCFA5C9kCRNNcdAoW8c3uM6JnZj2VDBZSSA78ZXLEF",
-      "slug": "1",
+      "slug": "gzjyq",
       "stakedToken": {
         "decimals": 6,
         "mint": "GZjYQ85gXY2hn62qm36CeHmYXNmXXqUWjTStS9wu7JRx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BQtyYW2Vg6Mjv5kwUE1QpMRqBabRmF1e9LpEFnsxsMVn"
+  },
+  "rewardsTokenInfo": {
+    "address": "BQtyYW2Vg6Mjv5kwUE1QpMRqBabRmF1e9LpEFnsxsMVn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BQty",
+    "symbol": "BQtyY"
   }
 }

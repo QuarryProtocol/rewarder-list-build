@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3vPPPYoBxTtZvT8RAnrbs7zZGR8qsFLjCVboSCdY1wds",
-      "slug": "0",
+      "slug": "bctbn",
       "stakedToken": {
         "decimals": 6,
         "mint": "BcTBn5wSD6GUdpRqTqErSLKME5faMK6mc75nRQZrVhyn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CJydQrzeeMgMwhqPUDJZbSKbnPuB94PFb9KwbdRiUGMq",
-      "slug": "1",
+      "slug": "eue4a",
       "stakedToken": {
         "decimals": 6,
         "mint": "Eue4AAugd9jcncyjcV4hp7WFhRwmZukiUbVNXr5DumBw"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EMhKXfssWYa7yP3jxKfbwzdewhCzf48sGQjFKkYxqRUH"
+  },
+  "rewardsTokenInfo": {
+    "address": "EMhKXfssWYa7yP3jxKfbwzdewhCzf48sGQjFKkYxqRUH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EMhK",
+    "symbol": "EMhKX"
   }
 }

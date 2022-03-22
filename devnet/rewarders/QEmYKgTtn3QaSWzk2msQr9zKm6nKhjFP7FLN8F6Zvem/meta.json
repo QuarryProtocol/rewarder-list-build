@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8LSqqFhL2fWUtz8ZeeGy2RumrerPJpA7FjLRRKmNVqYA",
-      "slug": "0",
+      "slug": "anykh",
       "stakedToken": {
         "decimals": 6,
         "mint": "AnYkhzYYEFzjAZ19MM8qreFHX3VfAMCELRxs5sBozLZX"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AnYkhzYYEFzjAZ19MM8qreFHX3VfAMCELRxs5sBozLZX"
+  },
+  "rewardsTokenInfo": {
+    "address": "AnYkhzYYEFzjAZ19MM8qreFHX3VfAMCELRxs5sBozLZX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AnYk",
+    "symbol": "AnYkh"
   }
 }

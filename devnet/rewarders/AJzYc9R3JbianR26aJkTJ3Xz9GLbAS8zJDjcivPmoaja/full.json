@@ -13,7 +13,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "5Xd8xVo1qCdBU7rVaE1up9WZv1cuf5KGpLte4FheoP63",
       "redeemerVaultATA": "3PEJsaKJzWJeU6CsYEtCRsURWvemCL29wXrzUU2uwCQG",
-      "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+      "underlyingToken": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+      "underlyingTokenInfo": {
+        "address": "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token swim",
+        "symbol": "swimn"
+      }
     },
     "website": "https://swim.io"
   },
@@ -31,7 +38,7 @@
       "quarry": "22WUj5ZeTEyJBUUnDwAq957EwxFt78usvP4GVxpYa3Ve",
       "replicaMint": "8983Fznqco9mWw7FRx71oAvDUDkMww4Xd2k6CobQuJmK",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dcluk",
       "stakedToken": {
         "decimals": 6,
         "mint": "DcLuK13UwQcVC5WYLZywRLP2tFKpEFxLgqnjJoKMSXA7"
@@ -49,7 +56,7 @@
       "quarry": "DE7emYNnM7FMXnUotg3aJZrSUYqrxQ3WzU1VkeptuqhQ",
       "replicaMint": "J1DawG91UGdTbeu8AzwNk5Upi6Eu4yiaPRCtchDCT1A1",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "bgdtb",
       "stakedToken": {
         "decimals": 6,
         "mint": "BGDtBjkqrGngnN7b2yK67wUMZjUr5Zk64xocS5Jrb4fa"
@@ -67,7 +74,7 @@
       "quarry": "nGf5hP9DmBXmru53J8AGDz7CftQUKGrythNRW48ygoL",
       "replicaMint": "E4pNSKxMxBGcbwW1RR7fqePWmkidYuWP1UVqScbfKhHb",
       "replicaQuarries": [],
-      "slug": "2",
+      "slug": "7hhdw",
       "stakedToken": {
         "decimals": 8,
         "mint": "7HhdWJLQsy6x1cTfpLWh2BW6oubyojR1rwDXCgheBHUm"
@@ -75,8 +82,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token SWim",
+    "symbol": "SWimC"
   },
   "slug": "swim"
 }

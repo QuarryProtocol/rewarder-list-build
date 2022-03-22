@@ -14,7 +14,7 @@
       "quarry": "EFLtBTfTtTPwQ3eLhpuK8SqqyERtywhtgF1yfQao4spS",
       "replicaMint": "49HsHVUnLnD8pLnT4Ua5Q2G9MAJUjSbRqyXvB7VvJ3uW",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "isoij",
       "stakedToken": {
         "decimals": 6,
         "mint": "iSoij2Kiuu2iUW7AHPMqwHBa2gZz2ytWRa5jrzNmAjy"
@@ -32,7 +32,7 @@
       "quarry": "GQLywVqgcqtYfhZXTqttQsAsb79TsgtrkJHvzMAR4398",
       "replicaMint": "FDpmkhu4DhGgkGhy6QdNsAX9C4LHuMT4kMX36KQPx6QF",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hudaa",
       "stakedToken": {
         "decimals": 6,
         "mint": "HUdaAQCcwJtPxYzWier6DrMYSCW1qUtHQ724c69XAmab"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ay76UrPLNLuZEeGiu9EmzTHnKPdFanKuMnMgu5qimXzH"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ay76UrPLNLuZEeGiu9EmzTHnKPdFanKuMnMgu5qimXzH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ay76",
+    "symbol": "Ay76U"
   },
   "slug": "H6mtRCnzTxTXk2sMPALVs7AUyRhdPVmRsfWcQ7VDg3bb"
 }

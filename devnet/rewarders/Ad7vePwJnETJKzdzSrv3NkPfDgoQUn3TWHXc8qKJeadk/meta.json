@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4j2yS9xu83d5s7PPwWxrgTJnJLmPfSGyc2GDAw8YTJj6",
-      "slug": "0",
+      "slug": "rrcf8",
       "stakedToken": {
         "decimals": 6,
         "mint": "Rrcf8v6WhqBj6mVc2rFmCuKeVnrTkqvyQSU8dSK9mpb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "59nMW3jPG4priurx7WcenJGoRw1LBbnMHrjAnEGkvDSB",
-      "slug": "1",
+      "slug": "fmnhd",
       "stakedToken": {
         "decimals": 6,
         "mint": "FmnhD7ueesrHs38SDoXHQCcbdkfzpXn3KWDCLoChordA"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CXHdexgmzRfSQVSgCDfA2CNFQs3ejnqsvxP1AHFTjPyw"
+  },
+  "rewardsTokenInfo": {
+    "address": "CXHdexgmzRfSQVSgCDfA2CNFQs3ejnqsvxP1AHFTjPyw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CXHd",
+    "symbol": "CXHde"
   }
 }

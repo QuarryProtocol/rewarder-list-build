@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4FV6YnYcVTzLT3DssfdeEg5NGQRqmrupruWbHmGLDQCa",
-      "slug": "0",
+      "slug": "bcax7",
       "stakedToken": {
         "decimals": 6,
         "mint": "BcAx7Gbb8mimmLpt45Z84VrcmtX4mD5FGHTEcb99b7hp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DcYYm7jvx5pThT5SfPp9ckgTLZDXH7KGGBKZAy8VEY8W",
-      "slug": "1",
+      "slug": "bjyyg",
       "stakedToken": {
         "decimals": 6,
         "mint": "BJyYghtVAQDxJEZSRTMW5G1i39fASbPBsoXhpbY7kkGg"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2rMY6So46qSQYm6gt6vVG2fsLmwf7pqthJd8rw5XeKCA"
+  },
+  "rewardsTokenInfo": {
+    "address": "2rMY6So46qSQYm6gt6vVG2fsLmwf7pqthJd8rw5XeKCA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2rMY",
+    "symbol": "2rMY6"
   }
 }

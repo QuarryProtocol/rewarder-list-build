@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CWgHELPTJFdNydfaV5BZSjnjtCdatWjkEkRBqcW1SR5s",
-      "slug": "0",
+      "slug": "c7qgr",
       "stakedToken": {
         "decimals": 6,
         "mint": "C7Qgrh72zpRK5yRkRqtdfqv9PfBeUexAwmRUB9FGRBPU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Gt6Eet8oZc5ZXsoPREk3YKB5ubFekMXKB68o4cu2J2pL",
-      "slug": "1",
+      "slug": "6vqte",
       "stakedToken": {
         "decimals": 6,
         "mint": "6vQteKGHbvR9dXbVRhj9cjA83QgspNYMS3kD3bRZsnKU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FQfpHyCiuCv5y2WCyEBGwGF6hYgKUqZRMiZ9puFwCY7P"
+  },
+  "rewardsTokenInfo": {
+    "address": "FQfpHyCiuCv5y2WCyEBGwGF6hYgKUqZRMiZ9puFwCY7P",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FQfp",
+    "symbol": "FQfpH"
   }
 }

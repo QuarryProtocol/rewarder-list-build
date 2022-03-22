@@ -14,7 +14,7 @@
       "quarry": "6QhbMWCv7vxbrLdsr4jjL1L3KYrDJ27J1d2WY12rM446",
       "replicaMint": "EuUpVqiMRzmtexPdLbR2EDAdetJYXnwmx3fDorMyhCjx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ccumi",
       "stakedToken": {
         "decimals": 6,
         "mint": "CcUMiTESmKtrL6v5j14XMbMFBHLkryhEr64jsocmvY6w"
@@ -32,7 +32,7 @@
       "quarry": "GLtK2ZsAhCSszXR2hDWZHNVfJnq9Y3KEQev72ofZmNYd",
       "replicaMint": "EmsTrX6z88zycTQxiMs2QYZPmsarcZmtHLDZKwbVfvjP",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5kvp9",
       "stakedToken": {
         "decimals": 6,
         "mint": "5Kvp95geesG7jT7yo7fUzt4qjWbLeURacrEDMeY9D67H"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BTv1sUeW5sjj2PxNKzAS2deDdA62e3H5ZqevL7kLRpEM"
+  },
+  "rewardsTokenInfo": {
+    "address": "BTv1sUeW5sjj2PxNKzAS2deDdA62e3H5ZqevL7kLRpEM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BTv1",
+    "symbol": "BTv1s"
   },
   "slug": "DzqU6o1p1KDizKHg3auszSFzzTMPkTtmW3pDgJ2smrsS"
 }

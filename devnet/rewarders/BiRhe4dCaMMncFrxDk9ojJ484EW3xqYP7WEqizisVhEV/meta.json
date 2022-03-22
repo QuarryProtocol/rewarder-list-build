@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AyeG5qSE8Q6HDvQSAQnALvtXne1UxabjXj1cnLPWW6t3",
-      "slug": "0",
+      "slug": "84bxc",
       "stakedToken": {
         "decimals": 6,
         "mint": "84bXcNfaKR7PmUgMm7DQ2d7zmL5BTTd7J1z1HTXtK2v3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7HuQB2TQzFi1cdzeSU5HrJV8F3arpbyHQMp4t4jxWwnU",
-      "slug": "1",
+      "slug": "fncyy",
       "stakedToken": {
         "decimals": 6,
         "mint": "FNcyYdHynyx4gFHmUco6rHDpdkwXNARQzEwxYooGS8W4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EpAMYRuD6FK8dMShSpakDwifHkbdZoQVRqtxoXsdVPm6"
+  },
+  "rewardsTokenInfo": {
+    "address": "EpAMYRuD6FK8dMShSpakDwifHkbdZoQVRqtxoXsdVPm6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EpAM",
+    "symbol": "EpAMY"
   }
 }

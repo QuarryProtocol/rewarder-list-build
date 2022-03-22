@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FU4RXYe9axVUJWJ85PSudxLnbVPHqHPvDeEbnMsGa3kD",
-      "slug": "0",
+      "slug": "hesmq",
       "stakedToken": {
         "decimals": 6,
         "mint": "HESMQ88vP5GbhsdfU1MboDYYG7LFfrzTAMf5HaYZard3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "68ytifE9q4WshUyQMBsco33eGGfzRUBEupDkihjDoWdF",
-      "slug": "1",
+      "slug": "bapnb",
       "stakedToken": {
         "decimals": 6,
         "mint": "BaPNbFWBpEUhihLdwabXPFspgfC814vy4hkhcEo4dQXq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BbAQBeN8XBvTGzyqBPhEZfVb6CF2oXVnbFpAu8Lvr3FR"
+  },
+  "rewardsTokenInfo": {
+    "address": "BbAQBeN8XBvTGzyqBPhEZfVb6CF2oXVnbFpAu8Lvr3FR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BbAQ",
+    "symbol": "BbAQB"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EicfSw8bj3ghxPdjYRyNdFR8fZrLUqbSKS8fGjJ2vTWD",
-      "slug": "0",
+      "slug": "baget",
       "stakedToken": {
         "decimals": 6,
         "mint": "BageTAX3zZ5JC8bKzEvtonND14dtGHZAzBceZECpPVxu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "574SzhdG78ePcqeBxqiw8DkwD1ZSFnh8S8sHCGB3ZnXd",
-      "slug": "1",
+      "slug": "edreo",
       "stakedToken": {
         "decimals": 6,
         "mint": "EDREopqv3WQFMXvWaGZrtA1ryKi2BwaDno9Vcc8MeNqP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9R2jaubGZhReEkHUYPhP8TwXMRef3Qt1uTSRkBAnYVyY"
+  },
+  "rewardsTokenInfo": {
+    "address": "9R2jaubGZhReEkHUYPhP8TwXMRef3Qt1uTSRkBAnYVyY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9R2j",
+    "symbol": "9R2ja"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5SSqvKcq9v6yTRroaX1g63sBFgmNawktbtKyG2wMDWpJ",
-      "slug": "0",
+      "slug": "3sntc",
       "stakedToken": {
         "decimals": 6,
         "mint": "3sNtCY9yhyu5Nz1GoysgcmQJV9RJqpPvwn6d25f2Jsx3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FGBHtZ2HaYL5nY6JbPYRQWnCvF5PQhHHw2ntL5qPm3H2",
-      "slug": "1",
+      "slug": "dixse",
       "stakedToken": {
         "decimals": 6,
         "mint": "DixsE1UEiX3diGom4MXVtmNzanE3yzSWjZq2Q5Nom24a"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CAwq6eCXoZbMqJAfSYybLQ9fSWTb2EBAZ8Rzb7nKWKNC"
+  },
+  "rewardsTokenInfo": {
+    "address": "CAwq6eCXoZbMqJAfSYybLQ9fSWTb2EBAZ8Rzb7nKWKNC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CAwq",
+    "symbol": "CAwq6"
   }
 }

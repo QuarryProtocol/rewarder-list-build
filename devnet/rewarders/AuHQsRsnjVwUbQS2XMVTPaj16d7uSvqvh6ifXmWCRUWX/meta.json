@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CFLr7i5G9iqdJQ3Yb2bPZkU1jWm6ha8tsUj9rkUfnXfS",
-      "slug": "0",
+      "slug": "g8dvu",
       "stakedToken": {
         "decimals": 6,
         "mint": "G8DVUUCy1NTdFZo2wjCUAkQy52VvdzgsceWJW8Wea27D"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8bvaggsRNXML3gpvj48p7BhpPUDtxECLSZW4xiRq4bvT",
-      "slug": "1",
+      "slug": "ggmyj",
       "stakedToken": {
         "decimals": 6,
         "mint": "GGMyJcCdkvnedYPBy25WRyGDgEKFvUWHZrYRx6EZXigm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "gySJGPMoNUzsjHNXrcRMrsrVZ8xoPXaqHNZ8J8B95FC"
+  },
+  "rewardsTokenInfo": {
+    "address": "gySJGPMoNUzsjHNXrcRMrsrVZ8xoPXaqHNZ8J8B95FC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token gySJ",
+    "symbol": "gySJG"
   }
 }

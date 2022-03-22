@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "JCfiQnRrxzvQoY6guEFEhxhgi3gDJAvxGe6tEWVVXpTd",
-      "slug": "0",
+      "slug": "em9kp",
       "stakedToken": {
         "decimals": 6,
         "mint": "Em9kPPGQBBU1CD67o4xE1Kyy6WZEp7oFkCxqtNGkDopm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5hbyJWXJyHVuxin3uVVz31Q4mJgMJyaV4p1SeN6aWt79",
-      "slug": "1",
+      "slug": "2nbgw",
       "stakedToken": {
         "decimals": 6,
         "mint": "2nbGW75wtshL9wW9sBbS9jL23JFrr1CakbwTz3Yd5n1d"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ctd6EdUdt9zUBn7mjrnnny9bsfg3YVPeRcGwGnU1hD6G"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ctd6EdUdt9zUBn7mjrnnny9bsfg3YVPeRcGwGnU1hD6G",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ctd6",
+    "symbol": "Ctd6E"
   }
 }

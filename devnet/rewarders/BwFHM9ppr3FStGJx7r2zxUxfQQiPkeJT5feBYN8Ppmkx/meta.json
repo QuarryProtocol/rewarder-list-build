@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CZbyT1RxHS2gQCnA4k1XqiJagd79bWUNMPeB8PkYZ3BK",
-      "slug": "0",
+      "slug": "eyars",
       "stakedToken": {
         "decimals": 6,
         "mint": "EyaRsrUSPfjWM6z12sFJonzy1oddtXXW9rrAWqRnLGY5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J5ZUsntc4tk1f3Yf6p3dsntGcXztDYzCNVoQjaRk1KEt",
-      "slug": "1",
+      "slug": "bzjea",
       "stakedToken": {
         "decimals": 6,
         "mint": "BzjeaoCWQrVTQZQP6Yhz6dvArPxu1QACheA4kiNeVLq1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BnkwVYgKLq2vhoAi95NJMoyDHkN5A5DnZZN16GTN7CTC"
+  },
+  "rewardsTokenInfo": {
+    "address": "BnkwVYgKLq2vhoAi95NJMoyDHkN5A5DnZZN16GTN7CTC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bnkw",
+    "symbol": "BnkwV"
   }
 }

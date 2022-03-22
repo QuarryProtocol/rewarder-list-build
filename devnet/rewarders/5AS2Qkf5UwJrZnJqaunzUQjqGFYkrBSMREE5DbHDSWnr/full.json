@@ -14,7 +14,7 @@
       "quarry": "9zLJ1ifyRaF29vWfQYmu3nr7J9nrQ3S26PR21qxYkaBs",
       "replicaMint": "AHXikVABEjQexuLTWsHvSFyzXUbHRRexAJHChC3ABwFa",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "eo7ur",
       "stakedToken": {
         "decimals": 6,
         "mint": "Eo7UrHeiz1kGsDmR39VEtzGhJmFmauFMFsPRdGUTEJt6"
@@ -32,7 +32,7 @@
       "quarry": "CyLvjdGAevsH45VPYwWQnQGoUeouWeT1hWtHDEYwqTMg",
       "replicaMint": "CC9vL6K4ir3mhcB6HRZnGNvF5rByiLB2ineyu2VGLZmN",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "423ff",
       "stakedToken": {
         "decimals": 6,
         "mint": "423Ffnyswt1eidpqbKaDrE3JD2zrEW9PKQDNVfvYRoH1"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2dFYYeoFDjQmdzTYf13Q2ho9EWFfmEj6jU8XwthwXCoV"
+  },
+  "rewardsTokenInfo": {
+    "address": "2dFYYeoFDjQmdzTYf13Q2ho9EWFfmEj6jU8XwthwXCoV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2dFY",
+    "symbol": "2dFYY"
   },
   "slug": "5AS2Qkf5UwJrZnJqaunzUQjqGFYkrBSMREE5DbHDSWnr"
 }

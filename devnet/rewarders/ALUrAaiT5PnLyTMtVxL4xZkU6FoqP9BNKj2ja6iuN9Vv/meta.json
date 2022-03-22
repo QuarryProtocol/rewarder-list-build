@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DFJidFGSHywf8dob9thrtigofTLXySWwxiRwaEBrtDUF",
-      "slug": "0",
+      "slug": "are7k",
       "stakedToken": {
         "decimals": 6,
         "mint": "Are7KM1sPDdNTXqHXPZYVVDzzT2oVsZbVUqjFctfb5u6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J5yguUdhc9TixXiuxEQFQi37YGaYwCcxFvGXNKnBVJcf",
-      "slug": "1",
+      "slug": "emssa",
       "stakedToken": {
         "decimals": 6,
         "mint": "EmSSa3bdus3egnZmJAVowiwjqRwCStUuSWCuVQp6tM5k"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5x87jtmYWaPhiqzdChN3hd5fM28KeZMhNdxuRacLGSKG"
+  },
+  "rewardsTokenInfo": {
+    "address": "5x87jtmYWaPhiqzdChN3hd5fM28KeZMhNdxuRacLGSKG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5x87",
+    "symbol": "5x87j"
   }
 }

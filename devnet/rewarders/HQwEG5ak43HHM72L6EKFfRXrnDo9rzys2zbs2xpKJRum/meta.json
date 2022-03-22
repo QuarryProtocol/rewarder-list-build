@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GNSfinsGotjAWK3bGYnST8RzxUj4rMnTA3dr1ksEnxFW",
-      "slug": "0",
+      "slug": "8b3p8",
       "stakedToken": {
         "decimals": 6,
         "mint": "8b3P8XpVtSbCdLxSe1WZEyDDRggZAEJxtjpbFdg8vd5K"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2SkS6uJYBfFLnSNgYxe9t97hpqTrHCLZPFHdqrWDUquh",
-      "slug": "1",
+      "slug": "hpufc",
       "stakedToken": {
         "decimals": 6,
         "mint": "HPUfCkjedXtVrH29wDv53g3CVexgsPKyPXvsWWgXC97i"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2THwYk78ysCuEfkzUCKdNSSTZvXuBnNUpdrbjiEMvhfu"
+  },
+  "rewardsTokenInfo": {
+    "address": "2THwYk78ysCuEfkzUCKdNSSTZvXuBnNUpdrbjiEMvhfu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2THw",
+    "symbol": "2THwY"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5peSRLjgpyGUx5iA7fgasS2Af7yq2b7ZRjwxhXePg1kF",
-      "slug": "0",
+      "slug": "7shjd",
       "stakedToken": {
         "decimals": 6,
         "mint": "7shjDqw3cLx5Em8KSBF4sCjYURBiLZfmKpY35RCdmgKX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9CCfASrAKaBShTD4cm2Djcr7yHvFWg6uR4xWYmdiGrz6",
-      "slug": "1",
+      "slug": "7kjed",
       "stakedToken": {
         "decimals": 6,
         "mint": "7KjED2HTzmyS8NDcJwY4c3ZQKwuGBXaHDZnRgvHUhD1o"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F5uVZF6hrDY6dTNi5u4X3UiLowMzK3x7Dmz3o1t97WPf"
+  },
+  "rewardsTokenInfo": {
+    "address": "F5uVZF6hrDY6dTNi5u4X3UiLowMzK3x7Dmz3o1t97WPf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F5uV",
+    "symbol": "F5uVZ"
   }
 }

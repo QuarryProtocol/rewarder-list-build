@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2g1FVJY1Tb9TLCFhkFgwzwAiYaBT5dFKzVWFTxJMKYRc",
-      "slug": "0",
+      "slug": "9jwna",
       "stakedToken": {
         "decimals": 6,
         "mint": "9jwna8N4ep6GHMR7ZSgorHLJtJg7dBfPrtq5jfdQfih4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "316ZRakE1W65QK66B834FXfXPrx2HRv2zvhLFTj22NaC",
-      "slug": "1",
+      "slug": "celws",
       "stakedToken": {
         "decimals": 6,
         "mint": "CeLWSnHsNE34uHDsGxkaJpGz1tBDPqfymdTJTFEkWohJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7yzCP3ppWuvZgfj8uhAfWvhKrsPgmtRm49eXZsT8cvXi"
+  },
+  "rewardsTokenInfo": {
+    "address": "7yzCP3ppWuvZgfj8uhAfWvhKrsPgmtRm49eXZsT8cvXi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7yzC",
+    "symbol": "7yzCP"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HAaqGC64xef6Kdn767S39Sx7fK7arACHg1tJ261cYNpK",
-      "slug": "0",
+      "slug": "5rcow",
       "stakedToken": {
         "decimals": 6,
         "mint": "5rcoWTn3shhenQvVNoQmsFfhuSB49Qk1PjM37rpMa4MJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ar27yxMBKgbAgBzL4XrWzA1YcrT3vdmn519DEmS87f5V",
-      "slug": "1",
+      "slug": "bmnjc",
       "stakedToken": {
         "decimals": 6,
         "mint": "BmnjcSWdAb8wGnVR3h3hiaKWF5Jv28pkkRSy3b5ChMZ2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4dkQYqnmMEdA9Bov6set9GyF6j16XfnQLbEtZBfhDXa4"
+  },
+  "rewardsTokenInfo": {
+    "address": "4dkQYqnmMEdA9Bov6set9GyF6j16XfnQLbEtZBfhDXa4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4dkQ",
+    "symbol": "4dkQY"
   }
 }

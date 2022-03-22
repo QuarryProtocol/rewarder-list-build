@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EquUmGk1tgXZ8krArZUL2DjNqSSDL7EDDRx2RBhh4Eor",
-      "slug": "0",
+      "slug": "abbpu",
       "stakedToken": {
         "decimals": 6,
         "mint": "ABBpuCx7YbAdC9AQYH7Y2vgfuNZErwm2rGE5KQyYdQrs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AFuePnLRZ4u3VAd2xptwHQDUYHAutWi8qpBLfsQxeTDj",
-      "slug": "1",
+      "slug": "cg432",
       "stakedToken": {
         "decimals": 6,
         "mint": "CG4322eNcWbafuVUxoTuftgQpjG5JPcZktt34ZQXqfo4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "A1cYbHz7Hsi8cHEZiYj9bK9cV1iU8DNXwnGCVuLcEid2"
+  },
+  "rewardsTokenInfo": {
+    "address": "A1cYbHz7Hsi8cHEZiYj9bK9cV1iU8DNXwnGCVuLcEid2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token A1cY",
+    "symbol": "A1cYb"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "2NAEKT9Jo1Wtcov3XYk1yAiEiW31pweUWfUzFUQ7uzMy",
       "replicaMint": "7PwyBRt9bBBW3aJs3EQYSX58gz9emj1ei4tbLqSCDpmk",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "glmev",
       "stakedToken": {
         "decimals": 6,
         "mint": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q"
+  },
+  "rewardsTokenInfo": {
+    "address": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GLmE",
+    "symbol": "GLmEv"
   },
   "slug": "4dsGmBxekjQZJSZY6dFkFrnqyQvu8NLiFfVNXXSqEA6B"
 }

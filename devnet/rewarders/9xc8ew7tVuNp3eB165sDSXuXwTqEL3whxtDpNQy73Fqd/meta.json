@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8wEXTpDN5GWHFRZfPPn16Yw6ojfnfsaisFf9MknWVa31",
-      "slug": "0",
+      "slug": "2zaoz",
       "stakedToken": {
         "decimals": 6,
         "mint": "2ZaoZSoaJ4i6Qi88rWTy5iPoHymqYGkb7iKspHgiyapB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Hsv8JGzLHXwMuU7rSYRxyUqb1eVNU3uKSyxXwUPV92TR",
-      "slug": "1",
+      "slug": "9trmu",
       "stakedToken": {
         "decimals": 6,
         "mint": "9trMUYui1d2KyauhbLofXaC7YRvKDfMXBmcVMxWrNpdv"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BuEFzd4hU5Ua9BwyUcADvEasSFtxRZLRf2Ce6E1siU5E"
+  },
+  "rewardsTokenInfo": {
+    "address": "BuEFzd4hU5Ua9BwyUcADvEasSFtxRZLRf2Ce6E1siU5E",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BuEF",
+    "symbol": "BuEFz"
   }
 }

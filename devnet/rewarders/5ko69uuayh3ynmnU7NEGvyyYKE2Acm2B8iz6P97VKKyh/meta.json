@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3dA9MKVssfoKeS98z6XKGMvb5nWZXBAvfbyFzx7srCGf",
-      "slug": "0",
+      "slug": "2nw8y",
       "stakedToken": {
         "decimals": 6,
         "mint": "2nw8YoQSxCZzytP3mR4YcBtsagbtaQPey8qQA7Xj1qPL"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CWE7PnefokDoouWjAB3qkYu8NmbCXqH5Rdt9pWvAqRte",
-      "slug": "1",
+      "slug": "b19cz",
       "stakedToken": {
         "decimals": 6,
         "mint": "B19CZuQ8y3QK5CUZaJBovSegLCNiXBwtSjNKQYCEtwSN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2FkJU335onfsg3rD6WdkDft9od2QZWW48cG81PSSUVuE"
+  },
+  "rewardsTokenInfo": {
+    "address": "2FkJU335onfsg3rD6WdkDft9od2QZWW48cG81PSSUVuE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2FkJ",
+    "symbol": "2FkJU"
   }
 }

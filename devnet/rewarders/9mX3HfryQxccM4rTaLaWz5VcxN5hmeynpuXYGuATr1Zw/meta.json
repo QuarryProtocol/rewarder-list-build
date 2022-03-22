@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CrWwHPQwQwaPdvfx6evoHaCsbCzuHL2St1YikBZDJkef",
-      "slug": "0",
+      "slug": "ea3gt",
       "stakedToken": {
         "decimals": 6,
         "mint": "EA3GtHdW3qX75DbVRJWQJ3LwsKC8kYHvgN8EYcNGeYjd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9NWUS2vSR7pKgnDkzZL4oj9isfgtRXFxcNGe6PYvUkp9",
-      "slug": "1",
+      "slug": "8gt8p",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Gt8pZ9gYgb4wqmNgW5PW3cqtTDErEKPKwSMwcezDjZb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ffw3XYw5yZHsKBeZsuBR9K7RGeBXcfGou1PdFGYpwmy"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ffw3XYw5yZHsKBeZsuBR9K7RGeBXcfGou1PdFGYpwmy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ffw3",
+    "symbol": "Ffw3X"
   }
 }

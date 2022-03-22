@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DzcuUPqBSHEbBeMjUfxbTYGRp9DKHWaPiEmphDyyyBYA",
-      "slug": "0",
+      "slug": "e8ejc",
       "stakedToken": {
         "decimals": 6,
         "mint": "E8EJcuiq5Nc8LapGtyWAxvaPWxs6ULDRVS3UYfcqMfRh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J2Q2hTfoX6KbDQSbFeWCE1A2AX8bmDD6XLg8BLkKcQcR",
-      "slug": "1",
+      "slug": "fvbua",
       "stakedToken": {
         "decimals": 6,
         "mint": "FvbuaG59PAAGqWnyeD4Kt1RUyNFhTTP5uJF542iA8D8r"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BrexZkPXKa1ZFUBgEjaxJBkzXsnFjw6omRnsxY6XKhhh"
+  },
+  "rewardsTokenInfo": {
+    "address": "BrexZkPXKa1ZFUBgEjaxJBkzXsnFjw6omRnsxY6XKhhh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Brex",
+    "symbol": "BrexZ"
   }
 }

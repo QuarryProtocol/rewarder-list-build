@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F5MWAFRmSdfJwVSSEnJY2kgG2Vuy2EPRtLRDkRonkgna",
-      "slug": "0",
+      "slug": "vyuwh",
       "stakedToken": {
         "decimals": 6,
         "mint": "vyUWhPghw28tygspkSWskTWSH9pBvfSS5ZUWgeeHXkn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BP93zatfALCDAZhK6mQdnFuRMLqxRgaZPqgaRtpcWypL",
-      "slug": "1",
+      "slug": "86dw2",
       "stakedToken": {
         "decimals": 6,
         "mint": "86dW2T46LxRh55EeTsZ4fXEVtWxmXdubd6uGoQiNB9Ax"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Eigq75BQEPGctivvhukozdLkv79TRqzognBJykX4SFoL"
+  },
+  "rewardsTokenInfo": {
+    "address": "Eigq75BQEPGctivvhukozdLkv79TRqzognBJykX4SFoL",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Eigq",
+    "symbol": "Eigq7"
   }
 }

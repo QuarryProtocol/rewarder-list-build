@@ -14,7 +14,7 @@
       "quarry": "DjCR7PYS6Zity9YUMh9dWzvDWX6YWsDmmcbFRuWWK8dM",
       "replicaMint": "FDYQ3n4kFzSXc2oVLDiYBa6qQrKo7dgybKn7n6R4zA78",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "catae",
       "stakedToken": {
         "decimals": 6,
         "mint": "CATAeRiS3TSHNqoMwjBA3nf9TCKv9AYxF6xqeASJuhnn"
@@ -32,7 +32,7 @@
       "quarry": "5mubj8L4USNpHjwn2daAhF3BJD9DgWhfYocB4NaWq4mc",
       "replicaMint": "k69gWZ2FctktUA39hgDMw87p4tTMPCtforJN3CdUXwV",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "apw2p",
       "stakedToken": {
         "decimals": 6,
         "mint": "ApW2pKtpDfyc8TeMYvag6Tdgt7cywL1VQnFNwApFKMap"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FhJYaSv9Z8VMV64jmmWrzq5ANbcGT37spcH1AsUqQ4Ec"
+  },
+  "rewardsTokenInfo": {
+    "address": "FhJYaSv9Z8VMV64jmmWrzq5ANbcGT37spcH1AsUqQ4Ec",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FhJY",
+    "symbol": "FhJYa"
   },
   "slug": "3JzYDoTdHFV9vv8ZXqL7p7Xu7zb1C2TpWzUBVoy8BoMk"
 }

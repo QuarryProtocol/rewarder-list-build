@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "65FZLxR2tqZBBmVnBcvbXtenB2wStQP4npfbzfeVu4KD",
-      "slug": "0",
+      "slug": "bp8vm",
       "stakedToken": {
         "decimals": 6,
         "mint": "BP8Vm85JXPAqTSS4YepXXNz4SL5eUsD2RbmyXmcepYLw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9isAbSZo3xC3kcSDna76qbUSKxfKk1RuT6siGcuVSi5F",
-      "slug": "1",
+      "slug": "dnt5f",
       "stakedToken": {
         "decimals": 6,
         "mint": "DNT5FMbzMgMF1QKSPdUq6ffEzfavkjc9JeH3Yz4g5mrK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9inmRzox6e4XCcSqvL6mT3Km4ZRqkZAzZbK8te6fKpRD"
+  },
+  "rewardsTokenInfo": {
+    "address": "9inmRzox6e4XCcSqvL6mT3Km4ZRqkZAzZbK8te6fKpRD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9inm",
+    "symbol": "9inmR"
   }
 }

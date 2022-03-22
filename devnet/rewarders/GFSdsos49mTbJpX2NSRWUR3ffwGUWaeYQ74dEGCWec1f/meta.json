@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HFGgEnHPh163sJAk3ttUZ9Cf9AX75vK5ne1V8uGuYBM7",
-      "slug": "0",
+      "slug": "gu4gq",
       "stakedToken": {
         "decimals": 6,
         "mint": "GU4gqvQ5fcZjKFkBRUEC9rwvZWoNNj2URxLJhHTrg6hx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D4xtF6fUag7VtMMcTKQfVNgZNpcDdSVHKpXCh4AMsrB1",
-      "slug": "1",
+      "slug": "eptqk",
       "stakedToken": {
         "decimals": 6,
         "mint": "EptQkbjSgBxrrMqkrgybKT3g85bPHHHVKBq7zGWXtMJ9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2ADdQwM2vMgFzyuoStHUDTLrnodJeEiUGDcrdWyT4j2e"
+  },
+  "rewardsTokenInfo": {
+    "address": "2ADdQwM2vMgFzyuoStHUDTLrnodJeEiUGDcrdWyT4j2e",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2ADd",
+    "symbol": "2ADdQ"
   }
 }

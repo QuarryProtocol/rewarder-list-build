@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4vEKwKLrFD4RoaNnWMbxyngwaaUfYNZu6rKhdgMSUNFo",
-      "slug": "0",
+      "slug": "bqfnz",
       "stakedToken": {
         "decimals": 6,
         "mint": "BqfnzE7FCAm3FZoPH5BhK4mnwm6CmeBdvL3GQ9R6ucdB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FDsxyG1tXvKWuE8sB9RHn2LLAWKFRC1rCgDFYKphK2tG",
-      "slug": "1",
+      "slug": "foj2o",
       "stakedToken": {
         "decimals": 6,
         "mint": "foj2oyyQbPjsCBZQsnZyBmMfyw8rddf6EK1fjYg3NmF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "LJbsUaXLdyApfaZMLVohh1k85poVs3eEExCS4XFTJQN"
+  },
+  "rewardsTokenInfo": {
+    "address": "LJbsUaXLdyApfaZMLVohh1k85poVs3eEExCS4XFTJQN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token LJbs",
+    "symbol": "LJbsU"
   }
 }

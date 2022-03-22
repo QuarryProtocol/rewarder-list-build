@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CEFA2SYFxJLXBgYhXSyU5rpgsqzCpRHHUnSmbpYxH3vx",
-      "slug": "0",
+      "slug": "af9sk",
       "stakedToken": {
         "decimals": 6,
         "mint": "Af9SK9pLvARtcUGQrjbYoRXKhnU2z89NqgPQhMoyj2Hc"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2EXEwSFfw6paP2TRZY6pDZzUz4nrho5cApcpgm1m8tgu",
-      "slug": "1",
+      "slug": "5vrkv",
       "stakedToken": {
         "decimals": 6,
         "mint": "5vRkvG2opvjXxLL1EjeNDg1bSnDECXEWJQqwvukVGAB1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EKTxUebH9RKpJtwf4gkKpCbAqrqmF4Ju3PmJZgr4M7QK"
+  },
+  "rewardsTokenInfo": {
+    "address": "EKTxUebH9RKpJtwf4gkKpCbAqrqmF4Ju3PmJZgr4M7QK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EKTx",
+    "symbol": "EKTxU"
   }
 }

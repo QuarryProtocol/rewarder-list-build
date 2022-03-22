@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FxMqLSHrt1ogeaRY3gkMxvaKiFoPJMT53Xm2XYNFJEMU",
-      "slug": "0",
+      "slug": "d17fk",
       "stakedToken": {
         "decimals": 6,
         "mint": "D17FKAvNiN4dvBPW5gjJZ4Mpns1fZPqrnyhn7kPe5Ayi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3jKtRceRQXwHuQJiE3S3Ln1FiEA1NA2wZUM2KzhDhAQH",
-      "slug": "1",
+      "slug": "fmpch",
       "stakedToken": {
         "decimals": 6,
         "mint": "FmpcHKxUv5A271EqgXEaFhniYLHQsXJrABoYaUHEdJb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2bgLxShjp8KZrQbJXVWiB6fU8mVX2XzjRKPmugaqgrmj"
+  },
+  "rewardsTokenInfo": {
+    "address": "2bgLxShjp8KZrQbJXVWiB6fU8mVX2XzjRKPmugaqgrmj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2bgL",
+    "symbol": "2bgLx"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "42PBuZhYgcbtDZHbJVp76R3gxGnRF8qPV4D49xdHxA2g",
       "replicaMint": "6KDbHVQ1sCKEDhnad6Up5VQ2cyKswsN2FXX78ZsrM1o8",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "9qhyn",
       "stakedToken": {
         "decimals": 6,
         "mint": "9qhyno7sK25Trrq5HssAzmCh3E7Zch5J8tKx57yQcjtM"
@@ -32,7 +32,7 @@
       "quarry": "3YD2KdHEHA4831qYQuV257YEy3L44jFwXj4wYEs2WHjA",
       "replicaMint": "9zuGgc9ZMxgHVRBp1bBHYMoNMH6aTxHcQTZhdSuqzcGs",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "l3foc",
       "stakedToken": {
         "decimals": 6,
         "mint": "L3FocdFWpHwXWzi2re3upgZ597WyWRNZEghWJ32BXt2"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DFPagb5cMcSHDuPbeuq7GTkoFm2BivegXWex6TcwXJag"
+  },
+  "rewardsTokenInfo": {
+    "address": "DFPagb5cMcSHDuPbeuq7GTkoFm2BivegXWex6TcwXJag",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DFPa",
+    "symbol": "DFPag"
   },
   "slug": "6A4uEttdkNn4BMZZHPBqbR3M75HrcLMeL4AYpbEUmfQg"
 }

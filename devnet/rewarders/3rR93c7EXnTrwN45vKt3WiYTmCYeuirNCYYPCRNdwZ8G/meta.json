@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ATHrxAx4U5yAHoX3SHMa9q38chKKLtCUaVosg2wwrK8d",
-      "slug": "0",
+      "slug": "5nyba",
       "stakedToken": {
         "decimals": 6,
         "mint": "5NybAjk1osJTwTNf7nhHdC11z4EdJwBaC18Y8gFfJGXA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9xNp2FxcWeEeN6zxUPPNpKckXmPbQtzbu2d52cdKrhGv",
-      "slug": "1",
+      "slug": "ahrpg",
       "stakedToken": {
         "decimals": 6,
         "mint": "AHRpgyoxF9WLUWgu8EVpFHna1TMuM7WVPzUStjTnxJry"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5oHzpCukreh81ZFWawNQy6765xfwJxFaeYVjSzLo32Va"
+  },
+  "rewardsTokenInfo": {
+    "address": "5oHzpCukreh81ZFWawNQy6765xfwJxFaeYVjSzLo32Va",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5oHz",
+    "symbol": "5oHzp"
   }
 }

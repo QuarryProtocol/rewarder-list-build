@@ -14,7 +14,7 @@
       "quarry": "96MomUFVwuw7p6A15tVBuc2kF5YnK5WAvSPuypKFmDKw",
       "replicaMint": "AXbRok2A4ZG85AWxh1itNfSXTxVnn6EKfMDTtWdB8Bdy",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "aw2mu",
       "stakedToken": {
         "decimals": 6,
         "mint": "Aw2Mub2GV62YJsCnUtJPMmQ1eHJsFk5ZeYjKYchEpFYf"
@@ -32,7 +32,7 @@
       "quarry": "DanAQ5vyW2rMFUM8KQNFRor9AkjLGs1mBWEwVPGxWyQy",
       "replicaMint": "FfQL5KDQugPCCWjKjuPthuKzEeiswdXvFVzSfEorxBdk",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "eradn",
       "stakedToken": {
         "decimals": 6,
         "mint": "eradNsJ5ZgpvsHkXbnfQ3icQu5y945Ahry4io3rNkEW"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Dk8BcGRwEW4NrvYyReoCsLx3WMnLEMfd3D2Py7jrJTpm"
+  },
+  "rewardsTokenInfo": {
+    "address": "Dk8BcGRwEW4NrvYyReoCsLx3WMnLEMfd3D2Py7jrJTpm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dk8B",
+    "symbol": "Dk8Bc"
   },
   "slug": "55ZRdwXDGFvf8aBL5ZwDLB2Q6j64gZWmkkAswX5PEGvr"
 }

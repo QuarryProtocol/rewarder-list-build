@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EQM2GP8QETN9MJUWPLfhCTC8VGn6LU4UaKk2QVvo4efp",
-      "slug": "0",
+      "slug": "h8yxv",
       "stakedToken": {
         "decimals": 6,
         "mint": "H8yxV5c9ninJVLANV71UZtZuraky58eYDFz9ZK291fiU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C9zH4UNXuAqN5JcAKmTJVsJEz9PPiobHtrDDvSfKh2Ty",
-      "slug": "1",
+      "slug": "hb2fx",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hb2FXMzQjLRWuBV8bELxy7VoUEmBCNHBGSGy7yRQjYPy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2HD8gx8NBBAxHxMhHg5Rfb2yLTSS92y2XaHSQuyRKdGJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "2HD8gx8NBBAxHxMhHg5Rfb2yLTSS92y2XaHSQuyRKdGJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2HD8",
+    "symbol": "2HD8g"
   }
 }

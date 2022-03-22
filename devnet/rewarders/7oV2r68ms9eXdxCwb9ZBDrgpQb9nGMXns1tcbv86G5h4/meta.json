@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6AyoQGAnj79ZHoxJDUJokMaxP1KSg61U7EtZiNTi68MR",
-      "slug": "0",
+      "slug": "fattk",
       "stakedToken": {
         "decimals": 6,
         "mint": "FatTkL6F2Jcndmht8kZjVkjrVCCTp7gQW6wCM1bvMwtX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B32eTcFuGxTSip5r6NVqiNg9n5dBsVsXZJNbr9t9JuZr",
-      "slug": "1",
+      "slug": "5mvww",
       "stakedToken": {
         "decimals": 6,
         "mint": "5mVWWsKc1Gdqp5ZWuRXqmoSMb1Aiix6vThKmW9LQ7HuP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ee7BkNctgJx2BzdTPK54FZusu4fQjfanQ6pDhqJXGLzY"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ee7BkNctgJx2BzdTPK54FZusu4fQjfanQ6pDhqJXGLzY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ee7B",
+    "symbol": "Ee7Bk"
   }
 }

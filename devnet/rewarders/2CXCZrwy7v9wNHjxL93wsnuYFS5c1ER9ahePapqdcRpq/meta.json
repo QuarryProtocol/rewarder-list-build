@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HwQEsFX2FaR1npqQ1DhUfKNkWqFU3Lv2fV66myM81FnV",
-      "slug": "0",
+      "slug": "buqrl",
       "stakedToken": {
         "decimals": 6,
         "mint": "BUQrLEsnJ2tH91wXNqTrw8a2beGWkzoGGHYwGqZxrNBY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BgqQV8vw4y36xFycU6bxrCMf91QcxnyuefnsdzJrJbiB",
-      "slug": "1",
+      "slug": "ccuge",
       "stakedToken": {
         "decimals": 6,
         "mint": "CCugeaa86sof3ygJYgdWgbtwFuLHZ3KxxBZk7sqkSuBD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8ZcWqB3MpwdjBCueYsxfBXDVo37FFRF1RyVNGWGCbXWn"
+  },
+  "rewardsTokenInfo": {
+    "address": "8ZcWqB3MpwdjBCueYsxfBXDVo37FFRF1RyVNGWGCbXWn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8ZcW",
+    "symbol": "8ZcWq"
   }
 }

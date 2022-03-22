@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6Zmb3WAFg92DTcMGXbPseaEnEnJYaNg9t6K5doBjRp6x",
-      "slug": "0",
+      "slug": "heqjj",
       "stakedToken": {
         "decimals": 6,
         "mint": "HEqjjyNvTWuoQ1Kc6ofhZ9TjsVVQTQCmAYiao6Ktfvwy"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4krnArDzHKnCoMEcRGw9nL8vCF5yQ79oxAmYZCkQMJi3",
-      "slug": "1",
+      "slug": "aqt1z",
       "stakedToken": {
         "decimals": 6,
         "mint": "AqT1ZscXKrkpoSeKNfYcgHUoZSQ6nqzZ6C9Jr9bsqxHo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Doff4Yx4TkoUNKpPvVnPhJAKYWQyB22kw8fMXETUscq4"
+  },
+  "rewardsTokenInfo": {
+    "address": "Doff4Yx4TkoUNKpPvVnPhJAKYWQyB22kw8fMXETUscq4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Doff",
+    "symbol": "Doff4"
   }
 }

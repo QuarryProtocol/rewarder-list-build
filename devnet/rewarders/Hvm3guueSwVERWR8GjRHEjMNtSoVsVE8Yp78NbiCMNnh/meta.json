@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Bpe14mLNjudei4UwoLwQJue4uP9bsoXz3TbDDuba1j7M",
-      "slug": "0",
+      "slug": "ints4",
       "stakedToken": {
         "decimals": 6,
         "mint": "iNtS46EDfbmhp9wvJDZxzSzBrZKvPFRpiSmbVco4NpW"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "rpo1h8UY77fEjQSr5wEbpp9q3ddshVXUHu5P3A67GHQ",
-      "slug": "1",
+      "slug": "97gzg",
       "stakedToken": {
         "decimals": 6,
         "mint": "97GZGN3t8LucRNHPuTivh1Rfvuw2FjFUmMEvy6zSpo6K"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4DZyG221SWU1m6NrJ6GCtJfmeang9SrP5HCRr6gyNUYh"
+  },
+  "rewardsTokenInfo": {
+    "address": "4DZyG221SWU1m6NrJ6GCtJfmeang9SrP5HCRr6gyNUYh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4DZy",
+    "symbol": "4DZyG"
   }
 }

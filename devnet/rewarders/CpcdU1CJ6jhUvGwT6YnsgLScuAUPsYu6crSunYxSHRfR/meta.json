@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AuD19zA6W34LZpG2TJwjugXZuHngrg1geArGTbndZ6dG",
-      "slug": "0",
+      "slug": "fuisj",
       "stakedToken": {
         "decimals": 6,
         "mint": "FUisjEhM7o7fbYrngVBsdjEd9MBv48bzeTxbc3Fp9aon"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "H27aGwNMFVtCzbmfmmaZhrJro1HRpHMEdZ9RGL8eZ8ou",
-      "slug": "1",
+      "slug": "dafrg",
       "stakedToken": {
         "decimals": 6,
         "mint": "DAfRGqUJKmc8EomGzuFi9iDymJHXrsLCA1czoSKeJkQ6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EP43vUt7FeNeRHTGkvuNWGbJh3i61UL9wgE5kio3TTQV"
+  },
+  "rewardsTokenInfo": {
+    "address": "EP43vUt7FeNeRHTGkvuNWGbJh3i61UL9wgE5kio3TTQV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EP43",
+    "symbol": "EP43v"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2FnAW6xc9Cwpzzja51c2ubqBVpsmN1SY2nW3cP4qr8E9",
-      "slug": "0",
+      "slug": "3ipjr",
       "stakedToken": {
         "decimals": 6,
         "mint": "3iPJrzb1uMrwoUkgn5Tng7n8rhzanGQ6b3zUkRyY1w9V"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HChAQDVH6d8t2WUdMnymCqBYoFgSVThzH5QbNFLbfVVM",
-      "slug": "1",
+      "slug": "ccnnc",
       "stakedToken": {
         "decimals": 6,
         "mint": "CcnnCMLwCyGXKUY8gu9ooqHcpz7jagRVHkWT29xtA64M"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ANA9UN5AJFyV4ATFvW69PJH5usL24XEki4uZRX5dHCGU"
+  },
+  "rewardsTokenInfo": {
+    "address": "ANA9UN5AJFyV4ATFvW69PJH5usL24XEki4uZRX5dHCGU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ANA9",
+    "symbol": "ANA9U"
   }
 }

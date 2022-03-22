@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "B96qWtkv8Syuzgt2WthxcXPBzRdd6M9Zz1pMBEQ5MGvh",
-      "slug": "0",
+      "slug": "ba3lz",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ba3LzrjRa1teQ23Jj8rUDMbEmbPDvdrg5PbciayNxkCi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6YzPcfnDBnek62SvKc6h2fNbqxKXAqqE6xRQHxTSS9kq",
-      "slug": "1",
+      "slug": "cjagv",
       "stakedToken": {
         "decimals": 6,
         "mint": "CjAGvrbBuJky8Fx49ti4dYFVNsVKQXmUsViXRAzYv86E"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AthvXiC4BfUvf3p1XyTCpMDRUy6cFRKFjmvzaE7fg2LY"
+  },
+  "rewardsTokenInfo": {
+    "address": "AthvXiC4BfUvf3p1XyTCpMDRUy6cFRKFjmvzaE7fg2LY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Athv",
+    "symbol": "AthvX"
   }
 }

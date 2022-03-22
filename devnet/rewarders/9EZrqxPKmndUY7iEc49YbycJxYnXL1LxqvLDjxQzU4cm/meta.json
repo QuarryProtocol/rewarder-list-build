@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FvzNZ8TCDZeERYSzHadQp4SpmkBwNnpQfKemHSuWC7Zp",
-      "slug": "0",
+      "slug": "cuhv8",
       "stakedToken": {
         "decimals": 6,
         "mint": "CuHv8PbZTpvLgokq6Qvs94CQNXignnCLHzuHgvdfvWe"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ATu2mTiFt5oiX9i2NsDEE5JkuouWvCiTmE1WxiT2SdNm",
-      "slug": "1",
+      "slug": "8mc5q",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Mc5Qy5VXZ6SrB1Hi1CCwVTqH8qfmYnbjkScRghMwvta"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9LFw7JCV5aNHieNydHXYZbdHbBQyKkmYMjVtkKnSagpx"
+  },
+  "rewardsTokenInfo": {
+    "address": "9LFw7JCV5aNHieNydHXYZbdHbBQyKkmYMjVtkKnSagpx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9LFw",
+    "symbol": "9LFw7"
   }
 }

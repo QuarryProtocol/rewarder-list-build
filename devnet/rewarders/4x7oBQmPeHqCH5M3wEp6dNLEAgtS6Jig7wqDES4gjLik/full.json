@@ -14,7 +14,7 @@
       "quarry": "F7f9bo3CoM7bzK9KCkL4Rh33cv8QVTLwHwMsooVE69dw",
       "replicaMint": "HVB6chTfTSvP21kFeZiAtfCY1gJ1fDx9y8xkP6uuj36d",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "46vmx",
       "stakedToken": {
         "decimals": 6,
         "mint": "46VMxGxuDmGSthk11zfEwvLX76Y1eBueXxAMbJxfxeCK"
@@ -32,7 +32,7 @@
       "quarry": "DJNVRNqhdtrtjHgDKhEWVZJEZEYV1srjGhwXPACzjtYs",
       "replicaMint": "3qHmFyMUgVbY5rp16W3M3usD3zmF24zFL8zcd21vhs4c",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8rdtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "8RDtFNHf9R1LtgGdUbbhD1xFs4C7i7BC2QJVZm373nq5"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2GuZivPepDZ7einCzMCn48uwgbXZWoWMgrfhfCd3pFoS"
+  },
+  "rewardsTokenInfo": {
+    "address": "2GuZivPepDZ7einCzMCn48uwgbXZWoWMgrfhfCd3pFoS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2GuZ",
+    "symbol": "2GuZi"
   },
   "slug": "4x7oBQmPeHqCH5M3wEp6dNLEAgtS6Jig7wqDES4gjLik"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EDcoTFxT4qQsHKeJu4cAhKEHY15L9Do2LMJXDWJ81xDt",
-      "slug": "0",
+      "slug": "dnhqw",
       "stakedToken": {
         "decimals": 6,
         "mint": "DNHqWRERfgXenoWkexKPhkQtaTPnuVXakCRQD1hmWwCE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5Aw1D25G18zX6udYHPhbZ8wuPGYsCgMx3MJ91MhKiwRM",
-      "slug": "1",
+      "slug": "gw11d",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gw11D9bx4JbQAse1XdmdRRjm2r2HEPZrgAGKJ3rcdGiz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EwLvZx7h2PzQq4S884QTt9H7smTGtJU7JkUTdd4ySGZk"
+  },
+  "rewardsTokenInfo": {
+    "address": "EwLvZx7h2PzQq4S884QTt9H7smTGtJU7JkUTdd4ySGZk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EwLv",
+    "symbol": "EwLvZ"
   }
 }

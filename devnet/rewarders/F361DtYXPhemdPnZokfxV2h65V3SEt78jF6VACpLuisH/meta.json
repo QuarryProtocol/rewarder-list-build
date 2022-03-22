@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DxhoC4eUozJ7F71taeLuAZQ8XdKVo1uJLLDCEnFRpFPe",
-      "slug": "0",
+      "slug": "7afco",
       "stakedToken": {
         "decimals": 6,
         "mint": "7aFCoTwW7L4FfxjXGEgze642GXT5qt4tAfQYyh8Luj5A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7CavVGTAdyvANjwcZFA5k8VQHRGKVxYzPkEikjmNmkzc",
-      "slug": "1",
+      "slug": "2enwg",
       "stakedToken": {
         "decimals": 6,
         "mint": "2ENWgAimL7FCA817kPm7497v4WaxwmaXRKJepW2XxDuC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CDbLBbG1mwuTRtp69osrCAnsDcofsHM6ZNoKHwpB7BbX"
+  },
+  "rewardsTokenInfo": {
+    "address": "CDbLBbG1mwuTRtp69osrCAnsDcofsHM6ZNoKHwpB7BbX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CDbL",
+    "symbol": "CDbLB"
   }
 }

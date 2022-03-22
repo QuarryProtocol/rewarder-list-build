@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EWqnBm4avv72G7cbbbARbw1RsNMZeweLt6ig3FMqY763",
-      "slug": "0",
+      "slug": "8m5vg",
       "stakedToken": {
         "decimals": 6,
         "mint": "8M5vgcRkjowi1FHJJbnUZZfRVAWhKAf5reL4LpgXjD3q"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Bj9FYfbFXVo8sSbmLuSbtUQda6DzJwvRn5XAEX9TDKeY",
-      "slug": "1",
+      "slug": "fzshw",
       "stakedToken": {
         "decimals": 6,
         "mint": "FzsHwg8327umASNhJX6vR1Boo6dYpaKi3TNXaEUwKsLJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FnXi4uXRDooJpkvFC7gY8zjhyXhxHx7Kwfm67WmwRv9v"
+  },
+  "rewardsTokenInfo": {
+    "address": "FnXi4uXRDooJpkvFC7gY8zjhyXhxHx7Kwfm67WmwRv9v",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FnXi",
+    "symbol": "FnXi4"
   }
 }

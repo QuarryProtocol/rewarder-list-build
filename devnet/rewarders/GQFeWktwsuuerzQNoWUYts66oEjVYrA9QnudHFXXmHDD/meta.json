@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FXNEHRWK3k2doFPWhN8TSNpRKjLfmxEyYDWahGGStDDy",
-      "slug": "0",
+      "slug": "8fmvr",
       "stakedToken": {
         "decimals": 6,
         "mint": "8FmvrkJabxjbtg5bk4AwxQsZytwB47UkddonBA7mC2p6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "En1SgjxR3mNGe6Hc8N833vDQe4jhzx67g2vCfDL7qqL1",
-      "slug": "1",
+      "slug": "75gxn",
       "stakedToken": {
         "decimals": 6,
         "mint": "75GxnGXv1X5Pi7udgMjxWfEzDMXo3biEHfjGypuDWvRN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4D56kLivpSjxKrr7mXPVNL8iriUHnboTLfT9S2xbWH6N"
+  },
+  "rewardsTokenInfo": {
+    "address": "4D56kLivpSjxKrr7mXPVNL8iriUHnboTLfT9S2xbWH6N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4D56",
+    "symbol": "4D56k"
   }
 }

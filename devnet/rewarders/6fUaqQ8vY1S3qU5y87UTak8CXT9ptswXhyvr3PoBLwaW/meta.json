@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EcyfqY1e5viY8C5B8E5HCyLAeDBG655tTD4pGqJ4hnce",
-      "slug": "0",
+      "slug": "4nbwa",
       "stakedToken": {
         "decimals": 6,
         "mint": "4NBWafE98HgUJJXhRAmSZmKbMqTj8bb2zSpQAUnhks9M"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "UwtepCMyE39b9zmVEbk3rz7KmFGjWzqieEsp32BJeiu",
-      "slug": "1",
+      "slug": "ebpzc",
       "stakedToken": {
         "decimals": 6,
         "mint": "EbpZcQMNhWnpcSg5RsQemtAF7DVTYMpdtzf8QNLD7G2U"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "37yBAYCnKDmabg1M36sFCso1mjcacutiNS57pCEpTG5V"
+  },
+  "rewardsTokenInfo": {
+    "address": "37yBAYCnKDmabg1M36sFCso1mjcacutiNS57pCEpTG5V",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 37yB",
+    "symbol": "37yBA"
   }
 }

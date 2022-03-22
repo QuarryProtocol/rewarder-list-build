@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HD7hXASUzrujVGkJ96j7EwpqfLTU5iS8ssq4kGfq1vAM",
-      "slug": "0",
+      "slug": "gcsys",
       "stakedToken": {
         "decimals": 6,
         "mint": "GcsySfpcNuAui8nviF8W7BWErFaGiw1Siwrm4h5oYmdf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8FCKNPNH5ZbH5ovUJJuSCW4Zr6CL2JUQNWWakL3CTptF",
-      "slug": "1",
+      "slug": "dvtta",
       "stakedToken": {
         "decimals": 6,
         "mint": "DvTTav4VeW115ZtZSFCdFYMhXxixzguEmkKeaPCrBf9w"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B9CyxNV6HoUXm6cqVzFYPdGwMiMaHeRqBJMJi4a2E8Pa"
+  },
+  "rewardsTokenInfo": {
+    "address": "B9CyxNV6HoUXm6cqVzFYPdGwMiMaHeRqBJMJi4a2E8Pa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B9Cy",
+    "symbol": "B9Cyx"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "JCTVwkviu5xM3DVfHzjefRApfHYeXTBvadQpEK6e8hbq",
-      "slug": "0",
+      "slug": "eykag",
       "stakedToken": {
         "decimals": 6,
         "mint": "EYKAGNaZriHZd9m63Wv3urPiQscLtiH7bjs2C69gfnFc"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "F3dWGyuf3dXATbZFKNeyVRnAGcK9zPX9Mr6N4kuBs17o",
-      "slug": "1",
+      "slug": "eemzb",
       "stakedToken": {
         "decimals": 6,
         "mint": "EeMzbLuiYtpqwpTTdK1bm3emyZd7tzWjWZrNQ3Awun8J"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B1VeXs4T6kECLQfutw8aAwWyZNdtqxpdSsV3hSVYGmpx"
+  },
+  "rewardsTokenInfo": {
+    "address": "B1VeXs4T6kECLQfutw8aAwWyZNdtqxpdSsV3hSVYGmpx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B1Ve",
+    "symbol": "B1VeX"
   }
 }

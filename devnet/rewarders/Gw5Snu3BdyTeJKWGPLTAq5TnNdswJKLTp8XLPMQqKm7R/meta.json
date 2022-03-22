@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Eu8TYrLrZEmmj4Tg4uN7Eb51H7zX79BBaegFZcgpJ4TS",
-      "slug": "0",
+      "slug": "6xsra",
       "stakedToken": {
         "decimals": 6,
         "mint": "6xSRAbYJ8DcdgDuvQAuMwAngX1ja6AvjbCpzNA8je5ow"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FfchmLAXyLRCTtzPSwYcM3TD6A2VJAd1ru33uRBc1zcc",
-      "slug": "1",
+      "slug": "dzrmy",
       "stakedToken": {
         "decimals": 6,
         "mint": "DzRmyDfYK4dt8o8L5EsxXZNeeRZtDDFCwY34mQZKjYhx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AFepD3tjyKQ457BHbWmGtS17e3VZfcTLk4yJ7tAKAtpV"
+  },
+  "rewardsTokenInfo": {
+    "address": "AFepD3tjyKQ457BHbWmGtS17e3VZfcTLk4yJ7tAKAtpV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AFep",
+    "symbol": "AFepD"
   }
 }

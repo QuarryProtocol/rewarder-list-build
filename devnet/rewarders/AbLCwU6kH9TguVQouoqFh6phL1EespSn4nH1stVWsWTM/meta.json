@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8q7pEbfWXZ6rigMF5ZhWJSPLKj68VBV8LqBrHnPh88m",
-      "slug": "0",
+      "slug": "larvw",
       "stakedToken": {
         "decimals": 6,
         "mint": "LaRvWBxeJvFsFJ6xN1TBSUrAx1YUDV8smUEp2G6f4XH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3EvJz1ht3CpRVC3MUvWCPX8dNDd9ER2tgEGRrvHAwU7W",
-      "slug": "1",
+      "slug": "5wepj",
       "stakedToken": {
         "decimals": 6,
         "mint": "5wePJkJpY58fw1CHvw5Rxmm7Ejuc8qQXB7K9jsVJ3UaD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4SWud4wPtbxpW7thLjJzBgNSNmT2rnrJLY33mEe6tEbw"
+  },
+  "rewardsTokenInfo": {
+    "address": "4SWud4wPtbxpW7thLjJzBgNSNmT2rnrJLY33mEe6tEbw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4SWu",
+    "symbol": "4SWud"
   }
 }

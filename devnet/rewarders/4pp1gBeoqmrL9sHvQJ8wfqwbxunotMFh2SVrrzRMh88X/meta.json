@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DnK2dd1pRjkdA5o7K47rQnG9VJZmVPXrgFwnQbH5L5YF",
-      "slug": "0",
+      "slug": "d2vjs",
       "stakedToken": {
         "decimals": 6,
         "mint": "D2vJSXT7n65Ff3FBH3ShRXv2bVCzBYxraXTNtvbHs1cB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "A99mgeS3ceYJqyKiENQzNMWs6o1vgZzKovQn5cFFjK3S",
-      "slug": "1",
+      "slug": "dgnuz",
       "stakedToken": {
         "decimals": 6,
         "mint": "DGNuz5BSsHPSvkXrVkBZ4HD3G9X4Fce29pdaHcGxNGf8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "t5Uc9dob3yr1Gay8B7MxekzziLWuJd7pNWEVqUPdWAz"
+  },
+  "rewardsTokenInfo": {
+    "address": "t5Uc9dob3yr1Gay8B7MxekzziLWuJd7pNWEVqUPdWAz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token t5Uc",
+    "symbol": "t5Uc9"
   }
 }

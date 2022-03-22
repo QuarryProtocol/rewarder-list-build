@@ -14,7 +14,7 @@
       "quarry": "EhionHaBxxQFyXL2dN4FSpooUToUCeKSdzyFhRAfvS5q",
       "replicaMint": "9PwLfSHjvb39ZsYZcRpVg4U8MNvggsvxQqLd9nxnAZTx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dayte",
       "stakedToken": {
         "decimals": 6,
         "mint": "DAytERJfq5U5TXWRmv4WGwTdWBip6qS2GbPZZ9dMczDE"
@@ -32,7 +32,7 @@
       "quarry": "6gemtZtdhYwm1wTsAfVpj5uzGWrD6LrgZYZuXkxGFSRK",
       "replicaMint": "HqvGfk3Rg66s7F5nHvX68yCw8oHU2yULHhnWYAFibtBH",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "focqm",
       "stakedToken": {
         "decimals": 6,
         "mint": "FocQmh9u2QdCwh6RrmqxGNGh1taz5Lb6VqGEmoDaM3MS"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3kfGVTUtQbuE5w7ibciMga1iRZ1u45MSXZRG5LAjDpW6"
+  },
+  "rewardsTokenInfo": {
+    "address": "3kfGVTUtQbuE5w7ibciMga1iRZ1u45MSXZRG5LAjDpW6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3kfG",
+    "symbol": "3kfGV"
   },
   "slug": "8RvDFY6coGstTiFmx8z6WGF9N6PTAs9j9KT3U5DV9n8Y"
 }

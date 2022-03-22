@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FtkhZ7GdUCGMfedASwuDnkJfsqYpu3snSvwjYgK5Y7AL",
-      "slug": "0",
+      "slug": "7enbi",
       "stakedToken": {
         "decimals": 6,
         "mint": "7enBiK8awnk4WngHoAXtBFDdFqLnquggvCLv774ms2YB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9SKyW5iCnnFQsuW7qRwmYmwghe9p5X6MqzYDqLVaCSp5",
-      "slug": "1",
+      "slug": "ev1ef",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ev1EfBEjQQ1BcFXaCanNjUbaYmtFVLXk2vM7gyGqP4AU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EZTJXJx6z4sHPu9Xisu1Z8zKaiW7fD9uiUbLq6jAWPjN"
+  },
+  "rewardsTokenInfo": {
+    "address": "EZTJXJx6z4sHPu9Xisu1Z8zKaiW7fD9uiUbLq6jAWPjN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EZTJ",
+    "symbol": "EZTJX"
   }
 }

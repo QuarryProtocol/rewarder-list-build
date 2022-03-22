@@ -14,7 +14,7 @@
       "quarry": "CgVqhdmJug9EiJv6u3WsBQmvFDz4LnSRNSFMrGZk7aj6",
       "replicaMint": "7BAnt8qUkEc1Tq6iZwmgd5zdYNDixsYRApsrP9RoyuUX",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "btrmw",
       "stakedToken": {
         "decimals": 6,
         "mint": "BtrmwieAAhX1xPXh49NGDfYMRtL8LcFo4Y4FTQ5gRktH"
@@ -32,7 +32,7 @@
       "quarry": "FDJca9efvdF5V5BcKM33cb8Stk2etPwBTHjHVQSrqQJG",
       "replicaMint": "av8SGpPg7FtiE9AayjisA1UfzUByzbW7nrYWwAVcuG3",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "h2452",
       "stakedToken": {
         "decimals": 6,
         "mint": "H2452eAokvTRgrUYBP5q9XfV18p8hdjY2A2Bsv6YVdnV"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AoNP6thKKQfdmq9j6bf6WxGFfwfrzEHwaBj4DMDBmqBb"
+  },
+  "rewardsTokenInfo": {
+    "address": "AoNP6thKKQfdmq9j6bf6WxGFfwfrzEHwaBj4DMDBmqBb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AoNP",
+    "symbol": "AoNP6"
   },
   "slug": "8BLXfm9uDP8WYtkhMWKeMs5CtW3RMLD6DX1HRVVcLqS1"
 }

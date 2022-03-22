@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8KnJmYBaThxWDhhxQBiPL8aAGb27SinT7C5N6m5MymnG",
-      "slug": "0",
+      "slug": "dp7us",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dp7UsnkaxcTLofCHHssKcTj7X8fud6foFTN6nC4vnjPU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9wjVYKX56ZUTfXN9Zib2jPQZ8hFU7628b8iohYp2BUa1",
-      "slug": "1",
+      "slug": "azkgq",
       "stakedToken": {
         "decimals": 6,
         "mint": "AZKGqcKcHxdcmiN3vDBUDnbzmo54p2Wh131F4QqW5bKU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G1gmMwPCMehcQBMQBm9sAYNr2KExFDSfgcbcC664gXms"
+  },
+  "rewardsTokenInfo": {
+    "address": "G1gmMwPCMehcQBMQBm9sAYNr2KExFDSfgcbcC664gXms",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G1gm",
+    "symbol": "G1gmM"
   }
 }

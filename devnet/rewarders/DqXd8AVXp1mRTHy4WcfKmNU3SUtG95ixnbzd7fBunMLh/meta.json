@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Az4EpkgjCCVtRFRJuHkUMu2sRTCEVGtv8KQf6gSUkhe6",
-      "slug": "0",
+      "slug": "apwag",
       "stakedToken": {
         "decimals": 6,
         "mint": "ApWAgcLkAwF1mFnuU8Yzyxun5yVcy8TdgDJUrqhK7qfa"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DjiQ6GqKy83QoRUTP38ipc89yYQpLXaPcWakQ2JzSryY",
-      "slug": "1",
+      "slug": "6dfvc",
       "stakedToken": {
         "decimals": 6,
         "mint": "6dFvCP5JTF2qWvcvwvphyBUAF7yiWpcJ1xWFeg4k5gn1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B265uojFVuGpjpXruGwqBwWtocDnPv7Nzs4PBFrgbFJw"
+  },
+  "rewardsTokenInfo": {
+    "address": "B265uojFVuGpjpXruGwqBwWtocDnPv7Nzs4PBFrgbFJw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B265",
+    "symbol": "B265u"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HAbF4GKCjPAYRh8wL2wjoYdwDNURFDZwTTZY9PqsGxmo",
-      "slug": "0",
+      "slug": "8ggng",
       "stakedToken": {
         "decimals": 6,
         "mint": "8GGNGygfVntd91UvBKEugt3AzsXCoZHWnZcXBUntprKb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GnyoLgjghW9ma2hkJLmH4rmtD7zRhV2T5rqXWDmVb29d",
-      "slug": "1",
+      "slug": "e71dx",
       "stakedToken": {
         "decimals": 6,
         "mint": "E71dXBFSMDsMacxmc2vrL93TGjBXTn64oFS59Ei3HMcQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BMQEff8vvFfCjrxez6384WePkkhriJPMcgyH7yaeQ9Ry"
+  },
+  "rewardsTokenInfo": {
+    "address": "BMQEff8vvFfCjrxez6384WePkkhriJPMcgyH7yaeQ9Ry",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BMQE",
+    "symbol": "BMQEf"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "51VBDyDs9EK9GyWvT5DyVVMC3W6nNyot3KH5t1VNE3bc",
-      "slug": "0",
+      "slug": "ghrlq",
       "stakedToken": {
         "decimals": 6,
         "mint": "ghRLq6BtVSaouEUwmqrjuGyCNwh9cFbM4ugUewhsBYr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2ij39GHp1mS6Xj9VACckqWig4NaNnWHY94TbzzNGBGBW",
-      "slug": "1",
+      "slug": "byzsa",
       "stakedToken": {
         "decimals": 6,
         "mint": "ByzSAn8efamDnmYLWodi2WcSq92sxiC69n2UcG272MJ5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FA8GwQqG12o29iBC17RnZH4dTi2uR1hWna8cN4vXrr39"
+  },
+  "rewardsTokenInfo": {
+    "address": "FA8GwQqG12o29iBC17RnZH4dTi2uR1hWna8cN4vXrr39",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FA8G",
+    "symbol": "FA8Gw"
   }
 }

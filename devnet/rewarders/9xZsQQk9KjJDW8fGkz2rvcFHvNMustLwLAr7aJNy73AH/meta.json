@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3VEduSbjePUaGG4ndX5ndCVSLYCXqXWrTKokBh3MsDbj",
-      "slug": "0",
+      "slug": "8pgnd",
       "stakedToken": {
         "decimals": 6,
         "mint": "8pgnDq8Nu1cWR7y5bPV6rZBTFUPcGAhT4ZbwdByWbCAu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EqAF3BhMkng6SnuYo8Y7FNYi72cjtdkus8EFYEV7q6xh",
-      "slug": "1",
+      "slug": "9s4xt",
       "stakedToken": {
         "decimals": 6,
         "mint": "9S4xTWV84ueSmfy5Fpoka9vJE7w9NyPrGdfoLNuxTa9V"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4BDtkCBezbiWZBx2dN3ibDmAXMu1aC5PRRetcN6WkdzA"
+  },
+  "rewardsTokenInfo": {
+    "address": "4BDtkCBezbiWZBx2dN3ibDmAXMu1aC5PRRetcN6WkdzA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4BDt",
+    "symbol": "4BDtk"
   }
 }

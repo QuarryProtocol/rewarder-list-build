@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7T2dJtpTb9bU6F846ZkzVq1mcnnQ5oJ1LJygtZkzuVq",
-      "slug": "0",
+      "slug": "dbjyx",
       "stakedToken": {
         "decimals": 6,
         "mint": "DbJYx51KTrKEEdNMLg39UUyaZGsmnGxezFPnT7GfJu96"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5MNqRKjkWGavxAS6httu3fhqhp8HH2n6HzVcwbv3KQ1z",
-      "slug": "1",
+      "slug": "fp1os",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fp1oS727g2Ep79JSoHnHdw5dsJg8mY7gL8yRitQpzucq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5sVH6GzgeJnWAv9VGKb6ngwmRyB67KPuqijhFc5wMR44"
+  },
+  "rewardsTokenInfo": {
+    "address": "5sVH6GzgeJnWAv9VGKb6ngwmRyB67KPuqijhFc5wMR44",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5sVH",
+    "symbol": "5sVH6"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FnMfxWSoeteNxju7cwRCaBQRyHb3cMjGeYeY8wYr8HVM",
-      "slug": "0",
+      "slug": "51ija",
       "stakedToken": {
         "decimals": 6,
         "mint": "51iJawgDu2nsm8WMj1G9KXaAE6vnaC4VeDDh2Jykcdou"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7WUMh7UikpV1P1xXhDBUcBrwEp1tHyWnWF8fCPadckLb",
-      "slug": "1",
+      "slug": "akwkj",
       "stakedToken": {
         "decimals": 6,
         "mint": "AkWkJTfRX1nH2Hvb68Cqt1Dc7hTnjYeTnxJTukXKWYdY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2x3MY4ycfFD1wi7ESowQhn6oZw1ryDCLk8ttDepLG2XU"
+  },
+  "rewardsTokenInfo": {
+    "address": "2x3MY4ycfFD1wi7ESowQhn6oZw1ryDCLk8ttDepLG2XU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2x3M",
+    "symbol": "2x3MY"
   }
 }

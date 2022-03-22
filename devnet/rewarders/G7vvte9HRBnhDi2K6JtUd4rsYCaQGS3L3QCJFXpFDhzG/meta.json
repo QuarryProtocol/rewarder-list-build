@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J6q5iVzbTQYs1svTDTmYVcarJgx3YdWjpTkHvMzM47bL",
-      "slug": "0",
+      "slug": "2todv",
       "stakedToken": {
         "decimals": 6,
         "mint": "2todvAvxLKe15njAA6JRfe2GGCzGCJLusqFDDbo41eQ1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2Tbi18wgjGn4oSHrdJ2m5aoozR4hFAuCwzCQdRvBC2aS",
-      "slug": "1",
+      "slug": "fwocv",
       "stakedToken": {
         "decimals": 6,
         "mint": "FWoCVCFzxbrQqN25CwEcrpXai5KQhodddStDetwoRBg4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DSb1tCij1o7AZCrkHs2eKUCr8rjnu2yAgDaK629jm3XZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "DSb1tCij1o7AZCrkHs2eKUCr8rjnu2yAgDaK629jm3XZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DSb1",
+    "symbol": "DSb1t"
   }
 }

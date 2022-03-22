@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "874Cj4j384BtpxoZoUTjkQXd4cwVf8g5ziG8vWiPeoD4",
-      "slug": "0",
+      "slug": "fpd7t",
       "stakedToken": {
         "decimals": 6,
         "mint": "FPd7tU8VBecgnLPjCSo7yKgwV2eBE5gUKRHiB3MyiQcS"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "A4hHGVm4oKUDM2GtoJNjAsrCkjCa2zTzVVePcZH16Kxm",
-      "slug": "1",
+      "slug": "8nudk",
       "stakedToken": {
         "decimals": 6,
         "mint": "8nuDkxdVfi4CGGmaj1TA3PT9j8b57ZDgkjXc2KgbWhEH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FVJkogU6h4EsHV5ky7oMoJNoxoW164Frf57cG4mPs8yN"
+  },
+  "rewardsTokenInfo": {
+    "address": "FVJkogU6h4EsHV5ky7oMoJNoxoW164Frf57cG4mPs8yN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FVJk",
+    "symbol": "FVJko"
   }
 }

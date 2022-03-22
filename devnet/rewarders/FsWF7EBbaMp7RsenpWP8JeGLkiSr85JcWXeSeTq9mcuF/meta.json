@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7ysf9TpK72ucJZah6dP5hJ9aMjqEQSyGHByDTixtDYrh",
-      "slug": "0",
+      "slug": "8v9gl",
       "stakedToken": {
         "decimals": 6,
         "mint": "8V9gLeGLD8MQQ2jPCP21jTJfK85TXSgKMZ4or5Lh5GP6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GiY6xFyneRSZPdXcjnueM1JRC12pi6RKnYz3zy16Cdik",
-      "slug": "1",
+      "slug": "8spwi",
       "stakedToken": {
         "decimals": 6,
         "mint": "8SpwicfwbBLH9dSFqWqqK4hNupDMghEqxLnT4fbnpePU"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J2QrSdiFQbzYBpbjTLvSKZrDrqTcEZWnFe8LwPxRWp4w"
+  },
+  "rewardsTokenInfo": {
+    "address": "J2QrSdiFQbzYBpbjTLvSKZrDrqTcEZWnFe8LwPxRWp4w",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J2Qr",
+    "symbol": "J2QrS"
   }
 }

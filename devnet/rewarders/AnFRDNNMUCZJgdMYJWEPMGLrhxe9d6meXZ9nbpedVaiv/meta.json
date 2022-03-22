@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "r5r8tMsT4mZnpiM9UBkF2hWCw9jY9jaq3uiFvg4ZoaL",
-      "slug": "0",
+      "slug": "az6ty",
       "stakedToken": {
         "decimals": 6,
         "mint": "AZ6Ty6yB7Y7RLhW1xuj5F1HPqpFEjAp433SdrDtiTD9N"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5Spm3pFBDNiK7j5nSd9kiu1oRJPnqvDTYVb439mqqVXv",
-      "slug": "1",
+      "slug": "dyp2d",
       "stakedToken": {
         "decimals": 6,
         "mint": "DyP2dvbupgNsMetF9iQ4vzDBfJmAfXUEwExh5zoZnCfc"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5sN6qxuPn2GKVZRXUXeqgYgHayRw1MDwTFbxGEARbtNy"
+  },
+  "rewardsTokenInfo": {
+    "address": "5sN6qxuPn2GKVZRXUXeqgYgHayRw1MDwTFbxGEARbtNy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5sN6",
+    "symbol": "5sN6q"
   }
 }

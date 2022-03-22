@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8eJDX6TmAbNCLj6uttDh4xcW7QZ9YFerwZftBEAMcpY4",
-      "slug": "0",
+      "slug": "htgpk",
       "stakedToken": {
         "decimals": 6,
         "mint": "HtgpK9txj11HvwYbpEzGPW5NRMEpM7MvGYer4omPKExo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4yDGNEbZtVds29vwuosiu79ujHHrD9482iGiNynSzpgc",
-      "slug": "1",
+      "slug": "ewq82",
       "stakedToken": {
         "decimals": 6,
         "mint": "EWq82DgXg5PQf9x5Z9dwnENJXs3TPPGxGRcZtCZuTNQr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GMNTvGrWkEPf8xFDRXbsFbMwp4t2peauYpseGSy7Z3w2"
+  },
+  "rewardsTokenInfo": {
+    "address": "GMNTvGrWkEPf8xFDRXbsFbMwp4t2peauYpseGSy7Z3w2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GMNT",
+    "symbol": "GMNTv"
   }
 }

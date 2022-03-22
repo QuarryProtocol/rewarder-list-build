@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7V1KJ2AjsaJHL2TowU5WC8bnYGjD8Koiw3CFkqbXt5vG",
-      "slug": "0",
+      "slug": "ebmey",
       "stakedToken": {
         "decimals": 6,
         "mint": "EBMEYzX3fNggxM3CGL9qBEWZJHEzxgpxQeGoueCpL5FU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4p9WBsBLsdHZtJ9CghJKYB4KC6f1YNMLscdeMj33YVNy",
-      "slug": "1",
+      "slug": "d5noh",
       "stakedToken": {
         "decimals": 6,
         "mint": "D5nohkv3NiKfwGgjdSdz5cVRw3B3Kajtum91JSydXeRF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GcZujRR6mzo8stzsZMFgZD229YsCjEPgp9k8ao2ue69L"
+  },
+  "rewardsTokenInfo": {
+    "address": "GcZujRR6mzo8stzsZMFgZD229YsCjEPgp9k8ao2ue69L",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GcZu",
+    "symbol": "GcZuj"
   }
 }

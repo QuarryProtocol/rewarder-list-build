@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5azx5Fr8iWxPP7drVnBcBoFxRC7gZfKVE9nue1yWsSt7",
-      "slug": "0",
+      "slug": "cjwhp",
       "stakedToken": {
         "decimals": 6,
         "mint": "CJWhPUZLsz4BiHBVFDb3svE7mgAgX5jdka5QXm1yTA9c"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6FBVLd7s3nRDT2X8q8FqMqwYzL4vSggNqX1AWGfppwbv",
-      "slug": "1",
+      "slug": "9n2hd",
       "stakedToken": {
         "decimals": 6,
         "mint": "9n2hdf6FsSgV6tr1Aen73bbhTGtJNYZXApJYLn93U21w"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8JMVXeQqHN46mRVj2fKhYxj54T2WSJNiWLA18pbw9FaB"
+  },
+  "rewardsTokenInfo": {
+    "address": "8JMVXeQqHN46mRVj2fKhYxj54T2WSJNiWLA18pbw9FaB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8JMV",
+    "symbol": "8JMVX"
   }
 }

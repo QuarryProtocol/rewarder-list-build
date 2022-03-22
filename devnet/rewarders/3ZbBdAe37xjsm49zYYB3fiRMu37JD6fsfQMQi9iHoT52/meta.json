@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ETeMkuNmzNygsEFFdVeSAD6czSVhQUh9B89HipBd9knm",
-      "slug": "0",
+      "slug": "fll29",
       "stakedToken": {
         "decimals": 6,
         "mint": "FLL29geGbZ7oScbNrXfGAYAiwLiqLXq5T6hiJ9D9HwJo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6tr9p7ptfcvMYDiXDfaUyqoWMxjcxCT4V7SduHcT2n3i",
-      "slug": "1",
+      "slug": "ccaya",
       "stakedToken": {
         "decimals": 6,
         "mint": "CcAYAokQfxZsdQnb7mKxt9pVSepSEcBcf3796na7Uuky"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "918V2XXHJCqDbfvf48xpFZ2rjdfPLZUXW25W3TyBGWLk"
+  },
+  "rewardsTokenInfo": {
+    "address": "918V2XXHJCqDbfvf48xpFZ2rjdfPLZUXW25W3TyBGWLk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 918V",
+    "symbol": "918V2"
   }
 }

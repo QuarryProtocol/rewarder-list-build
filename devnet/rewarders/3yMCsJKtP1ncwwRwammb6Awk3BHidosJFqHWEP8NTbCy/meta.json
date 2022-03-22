@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "G66uJXe9AKa4HWbKCCW5g19eLhpcwcQQ1Mv8dYYnW82Q",
-      "slug": "0",
+      "slug": "eyeue",
       "stakedToken": {
         "decimals": 6,
         "mint": "EyeUEmqzqkVgsk8cjZsxZa4MeZtEcnah7MrzWUmD6Bkk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6y9izEEusodUCmCLaY1YqypJ8SorUEeLQZtxys7w6Qh7",
-      "slug": "1",
+      "slug": "dcbjb",
       "stakedToken": {
         "decimals": 6,
         "mint": "DCBJBT6pujkQcH76znhm6bTS9NuLsKHEaTTpCQ7KNga2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CxiFEeCzCRfmtfAfZaeCeMJrutjvhLWiRv1xtHE8kcCU"
+  },
+  "rewardsTokenInfo": {
+    "address": "CxiFEeCzCRfmtfAfZaeCeMJrutjvhLWiRv1xtHE8kcCU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CxiF",
+    "symbol": "CxiFE"
   }
 }

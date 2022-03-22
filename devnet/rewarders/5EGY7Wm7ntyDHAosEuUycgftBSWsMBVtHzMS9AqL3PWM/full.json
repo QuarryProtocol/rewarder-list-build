@@ -14,7 +14,7 @@
       "quarry": "rtMtQXiMqjECiy7j591NyJq1tiidvPXmRVY1dPXDaz8",
       "replicaMint": "59eRJxUnsKKaweC85RXPLedAGt9n3CGsr8jTEcHCy84y",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "bgmdn",
       "stakedToken": {
         "decimals": 6,
         "mint": "BGMDn5kPxDZwAgzy4jydWeFPKPqFVacnEErdNMqbi1Be"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BmggUEwKQA3gonKsLez3Q92ys3MnJsjcs61URTHqsTQP"
+  },
+  "rewardsTokenInfo": {
+    "address": "BmggUEwKQA3gonKsLez3Q92ys3MnJsjcs61URTHqsTQP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bmgg",
+    "symbol": "BmggU"
   },
   "slug": "5EGY7Wm7ntyDHAosEuUycgftBSWsMBVtHzMS9AqL3PWM"
 }

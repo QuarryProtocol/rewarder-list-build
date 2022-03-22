@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J658ij3oJ9DUjc84XakHJbVTSEc8GTTh4DXMWugBD3YT",
-      "slug": "0",
+      "slug": "c9atd",
       "stakedToken": {
         "decimals": 6,
         "mint": "C9aTDxiZXfZQobzPBFA1xz6GjTD8Xj2qYjC6FNdTF8qa"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3SAXv5wCRpHGENZYtVcuXdEookSeBRBpNdTrUnTypBMS"
+  },
+  "rewardsTokenInfo": {
+    "address": "3SAXv5wCRpHGENZYtVcuXdEookSeBRBpNdTrUnTypBMS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3SAX",
+    "symbol": "3SAXv"
   }
 }

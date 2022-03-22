@@ -14,7 +14,7 @@
       "quarry": "FK356UMgot6WtTrAJGCgf1p5kLNSmnx6LLCSf7Rz8ky3",
       "replicaMint": "EkBVsrGTo53RpVx34G7UbpSbP5YxVaFJL9Nweg4K3Rbg",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hdqfk",
       "stakedToken": {
         "decimals": 6,
         "mint": "HDQfk3v7BcHSwmeV3RKQ2quQNTEqJ3fXnhxR8Qug5spK"
@@ -32,7 +32,7 @@
       "quarry": "91WmzfasxZeXLS3zj3SAHbNefFAHiV8ZAsu1fUqQQWfJ",
       "replicaMint": "7fBPXhV1KjXryQX7BpUGjp4DFbvYHRVBoTz7YwFnUDFF",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ffosi",
       "stakedToken": {
         "decimals": 6,
         "mint": "FfoSiDrSW5g7NPqPGiVGT382qK4dkuzJTCkBHSHL7tuT"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "93SvruCgMdTQa9baX9huYk2YG3cKui7fDQ76XM2NpL8b"
+  },
+  "rewardsTokenInfo": {
+    "address": "93SvruCgMdTQa9baX9huYk2YG3cKui7fDQ76XM2NpL8b",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 93Sv",
+    "symbol": "93Svr"
   },
   "slug": "9NDmZ2Ds8zwHCe5Fd4vsskRbmMfxzsGHwM4Qw3HB5UBb"
 }

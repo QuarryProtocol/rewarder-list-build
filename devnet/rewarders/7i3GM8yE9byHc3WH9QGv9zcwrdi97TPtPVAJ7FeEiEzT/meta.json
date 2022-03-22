@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4ZNNPHxvPoGHZETr1mDRS61bFCL6K8UupPvN2a7Px9fQ",
-      "slug": "0",
+      "slug": "4tmdg",
       "stakedToken": {
         "decimals": 6,
         "mint": "4tMDg6JdxYNmXQWboxNFZyJSEsaQom4rw2mckzPUTN2A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CRjt2HnQ1bxVp3y9rbxRNmrD76dBa1m4GUStuZYMbzbm",
-      "slug": "1",
+      "slug": "7jllq",
       "stakedToken": {
         "decimals": 6,
         "mint": "7JLLqPzsnrR9iSd5FSPZNBn8BwEqYWdSAvWvnvnYVVLk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2EWJNGfwbQnnNWVcD7DpdJKCAFypMWSAADC4dVYaJcsm"
+  },
+  "rewardsTokenInfo": {
+    "address": "2EWJNGfwbQnnNWVcD7DpdJKCAFypMWSAADC4dVYaJcsm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2EWJ",
+    "symbol": "2EWJN"
   }
 }

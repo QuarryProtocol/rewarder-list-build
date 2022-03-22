@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DbqVc5P5LwpnTDBop6NeM1CYX1MwZKVapKcJ2CsxRJ3c",
-      "slug": "0",
+      "slug": "3ary1",
       "stakedToken": {
         "decimals": 6,
         "mint": "3ArY1sr4vC5BravwZgPMhXbkGukf8oxDrMkEd4N6bdaN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5FJCWt31mRFRnCacmGsdMYAKoCSBrJDezXkXN1pNdTYg",
-      "slug": "1",
+      "slug": "gjda3",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gjda3phhLMEwmG7geknaGiZTLkZQrSUUtUQEHajzFeh8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DRtPrbWnL3p58htjTFYjCaufdF4ZL4QQ5vLRGmpVcTCq"
+  },
+  "rewardsTokenInfo": {
+    "address": "DRtPrbWnL3p58htjTFYjCaufdF4ZL4QQ5vLRGmpVcTCq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DRtP",
+    "symbol": "DRtPr"
   }
 }

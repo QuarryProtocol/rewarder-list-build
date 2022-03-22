@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EfLMxfYVNZL7ehYhpnaYo5RDV7eGNUJBkZ8Eo5vLYgz6",
-      "slug": "0",
+      "slug": "94nmu",
       "stakedToken": {
         "decimals": 6,
         "mint": "94NMu7fcnjyDnQNsLZ8LHF1684KG5zHmntZDnkzpDJTR"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4JSVTsKuviEAT6zyYx55FiLMWHgbgA3XEwxE8kYFooop",
-      "slug": "1",
+      "slug": "hjkin",
       "stakedToken": {
         "decimals": 6,
         "mint": "HJkin4s94nw7fbRWAZgw9HJHSBDiKq7HzhvpnSg2M9nB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5ZkS5K42w7jMh4YLvTwKGCzH5HmeWfVQGbU6q8f6m8Nh"
+  },
+  "rewardsTokenInfo": {
+    "address": "5ZkS5K42w7jMh4YLvTwKGCzH5HmeWfVQGbU6q8f6m8Nh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5ZkS",
+    "symbol": "5ZkS5"
   }
 }

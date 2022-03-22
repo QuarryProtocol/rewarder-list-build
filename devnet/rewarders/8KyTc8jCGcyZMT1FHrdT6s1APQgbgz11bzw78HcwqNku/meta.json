@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AXni1RaohMJZqsfZigvhG95ARjrWpquRksFLW7kgtwj7",
-      "slug": "0",
+      "slug": "6qvve",
       "stakedToken": {
         "decimals": 6,
         "mint": "6QVVeAFntZtmpw734dNdM5dWQuYj6bDpNurNNjWzqWTQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6BuzL5rN6qgnE9eNF9DjV3Ap9AL2NjQLjBQEduSMvQJK",
-      "slug": "1",
+      "slug": "bhh3y",
       "stakedToken": {
         "decimals": 6,
         "mint": "BHh3yNZSxkgj4BM6rPZRmG9vbrR55XcjjKqEs5Y1JRNt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ft9NsXfEEqH4aWm5PBc6fHVcd15SLaXs8nkrzQtmrRaB"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ft9NsXfEEqH4aWm5PBc6fHVcd15SLaXs8nkrzQtmrRaB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ft9N",
+    "symbol": "Ft9Ns"
   }
 }

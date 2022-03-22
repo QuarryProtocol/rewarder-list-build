@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HsPhtHERyiGqUEWgFQLW4LYdK1Ex9no2YHom46qp68nZ",
-      "slug": "0",
+      "slug": "9hgmg",
       "stakedToken": {
         "decimals": 6,
         "mint": "9HGmguMTPB6mKToHJxUVBCJ8TbBZYmp2s9GQS4BLA4L1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HZq8iZEaEY6virnvCXHNp11LRD1HZinGvwA7Pn9uCfc1",
-      "slug": "1",
+      "slug": "8losj",
       "stakedToken": {
         "decimals": 6,
         "mint": "8LoSjcqyGzfuGV8cpfuioRECYpwLde4ov1z3xduRZJXB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GQk5zVX6ycK34iXTFxoLiLfnrNgjckKLWm1JtyEbqqU5"
+  },
+  "rewardsTokenInfo": {
+    "address": "GQk5zVX6ycK34iXTFxoLiLfnrNgjckKLWm1JtyEbqqU5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GQk5",
+    "symbol": "GQk5z"
   }
 }

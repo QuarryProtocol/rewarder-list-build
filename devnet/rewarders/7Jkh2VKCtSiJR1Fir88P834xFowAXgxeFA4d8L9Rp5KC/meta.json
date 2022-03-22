@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "675nsM4hw7YMiuHCZQuNTFnJDQzCZtNMQLmAEW1ngZtD",
-      "slug": "0",
+      "slug": "gsbam",
       "stakedToken": {
         "decimals": 6,
         "mint": "GSBAmKSKzZrmGoJETJE92a4RB5dfPXMvCbe9XUZLCgxL"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3ZJaXecuWQki2uWW9yv8KyDeWpDZfkKXmziGcLbNq9fj",
-      "slug": "1",
+      "slug": "4omkh",
       "stakedToken": {
         "decimals": 6,
         "mint": "4omkHJLEnFSvLmXAipmPGPPvjhK7iNfArRuid1wWB8UV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DSTwjQK61sGkAti5wLTq6nAXY8WADyHW5xMv29UgNpTZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "DSTwjQK61sGkAti5wLTq6nAXY8WADyHW5xMv29UgNpTZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DSTw",
+    "symbol": "DSTwj"
   }
 }

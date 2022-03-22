@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "JAKCtAHVxX4ntxwMfrvFzpvrqi7khHA4v5DjeD3nt4ir",
-      "slug": "0",
+      "slug": "h8lyw",
       "stakedToken": {
         "decimals": 6,
         "mint": "H8LywTNTrHRi6dQnLqfGUo2LQhVDTmz7nYWL1iYjjhGm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6mznU9AU52QvVYnLXKT5WR47EgRxsimKjdsY3fJ21tjh",
-      "slug": "1",
+      "slug": "hzaei",
       "stakedToken": {
         "decimals": 6,
         "mint": "HzAeigSdnrPY1VcHNidaJE4CE7M9drsubTeuGRRwdNcb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HBDbVrUGAajJhDdWp3UHdV9n3f88qSTVzLAWbzkrhsp3"
+  },
+  "rewardsTokenInfo": {
+    "address": "HBDbVrUGAajJhDdWp3UHdV9n3f88qSTVzLAWbzkrhsp3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HBDb",
+    "symbol": "HBDbV"
   }
 }

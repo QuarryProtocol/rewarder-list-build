@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2NAEKT9Jo1Wtcov3XYk1yAiEiW31pweUWfUzFUQ7uzMy",
-      "slug": "0",
+      "slug": "glmev",
       "stakedToken": {
         "decimals": 6,
         "mint": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q"
+  },
+  "rewardsTokenInfo": {
+    "address": "GLmEvpLbPkFor96Fnccuox4aAzAj4QAdNhTVTUBFPG7q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GLmE",
+    "symbol": "GLmEv"
   }
 }

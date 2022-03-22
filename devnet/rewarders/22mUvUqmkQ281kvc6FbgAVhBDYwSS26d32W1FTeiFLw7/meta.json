@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6QTxwSoh18fC3bTqHuwTLqU8CrnFMxzFRfVkmfb6Heuw",
-      "slug": "0",
+      "slug": "harbq",
       "stakedToken": {
         "decimals": 6,
         "mint": "HArbqbwfj7V7voGWou2VbdHfwJ64HgaL8w4P3F3sYCLR"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2Z5LeeRRNKxUzBRyAaqzAC58egExx1ey5q5QfXDjNtP5",
-      "slug": "1",
+      "slug": "347mf",
       "stakedToken": {
         "decimals": 6,
         "mint": "347MfEntJupgEcG2B19F6ecHs45BJAdBsXX1zSeu6Vjy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F8E3a6NM1MRCgVq94En7AUyLRouCpXmKCRK5p9X5oyeA"
+  },
+  "rewardsTokenInfo": {
+    "address": "F8E3a6NM1MRCgVq94En7AUyLRouCpXmKCRK5p9X5oyeA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F8E3",
+    "symbol": "F8E3a"
   }
 }

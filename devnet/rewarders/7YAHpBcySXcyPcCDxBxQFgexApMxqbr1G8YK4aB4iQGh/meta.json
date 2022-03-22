@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "yzFqrmHDek5s29cgngimx2nLRc36QqWCYeYADWeh7ee",
-      "slug": "0",
+      "slug": "cted7",
       "stakedToken": {
         "decimals": 6,
         "mint": "CTEd7EH7LXtoXjsc1uWN3QrxzBGJ8TxSYmnANboB4yqq"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HdjpY7GpRg7LmmY82u12YVTB9Hm3tz3UgdUtoweu8QR2",
-      "slug": "1",
+      "slug": "hd3tx",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hd3txkAWKWCtHrnfwb1h2zmXddiDdrxdjkiF9pbYXbTK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AKS2R52J76gjrc4LEwo23MHB66PKjHcgmy86PkENkpSD"
+  },
+  "rewardsTokenInfo": {
+    "address": "AKS2R52J76gjrc4LEwo23MHB66PKjHcgmy86PkENkpSD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AKS2",
+    "symbol": "AKS2R"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "8d4wmqNEhwNZxYZyETyN3YGRHVPXb6HYK7AftuekyLqi",
       "replicaMint": "BoK7KLBGaZM7BEZxAetp5wANswpCXJnv27qHZm2RZYyF",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cz6vo",
       "stakedToken": {
         "decimals": 6,
         "mint": "CZ6VoDbE9jsjcQj3DAEZkiavx2mtfCkqqws2ifeYRm1S"
@@ -32,7 +32,7 @@
       "quarry": "ECTL1oxrQ5zqfWA4rFk8JZ55U3ZAYRAwNZ88wsSJyUwm",
       "replicaMint": "ATTNLR2Dx495rwR8K3CzLqtmgZKt89ya5UA9BJxj8HYh",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "fhbwx",
       "stakedToken": {
         "decimals": 6,
         "mint": "FHbwxnpqpYADoHCSopbSYQsQWAQB3rb4ent7dttmVJeW"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "46CC3gmwq933foQWCWv4Qi8NabnBBK5xc1xdfQ9LkcYq"
+  },
+  "rewardsTokenInfo": {
+    "address": "46CC3gmwq933foQWCWv4Qi8NabnBBK5xc1xdfQ9LkcYq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 46CC",
+    "symbol": "46CC3"
   },
   "slug": "BLzUXmeVgRwvD9XbPCedJxiX8zWYF56ppzCy1mYqm4gs"
 }

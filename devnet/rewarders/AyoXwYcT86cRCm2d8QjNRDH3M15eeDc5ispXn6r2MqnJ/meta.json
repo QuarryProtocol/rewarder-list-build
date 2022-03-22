@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3TKJbZZ2AGY6wtfkvQx8nh2LKDPuRaoErzbG3NzTu1Rd",
-      "slug": "0",
+      "slug": "djyfw",
       "stakedToken": {
         "decimals": 6,
         "mint": "DjyfwkgDq4cGCx8LAcp4pAyWezYgZL1vxQCQZvcQsFP"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9SmZrB1ubW5KpN61xePJfCLg1onUDKNiWBucwWyQYUCN",
-      "slug": "1",
+      "slug": "bn26y",
       "stakedToken": {
         "decimals": 6,
         "mint": "Bn26Y8t4hDH4iMmv33zmdiQasYUUMfBRe9rs9vzFpAfB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "147PyzXrnHEQVDavnobf3E7HES5AMYYyy3PP1Dpa4x3S"
+  },
+  "rewardsTokenInfo": {
+    "address": "147PyzXrnHEQVDavnobf3E7HES5AMYYyy3PP1Dpa4x3S",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 147P",
+    "symbol": "147Py"
   }
 }

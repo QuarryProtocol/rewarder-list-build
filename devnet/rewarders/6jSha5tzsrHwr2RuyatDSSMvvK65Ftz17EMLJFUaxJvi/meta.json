@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DtwYfSzv3k3mAqTM1FLCkGHpjpWTTjmCz9erZbv2LXQe",
-      "slug": "0",
+      "slug": "3nur3",
       "stakedToken": {
         "decimals": 6,
         "mint": "3Nur36nrydyzXwzk9NeFNqJyuif9xnwfcCP7DmzFsek2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ae8iGL8MhWDXx6SGXaRrHbvcUs6ihwQ1GJegFk4q134a",
-      "slug": "1",
+      "slug": "9yrhw",
       "stakedToken": {
         "decimals": 6,
         "mint": "9yRHwy3p5gr6xUuHfzGMkvesFhNQnKoPbrigR6AsvnDR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3Nur36nrydyzXwzk9NeFNqJyuif9xnwfcCP7DmzFsek2"
+  },
+  "rewardsTokenInfo": {
+    "address": "3Nur36nrydyzXwzk9NeFNqJyuif9xnwfcCP7DmzFsek2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Nur",
+    "symbol": "3Nur3"
   }
 }

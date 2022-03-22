@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H6Pm4Q5Mxby1oi7HUA6dLaZcKcJKEmjupqax5vo3YxVE",
-      "slug": "0",
+      "slug": "gmrep",
       "stakedToken": {
         "decimals": 6,
         "mint": "GmREpi6XYP3EPrYLXa12DZMRrdrpQvbq7yvVvFbjJPHY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E9Uz2E7w9wzndvh12mbvURGPFCwudAmcDcx7kBremYyc",
-      "slug": "1",
+      "slug": "8g7qm",
       "stakedToken": {
         "decimals": 6,
         "mint": "8g7QmGTsk18E11P55v8atNuiZRD9RdaiRZxV3LYHFs7n"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8dzqDXb1U9rj5kk7diwj7uaUkaF7L3drsDnq6nTyfGpN"
+  },
+  "rewardsTokenInfo": {
+    "address": "8dzqDXb1U9rj5kk7diwj7uaUkaF7L3drsDnq6nTyfGpN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8dzq",
+    "symbol": "8dzqD"
   }
 }

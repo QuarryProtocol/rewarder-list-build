@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A3fKLXaW7jTQPoPea4NBY93FoMMaZWVeEUSSruC79eZ5",
-      "slug": "0",
+      "slug": "hw7u9",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hw7u9Jd8hTdJsxKmTB5ofuTDoHMHexQNcg9Xvm3KUhfw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BNTFefPsFEAzjKyD5d8pkjHJcpSqhhM1xLiHa9p9De6e",
-      "slug": "1",
+      "slug": "92n73",
       "stakedToken": {
         "decimals": 6,
         "mint": "92N73FoPJ23rRo37LNyLQ7hXhJAJco7T8spuKbifQRX3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8dzcAYR9scbQtgD3vYiu3cUWEM4j2YPpaFvkou8pJbr9"
+  },
+  "rewardsTokenInfo": {
+    "address": "8dzcAYR9scbQtgD3vYiu3cUWEM4j2YPpaFvkou8pJbr9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8dzc",
+    "symbol": "8dzcA"
   }
 }

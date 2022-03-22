@@ -14,7 +14,7 @@
       "quarry": "BLQhj5d4cYtvFrU6wots7QPNxWUo3dEVbAg8K6fpki4X",
       "replicaMint": "2pyHCWimh6QVC7S2gejEVEcMNBWBEPGdWhYvZDkd2f9N",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dzhic",
       "stakedToken": {
         "decimals": 6,
         "mint": "DZHiCucxdqntHVPWj6K3R8Bh1XMVtrE5i2RAayjFgyEF"
@@ -32,7 +32,7 @@
       "quarry": "5gh9vA44Wf3Fih3EgV3iwp4mPqPVB2tC9HMAwCaboZzq",
       "replicaMint": "77us7q6KNFm2uRXqNubEWYr2u2u9P5Ks6vNg5poqdznu",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8cemn",
       "stakedToken": {
         "decimals": 6,
         "mint": "8CEmNpn1J5BMLsKpSMvNyS334YAP9o7Uw9xux4eK1MMP"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "W997QhcdGR7Z4DTWRmVQz2ygB5Af5nu4nGUxoHveq3Z"
+  },
+  "rewardsTokenInfo": {
+    "address": "W997QhcdGR7Z4DTWRmVQz2ygB5Af5nu4nGUxoHveq3Z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token W997",
+    "symbol": "W997Q"
   },
   "slug": "BaaH4Du3iDVVvC7UDYebNC6SExZiYqzptb4j9mWPm3Sm"
 }

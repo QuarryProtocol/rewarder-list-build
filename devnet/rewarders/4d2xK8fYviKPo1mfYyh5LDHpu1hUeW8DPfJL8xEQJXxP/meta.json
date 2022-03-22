@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "WjXuVr1ZGQLktFMbUsVBHe2hjJ4gbELjo3nkg23tQgo",
-      "slug": "0",
+      "slug": "rmxtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "rmXtFZwJPmTrjmE5fLXjX3PuxWeBd8XHbAgQDkayKMZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fj56VvwF2SGbEBDimdWJqukZvd1sAKy5yS7csnQq8JER",
-      "slug": "1",
+      "slug": "huner",
       "stakedToken": {
         "decimals": 6,
         "mint": "HuNeRAcynccFBLsUuBqpmdSuGt2nkSJ8oDM6ae6Lfm3W"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8ocfVbwLoTAL9UmkTk5ZHwfXC5qRj7PmEA81hWw2VvfJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "8ocfVbwLoTAL9UmkTk5ZHwfXC5qRj7PmEA81hWw2VvfJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8ocf",
+    "symbol": "8ocfV"
   }
 }

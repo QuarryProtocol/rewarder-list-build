@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FYWzRokAAasBowAUT3vPsY35iyrqGJumZxdgP2a52vkA",
-      "slug": "0",
+      "slug": "4atx6",
       "stakedToken": {
         "decimals": 6,
         "mint": "4aTx6oWHAS6aR4hX5Ci6UMrkXWSpdKQ6muwfUvAYBobD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2Vuu16peM5xXCB49tcYv8YySz95DcWNGDR9bwYsQxuM9",
-      "slug": "1",
+      "slug": "exjfu",
       "stakedToken": {
         "decimals": 6,
         "mint": "ExJFu83tUxi2CN6r3hs8zLgjRmG1H15DMYwnbQJw9GEF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ri9JJGsQBXyEZy8dFbQ7y4by2Znq7WKDKZJJMkPWNzB"
+  },
+  "rewardsTokenInfo": {
+    "address": "ri9JJGsQBXyEZy8dFbQ7y4by2Znq7WKDKZJJMkPWNzB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ri9J",
+    "symbol": "ri9JJ"
   }
 }

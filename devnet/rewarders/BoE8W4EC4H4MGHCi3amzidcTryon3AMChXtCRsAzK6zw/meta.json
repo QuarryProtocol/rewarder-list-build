@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FdPpaqhRcFCputWCjNoRugT6pmh1PqyLTYUZfMrtTrM4",
-      "slug": "0",
+      "slug": "5refr",
       "stakedToken": {
         "decimals": 6,
         "mint": "5ReFrXpZkEdJA5WKJ7sidBuWQ97r9xURVKrAv9rQoQC8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BP5JGkfzFK8ZYZmAPiUoJ6ZfLXAsyLMpJ7E1Hci9g2Yw",
-      "slug": "1",
+      "slug": "bjt6s",
       "stakedToken": {
         "decimals": 6,
         "mint": "BJt6SSefsFfVqNbmNJsB3VqYgUpKeF6PfwCDQb5a8S8D"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8gKkiopoZ7wCUBVw8w2SMqT9W9DVdfdurJnGnEFads7c"
+  },
+  "rewardsTokenInfo": {
+    "address": "8gKkiopoZ7wCUBVw8w2SMqT9W9DVdfdurJnGnEFads7c",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8gKk",
+    "symbol": "8gKki"
   }
 }

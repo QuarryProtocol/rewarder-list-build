@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FDHoV7ZrncJEtEnwmDGEbu2UxAgMZycniQLcsYaECEcw",
-      "slug": "0",
+      "slug": "cadww",
       "stakedToken": {
         "decimals": 6,
         "mint": "CADwWG8ZS5s7vtz3KRjcYsD4SinhYqiEGHea7WkhfUc9"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BaURZXYThksK92DHVHJr3W4GxsJUkRHcBvJkDy6AhUK9",
-      "slug": "1",
+      "slug": "6a2gd",
       "stakedToken": {
         "decimals": 6,
         "mint": "6A2GDRhXQB3s4woVNrspLu6g3Ppzes5Qm6fkqDR152QX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2aevVfWJ9p4NaoNe1fPJqvUVYHHja2qaAaZ7icVkYzeo"
+  },
+  "rewardsTokenInfo": {
+    "address": "2aevVfWJ9p4NaoNe1fPJqvUVYHHja2qaAaZ7icVkYzeo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2aev",
+    "symbol": "2aevV"
   }
 }

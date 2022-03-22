@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H3X3PZqKRohZce4u9wGPNLLdBRghpm7Z3f3mB5WLSmXa",
-      "slug": "0",
+      "slug": "8tqnn",
       "stakedToken": {
         "decimals": 6,
         "mint": "8tqnnfB7zpHVtoGmKAh51SC2zgKHXaJiE98jYWxCkDcd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HaEcMc1xWXj6ygyMK7BXEBtFqMFvEoRcMVGV4uyyjwVP",
-      "slug": "1",
+      "slug": "cedw9",
       "stakedToken": {
         "decimals": 6,
         "mint": "CEDW93tCLxLgsHkG66uqEPsV14o5TNXEKYdxiHvoCtyX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DSRkEJyqAkV87y6rWTCN6JfLKqzPxHvM8Ack7v3dpinm"
+  },
+  "rewardsTokenInfo": {
+    "address": "DSRkEJyqAkV87y6rWTCN6JfLKqzPxHvM8Ack7v3dpinm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DSRk",
+    "symbol": "DSRkE"
   }
 }

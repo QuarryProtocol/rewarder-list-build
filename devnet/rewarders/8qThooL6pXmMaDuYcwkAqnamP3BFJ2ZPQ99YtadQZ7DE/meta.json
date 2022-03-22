@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Hb64RTV1rujKX3Mj1n3rEYYBmw2nyaUvtXa8CKSow5vv",
-      "slug": "0",
+      "slug": "e4cbd",
       "stakedToken": {
         "decimals": 6,
         "mint": "E4Cbd6D8pKejQXNvE2ebbtzqxkad7oA1hYHRpvHmAwMu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7an9Wnpdwk392qKSF7jvC1qreAAY3SXM7EBQQBzPevvi",
-      "slug": "1",
+      "slug": "7jmeq",
       "stakedToken": {
         "decimals": 6,
         "mint": "7jMeQ3hn8nXwJGEujdBxkxmxXRzLE9DQNZtRpg2DCCVD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HuBb6YPryPgtF961TW2QkbKQjL7ZdNSE9Z2n7zzbHTWd"
+  },
+  "rewardsTokenInfo": {
+    "address": "HuBb6YPryPgtF961TW2QkbKQjL7ZdNSE9Z2n7zzbHTWd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HuBb",
+    "symbol": "HuBb6"
   }
 }

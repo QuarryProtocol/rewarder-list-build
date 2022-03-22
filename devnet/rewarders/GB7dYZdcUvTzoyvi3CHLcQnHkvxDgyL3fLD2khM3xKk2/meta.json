@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5bUB3p3tYwCYpQgcihowJYSLtnWAvQVPhgQsB5HCxikZ",
-      "slug": "0",
+      "slug": "huanq",
       "stakedToken": {
         "decimals": 6,
         "mint": "Huanqsem52biAC5xaKxC2YrL1srkcfxot2Rz2tpNzXtS"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ACNUe56neEAVRV76mfpDS4Ppd6TeWRF1H4AwQUxaiy9z",
-      "slug": "1",
+      "slug": "4a1gl",
       "stakedToken": {
         "decimals": 6,
         "mint": "4A1GL8Fn1K8MYxjxYnpy56VtJRqoYQAjJwwH15d9T5rC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9dPmJjc9eMEJYF4QsAwUy4fmi3TtZ4s4HXqrFrw49ZLM"
+  },
+  "rewardsTokenInfo": {
+    "address": "9dPmJjc9eMEJYF4QsAwUy4fmi3TtZ4s4HXqrFrw49ZLM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9dPm",
+    "symbol": "9dPmJ"
   }
 }

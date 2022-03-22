@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AVutmHcuZABVBjYXU9iNPxs2uzRauP8oAWD3SAHZeHtu",
-      "slug": "0",
+      "slug": "8cksq",
       "stakedToken": {
         "decimals": 6,
         "mint": "8CKsQ2KJWWGwULnsZxUzNtDEzAyapeGqDzjvgdMp9Dw6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5xBxjooF3JNpSgcVd9d67g3wcWAeFVDgU3YfUzeB2kyP",
-      "slug": "1",
+      "slug": "hpiap",
       "stakedToken": {
         "decimals": 6,
         "mint": "HPiAPSGVGdEkvzwPLUsiCV968EfxSV466AwhCG8iPfXb"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DtnmwxSLEgYVizedha2vW4uSLzJN6aMBKyx574kVBfwi"
+  },
+  "rewardsTokenInfo": {
+    "address": "DtnmwxSLEgYVizedha2vW4uSLzJN6aMBKyx574kVBfwi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dtnm",
+    "symbol": "Dtnmw"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EurWE2pPfVznMVEoNeNbKTgTTKhBdYbX1FeQ66V1WGgN",
-      "slug": "0",
+      "slug": "82qjh",
       "stakedToken": {
         "decimals": 6,
         "mint": "82QjhQXr18qfd7v4UVBoxpnSohUTed2L9c1wJsYZhUd8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2nPTB6CsmhokJwUrYXwc8QXcWoTfqWrPt1bgu31taBe5",
-      "slug": "1",
+      "slug": "6nfuo",
       "stakedToken": {
         "decimals": 6,
         "mint": "6NfuodQdp9tGfjFWYzibCL4JhSTJhTQUR4qL3VTxB2v1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2Gmg4ePTiUcVXZ8qZWnkgx8UZMQfTxWkicTTWtkbzrZs"
+  },
+  "rewardsTokenInfo": {
+    "address": "2Gmg4ePTiUcVXZ8qZWnkgx8UZMQfTxWkicTTWtkbzrZs",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2Gmg",
+    "symbol": "2Gmg4"
   }
 }

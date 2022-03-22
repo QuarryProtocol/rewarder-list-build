@@ -14,7 +14,7 @@
       "quarry": "DHTGjszXcY8XTQTz95FTUUtpjRVmWKxGczAASCY89sqM",
       "replicaMint": "3tT3sBW2GDpTkx32BhPjYoaLJyjU6XaUpXvge1ruazxc",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "gopbt",
       "stakedToken": {
         "decimals": 6,
         "mint": "GopbtUMDLCmk19tJfvzeWjcFMcnjb5AhREjg6iAUWcJw"
@@ -32,7 +32,7 @@
       "quarry": "8TZhs95q788p7zb6ckLbv6fZM5dNY5XoPvUVJNef9gNd",
       "replicaMint": "Bv85aCZn8XVAKSd3bXjBQKkSkA9hYuTN1EtU7ykFEScL",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "eerwo",
       "stakedToken": {
         "decimals": 6,
         "mint": "EerWosKuUyh69nAMhvqLHrYdnZ3v2LTyUcgqr5LvSkRR"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bdai8RJ7RzpuQ2LQ2SX5muCwE6yEgA6Mnea8tt3uXHpa"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bdai8RJ7RzpuQ2LQ2SX5muCwE6yEgA6Mnea8tt3uXHpa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bdai",
+    "symbol": "Bdai8"
   },
   "slug": "5kiEkYqfAUzDQYt9NoFGvmTtNr6s5GYAPJTFC2TSBBah"
 }

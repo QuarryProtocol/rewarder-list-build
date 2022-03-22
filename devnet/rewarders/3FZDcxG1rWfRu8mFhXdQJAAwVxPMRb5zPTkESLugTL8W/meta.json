@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9snz6JaqEGkLnrSALofni1pp317riPCCSUL8yeBMnN49",
-      "slug": "0",
+      "slug": "hop6w",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hop6wjtqfKHPpu66FjUdXnth81d74yeXaWSTqchKFYmV"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9t9oLRGmYTtr68XrZse2A2XbDQqmLzpTWeVABjXrA8Xf",
-      "slug": "1",
+      "slug": "cwfbh",
       "stakedToken": {
         "decimals": 6,
         "mint": "CWFbHYM1h9TnnjPNyoexB1x6bnqSxnU5L5qUhSFP1aHH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "25yKB1ac6oaq4hqEodhnLb4JCCG3xnzyw3dc7rzf2uyB"
+  },
+  "rewardsTokenInfo": {
+    "address": "25yKB1ac6oaq4hqEodhnLb4JCCG3xnzyw3dc7rzf2uyB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 25yK",
+    "symbol": "25yKB"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "iowWgN8XQNpfwsFU2DS5pnHwEfuYcMSeV2baWWUiasE",
       "replicaMint": "FmbmtJVwZuLSsY1CwqUoHEXLoP4mA5oBA9JhTmiqQCRk",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ctsgb",
       "stakedToken": {
         "decimals": 6,
         "mint": "CtSGBgc1fa3Ye96HmtXGu9YvYHNNPy9BVGjt4LbtxtxD"
@@ -32,7 +32,7 @@
       "quarry": "9fhzryn2BfcH5k3Fo9s995iHMZb3eTHUrRoQrxzWoykp",
       "replicaMint": "BJdC48rQeWud8EPN8yWg11DxJ2ST6cfiT7wNUKHg7Gk3",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "gtz1c",
       "stakedToken": {
         "decimals": 6,
         "mint": "GTz1czn5DW6FPd915FuK6echxcrpRKUrwTDK7vXHQ2Zx"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "23yoZDvMLd5wVBu25ikjKhwXZ3iA7EVkkMsdx3qQkSKa"
+  },
+  "rewardsTokenInfo": {
+    "address": "23yoZDvMLd5wVBu25ikjKhwXZ3iA7EVkkMsdx3qQkSKa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 23yo",
+    "symbol": "23yoZ"
   },
   "slug": "5AkfYaitY3LS3cG3Hto7VQkU4CmbFkjJkTRcZBrsAhHw"
 }

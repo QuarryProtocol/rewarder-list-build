@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FQQ8aWn8aVBnsRis4jTLF6bXFLbJTWd1hAuB9zCW7saf",
-      "slug": "0",
+      "slug": "8qhgo",
       "stakedToken": {
         "decimals": 6,
         "mint": "8QHgoyTbgACNnNZvtBw7pzfk8VLS1xLMQr6G4UvS9eZ7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9B7LodJZkuajRKN7pepFtcs8DU8dz4rwBF7VD11stesA",
-      "slug": "1",
+      "slug": "g8gxx",
       "stakedToken": {
         "decimals": 6,
         "mint": "G8GXXP96UQmz4dibZDo3ap8gR8o54sbS6GP28YFqMxEe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bbj2kCne7gc9j8VPUpbEBF73BttySYMyj338QpTz233V"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bbj2kCne7gc9j8VPUpbEBF73BttySYMyj338QpTz233V",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bbj2",
+    "symbol": "Bbj2k"
   }
 }

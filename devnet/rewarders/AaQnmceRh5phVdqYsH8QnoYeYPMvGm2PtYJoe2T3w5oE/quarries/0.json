@@ -12,11 +12,17 @@
     "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
     "replicaQuarries": [
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token 2jmz",
+          "symbol": "2jmzZ"
+        },
         "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
         "rewarder": "BX6gJLjmviXQVuqxJB3V5mVEKvhD6k7ffc2UjdwcgNR7",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
         },
         "slug": "qrusdc"
@@ -43,16 +49,30 @@
         "method": "quarry-redeemer",
         "redeemerKey": "17QZwHniDeZcwY7fkTd2igKPRGDM86kgByfasHhckfb",
         "redeemerVaultATA": "4rdWDiVVKaLP4JocnaBSVCaj2BqYwWgfnAVdNQDr9c2N",
-        "underlyingToken": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+        "underlyingToken": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+        "underlyingTokenInfo": {
+          "address": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token 2jmz",
+          "symbol": "2jmzZ"
+        }
       },
       "website": "https://quarry.so"
     },
     "mintWrapper": "AmdXkLvRxsd5X1i5AvC9ufTQqtWDfZjU1u1g1Z4cFqQa",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX"
     },
     "slug": "larry-test"
+  },
+  "rewardsToken": {
+    "address": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 91kV",
+    "symbol": "91kVK"
   },
   "stakedToken": {
     "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",

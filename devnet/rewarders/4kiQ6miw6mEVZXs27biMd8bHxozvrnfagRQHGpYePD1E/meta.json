@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2mjBqXua5LUcqmmJPnF2vPBp5aGEmgwXqPQ2U28ZK3Ut",
-      "slug": "0",
+      "slug": "7wmzu",
       "stakedToken": {
         "decimals": 6,
         "mint": "7wMzUBdQnoptx7pxXmKyXL8h6QhoyRCfW1F4wE7KCbR2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B81BQPYLZfWYqyCAsw4WYtkgb8vfodWHJFWw47mrx1TQ",
-      "slug": "1",
+      "slug": "3u2iy",
       "stakedToken": {
         "decimals": 6,
         "mint": "3u2iYqLdudKKgtgAXwMHWWzJ3HczRtyri9gThMt8RAQX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2SHmB3hoA8KdYz63KbHzcDNGQUUyU6Rwtpvz8QY5SP8n"
+  },
+  "rewardsTokenInfo": {
+    "address": "2SHmB3hoA8KdYz63KbHzcDNGQUUyU6Rwtpvz8QY5SP8n",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2SHm",
+    "symbol": "2SHmB"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CqVECgbsZMbjDPMMcdek3yPpBQNUBnTSVg7vTy73uHsK",
-      "slug": "0",
+      "slug": "ersvf",
       "stakedToken": {
         "decimals": 6,
         "mint": "ERsVfx1WShxUszm8o8YLXhDeKzar7HUnu1zo2ukvyNNs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "K4YQvABuWEwLeqKWe2Gv3hJF9qcPeQMLjMBCKc9JPBg",
-      "slug": "1",
+      "slug": "caey2",
       "stakedToken": {
         "decimals": 6,
         "mint": "CAEy2FhFkeNzBtGPeWF5cL6DanbUhR8PcZoSqpGm96Do"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "63vCnxw8PiRhEo5At6d2u1jK4Zd1VJfJFm8PGERdaxnS"
+  },
+  "rewardsTokenInfo": {
+    "address": "63vCnxw8PiRhEo5At6d2u1jK4Zd1VJfJFm8PGERdaxnS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 63vC",
+    "symbol": "63vCn"
   }
 }

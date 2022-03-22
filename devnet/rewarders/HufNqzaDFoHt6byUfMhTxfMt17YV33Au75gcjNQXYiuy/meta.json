@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3ae3KuLsV2goc1dvR7gyp3xyeh1ZhHZmrYKiDioQZxCP",
-      "slug": "0",
+      "slug": "4t7he",
       "stakedToken": {
         "decimals": 6,
         "mint": "4t7HExyUZoC9z38S2fDs11HDQjVjrp2F5NThXHMfXTea"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FGGTxvrpCYbeFqjcCRUbBTGPaaTwbfJQ9zDuhCZtJE9w",
-      "slug": "1",
+      "slug": "ndspx",
       "stakedToken": {
         "decimals": 6,
         "mint": "NdSPxfaobd84s7Rt9EycUV4AQj3M284m7HvDozf2ebZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FVgM2S3Nd8WBVzzBpRurAQkxLc1m34kbHodpoLvdYK62"
+  },
+  "rewardsTokenInfo": {
+    "address": "FVgM2S3Nd8WBVzzBpRurAQkxLc1m34kbHodpoLvdYK62",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FVgM",
+    "symbol": "FVgM2"
   }
 }

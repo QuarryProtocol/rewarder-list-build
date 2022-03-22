@@ -14,7 +14,7 @@
       "quarry": "3SBZ9yHe4oQ949xNQpkd8gnS4d79bn3j6T6HxafaoUtu",
       "replicaMint": "3XmKfXLKwSrjzWCPghAxsN8oHmsfmf8Qj8fZDrGE7Sio",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dzdtd",
       "stakedToken": {
         "decimals": 6,
         "mint": "DzdTDRmoBAQtX78dx87EHB3GXvQdqJ3A4cZRLjoqCScu"
@@ -32,7 +32,7 @@
       "quarry": "Jf3MJRKtr4qGUTAk1eNymP5TrrATNXeWpye91PHbBGd",
       "replicaMint": "87AjDwWHEpMtz7aNsus6bYbBEUGdot4z6X5Py2RjzQR8",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5mc26",
       "stakedToken": {
         "decimals": 6,
         "mint": "5mC26vAWxjmzZHqJZLvVvNK8fTirweBaF3JTDkU9RTug"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D38LVSiDUCy1fQgs7a4LWRomSyYx3BXKmPPCU7vcTqw3"
+  },
+  "rewardsTokenInfo": {
+    "address": "D38LVSiDUCy1fQgs7a4LWRomSyYx3BXKmPPCU7vcTqw3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D38L",
+    "symbol": "D38LV"
   },
   "slug": "CgJS3PrT94N1Xm8AYJfFGvXrp4stUj3bbcuFbed4GArD"
 }

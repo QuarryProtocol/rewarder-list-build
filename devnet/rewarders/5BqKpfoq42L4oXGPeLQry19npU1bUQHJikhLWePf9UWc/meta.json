@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CSnB6yqLkLELzxwyJ3ce9vniCutP5Sm3FxcStizWxMjT",
-      "slug": "0",
+      "slug": "9kwjd",
       "stakedToken": {
         "decimals": 6,
         "mint": "9KWjd4uF8FHV5D8m3qwHHuj1MMq1BEnRsvjWSF3piwkh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "H7f3gcG9ed3vwjXp1wbzo1xVQwug6HC3wecCeRa5m3tf",
-      "slug": "1",
+      "slug": "banmt",
       "stakedToken": {
         "decimals": 6,
         "mint": "BanmtvHiy5QiGSt8kmEQnRoheqZxfoAXcgdqfiWpfe9b"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7GXXZf2CY9HaecETRRSncXLYesAV9dwtF42ovEnH54nM"
+  },
+  "rewardsTokenInfo": {
+    "address": "7GXXZf2CY9HaecETRRSncXLYesAV9dwtF42ovEnH54nM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7GXX",
+    "symbol": "7GXXZ"
   }
 }

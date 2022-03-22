@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BLxB7JQ4p6etXuixHRktUs7mzPRkzn1p64Avj32cRXSK",
-      "slug": "0",
+      "slug": "6kvfq",
       "stakedToken": {
         "decimals": 6,
         "mint": "6KVFqj11oevMmnZvaLA9s7jvxWqqjigLM5FVxvGVLehC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HHuKyG3kWqpHUJ1svgVZDVAbHYEXcDwcESnVsLMnAqVn",
-      "slug": "1",
+      "slug": "6t7o5",
       "stakedToken": {
         "decimals": 6,
         "mint": "6T7o5DobrWBLbnt4h8wbTUKACF4Zd67iedFUZ3U8PqNc"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BD4SppAWYMYBMnUbYHu4gZah8DDrsASfKNvDR3D65Az"
+  },
+  "rewardsTokenInfo": {
+    "address": "BD4SppAWYMYBMnUbYHu4gZah8DDrsASfKNvDR3D65Az",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BD4S",
+    "symbol": "BD4Sp"
   }
 }

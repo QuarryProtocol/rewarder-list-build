@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9deJvoYMknNvhdTPSbJoanBWg5GCtsWPh5wKDjATx2TH",
-      "slug": "0",
+      "slug": "fdu66",
       "stakedToken": {
         "decimals": 6,
         "mint": "FdU66LT8dQLhdjAGwYeLp1jEvGs9L8yYh3h1uveDn6F5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CxbS7ccKRb2KcUF1iawY5wHW1jjuxNfApfEtwJJXmCVH",
-      "slug": "1",
+      "slug": "cishd",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cishd6xgNWGhgjo9NGWrXjbqnak3WCQrwZ1FUoF9GsC9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ye7qhLpXA4FWJ41jYu8tCfMJYEVjvWKa2iydkghLxHf"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ye7qhLpXA4FWJ41jYu8tCfMJYEVjvWKa2iydkghLxHf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ye7q",
+    "symbol": "Ye7qh"
   }
 }

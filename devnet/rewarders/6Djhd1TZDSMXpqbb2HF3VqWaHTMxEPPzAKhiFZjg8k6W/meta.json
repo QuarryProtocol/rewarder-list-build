@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HYFRpJN8tED61xpr85KfbQP3LKcx2NCJ44TNgGBL7Vis",
-      "slug": "0",
+      "slug": "24mkf",
       "stakedToken": {
         "decimals": 6,
         "mint": "24mKf9FxCUNxL6oKPTQ7ekBCXryMzM1GkvVvP7fAY9Xm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8WZp2FiMVakoKsLXEpM7TaS4bsZc4zsBvf6sw57pG8FA",
-      "slug": "1",
+      "slug": "4mlfi",
       "stakedToken": {
         "decimals": 6,
         "mint": "4MLfi5N1N4tviUAJqgGKxcgowG9XR7Qg2qHUPfM6A3yw"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D6FRFCfqgxFMnNLPUtoajtcn2EwCiho7YJ6kBNCYFjqQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "D6FRFCfqgxFMnNLPUtoajtcn2EwCiho7YJ6kBNCYFjqQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D6FR",
+    "symbol": "D6FRF"
   }
 }

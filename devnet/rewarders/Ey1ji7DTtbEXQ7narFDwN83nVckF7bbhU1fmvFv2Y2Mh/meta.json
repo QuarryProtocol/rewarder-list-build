@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GGRx5YwU2vhDUTKNPcJuem55wEH7bKV3CAruqqVDvZwN",
-      "slug": "0",
+      "slug": "jejcq",
       "stakedToken": {
         "decimals": 6,
         "mint": "JEJCQ33kvQPb6ez1zPwVjn7GWUjAW5whevhbdgH8DPWT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2knyzQ7K6KP1212uYgcH3ZfkJ4Ewc13NK873ffr3Rpgw",
-      "slug": "1",
+      "slug": "dpte7",
       "stakedToken": {
         "decimals": 6,
         "mint": "DPTE7tdWQZVib3QpnvihsZSg9MktRCeEX49mFj8nwfrD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "JDS2kz9xDUq9CVTbK6ByDhjLE51URFL3YzHcbpyBVwdQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "JDS2kz9xDUq9CVTbK6ByDhjLE51URFL3YzHcbpyBVwdQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token JDS2",
+    "symbol": "JDS2k"
   }
 }

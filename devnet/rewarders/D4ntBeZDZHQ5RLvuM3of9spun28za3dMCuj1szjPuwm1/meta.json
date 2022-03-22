@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "E3xMJ4aDKxv7Ep7TUuBBVnzmLivVacQMPyLe86U7KZU",
-      "slug": "0",
+      "slug": "8nhab",
       "stakedToken": {
         "decimals": 6,
         "mint": "8NhAbZ5Hd7GEDeLLrhVrmaAHYqWhZrZqK6yAGw8YDJY2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CRTpvpYzq99Z6vKeEMnWcKJCGU3MndnGTLHQVYZ7U7qH",
-      "slug": "1",
+      "slug": "bn6mu",
       "stakedToken": {
         "decimals": 6,
         "mint": "BN6mu88XynaHqWsJvjAgfXAnMWEj2fjtAHJ9bdNJpihV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Hd58o6ZijK8mLqRNBifZrzwkFtPiuqVFHRPLyaWKrPxp"
+  },
+  "rewardsTokenInfo": {
+    "address": "Hd58o6ZijK8mLqRNBifZrzwkFtPiuqVFHRPLyaWKrPxp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Hd58",
+    "symbol": "Hd58o"
   }
 }

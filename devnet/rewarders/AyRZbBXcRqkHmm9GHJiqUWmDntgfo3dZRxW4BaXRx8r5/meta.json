@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EkUaUZMErBjpCpK4Bq5DmFSV6WiDEBFSW6c4i6iSj8YV",
-      "slug": "0",
+      "slug": "fwmby",
       "stakedToken": {
         "decimals": 6,
         "mint": "FwMby63ohf7KybjX6wYL1xUzn6ZrqvFheRgg5mVQfyr4"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FwMby63ohf7KybjX6wYL1xUzn6ZrqvFheRgg5mVQfyr4"
+  },
+  "rewardsTokenInfo": {
+    "address": "FwMby63ohf7KybjX6wYL1xUzn6ZrqvFheRgg5mVQfyr4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FwMb",
+    "symbol": "FwMby"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FQBWUeNjGJSYQbubLAU2bA2JLKqyoRoMqgT7y5KbSCVs",
-      "slug": "0",
+      "slug": "ekog8",
       "stakedToken": {
         "decimals": 6,
         "mint": "EkoG8BbfNySE51g6D3K9EFtwhVQzvyEyHZsdpvB3bHDF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7x9FVpajqboqyeu9yp4sKcHoU3ex8ENjvbQFR4GbEQKy",
-      "slug": "1",
+      "slug": "fkjey",
       "stakedToken": {
         "decimals": 6,
         "mint": "FKJEYDWHYgGZ6y3gEfFjPZGDjtojGPxm6Csz6dTqoyZz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FGcyQdchsm3Jbu2uhfqhfkm3wFSntjWEdUnbyEXCjr6T"
+  },
+  "rewardsTokenInfo": {
+    "address": "FGcyQdchsm3Jbu2uhfqhfkm3wFSntjWEdUnbyEXCjr6T",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FGcy",
+    "symbol": "FGcyQ"
   }
 }

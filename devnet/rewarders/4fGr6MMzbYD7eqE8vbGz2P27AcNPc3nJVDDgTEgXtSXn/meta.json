@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4msMtiAGc4zmjFwZBzv6aEQsQu3JV3aUX4BWKRzR3uZ2",
-      "slug": "0",
+      "slug": "9snz4",
       "stakedToken": {
         "decimals": 6,
         "mint": "9SNZ4qx1qjCfKdC9sfihNvqtzRzxGKjn35H76PNQtC9A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5h8zmpGpbB4yousjEuTV72kmh7NQm2g8dS1zupgkXQMj",
-      "slug": "1",
+      "slug": "6thpj",
       "stakedToken": {
         "decimals": 6,
         "mint": "6thpJoGPV6SF36yrMsDQDRZT3zdKLvF3vJfuNFt4B3ta"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HCjdYGVgZhmDmt9uy2Ez6sn66wD7YQCWKh6WY5QYD68N"
+  },
+  "rewardsTokenInfo": {
+    "address": "HCjdYGVgZhmDmt9uy2Ez6sn66wD7YQCWKh6WY5QYD68N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HCjd",
+    "symbol": "HCjdY"
   }
 }

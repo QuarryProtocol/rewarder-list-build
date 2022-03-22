@@ -14,7 +14,7 @@
       "quarry": "BPqie86F59W1dSLdqPQDBWoA5MmpYcptu1hH5oouk1TK",
       "replicaMint": "HYAb5QicC4ks2PksCUjaSGD2vWZkB8M2SQXxjXj1TYNq",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "awpvx",
       "stakedToken": {
         "decimals": 6,
         "mint": "Awpvxwkvp2PAdwX4owk8KbFRP8oUArT4LrxevatCuNKR"
@@ -32,7 +32,7 @@
       "quarry": "DQrRy7Hfio4wnJ49Abdp3EwWBaDuPycKBuQpjG8tQu8J",
       "replicaMint": "D5Tte2ZgNNVMFvCX8AUht1pzVEAAWydreoxSW5zdRCLC",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "wvabm",
       "stakedToken": {
         "decimals": 6,
         "mint": "WVabMwixKgWrgXXrCmdnNZrvk6QEdV8RVN9tH9hxedo"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AVRP2esnAZ81hFv4qL4BUDSvAEDwKRicSEVC1KW1ujmC"
+  },
+  "rewardsTokenInfo": {
+    "address": "AVRP2esnAZ81hFv4qL4BUDSvAEDwKRicSEVC1KW1ujmC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AVRP",
+    "symbol": "AVRP2"
   },
   "slug": "6UFSEc9Dce8TWb95Az4NDVBvK8ApmWGk8AUJKL181Mc8"
 }

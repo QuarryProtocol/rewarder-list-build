@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "D46G5EZsUWgMfUcwkLjdLTcEANQmAWGGeMwUx6pWBUMW",
-      "slug": "0",
+      "slug": "6p1fj",
       "stakedToken": {
         "decimals": 6,
         "mint": "6p1FjQjYPgbZn2DNUjNH7rvenjJe989vMDnySgUwwjss"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AMS8h6pUY5SPngAwPkrU4cyHHzsvNv7ncECYL64DATmp",
-      "slug": "1",
+      "slug": "5esnp",
       "stakedToken": {
         "decimals": 6,
         "mint": "5eSnPGLZrA4ssvCxD2QQjpmu6hbeGV1NTEY4xB48RDFM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DQCihPQReaFpB1nDnHwxbgGB5meNvvvcyW3RJ1xfUndh"
+  },
+  "rewardsTokenInfo": {
+    "address": "DQCihPQReaFpB1nDnHwxbgGB5meNvvvcyW3RJ1xfUndh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DQCi",
+    "symbol": "DQCih"
   }
 }

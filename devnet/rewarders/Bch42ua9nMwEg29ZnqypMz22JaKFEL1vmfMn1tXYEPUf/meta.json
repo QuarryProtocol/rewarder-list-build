@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4b43FePgwxz22aRvPpzKFKHV9rXpJSZUbLYmLe6698bu",
-      "slug": "0",
+      "slug": "apyjf",
       "stakedToken": {
         "decimals": 6,
         "mint": "APyJFEv1HpwMquMjDDUSyrmC3zHTxGxirqFss9nykXUr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "igP7SfvckFEhPQ92hAzap6bx68UjYvcS9LZfYoDMQqT",
-      "slug": "1",
+      "slug": "9ruvt",
       "stakedToken": {
         "decimals": 6,
         "mint": "9ruvtzL2V3zDx88Mhiq5XU5wdBMzh2Y8tjoU5seN4ian"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5cQeeaUkBt8qUDSc9nkDdhL5a7mKVx2kWdeHnxYe7kEe"
+  },
+  "rewardsTokenInfo": {
+    "address": "5cQeeaUkBt8qUDSc9nkDdhL5a7mKVx2kWdeHnxYe7kEe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5cQe",
+    "symbol": "5cQee"
   }
 }

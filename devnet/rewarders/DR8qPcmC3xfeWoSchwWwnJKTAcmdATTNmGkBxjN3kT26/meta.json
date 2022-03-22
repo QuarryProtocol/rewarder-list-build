@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EGbvDUs4wiPHGDr8gCk3cuUbUy4phJqJfC3mEtN8C44U",
-      "slug": "0",
+      "slug": "6uwjg",
       "stakedToken": {
         "decimals": 6,
         "mint": "6uWJGJVjpK5RKyY5imfz1vMaUZd7iiVDzYpmU6KjcaAz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "55uYiK5HPu7pH5fSGcaLFSQJkHT1mLkbhVxsM8ZkCfCB",
-      "slug": "1",
+      "slug": "536tu",
       "stakedToken": {
         "decimals": 6,
         "mint": "536TuP9BYLFBQ64RVUTy6eV1pXC36b6V9L3XdLnC9NqY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AsWXgmi8861UvR9yDLNTzpMhbr3Xzvmhoy6fWwvJYqhz"
+  },
+  "rewardsTokenInfo": {
+    "address": "AsWXgmi8861UvR9yDLNTzpMhbr3Xzvmhoy6fWwvJYqhz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AsWX",
+    "symbol": "AsWXg"
   }
 }

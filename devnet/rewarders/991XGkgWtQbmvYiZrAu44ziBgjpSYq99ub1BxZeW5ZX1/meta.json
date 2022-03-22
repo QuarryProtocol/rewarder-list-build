@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EUeQ9HbwpALU6h2rQ1hxyWLjeCpUpRncpHM6eCXTmqcF",
-      "slug": "0",
+      "slug": "5h9i8",
       "stakedToken": {
         "decimals": 6,
         "mint": "5H9i8eYWn34K3pWVYp1uzrGNf8UVwYYFMvwFuqTRHrQJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B6Exx3q6ev99ZcWC9baTXdbv6K88P8GH3evehhjj4JCi",
-      "slug": "1",
+      "slug": "nbxtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "NbxtFQNytJVp2fectJ4bRJsFa2doFrHU2j8YdiDT3Nn"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "APFAc9FZCvbi15X5L6bG81HrfAtBdzH2po3B82orGqvY"
+  },
+  "rewardsTokenInfo": {
+    "address": "APFAc9FZCvbi15X5L6bG81HrfAtBdzH2po3B82orGqvY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token APFA",
+    "symbol": "APFAc"
   }
 }

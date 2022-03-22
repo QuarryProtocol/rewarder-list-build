@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J2Ye5uWBUGMVafwULvin46YyF9LqrK7vCqMTpTRGK4Ba",
-      "slug": "0",
+      "slug": "tnwb2",
       "stakedToken": {
         "decimals": 6,
         "mint": "TNWB2ZFtdwYbHX2xBDstMPDVGepNpMZr3rEFHZYS8EL"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AgA49mhV8bXNcwUtTGgtuahgX328J38B1oDeVFrvme9X",
-      "slug": "1",
+      "slug": "ggp8f",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ggp8FipPPSWkpxjyxHNrWKwoJg31kCKv4QzBsEaotD1R"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gjd4RoKMXt5WjRwoYWQpHmif7k7k2JTy1xdxgm3WBktU"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gjd4RoKMXt5WjRwoYWQpHmif7k7k2JTy1xdxgm3WBktU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gjd4",
+    "symbol": "Gjd4R"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5z44bcsfR69vtZr1fErvFJwTAiKo1MB5zRPPBLKfz8AB",
-      "slug": "0",
+      "slug": "2nwmk",
       "stakedToken": {
         "decimals": 6,
         "mint": "2nwMkqeCHQ8QFoZREq5HE1itEbvwH1HhSyZkk6cGq3gw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6rs4Y2Mwme82HFhtuLyE3AWjWbgwFDkWj9FmphLvu6eG",
-      "slug": "1",
+      "slug": "eywdo",
       "stakedToken": {
         "decimals": 6,
         "mint": "EyWdohByHrUSineqdj5jvZbA8zV3GmbFndvHebRoaraT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GCKeeMKxn14Ewg3wiswsiQNvkBb8WMmsUBWDkXJR7Tp9"
+  },
+  "rewardsTokenInfo": {
+    "address": "GCKeeMKxn14Ewg3wiswsiQNvkBb8WMmsUBWDkXJR7Tp9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GCKe",
+    "symbol": "GCKee"
   }
 }

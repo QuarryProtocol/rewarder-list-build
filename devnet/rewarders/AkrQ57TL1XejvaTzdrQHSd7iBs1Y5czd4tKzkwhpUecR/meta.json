@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4juP2G4yWwWy1rjUkJE6tvgCyDfBYy6p7DEbMhaM7fQL",
-      "slug": "0",
+      "slug": "a6tzd",
       "stakedToken": {
         "decimals": 6,
         "mint": "A6tZDCSsn2afSyTJi8wUfHgGHTezaQ9Eg64GmMHqBK8U"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4Fw5dv4FAbRshezvoWbt2v6wMEmoLHeUiYjoCY9NpGfR",
-      "slug": "1",
+      "slug": "79mca",
       "stakedToken": {
         "decimals": 6,
         "mint": "79mCaRMjk7BWfDTeq8AfcyTCYZ5hxQWczitBPpD9zdVC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BjSE8TGZ9UGmJeAiZCDVF7bGeHJUWQ9fnw8ohsHFwz1X"
+  },
+  "rewardsTokenInfo": {
+    "address": "BjSE8TGZ9UGmJeAiZCDVF7bGeHJUWQ9fnw8ohsHFwz1X",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BjSE",
+    "symbol": "BjSE8"
   }
 }

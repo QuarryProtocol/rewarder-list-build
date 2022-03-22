@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GeFYqbN1YVJY2i6LFVBYvF53wVLN8mVoagVNPJHr25Ff",
-      "slug": "0",
+      "slug": "cbrzo",
       "stakedToken": {
         "decimals": 6,
         "mint": "CbRzoG2jSE8JWoY7XAKLtgXmajcnM1xqa3MDTgFsfhRs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2vfxuzNh1ER8AgLid3us5UCvnXrH6buawHfd7vJFUqjK",
-      "slug": "1",
+      "slug": "5wqfu",
       "stakedToken": {
         "decimals": 6,
         "mint": "5WQFUB34sYmoVZxyJDZ7hVyw88dmqbpEzTps9xqY3xrG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7pmzHXhw1C2NBa42XnqiToxP2EmtricqJWS2JMFneEud"
+  },
+  "rewardsTokenInfo": {
+    "address": "7pmzHXhw1C2NBa42XnqiToxP2EmtricqJWS2JMFneEud",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7pmz",
+    "symbol": "7pmzH"
   }
 }

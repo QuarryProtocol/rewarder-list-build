@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8Ag4xx4h1swkXseHguf1CAJeKGXH6o2CspAcW9H9rEQQ",
-      "slug": "0",
+      "slug": "dq1y7",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dq1y73pyxVQcPL65HMWFTBxcqWXsgRUjMeZxBwMHEZ2i"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7j2khMyZSx5NuEwe58EESzBrwbLX4VVHJZuoa5Vmaun7",
-      "slug": "1",
+      "slug": "96nfn",
       "stakedToken": {
         "decimals": 6,
         "mint": "96NFN3ResD3Y7bvjrxiuMyBCz9sb6s9pLS4zVVY7StpS"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Cwd52squyuNap4L7zSWXZ1EfnyottdSRavkfjJimusRh"
+  },
+  "rewardsTokenInfo": {
+    "address": "Cwd52squyuNap4L7zSWXZ1EfnyottdSRavkfjJimusRh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Cwd5",
+    "symbol": "Cwd52"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HAjmq5muN7heVryuJoVLdmy2buydfhdMoWvYqTQ74AkK",
-      "slug": "0",
+      "slug": "3kbbt",
       "stakedToken": {
         "decimals": 6,
         "mint": "3KBBt53cdxnbC2rDM4YDaaYkaj5V9aotsMk81Kgn162c"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "tUaAA64RXpkT9mk6brGrVj4LRCLcT47n88FMeWogzct",
-      "slug": "1",
+      "slug": "f5xuy",
       "stakedToken": {
         "decimals": 6,
         "mint": "F5XUYVT4jR2ceN5uytvgS9gXyqEBhcmFC2XqAxoz4s2g"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2DfGSYfJnQNuRwRgrKQvY42Pu5Uvjrqc6kyn4SQdurbk"
+  },
+  "rewardsTokenInfo": {
+    "address": "2DfGSYfJnQNuRwRgrKQvY42Pu5Uvjrqc6kyn4SQdurbk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2DfG",
+    "symbol": "2DfGS"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "3fTW99KJEaFq5KmusR87XcsDMaHSaTKhJMjW4KzUv2ya",
       "replicaMint": "72uqJsonQRLUe3yJTxBbszepKoBMFj4cmvPtLQJrscb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fmrxj",
       "stakedToken": {
         "decimals": 6,
         "mint": "FMRXj38bwRPZB7PBhAhvnU66GWe8VHLwDU8Gd3DV1R6Q"
@@ -32,7 +32,7 @@
       "quarry": "7Md9Z4PzEp4KBvhVJjJzEsVLdEddTxhhiBfbdKPevR59",
       "replicaMint": "3AnmJzcJuVpfism6iSx1Da8g3Fj5Zfn6uFu1MVkQvehc",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ccsdn",
       "stakedToken": {
         "decimals": 6,
         "mint": "CcsDNazvErMGeRQRWkUbKJyXrgPUaxyfCWxH8foHxUGX"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4VpKbG25YgvbSM4Gvihu3GEmpQUZLkwviDodQpbFgX3K"
+  },
+  "rewardsTokenInfo": {
+    "address": "4VpKbG25YgvbSM4Gvihu3GEmpQUZLkwviDodQpbFgX3K",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4VpK",
+    "symbol": "4VpKb"
   },
   "slug": "GmPPBcnhMR1LQEX63qzRMjwVz9Hh2xhPC9vJjH14a1wS"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3cPiLrxtgFBKVsSTjK2nUBCcbw2TCUMXVEgqRgf31275",
-      "slug": "0",
+      "slug": "7vttr",
       "stakedToken": {
         "decimals": 6,
         "mint": "7vttRAfzakk5iHPZwTdqmHmcJgyJWWwkvbLNkCeUwer1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5jydzYiekrRn7ke6WeX9YnLmKFJA1TQXrrXvxo1227VQ",
-      "slug": "1",
+      "slug": "gjrh1",
       "stakedToken": {
         "decimals": 6,
         "mint": "GjrH1juPE51ZVSfCHsPaWy5bJBSJJnJKNvrNy9aggRzC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H1E24HhrhUmJSffY3e9pwWZjE15RNuLMhA1gVdQLJoVd"
+  },
+  "rewardsTokenInfo": {
+    "address": "H1E24HhrhUmJSffY3e9pwWZjE15RNuLMhA1gVdQLJoVd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H1E2",
+    "symbol": "H1E24"
   }
 }

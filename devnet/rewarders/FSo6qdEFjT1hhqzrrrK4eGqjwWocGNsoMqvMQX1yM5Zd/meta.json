@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FZ1qKkKMFJ7Hy8Q3NPKZgkfp31h9uKpzZau6NpeBdnmi",
-      "slug": "0",
+      "slug": "ciqcx",
       "stakedToken": {
         "decimals": 6,
         "mint": "CiQCXau39iuDSpXWkxdWSGTS9WtRbMYMzVPZwo922DsE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "JAxxDB6ZhixwvdNWn85VA9riztdTqPQMo59uhbaavU1i",
-      "slug": "1",
+      "slug": "hz4h3",
       "stakedToken": {
         "decimals": 6,
         "mint": "hz4h3Kcy5ebupUmEbc8x15HF1GjErH1xFZoMgLHqTxD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bugh63o9nwsYPDqHxDgQ8Ly3vhRyFH6SBFhFnTSPE5xf"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bugh63o9nwsYPDqHxDgQ8Ly3vhRyFH6SBFhFnTSPE5xf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bugh",
+    "symbol": "Bugh6"
   }
 }

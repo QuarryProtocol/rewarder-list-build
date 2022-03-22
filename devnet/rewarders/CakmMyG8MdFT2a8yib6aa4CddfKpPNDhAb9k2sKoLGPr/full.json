@@ -14,7 +14,7 @@
       "quarry": "Fn8Lc32wbzcuYdAzyw1ZcLVqE3kHMY8StS55T42yekHr",
       "replicaMint": "EM4CDBDHTex7tDZxZSjDbA3R386k9MXmcbrLZbz82h2E",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "3yelg",
       "stakedToken": {
         "decimals": 6,
         "mint": "3yELgSyKzTF7t8PzUEnSDTMA6uHHcdSAGrzN7x3t9vCW"
@@ -32,7 +32,7 @@
       "quarry": "82DU8tczGiruPLoTCzKPq32ry9v4sqh3DZKYMtCSqAF2",
       "replicaMint": "B8MVyFBZBoQ9giC6Av1ZTooxE6ztcTUkNc7BmAo3kDbY",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "6fjul",
       "stakedToken": {
         "decimals": 6,
         "mint": "6fjuLnnmViS75SUHDquR6Q8SredJAvegDhNd5LRzk8rg"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BoGaLYXWzLmT5aXLAvb9hx157QUyNyE4BfQ2hCtM6XTw"
+  },
+  "rewardsTokenInfo": {
+    "address": "BoGaLYXWzLmT5aXLAvb9hx157QUyNyE4BfQ2hCtM6XTw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BoGa",
+    "symbol": "BoGaL"
   },
   "slug": "CakmMyG8MdFT2a8yib6aa4CddfKpPNDhAb9k2sKoLGPr"
 }

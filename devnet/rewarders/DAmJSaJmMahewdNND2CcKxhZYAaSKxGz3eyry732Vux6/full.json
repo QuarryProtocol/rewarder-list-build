@@ -14,7 +14,7 @@
       "quarry": "4hqMmSuA6hLuBvswq8S8GXLyaVoLT4V1x52cS4anWGor",
       "replicaMint": "G19PZ5D6pApbmdSiyB9RUpm5fhKduZaMw24hh3xeNC9o",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "57kpd",
       "stakedToken": {
         "decimals": 6,
         "mint": "57Kpd4uN21bD7Basaky4i76BSWp19KxSZTEKQw36JsV3"
@@ -32,7 +32,7 @@
       "quarry": "5x1NQ4bdBTG8T8GNqbi2iRGjf4PzzHeLr93RxaD5eypg",
       "replicaMint": "9eS4vBAuSb3389JLh2NEiumYHuzuia5oU44WSjmdp4zC",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "wzx33",
       "stakedToken": {
         "decimals": 6,
         "mint": "wZX33ZitFUxNDE9u2ppTvQQehXKi2hGC8Bzeb1KkKR8"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GHheWdMjWtBSh7fo7TsvA1n6n4husEb8KiQU5nF9ZbBk"
+  },
+  "rewardsTokenInfo": {
+    "address": "GHheWdMjWtBSh7fo7TsvA1n6n4husEb8KiQU5nF9ZbBk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GHhe",
+    "symbol": "GHheW"
   },
   "slug": "DAmJSaJmMahewdNND2CcKxhZYAaSKxGz3eyry732Vux6"
 }

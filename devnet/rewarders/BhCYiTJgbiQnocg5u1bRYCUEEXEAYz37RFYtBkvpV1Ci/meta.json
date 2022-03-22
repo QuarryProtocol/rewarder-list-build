@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CQdzPtKToefu518cmb3MrRj4LDmMiCnG9KLvAcjmXU2M",
-      "slug": "0",
+      "slug": "81bnm",
       "stakedToken": {
         "decimals": 6,
         "mint": "81BnMdjdT6UyDw8PEnt3Xhq3JMTKqt2ozHeiyGLCf4Pm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6BejATBkRXkXj6XNsEr3on3yG7jj4r3a5NEJcERp2sb3",
-      "slug": "1",
+      "slug": "8sz1j",
       "stakedToken": {
         "decimals": 6,
         "mint": "8sz1JFyjgazRwyCTcNAdRe39zVn6Ue3DdvYEFzWkVaPs"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FQcF2w3Mkdv3edWX7NdC4kFd56cdK3E6VhNznSo3kyXn"
+  },
+  "rewardsTokenInfo": {
+    "address": "FQcF2w3Mkdv3edWX7NdC4kFd56cdK3E6VhNznSo3kyXn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FQcF",
+    "symbol": "FQcF2"
   }
 }

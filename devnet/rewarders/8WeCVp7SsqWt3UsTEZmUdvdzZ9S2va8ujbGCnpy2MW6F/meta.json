@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9UR6wR4xpkdcm6CtJ6zDZD1miQhfdhEn6WPQ9ipFZrwn",
-      "slug": "0",
+      "slug": "jcrrd",
       "stakedToken": {
         "decimals": 6,
         "mint": "JCRrDsS9zvEHX3sZsMUXwEgyJD8zAe15wot3atyUJtiF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7DYRxLGoAGhSQWctFtzGggAtQzYiBQX2jYFso18WET8h",
-      "slug": "1",
+      "slug": "aj5ys",
       "stakedToken": {
         "decimals": 6,
         "mint": "AJ5YsRDxXFCdqjQHgQbLabSMF8E7V99ynsio7DuM3J1z"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Anvsa8CfdaHvj9LjEr9WcPCQ3WN8rQcQHWCm3YRdhZtk"
+  },
+  "rewardsTokenInfo": {
+    "address": "Anvsa8CfdaHvj9LjEr9WcPCQ3WN8rQcQHWCm3YRdhZtk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Anvs",
+    "symbol": "Anvsa"
   }
 }

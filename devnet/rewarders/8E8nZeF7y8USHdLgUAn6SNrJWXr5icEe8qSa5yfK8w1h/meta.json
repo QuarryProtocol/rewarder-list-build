@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9cBcDaMjwN1J26tXRTXLBx7GWF7NKh8rFyLFWEJyGyDj",
-      "slug": "0",
+      "slug": "4igcq",
       "stakedToken": {
         "decimals": 6,
         "mint": "4iGCqqPRFZC6ybk4G7VLDqhaV7o8frph3eZzkAd3RRGs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AFDHjXiTGqZP4aeJKfEFxGtkHYhnp7pyWBxDinJUXmzc",
-      "slug": "1",
+      "slug": "e8qcs",
       "stakedToken": {
         "decimals": 6,
         "mint": "E8qCSqATAihgxSTLHJxg84eCUdqhNYa2RrVLPim8kTB3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5agBYC5wxX7iGLN5KaSQghiv9tMpttJvahpGCJJduhSz"
+  },
+  "rewardsTokenInfo": {
+    "address": "5agBYC5wxX7iGLN5KaSQghiv9tMpttJvahpGCJJduhSz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5agB",
+    "symbol": "5agBY"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "jMvV4whWLbALfow273r8DmZPHNtEtQmXXjdonzqWRvf",
-      "slug": "0",
+      "slug": "hpkp3",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hpkp3fyFUZ2YBgDgfP7nQKFPJKP365qsRwUaS9JUjfF5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Z4c9Tcw4cadtMSknjs1hK6vqUkwi2xZSRuYX2XTAums",
-      "slug": "1",
+      "slug": "fez4r",
       "stakedToken": {
         "decimals": 6,
         "mint": "FEz4r9rf7t2bayFDATgbaGJVwmz78ZHGXWFomskp7pqB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BLjKRiEwSTcsvsj97a1J4yuMvgikiMkXVc6bWcMqbRg8"
+  },
+  "rewardsTokenInfo": {
+    "address": "BLjKRiEwSTcsvsj97a1J4yuMvgikiMkXVc6bWcMqbRg8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BLjK",
+    "symbol": "BLjKR"
   }
 }

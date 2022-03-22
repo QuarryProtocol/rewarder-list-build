@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5yEXwMqi7KFZttKocNnjvEqhejvH9syPa2gy2ebEHDWS",
-      "slug": "0",
+      "slug": "f74ef",
       "stakedToken": {
         "decimals": 6,
         "mint": "F74efQQapLhB7Bdcin2f4hMbEmRGkZ9R9FbhysTQ8Dq2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GQjjznG1AcWepc7krKF8n4W1hDBC4uMUoiSJe8ZyH67k",
-      "slug": "1",
+      "slug": "aprja",
       "stakedToken": {
         "decimals": 6,
         "mint": "ApRJaDNNT9JkCpFVxVa6jvBbqBv6SRat84AjJLLvNxJd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AsWQofbWBFpd1RHKbSBqhpRM5uSDU5h2cxphfBarm3xQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "AsWQofbWBFpd1RHKbSBqhpRM5uSDU5h2cxphfBarm3xQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AsWQ",
+    "symbol": "AsWQo"
   }
 }

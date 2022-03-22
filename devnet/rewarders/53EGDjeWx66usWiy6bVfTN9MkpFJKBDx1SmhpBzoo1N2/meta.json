@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8GDYmbMMBHNjHZXwDycfMHNA8nempyXmaNR2kDJsV3As",
-      "slug": "0",
+      "slug": "hsb5c",
       "stakedToken": {
         "decimals": 6,
         "mint": "HSb5CkJgA3jVijdGffAy2PuQX4ziqBiRYUvdq2Qu6imD"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HSb5CkJgA3jVijdGffAy2PuQX4ziqBiRYUvdq2Qu6imD"
+  },
+  "rewardsTokenInfo": {
+    "address": "HSb5CkJgA3jVijdGffAy2PuQX4ziqBiRYUvdq2Qu6imD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HSb5",
+    "symbol": "HSb5C"
   }
 }

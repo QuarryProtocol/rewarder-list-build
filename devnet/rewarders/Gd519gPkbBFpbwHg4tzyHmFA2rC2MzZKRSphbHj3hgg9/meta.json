@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FHRqPxZex2WLP6qktPcoraApDWn7eQ8xySiBysy9oLem",
-      "slug": "0",
+      "slug": "7x74a",
       "stakedToken": {
         "decimals": 6,
         "mint": "7x74AzvuPj1b94tNDhpJupWeqcTL19JptaaCQQP3uQB3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GLkoM5BwQuEn6eJctSfhcvXGe8m5SHYStLhgKxciuMMC",
-      "slug": "1",
+      "slug": "4dztd",
       "stakedToken": {
         "decimals": 6,
         "mint": "4DZTDhXTUnGL3b38WfnYogahYTr4ELRmcYtRGPMLsG1n"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G8eRR5rXcEQsgw9beo2bEKXXcrRQ8o2KarXpG351kLvt"
+  },
+  "rewardsTokenInfo": {
+    "address": "G8eRR5rXcEQsgw9beo2bEKXXcrRQ8o2KarXpG351kLvt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G8eR",
+    "symbol": "G8eRR"
   }
 }

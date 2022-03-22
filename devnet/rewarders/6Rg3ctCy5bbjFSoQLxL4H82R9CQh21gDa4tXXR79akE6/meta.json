@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EU9sFqrZkHCk9T9SUhP6GWEBGZ2qCjnKmdV531LYGmyo",
-      "slug": "0",
+      "slug": "dp2ja",
       "stakedToken": {
         "decimals": 6,
         "mint": "dp2JaDyjU8pSApzCixh7Z1dVbdUr5yu5ajdHNAFwJEm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4ktoWw4nBXPZqZDn9R8ddWjcK7mH9QnUirKyqnYsTKTZ",
-      "slug": "1",
+      "slug": "73pmd",
       "stakedToken": {
         "decimals": 6,
         "mint": "73pMdh9z3yC582rr9pj7eCH6vNiL63Yy8xsdKJoRGF3y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7Ei53mvVgpcyrT32pSbWp7WAgZArpxsoY7bmeAYNHmh3"
+  },
+  "rewardsTokenInfo": {
+    "address": "7Ei53mvVgpcyrT32pSbWp7WAgZArpxsoY7bmeAYNHmh3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7Ei5",
+    "symbol": "7Ei53"
   }
 }

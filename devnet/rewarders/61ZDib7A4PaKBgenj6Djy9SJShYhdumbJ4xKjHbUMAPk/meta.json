@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7f4uEw5AuvsJcDYB5uvhTmu7JxPzkpnA5Pq3HM6AG6Xr",
-      "slug": "0",
+      "slug": "2bk4n",
       "stakedToken": {
         "decimals": 6,
         "mint": "2Bk4nPeapBzwY3fmj6A4qt7NhPQUuLFe7Z6C4Mz46SCn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ELoymWUizqfPAGWwTaXn2U46H3313ibYRvPzLiafKsif",
-      "slug": "1",
+      "slug": "8emzg",
       "stakedToken": {
         "decimals": 6,
         "mint": "8EmZgqcJHaD9MiP3oyqYAKSmPDeKtFEiX8huExLSAeCn"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Cgxrn9UPsNjK8H2Gkf1JC6HwFB1CDb6ZMENTNRrNuMDV"
+  },
+  "rewardsTokenInfo": {
+    "address": "Cgxrn9UPsNjK8H2Gkf1JC6HwFB1CDb6ZMENTNRrNuMDV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Cgxr",
+    "symbol": "Cgxrn"
   }
 }

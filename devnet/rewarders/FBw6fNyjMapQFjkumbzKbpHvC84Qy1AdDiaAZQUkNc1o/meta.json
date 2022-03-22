@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3qtJXhwaWvckh4DHcYn21tVvCyQoBjfi87Q2NsHxLfRL",
-      "slug": "0",
+      "slug": "cq2z2",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cq2Z2Zag9mc4Qga2ou1xVVq9oy4y4iDv6vgyg82TbXZF"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5Kk778cR4Bm9ybgjTMv1v3wHZCKZDxHHFwEea1qhCLtx",
-      "slug": "1",
+      "slug": "fgueb",
       "stakedToken": {
         "decimals": 6,
         "mint": "FGuEbb55Vyhgp6P5XdqPD3mxZnoFmzR83a9hPu4RgpAz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GU2aeEUCKcfFJ252JimXEgcyuYM5WQJh12s3Js6QzqiC"
+  },
+  "rewardsTokenInfo": {
+    "address": "GU2aeEUCKcfFJ252JimXEgcyuYM5WQJh12s3Js6QzqiC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GU2a",
+    "symbol": "GU2ae"
   }
 }

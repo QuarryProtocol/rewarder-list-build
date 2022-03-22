@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9cejxHFP4z9KNVv5nZieAkvjaEaxzBfGmjN7ZSGshEP9",
-      "slug": "0",
+      "slug": "dhjwd",
       "stakedToken": {
         "decimals": 6,
         "mint": "DhjWD6yJs2VYbpyhXihrBrMqsCaR9uZsQ6sqEUksoF2B"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C31drM8YHsNTpV8oHmpuYpgEUw1HXyUNPxMSwf66n4Qa",
-      "slug": "1",
+      "slug": "dqqik",
       "stakedToken": {
         "decimals": 6,
         "mint": "DQqikvbziWmRF1Hqfudt994uCjFNhgGtFZqkfjVn1CiL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bj2CZDH7hp5iNEkivhtPgBHeqFvb4dqokZ1xN6ba7Lvp"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bj2CZDH7hp5iNEkivhtPgBHeqFvb4dqokZ1xN6ba7Lvp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bj2C",
+    "symbol": "Bj2CZ"
   }
 }

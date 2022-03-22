@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8Eb66G8c1KjkGdedcfHjqcGUsHmUoKuvidzJzuNmrEg7",
-      "slug": "0",
+      "slug": "byvjl",
       "stakedToken": {
         "decimals": 6,
         "mint": "BYVJL5X4XrB2zMqtLMNgANUQrtxaDe1KQ2KPgtYWDU7A"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4Tbc8H3hU55RecVDPiVp87ynnjpRugLKjy21cWHkzgJZ",
-      "slug": "1",
+      "slug": "gyna7",
       "stakedToken": {
         "decimals": 6,
         "mint": "GyNa7xTUDgAbvTu3cirQTsifGr1X9SmeD9efWg3PMLdj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4j5qfJCqqqekgUhsvqN3mzPVoxxziWb6wCksYGdgcvcz"
+  },
+  "rewardsTokenInfo": {
+    "address": "4j5qfJCqqqekgUhsvqN3mzPVoxxziWb6wCksYGdgcvcz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4j5q",
+    "symbol": "4j5qf"
   }
 }

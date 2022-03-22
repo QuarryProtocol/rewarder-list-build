@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AkWrdsEgDNXEf8XgJZuU5TiPqoLPy4ci814GmWWyXtZU",
-      "slug": "0",
+      "slug": "3sh1n",
       "stakedToken": {
         "decimals": 6,
         "mint": "3Sh1nkHsVE26vviF17Z5nPPb1DfK89aBhqpbH6g6FwtA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "MMSppw2FVuHQKdvs3XVacizM33GF1txbQAA4gUW3q1u",
-      "slug": "1",
+      "slug": "5jsnv",
       "stakedToken": {
         "decimals": 6,
         "mint": "5jSnvPjLcUeJMBXJnAuf15k6BwKLxUarFc5VCfGJCnXD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HRsjC48tfXk8t3FDC6qt9LEMsc9TEMwtbj37EJaD19PB"
+  },
+  "rewardsTokenInfo": {
+    "address": "HRsjC48tfXk8t3FDC6qt9LEMsc9TEMwtbj37EJaD19PB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HRsj",
+    "symbol": "HRsjC"
   }
 }

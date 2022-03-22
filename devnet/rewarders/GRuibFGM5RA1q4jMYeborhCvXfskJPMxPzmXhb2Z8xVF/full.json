@@ -14,7 +14,7 @@
       "quarry": "GwYgbTZ42FQDbBs4JiYKHkyPzzPFZDnMMbpWfMzD22VU",
       "replicaMint": "9KLNhFXPk9shJgJ7zDQQ8whdDW428pKvLSMc9bVrL9KF",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fgmbx",
       "stakedToken": {
         "decimals": 6,
         "mint": "FGmbxLQuCNVj8p1hPeNq1ELKohf6CvA18ft4wTxgecDm"
@@ -32,7 +32,7 @@
       "quarry": "ERi6rC2A136n1YTXjWPumbpGHtBiBySLxgFX63QwZ1Mk",
       "replicaMint": "EAboxZUCthA3pLwKErNsHRPvGU1FUNufSKGVm8ZQFb5z",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "7ynmf",
       "stakedToken": {
         "decimals": 6,
         "mint": "7ynmfM8SwnyeSnH1igFquD8UKZ9Nop2uFX6wX5GWJcsY"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FaLVaotpEEucUrjL3GFgum9N9HpPPuNKrbgzCVx8VWFi"
+  },
+  "rewardsTokenInfo": {
+    "address": "FaLVaotpEEucUrjL3GFgum9N9HpPPuNKrbgzCVx8VWFi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FaLV",
+    "symbol": "FaLVa"
   },
   "slug": "GRuibFGM5RA1q4jMYeborhCvXfskJPMxPzmXhb2Z8xVF"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EwJNCJvh7KrUJbMzfsj11Jtf5cunUNhCRLjPggjJKrjh",
-      "slug": "0",
+      "slug": "crfnv",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrfnVNc6uBta8WMJDUWycS6cfRCVHKDLqJmcsCtPAAtu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G6u1rvsomwR1BhqkWzyFG9Kzvk1SSLtzvZCoLc4W3HGw",
-      "slug": "1",
+      "slug": "9kao1",
       "stakedToken": {
         "decimals": 6,
         "mint": "9KAo14XNzdUEya3iZnyt2DvuKQ6Bw4UTMdwnJ5j1CCkm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6CL8kCf3D8a3o2SPh3u9WtZSh4WqzNsuHpMRSg2aN2Wo"
+  },
+  "rewardsTokenInfo": {
+    "address": "6CL8kCf3D8a3o2SPh3u9WtZSh4WqzNsuHpMRSg2aN2Wo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6CL8",
+    "symbol": "6CL8k"
   }
 }

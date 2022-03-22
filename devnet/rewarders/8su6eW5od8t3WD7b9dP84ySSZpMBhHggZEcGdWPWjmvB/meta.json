@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BZmYnGL8LjwU13mZ7m58RYR1te9cisbEPvtJo2ApC1Le",
-      "slug": "0",
+      "slug": "dd5ih",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dd5ihEkwrj3KigcG8qLqEYzanRV4SeVqGaiMR1oWjDeN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FoHh7A2BvRDDTKUGuP6sBj9RQbXfnGHk5MW7yzvMqinU",
-      "slug": "1",
+      "slug": "ev8lr",
       "stakedToken": {
         "decimals": 6,
         "mint": "EV8LrcfeCdx1RHZcDfymUXkuHkDA3jpoFiaD69a3EwBx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5ueXQeGzmVZv5zybPpqH1oV2tNabJCBkMkYvZd5V4ocN"
+  },
+  "rewardsTokenInfo": {
+    "address": "5ueXQeGzmVZv5zybPpqH1oV2tNabJCBkMkYvZd5V4ocN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5ueX",
+    "symbol": "5ueXQ"
   }
 }

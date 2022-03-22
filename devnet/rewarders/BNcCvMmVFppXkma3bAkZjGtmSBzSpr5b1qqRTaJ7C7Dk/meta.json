@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9xSsfJPDqKdc8eAs3McNiJpsDXQBFtpyTnjuGxWE71sz",
-      "slug": "0",
+      "slug": "eniz8",
       "stakedToken": {
         "decimals": 6,
         "mint": "EniZ8NKnZzwASWSRz4cvEWNUJ7zxSAXtMwxdXv7DVHyb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8Q8A9QAjXPHsFrGjdaJeoct11GD1SG2aLdSFYoLQebGF",
-      "slug": "1",
+      "slug": "db5ro",
       "stakedToken": {
         "decimals": 6,
         "mint": "Db5roXNgbc1F2MCkFvuwxC7uefT5JEH7bYoUi11Adpqi"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4wQondDQx4fXVFbYueikzLZC8hFhSR2KTZ4kEPR1Q2HU"
+  },
+  "rewardsTokenInfo": {
+    "address": "4wQondDQx4fXVFbYueikzLZC8hFhSR2KTZ4kEPR1Q2HU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4wQo",
+    "symbol": "4wQon"
   }
 }

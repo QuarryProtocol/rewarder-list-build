@@ -14,7 +14,7 @@
       "quarry": "8zyf5P5cSZyJHkjxVXo7fmAi4A6LD8PBtEvKJhTNUfaA",
       "replicaMint": "DT5mvnizCqWWHKpjzjPrZr6Aa2KpFHXzTVTF4GK6nVbv",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "4zx4b",
       "stakedToken": {
         "decimals": 6,
         "mint": "4zx4Bx1Ho7Q5SLLRJytJaap9cyWB511EbAYhaDh9tLcb"
@@ -32,7 +32,7 @@
       "quarry": "46NwAFYWMupAvxq3Hit2Jed5a7eBuyzSJ2rRuocYqKpv",
       "replicaMint": "B3S2tgje4dYGadESgRjRths3St7QkRjWR65Zu3UT48AE",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "djwea",
       "stakedToken": {
         "decimals": 6,
         "mint": "DjWeaiGcn8Tr67iu2npHBPEfKaqnVi3UdHC57BiKNTaU"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E1kG2jkvsEvyf9tQwSY5xjCQ24EENTnhXTWKLzWz5NaY"
+  },
+  "rewardsTokenInfo": {
+    "address": "E1kG2jkvsEvyf9tQwSY5xjCQ24EENTnhXTWKLzWz5NaY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E1kG",
+    "symbol": "E1kG2"
   },
   "slug": "AvEFwxGFt9SLkj6TidUnBpuvbsmpaAskLRPZ84ksWXKN"
 }

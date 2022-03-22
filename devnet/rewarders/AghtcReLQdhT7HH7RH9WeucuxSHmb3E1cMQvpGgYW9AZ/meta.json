@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2NusxWZNChSgJz3ZBYg5XFqUupQrzKehmAHH1WnuujMS",
-      "slug": "0",
+      "slug": "5c1sn",
       "stakedToken": {
         "decimals": 6,
         "mint": "5c1sNuf1VA1WFVdcCB3Wz6PJVEEGkj3pLLhX5CFQ9bWB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HmfkLwTcwvnNmAPh8kCyHi1e6uTMHxM9hzexHZugW76r",
-      "slug": "1",
+      "slug": "59cnl",
       "stakedToken": {
         "decimals": 6,
         "mint": "59CnLZcAgC3Q6YT363xLvYSR8dxm83GGtBXHMKma4rZS"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ai3EhM27T7K4WCzaJJdP9T9S47Nk8z2d3kuWkNgGyXjh"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ai3EhM27T7K4WCzaJJdP9T9S47Nk8z2d3kuWkNgGyXjh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ai3E",
+    "symbol": "Ai3Eh"
   }
 }

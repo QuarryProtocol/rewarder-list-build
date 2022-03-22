@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AKp6vKVvQTf2u5uWAyVk8Y2Dnoa8H8jZjW5aD4KyDqm",
-      "slug": "0",
+      "slug": "6ehhs",
       "stakedToken": {
         "decimals": 6,
         "mint": "6EHhSQry5DJKGUT4GNb2KVCUXBawKz1WFtMJ2kBXb53T"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GGeNSYvfzdvZx4QtyDuSC5RcjHC5d68xaxRLgUVyLLmW",
-      "slug": "1",
+      "slug": "7v275",
       "stakedToken": {
         "decimals": 6,
         "mint": "7v275e5PPCJ2GFQ7DJh9wxzyutF2hyMD3fovhEYMGM4H"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6qVGZkB5vEK9MnwHEqrEatj57GMeku3Qxh8XaN1NqWCK"
+  },
+  "rewardsTokenInfo": {
+    "address": "6qVGZkB5vEK9MnwHEqrEatj57GMeku3Qxh8XaN1NqWCK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6qVG",
+    "symbol": "6qVGZ"
   }
 }

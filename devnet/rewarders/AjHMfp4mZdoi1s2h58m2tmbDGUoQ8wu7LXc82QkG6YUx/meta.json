@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Er1ZxajQixmnQ57GG6q95yAHD9c2raiwgJ3LHjrXQFUW",
-      "slug": "0",
+      "slug": "awrgb",
       "stakedToken": {
         "decimals": 6,
         "mint": "AWRGbTw1A7nDDSbpQbfYB75ngSZEcrW9GiqQyKDtJcf3"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6kaYTtPYwCBoHRXuBfv4ECx24w8Lp8EvKyAyaB3difjc",
-      "slug": "1",
+      "slug": "fmrnj",
       "stakedToken": {
         "decimals": 6,
         "mint": "FmRNjQRG8vWECksUrKomWuGJqobQWcRqfR7cpr88F5eE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B5hDWyboAEGy8JPxDDSy14rQhQ2RCKFxtUUUsxbuiLxF"
+  },
+  "rewardsTokenInfo": {
+    "address": "B5hDWyboAEGy8JPxDDSy14rQhQ2RCKFxtUUUsxbuiLxF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B5hD",
+    "symbol": "B5hDW"
   }
 }

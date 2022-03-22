@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HyeKkX8X6UyDtS6HTDy7HUT5MCPj4G8VuN6VQKwjyCDP",
-      "slug": "0",
+      "slug": "5wqae",
       "stakedToken": {
         "decimals": 6,
         "mint": "5wQaeadXw4bKrdUG1CgVmQZttVnUSY2obXFtaSnkB1Jr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8WdFK7Vs3x5kQmc2rTENmSmRxVr9KPBEvu4TNtX4DsHi",
-      "slug": "1",
+      "slug": "54phd",
       "stakedToken": {
         "decimals": 6,
         "mint": "54phdSPcWrJ5hQmYUpuL6jDNKNBFkHr3PraZU7mEWP6R"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "75dY65ou24susQaaowYwBjqoptxcwjc8XTm4T8HBgbPw"
+  },
+  "rewardsTokenInfo": {
+    "address": "75dY65ou24susQaaowYwBjqoptxcwjc8XTm4T8HBgbPw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 75dY",
+    "symbol": "75dY6"
   }
 }

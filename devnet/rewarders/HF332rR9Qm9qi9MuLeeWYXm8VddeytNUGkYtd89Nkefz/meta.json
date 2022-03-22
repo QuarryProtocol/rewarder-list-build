@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2iovo3jGUrUESDDejih6SSyhstaGGDDdLbEKTmydG8CY",
-      "slug": "0",
+      "slug": "capfh",
       "stakedToken": {
         "decimals": 6,
         "mint": "CApFhwjTKkLvwa6rnfPhUUg3iRobWQFxBTH9qkQJ6xjG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Dv4xc5XvNpUuL78wbKvbuXdmnEw4hwQtExMug7oTM9Yz",
-      "slug": "1",
+      "slug": "ewkag",
       "stakedToken": {
         "decimals": 6,
         "mint": "EWKAg5Bm6fBZsaBpGs26YHuPpLmFDZdh8d3hAUPEJaE9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CzKhz1S6Nm5FZTJJfdiyg469upn9gWVdenEyvFTabtEQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "CzKhz1S6Nm5FZTJJfdiyg469upn9gWVdenEyvFTabtEQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CzKh",
+    "symbol": "CzKhz"
   }
 }

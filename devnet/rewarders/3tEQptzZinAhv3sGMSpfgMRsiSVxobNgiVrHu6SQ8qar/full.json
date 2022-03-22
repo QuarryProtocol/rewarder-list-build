@@ -14,7 +14,7 @@
       "quarry": "EGdgmTmKsHR6MKtbGBgTa6GACXmc2vCTMYPnzsuUWeou",
       "replicaMint": "J6ZbbWA8VgP21AQ5bQv7J3Z8csnXPqfpgGZXkHz28Zhe",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "gqu8p",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gqu8p1BDi72Ufgv6J8BoyCXf7FktNfiYDYGFgFHtTvij"
@@ -32,7 +32,7 @@
       "quarry": "3Y72kDqQwaNej17DLbf6grUf8PzGmTD611kPNd1R1phN",
       "replicaMint": "DXFYvSBhY4zZmkkrmNN6dF36ZHAeS3FuUUDBCa5ztT5E",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "jandm",
       "stakedToken": {
         "decimals": 6,
         "mint": "JANDMRkQc8edVFVwbZTiei6YMNWyCHkDQwXZxMx7HxSY"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AGv8U74Mn4GZpDLK553yudJTyQWTqhDy5spDNasddQzc"
+  },
+  "rewardsTokenInfo": {
+    "address": "AGv8U74Mn4GZpDLK553yudJTyQWTqhDy5spDNasddQzc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AGv8",
+    "symbol": "AGv8U"
   },
   "slug": "3tEQptzZinAhv3sGMSpfgMRsiSVxobNgiVrHu6SQ8qar"
 }

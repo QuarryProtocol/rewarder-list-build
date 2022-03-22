@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DNjvCrr4gbiVawRroupTvFdyWnmZeGgeky1L3nu1rKQW",
-      "slug": "0",
+      "slug": "6dzgm",
       "stakedToken": {
         "decimals": 6,
         "mint": "6dzgmThx4XiNkSe82BhkMuoGbLRdN6oBN45kyfEHh6ey"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9mXXWpYSeFqbthrq59txbb9Cbp4438hxCz98qiRvuFhr",
-      "slug": "1",
+      "slug": "8a8ec",
       "stakedToken": {
         "decimals": 6,
         "mint": "8a8eCL8LZXdw3panSgx7ED9mMrEcHzmMV9GxbFj5TDMF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B3JuYXzxq4inDtHzDsShrfSFCcmsBVvWbEeLFfi64whG"
+  },
+  "rewardsTokenInfo": {
+    "address": "B3JuYXzxq4inDtHzDsShrfSFCcmsBVvWbEeLFfi64whG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B3Ju",
+    "symbol": "B3JuY"
   }
 }

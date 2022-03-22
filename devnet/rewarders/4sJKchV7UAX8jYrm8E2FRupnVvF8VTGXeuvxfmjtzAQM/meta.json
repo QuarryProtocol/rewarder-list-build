@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ADBmtr4MqgodLKC3ztjf4P6SefnWUbWiegRZkgFvZdPq",
-      "slug": "0",
+      "slug": "h75zq",
       "stakedToken": {
         "decimals": 6,
         "mint": "H75ZQDtwdG9e9ZBsAP38HCg43st6XxjtrNbABy1UG6jG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "JCbDCMswJ8dcuRATo9FL3BYbriEtuSkkwST8ekZtqzZx",
-      "slug": "1",
+      "slug": "akyxo",
       "stakedToken": {
         "decimals": 6,
         "mint": "AKyXoWNYerpmreouo5NdUM6uNWzrs7KUgke9fXr2qsXj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8Lgby9QangHAVDaT2SEe6Qd39iDYr6yNwH79Ed5qdM5H"
+  },
+  "rewardsTokenInfo": {
+    "address": "8Lgby9QangHAVDaT2SEe6Qd39iDYr6yNwH79Ed5qdM5H",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8Lgb",
+    "symbol": "8Lgby"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "j3Z5f5q54atiSDhw3TaxynhPvWQiPsXQGemvjsfdnWx",
-      "slug": "0",
+      "slug": "dg4y6",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dg4y6hAneSwbyqBh3A5LtmQ5rqxz4mMFu4xrob726evp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5y3vQ5PqZTYRBpjQGfWJV6PDe1oQKjVdC5QckNVBgBqE",
-      "slug": "1",
+      "slug": "fe6rd",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fe6RDSvfrmSBHoPfdme7N3qzgtQZCHpj6EBBhcgtwJZ9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9nMSFWFZW9TEctotMbdUrK94zfpnanXgNb3DrCYBEQxu"
+  },
+  "rewardsTokenInfo": {
+    "address": "9nMSFWFZW9TEctotMbdUrK94zfpnanXgNb3DrCYBEQxu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9nMS",
+    "symbol": "9nMSF"
   }
 }

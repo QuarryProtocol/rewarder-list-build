@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BgA8khpnwcM2YfY4uyU3woCZfyHgDgg9Pq3w3tfVrwYG",
-      "slug": "0",
+      "slug": "gsbnz",
       "stakedToken": {
         "decimals": 6,
         "mint": "GsbnzicSZ2FU5SeQP6kW3tQeugnPGbxJCCiPRP8qDW2h"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ff8jY1mJwHsJSnFU7KgG2aBWWtU414p3khpxC1L65XSh",
-      "slug": "1",
+      "slug": "f8zkw",
       "stakedToken": {
         "decimals": 6,
         "mint": "F8zKWWuAecLYgiuo3oNn8gGR8wQJEhGwBvqtrUqzLBqR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "YZW3bboZheEfP4rM6roZNTZLh19EHjqnsaQfbuLd3mc"
+  },
+  "rewardsTokenInfo": {
+    "address": "YZW3bboZheEfP4rM6roZNTZLh19EHjqnsaQfbuLd3mc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token YZW3",
+    "symbol": "YZW3b"
   }
 }

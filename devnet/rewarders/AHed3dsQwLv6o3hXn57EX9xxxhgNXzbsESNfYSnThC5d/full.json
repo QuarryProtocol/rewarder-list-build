@@ -14,7 +14,7 @@
       "quarry": "3bhv3xM2UtoPw1e2CnDK5d6wYTNEjhvizK9V7PrEY19E",
       "replicaMint": "A4j1arHtS2qnA7GJUqcmC8qNLDdnnHMokMhppJcZePLz",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "diedq",
       "stakedToken": {
         "decimals": 6,
         "mint": "DiEDqukSdpq9NPA1ghG9Ld9fA9iYVsRvJ4Qdysd2VikS"
@@ -32,7 +32,7 @@
       "quarry": "FLP1gMD5VkfshUKyAZ7j2c8x314VDyzB8mCU3zpHAgoz",
       "replicaMint": "2MJkWq7QoAXRSKttU5Bbq1yum2LktjnnVZANWCMTM598",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5emph",
       "stakedToken": {
         "decimals": 6,
         "mint": "5EMPhzDdXamy3V5QX8yfQ4KbsZqV7oGrHVWSWadNSZ8P"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2wsCE1usAh7sPTvEVgfdNN9XZB9WNexijDuXxs1hgsKk"
+  },
+  "rewardsTokenInfo": {
+    "address": "2wsCE1usAh7sPTvEVgfdNN9XZB9WNexijDuXxs1hgsKk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2wsC",
+    "symbol": "2wsCE"
   },
   "slug": "AHed3dsQwLv6o3hXn57EX9xxxhgNXzbsESNfYSnThC5d"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3SuTMo11qDYyX9N8v5W8QfsaumxvAwhnHEDcYpdAPaGQ",
-      "slug": "0",
+      "slug": "vpv2f",
       "stakedToken": {
         "decimals": 6,
         "mint": "vpV2FwXHYrsS99r3uzCgPEVXEb4n1WyyMeL3BJyVGYr"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CNPVdtpz3J5ErqfchMttPWSKqH46sS8dH1jXTJFwK4xh"
+  },
+  "rewardsTokenInfo": {
+    "address": "CNPVdtpz3J5ErqfchMttPWSKqH46sS8dH1jXTJFwK4xh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CNPV",
+    "symbol": "CNPVd"
   }
 }

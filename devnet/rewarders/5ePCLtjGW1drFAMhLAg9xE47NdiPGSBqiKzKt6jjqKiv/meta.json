@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HzMuaPGNacTC64iwJ1k7oFQcA4drVN1FwwAH13D6b2X7",
-      "slug": "0",
+      "slug": "12f7g",
       "stakedToken": {
         "decimals": 6,
         "mint": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GqgakiwS8zSXjtfUjUekikq4fy3KEbSLqH1KBV6YzPz1",
-      "slug": "1",
+      "slug": "ca3dw",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ca3dwoLCxXMRztqpwwGP4PtRKBwecBwrU625kfdQpSqL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7jpnxaPVMTSFmuKj8mmsqsn6gFsrXU1Kqq7Sha9R6axo"
+  },
+  "rewardsTokenInfo": {
+    "address": "7jpnxaPVMTSFmuKj8mmsqsn6gFsrXU1Kqq7Sha9R6axo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7jpn",
+    "symbol": "7jpnx"
   }
 }

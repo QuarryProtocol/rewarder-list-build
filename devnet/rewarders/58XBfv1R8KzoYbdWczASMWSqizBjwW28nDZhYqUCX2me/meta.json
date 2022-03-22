@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ptKJJQsff6QQ4t3Fa7n1dhEmaK49semcs1iZCu4ZKs1",
-      "slug": "0",
+      "slug": "6psmh",
       "stakedToken": {
         "decimals": 6,
         "mint": "6psmhQZmAqy9cHNSQUJyKdQwXjFXGJU4a6NQkQ9QqXM8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6NeNRAhw7tF5TFJaQN1wJkphhNAh3VMHNmDN1N37h24p",
-      "slug": "1",
+      "slug": "5qflt",
       "stakedToken": {
         "decimals": 6,
         "mint": "5qfLTM4qxbTDhYyXG2A3Uc4KHgUJjQyU9tYv5QWhpgHe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "TKZcCPqSNja8N7umYKtRCTKCdeZnLjw6tQUjPJRbSRh"
+  },
+  "rewardsTokenInfo": {
+    "address": "TKZcCPqSNja8N7umYKtRCTKCdeZnLjw6tQUjPJRbSRh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token TKZc",
+    "symbol": "TKZcC"
   }
 }

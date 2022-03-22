@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FtzbSYeBhLWCkKTH6HzVmfLsmRxxXpt6BM8CVFdZLUaZ",
-      "slug": "0",
+      "slug": "6xzr9",
       "stakedToken": {
         "decimals": 6,
         "mint": "6xZr9pjAMFChfsnCRvQcSbJTp8FcxB93p9DLTHQ15j4r"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "F8T2RuGQtDgPECMkQWydY8VwnPiokt7iKxyXD3Ms27y2",
-      "slug": "1",
+      "slug": "hqe7x",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hqe7XdkrQr9E3HzkRbFJ8wnGxicm8nEpyyCj7zjSJ4wg"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H2Go96WeSe8cy7TrYJkcEaJVgPBqYkXN45KE3pGZAD2a"
+  },
+  "rewardsTokenInfo": {
+    "address": "H2Go96WeSe8cy7TrYJkcEaJVgPBqYkXN45KE3pGZAD2a",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H2Go",
+    "symbol": "H2Go9"
   }
 }

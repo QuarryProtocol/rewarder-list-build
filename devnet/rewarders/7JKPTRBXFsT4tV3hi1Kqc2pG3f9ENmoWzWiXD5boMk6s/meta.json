@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7kp2r4Nsj6RfZDsNUYTDjQsqwhfqF12k3QLrhQbaX26J",
-      "slug": "0",
+      "slug": "6p7kg",
       "stakedToken": {
         "decimals": 6,
         "mint": "6p7KgU7wVYjzX7DvWMS1JM4DQwdFdpTcGxvGWUmwHUQb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CqqnecSTNvyCoPMUxsNKRpry4F9wqrvd8ZJ9WmjcLhif",
-      "slug": "1",
+      "slug": "hygvu",
       "stakedToken": {
         "decimals": 6,
         "mint": "HYgVUMHPv5m8dMdgDpXtB6eRxfAgsaP7LTCJ2UNz3Paq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7Zas1z1Nk7JN3gzWfQvQdQKF33SYHu293xmU32JghHCZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "7Zas1z1Nk7JN3gzWfQvQdQKF33SYHu293xmU32JghHCZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7Zas",
+    "symbol": "7Zas1"
   }
 }

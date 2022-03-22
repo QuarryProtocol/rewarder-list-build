@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2Yua4hSF6esBMJid2aFaHAaosR4SV728HaCjVRyHS3jW",
-      "slug": "0",
+      "slug": "8cmzy",
       "stakedToken": {
         "decimals": 6,
         "mint": "8CMZyPRQQLvY6dSQdTXgi7X84gvmNGhMvJuoq84bje2q"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DXjokPFRY4UqsJok41Ted2m85avUnRofiGL4ddxVniHx",
-      "slug": "1",
+      "slug": "2vs6j",
       "stakedToken": {
         "decimals": 6,
         "mint": "2vs6JEY5oBbKp6tPfHWKwqcDVcU6x3UNxT5AhXRtSUc6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2ZzKuT99e44TwVor1SZdR9x7fm8698TiAhptMDcyxSw3"
+  },
+  "rewardsTokenInfo": {
+    "address": "2ZzKuT99e44TwVor1SZdR9x7fm8698TiAhptMDcyxSw3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2ZzK",
+    "symbol": "2ZzKu"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BdB5JW8Fp6MhuJwXWSxepeX6nby5nPxcUFuvcvHFsQa4",
-      "slug": "0",
+      "slug": "fpnrg",
       "stakedToken": {
         "decimals": 6,
         "mint": "FpnrGjHYgdZs5VXUQWddUEjgLZ5cxStBkWeqRHp2zNY9"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Go8AxbCV9FegkVvcPRA7iLmpyLKkXYhVFzZ3wRGfCW5",
-      "slug": "1",
+      "slug": "b84dm",
       "stakedToken": {
         "decimals": 6,
         "mint": "B84Dm8KuxPTeD2SV9o5YFR3o7aNMre8iHHpDsHbnhu1o"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FcQYC7dS6BkYfAfWZMQiVUPXvNGasJLCabtLZvLEKGHm"
+  },
+  "rewardsTokenInfo": {
+    "address": "FcQYC7dS6BkYfAfWZMQiVUPXvNGasJLCabtLZvLEKGHm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FcQY",
+    "symbol": "FcQYC"
   }
 }

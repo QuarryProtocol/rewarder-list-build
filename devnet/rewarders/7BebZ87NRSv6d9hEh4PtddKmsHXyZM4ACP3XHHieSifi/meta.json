@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DjHUBcuJGovaqo2BeKBxRqeCd2bjpDHCEnDe7MsDuJsv",
-      "slug": "0",
+      "slug": "2l6n4",
       "stakedToken": {
         "decimals": 6,
         "mint": "2L6N485KirzoEs4Cigm8ikwEUSVyqZ5Tzi8mkQchLzuE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8zn3DgB54gXBNnpDmK8KCUsrjCvVK4uddRBu18gdf23f",
-      "slug": "1",
+      "slug": "bvxyc",
       "stakedToken": {
         "decimals": 6,
         "mint": "BvXycpJjiMZ5SZjHWsyDVFNVEByZMfVYxgkvuvfRKB6i"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4rNjhyp7Nv4MKjyCVBvh6JkbuCrkg78qgBoXgs5vBeb3"
+  },
+  "rewardsTokenInfo": {
+    "address": "4rNjhyp7Nv4MKjyCVBvh6JkbuCrkg78qgBoXgs5vBeb3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4rNj",
+    "symbol": "4rNjh"
   }
 }

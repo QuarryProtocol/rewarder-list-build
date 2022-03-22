@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4uHmytbFWRN3M5bYNakVcQraLLfxBWMNFpDi6NwtjB1H",
-      "slug": "0",
+      "slug": "g8fnc",
       "stakedToken": {
         "decimals": 6,
         "mint": "G8fNCZCJcZyqQqdP9AkkJh3eVcVzoEisG5FPFv9EGbk7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "23cjdRv18W9MGThQYjMuBGi1yz7tA91rs7RKGgzYTduj",
-      "slug": "1",
+      "slug": "94emk",
       "stakedToken": {
         "decimals": 6,
         "mint": "94eMkMNCRkGe8A87P2Zx8a3FPV44aMv8xMwp6HK9HMrd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FVDHydbV4hhaGU9X93zRhPcK8brqXbmYUqCovpF7iML1"
+  },
+  "rewardsTokenInfo": {
+    "address": "FVDHydbV4hhaGU9X93zRhPcK8brqXbmYUqCovpF7iML1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FVDH",
+    "symbol": "FVDHy"
   }
 }

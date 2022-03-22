@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C3xqKVzjeoFPp43NGkKLoXKc1X5fuwosjz7BZVdL8npw",
-      "slug": "0",
+      "slug": "azij4",
       "stakedToken": {
         "decimals": 6,
         "mint": "AZij4aZre5CRzPhWUZZUYsMZT3PSLvm8CXkCUC1Xxz5p"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CnzhRPEs5fnx3CV12tM6bjYgZBqQLRVyenEXKbBjb1QA",
-      "slug": "1",
+      "slug": "9z1hd",
       "stakedToken": {
         "decimals": 6,
         "mint": "9z1HDqd8oEewSxfGcLSqgrdCxoJu4qXL67AHsSWzhDQq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HH9j6FYusERidypNwHDZ1MGnJqgdXLpYciM3hhfyxfFu"
+  },
+  "rewardsTokenInfo": {
+    "address": "HH9j6FYusERidypNwHDZ1MGnJqgdXLpYciM3hhfyxfFu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HH9j",
+    "symbol": "HH9j6"
   }
 }

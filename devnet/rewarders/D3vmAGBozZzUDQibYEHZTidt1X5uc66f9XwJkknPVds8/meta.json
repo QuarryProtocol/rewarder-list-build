@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F95m2E8tMhjQEVzibZXPYugieVPMNBVdiHQvQjfSGFeb",
-      "slug": "0",
+      "slug": "abdnh",
       "stakedToken": {
         "decimals": 6,
         "mint": "AbdnHM99NLgfK68vEc5D6nw1JU7eLdsrwbqGoBJ7CSYR"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BykjH3eTKt6L53Gjmd3LTWfCLMjSFzmms5JXMRRKDePB",
-      "slug": "1",
+      "slug": "8wh6r",
       "stakedToken": {
         "decimals": 6,
         "mint": "8wh6RcqRcSG6Lzi9A4rn2RVYqquGKBDDpNczPQ7RQvxM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7V9A4citbTvNMVnm8PhAtz888X2HZPB5S76YrnreqZX5"
+  },
+  "rewardsTokenInfo": {
+    "address": "7V9A4citbTvNMVnm8PhAtz888X2HZPB5S76YrnreqZX5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7V9A",
+    "symbol": "7V9A4"
   }
 }

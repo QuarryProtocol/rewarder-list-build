@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EGdgmTmKsHR6MKtbGBgTa6GACXmc2vCTMYPnzsuUWeou",
-      "slug": "0",
+      "slug": "gqu8p",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gqu8p1BDi72Ufgv6J8BoyCXf7FktNfiYDYGFgFHtTvij"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3Y72kDqQwaNej17DLbf6grUf8PzGmTD611kPNd1R1phN",
-      "slug": "1",
+      "slug": "jandm",
       "stakedToken": {
         "decimals": 6,
         "mint": "JANDMRkQc8edVFVwbZTiei6YMNWyCHkDQwXZxMx7HxSY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AGv8U74Mn4GZpDLK553yudJTyQWTqhDy5spDNasddQzc"
+  },
+  "rewardsTokenInfo": {
+    "address": "AGv8U74Mn4GZpDLK553yudJTyQWTqhDy5spDNasddQzc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AGv8",
+    "symbol": "AGv8U"
   }
 }

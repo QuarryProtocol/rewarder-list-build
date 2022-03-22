@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CYsuBNJ9eDXXvKmJJ8JvEU35xCK2CRbBzQeFH7Q9kj6v",
-      "slug": "0",
+      "slug": "eenwv",
       "stakedToken": {
         "decimals": 6,
         "mint": "EenwvfKQWP4cg1HUc51AhVXKUf3DJCymt6pgeRoZePLU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CpKgRABpFC7E65DjLzoR7maHoiMVWDrfKtSerzf1gExX",
-      "slug": "1",
+      "slug": "btdmh",
       "stakedToken": {
         "decimals": 6,
         "mint": "BTDMHd61edMZnXzrfbofoZxM7a4BJpakWNkLCXrfd6FC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E1b1XsBfMJXaVdrSe9DaHFxeS9xsroDb1asQ1TmXYVWF"
+  },
+  "rewardsTokenInfo": {
+    "address": "E1b1XsBfMJXaVdrSe9DaHFxeS9xsroDb1asQ1TmXYVWF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E1b1",
+    "symbol": "E1b1X"
   }
 }

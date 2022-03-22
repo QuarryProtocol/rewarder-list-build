@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CH5VdjMTt99TDm3QmS5bE1Qetwe5aukjGZyrsRhRow7t",
-      "slug": "0",
+      "slug": "h2rjr",
       "stakedToken": {
         "decimals": 6,
         "mint": "h2RJrgZ8hLySq1ibXrymdeUaTLTYmgo6hZav2mw1AM4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5m6ftmzA1ScThFRjGkSovW66ZN6fFfTAMrout2R6FvUA",
-      "slug": "1",
+      "slug": "4ejgo",
       "stakedToken": {
         "decimals": 6,
         "mint": "4eJGoqCE4BCYWFpcf6vYb5WPJzLouipr6EBK4JoL9fki"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5BVVPf2kkYWhy5uNLN4TDEESi5ABjjCsLomVdTEswWbK"
+  },
+  "rewardsTokenInfo": {
+    "address": "5BVVPf2kkYWhy5uNLN4TDEESi5ABjjCsLomVdTEswWbK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5BVV",
+    "symbol": "5BVVP"
   }
 }

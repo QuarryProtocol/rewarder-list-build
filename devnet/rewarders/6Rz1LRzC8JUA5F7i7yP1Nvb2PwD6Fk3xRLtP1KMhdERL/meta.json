@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3Vy9KwVWFApucTLsX3C4SCde3LhKUFcwrB4AdbUSe79s",
-      "slug": "0",
+      "slug": "6pvkp",
       "stakedToken": {
         "decimals": 6,
         "mint": "6PVkPUdT4muF2EXvVHpZK7f2zgCMmmD9zNhRsw3EMi8P"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DUBrxeLVV24p7aA3sKtkrXz1arJ8UuoW62YLxy3x24nB",
-      "slug": "1",
+      "slug": "5ynu5",
       "stakedToken": {
         "decimals": 6,
         "mint": "5yNU5DrVRUQKMAUiBNgj27R5NK6FTELXDKnpyu3p5kJP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DfqjAnqnz98ouVqozbfoq58cS9Taj6QNpWGewvYxb425"
+  },
+  "rewardsTokenInfo": {
+    "address": "DfqjAnqnz98ouVqozbfoq58cS9Taj6QNpWGewvYxb425",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dfqj",
+    "symbol": "DfqjA"
   }
 }

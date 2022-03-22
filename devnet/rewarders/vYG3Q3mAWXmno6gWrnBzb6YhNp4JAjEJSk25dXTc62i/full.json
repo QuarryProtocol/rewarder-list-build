@@ -14,7 +14,7 @@
       "quarry": "aToeXtryDXECW7AVsrCD8Cppud2wReLiwP2RLneL6BQ",
       "replicaMint": "7Nc5vCd4rdxw37m1WbpK7zRJUFQ7BWmWRBeBmhQjH2HP",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "covpk",
       "stakedToken": {
         "decimals": 6,
         "mint": "CoVpkbU6u7pj3Tf1zEzQfyFBpPPUgSTjZcoHXYXbcxxY"
@@ -32,7 +32,7 @@
       "quarry": "DHzyFtG6FUoPrerKrjY3FyJhmHU3pNHcVBnhBu6fJ2JK",
       "replicaMint": "EL8dQf9oXUR1ffunj9hq8k1VEWGEsU1Ci1XQMR1SiKvz",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cj7vw",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cj7VWS5GpNbRcoLwaJF3HaPA1qJca67osRe64oe5o6tT"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3WZ7nP6qbi9WNpXhRQrvK6wCRTiGVupPccKaSJMEUT5r"
+  },
+  "rewardsTokenInfo": {
+    "address": "3WZ7nP6qbi9WNpXhRQrvK6wCRTiGVupPccKaSJMEUT5r",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3WZ7",
+    "symbol": "3WZ7n"
   },
   "slug": "vYG3Q3mAWXmno6gWrnBzb6YhNp4JAjEJSk25dXTc62i"
 }

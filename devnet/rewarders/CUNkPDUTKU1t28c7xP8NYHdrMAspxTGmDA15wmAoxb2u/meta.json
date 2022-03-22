@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DoEvgiBjiRMDF5q4aZ4ZWxDQ36DR6H3ykm6naxtZeSJ5",
-      "slug": "0",
+      "slug": "4agkz",
       "stakedToken": {
         "decimals": 6,
         "mint": "4agKzuYm7KCwnWr7BZRRSytdqVmoZxxvkCveusv9qRSc"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7mY2WZo91CjvbBAXSfU9TgDTX15DmBP3mSdhxLR6bAor",
-      "slug": "1",
+      "slug": "bb9qu",
       "stakedToken": {
         "decimals": 6,
         "mint": "bB9QuammK2hfMWFggKz2mJcf9Yq3Tmrv9zszHcfiGX3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3vJLS22EkXy9Hx62FG6VQozqUdhN1Kxu2YJLTpxBqhB9"
+  },
+  "rewardsTokenInfo": {
+    "address": "3vJLS22EkXy9Hx62FG6VQozqUdhN1Kxu2YJLTpxBqhB9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3vJL",
+    "symbol": "3vJLS"
   }
 }

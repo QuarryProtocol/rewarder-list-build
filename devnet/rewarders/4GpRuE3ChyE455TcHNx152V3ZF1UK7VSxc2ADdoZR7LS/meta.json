@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AiWNhExy3NSqKso96nXohVe9vKEatQbijQYao6xGfW5o",
-      "slug": "0",
+      "slug": "35ht6",
       "stakedToken": {
         "decimals": 6,
         "mint": "35ht6AQBN2pyAEgxhE9AjEjfWrTgy2y5TMsBYCmWRgN6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BKoMy55X8PAtAAPqgp74fGXetvQ4ZdWBGmZyTKfxwa5M",
-      "slug": "1",
+      "slug": "brv49",
       "stakedToken": {
         "decimals": 6,
         "mint": "BrV49kqgis1PDiemkmHLKahJ5vcjt3PSPEJw9Jb2yvvx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7G3SbhrVD9dUnidXh1nEFbQgeZXJpn46tFXc5rpwvQyF"
+  },
+  "rewardsTokenInfo": {
+    "address": "7G3SbhrVD9dUnidXh1nEFbQgeZXJpn46tFXc5rpwvQyF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7G3S",
+    "symbol": "7G3Sb"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AmoXggVL3VG3abQMQLuwKvdeLqHKRjx2zp7BBQSAqmNQ",
-      "slug": "0",
+      "slug": "gjmhr",
       "stakedToken": {
         "decimals": 6,
         "mint": "GJMhRqUjJcT5WjdPzcqGhQtL3YAa1uFjBCYb1cNKjzyQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J3zCJ28PbzTMCVMQasGV2wdLQtbFTxrMnSJS4ZYfH7VV",
-      "slug": "1",
+      "slug": "23vr9",
       "stakedToken": {
         "decimals": 6,
         "mint": "23VR9G6NqUd6wd5Z5wr7ncCdg4ZrmbFDSQKjzvTUnVuy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3x95syBLzTncMpuG1maQMX23WcXiuUNA4XySCqnRfg9v"
+  },
+  "rewardsTokenInfo": {
+    "address": "3x95syBLzTncMpuG1maQMX23WcXiuUNA4XySCqnRfg9v",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3x95",
+    "symbol": "3x95s"
   }
 }

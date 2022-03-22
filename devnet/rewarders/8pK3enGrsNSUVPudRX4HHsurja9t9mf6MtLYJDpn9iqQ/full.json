@@ -14,7 +14,7 @@
       "quarry": "7cPeyZcvCeWspz2qGTF9phvQEdya1i2bUUtRXHZVYTrE",
       "replicaMint": "4AJQNPLQsUgKs2UPU9MGKxJHLpZGgKyMFaoffjjkWShD",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hjicz",
       "stakedToken": {
         "decimals": 6,
         "mint": "HjiCZ6raoQZkw8duZ53oJgPjbQHNZSRbSfvbajHg4o9r"
@@ -32,7 +32,7 @@
       "quarry": "FU9AJYMmEb1yPeyZ6eVtbahnwDkasZEUKSPRK4PzFFR9",
       "replicaMint": "3oGtJuUwV54MJCRx8mjYo4xg5jZ7XSR9WqhdwaiWWxrK",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hbqub",
       "stakedToken": {
         "decimals": 6,
         "mint": "HBqUBz4nkyWC9H5kNLYxqzkh3Uf2DXHY6ZRGpTikvHj4"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HbcJkUgoWmP2R5oXZHwSEU5hhTgirQ3v3bm1WLwkjy6p"
+  },
+  "rewardsTokenInfo": {
+    "address": "HbcJkUgoWmP2R5oXZHwSEU5hhTgirQ3v3bm1WLwkjy6p",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HbcJ",
+    "symbol": "HbcJk"
   },
   "slug": "8pK3enGrsNSUVPudRX4HHsurja9t9mf6MtLYJDpn9iqQ"
 }

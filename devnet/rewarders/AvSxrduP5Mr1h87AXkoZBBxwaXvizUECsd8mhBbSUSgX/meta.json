@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6AUbHc5Fo6CSb1bme3MqJMWTZzrnfdiTBVYCFNPgKnfC",
-      "slug": "0",
+      "slug": "ek6fa",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ek6fasKHH9nepcmzsowCpTZZXGZNgfsS2GD2PZmDL6fB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AMuQidABt9PkEfjwvw3WhS8i1VckuUTyDPUMYKPujWhg",
-      "slug": "1",
+      "slug": "sgv1l",
       "stakedToken": {
         "decimals": 6,
         "mint": "sGv1LnvTfQ2N6oPeXCMYyyMwRk6R76ii2h2QEW3be2B"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E8qvPXjFUJChuf8qub3cou8EFfotmMPqaVsuhNBEbPtf"
+  },
+  "rewardsTokenInfo": {
+    "address": "E8qvPXjFUJChuf8qub3cou8EFfotmMPqaVsuhNBEbPtf",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E8qv",
+    "symbol": "E8qvP"
   }
 }

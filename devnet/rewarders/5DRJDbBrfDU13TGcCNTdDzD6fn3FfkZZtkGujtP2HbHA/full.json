@@ -14,7 +14,7 @@
       "quarry": "C3NAy4fHAJqkXHtpVA6goKePbcG7ytcpvYX6iKvDmDsH",
       "replicaMint": "FVYi1aZ96yDJJNHeic85KQeRAkFRRapkzhkN9UzGUk23",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "4mfcy",
       "stakedToken": {
         "decimals": 6,
         "mint": "4MfCYm3utrJqexJkYFntiGVJhng1qpQmg67gst5AFk9d"
@@ -32,7 +32,7 @@
       "quarry": "4QRUd3tBFs22s7JKA91sTRcTdU7nhroFvMBisZgJF5az",
       "replicaMint": "Dp16U5YcBc1XZEosj2SBHAptH1esfodeG8ptErYTCfVm",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "apwrz",
       "stakedToken": {
         "decimals": 6,
         "mint": "ApwrZK5x8niFVJXdpw4WXtJir58NWZGvkyxLmLTG5px2"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DUvRdbjLEZV5knonEEK8Uhz17uwsjiGPF5ySbNc1yo2U"
+  },
+  "rewardsTokenInfo": {
+    "address": "DUvRdbjLEZV5knonEEK8Uhz17uwsjiGPF5ySbNc1yo2U",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DUvR",
+    "symbol": "DUvRd"
   },
   "slug": "5DRJDbBrfDU13TGcCNTdDzD6fn3FfkZZtkGujtP2HbHA"
 }

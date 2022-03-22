@@ -14,7 +14,7 @@
       "quarry": "6adPyJh6wKG6mi7vbCq3JbY2jGbdX62QvRLtaqGyddRF",
       "replicaMint": "FSbDw42t2cgNg9YMzrhrKC9YfErS8okEJJHxT6fbct7E",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dge4j",
       "stakedToken": {
         "decimals": 6,
         "mint": "DGe4J67FPRh7ys9pbzxEWzU1HPCy4bkG6x4rLbksEHqJ"
@@ -32,7 +32,7 @@
       "quarry": "9ikWgyEeiLiVuRdJ5H1h6NtTnEb1sVb5Ar2n8gKa6mK7",
       "replicaMint": "3paHSnV1TzUFcEhAzvdM8eCPmYEyy6cTe5ZsfobekuKE",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hgmz8",
       "stakedToken": {
         "decimals": 6,
         "mint": "hGmZ8n42zwc4rye9gBJpjsxzH5VZ3tY8sCwPgXEQ9xp"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CGH7ayRjxmDZKGs37NAhtrMGGwwfFZQGwb43hVmcvbyz"
+  },
+  "rewardsTokenInfo": {
+    "address": "CGH7ayRjxmDZKGs37NAhtrMGGwwfFZQGwb43hVmcvbyz",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CGH7",
+    "symbol": "CGH7a"
   },
   "slug": "EmMdUCwiz15FjMyL8Yo7ro6UhAP1feXbXm4XLWkT8BsV"
 }

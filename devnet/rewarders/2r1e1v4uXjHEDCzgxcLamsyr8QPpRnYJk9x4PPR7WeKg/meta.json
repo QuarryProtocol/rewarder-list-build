@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ZpZQYziKT1NeFN25S5LikMH3cpcxENmDS7GXJpM3rDi",
-      "slug": "0",
+      "slug": "dcntj",
       "stakedToken": {
         "decimals": 6,
         "mint": "DCnTjVXttuNP4TAgA6df1Drtty569fpuMJbc9NUutsUb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GxAvgqH2w9yfVd8D3eM4cVooQXbzFXyCSkeivEidTe7w",
-      "slug": "1",
+      "slug": "cjxwf",
       "stakedToken": {
         "decimals": 6,
         "mint": "CJxwf4Nn1Y5xokRQo3VggxoNNeBwKUkVZgw2Fs26idni"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GPwTaf6JpzsfDaci42WdeQimecsKKBsWq51DhHiFmaYD"
+  },
+  "rewardsTokenInfo": {
+    "address": "GPwTaf6JpzsfDaci42WdeQimecsKKBsWq51DhHiFmaYD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GPwT",
+    "symbol": "GPwTa"
   }
 }

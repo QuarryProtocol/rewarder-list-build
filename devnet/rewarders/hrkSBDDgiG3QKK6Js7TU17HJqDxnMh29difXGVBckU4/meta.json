@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AknUvoWDjDJTTXXke9csKqLCRVioDtajnbic3Qqur1Xd",
-      "slug": "0",
+      "slug": "dy7xr",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dy7XRY6WyJWqGobqKqkAn6RP8u3JsNx2xNDC1jNr6E5L"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "A4LNbECwytqFryU7FSneWEprVFzC7YjSf6HGfxPUMwZ5",
-      "slug": "1",
+      "slug": "axzt3",
       "stakedToken": {
         "decimals": 6,
         "mint": "AxzT3qe94AwmuS22pRxRZMSXBZa6DX6R8t95oyrzXE2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ay4FUWjpHDdzeNu1o33TT4NGfxHa9RVtihzdpY12zbTy"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ay4FUWjpHDdzeNu1o33TT4NGfxHa9RVtihzdpY12zbTy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ay4F",
+    "symbol": "Ay4FU"
   }
 }

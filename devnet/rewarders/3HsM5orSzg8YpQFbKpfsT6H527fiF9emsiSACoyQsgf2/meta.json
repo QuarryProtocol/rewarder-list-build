@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9uh3hg4EfEUvFJL4AzDM6AFFeFWnBYFQCqvEF9R9WBqr",
-      "slug": "0",
+      "slug": "dd4bp",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dd4bpkLM5T3MdiQDvuy6gfuqnrNR3yDGXQ3nt6vWEVsH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2iN9ypPUyMRdXWhnGdPxWH9Ch3mw6CtzCcZBF22ZB6Ky",
-      "slug": "1",
+      "slug": "eetwy",
       "stakedToken": {
         "decimals": 6,
         "mint": "EETWYp6ZUGvp34g2vhZhVb7EmWZzX9pFM5cJFGuoAMyL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E2NfA7R7KbCC51ZH5p2Lz9kPVMVZxRCBsEjfdFT5Mw57"
+  },
+  "rewardsTokenInfo": {
+    "address": "E2NfA7R7KbCC51ZH5p2Lz9kPVMVZxRCBsEjfdFT5Mw57",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E2Nf",
+    "symbol": "E2NfA"
   }
 }

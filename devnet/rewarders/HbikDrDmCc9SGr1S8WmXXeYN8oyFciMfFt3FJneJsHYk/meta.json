@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4k8mw5tN8xFr9Tcsewpszbo3qZcnMt66V7hT49FWqfJu",
-      "slug": "0",
+      "slug": "dhk2x",
       "stakedToken": {
         "decimals": 2,
         "mint": "DHK2XEeh1Zs3XEUe5eNqaAUzSZuZnECDyNkWVeSQKqFD"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "7zMssWL23q9KTuCbhop4X2c84M3NbjnAXYwbpEXuBTmM"
+  },
+  "rewardsTokenInfo": {
+    "address": "7zMssWL23q9KTuCbhop4X2c84M3NbjnAXYwbpEXuBTmM",
+    "chainId": 103,
+    "decimals": 2,
+    "name": "Token 7zMs",
+    "symbol": "7zMss"
   }
 }

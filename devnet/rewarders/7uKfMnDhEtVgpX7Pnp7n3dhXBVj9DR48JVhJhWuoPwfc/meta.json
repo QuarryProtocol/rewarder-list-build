@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6Q98ExYteQQ2hTBDzqdJUx6LMMRG49GPcg9Tz8PQHfvx",
-      "slug": "0",
+      "slug": "63l9b",
       "stakedToken": {
         "decimals": 6,
         "mint": "63L9bVTSfoDLtyki1QvPF41GTDBsssEHaosGJ5QuR3J6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GQopcASkMvrNkGqB5Z16vV2vAHVHHcU4rruufusJhGeb",
-      "slug": "1",
+      "slug": "arujs",
       "stakedToken": {
         "decimals": 6,
         "mint": "ArujSngxkdacW9WiKXYNKJidxkrCpfh7Fsg5aA71Ec2G"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5RcYiStNvF7R9yZHMxffjqBLSEpSpJaPrzp8ihbsJ7F6"
+  },
+  "rewardsTokenInfo": {
+    "address": "5RcYiStNvF7R9yZHMxffjqBLSEpSpJaPrzp8ihbsJ7F6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5RcY",
+    "symbol": "5RcYi"
   }
 }

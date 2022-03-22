@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4zjiMToucZEPakEP4KiSvBpX6tqQrZJTNkZ1uzRk2Mvy",
-      "slug": "0",
+      "slug": "8n6hj",
       "stakedToken": {
         "decimals": 6,
         "mint": "8N6hj17rbFaGTcLeXND6LWDEx9dLukgKZARg619omabn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CRpV3fSSXyWjbwU82XYNq8vFtLWAnSoQqdbQbLPfiLen",
-      "slug": "1",
+      "slug": "eawmn",
       "stakedToken": {
         "decimals": 6,
         "mint": "Eawmn5aHAnY3q35ark9ZYJMCSbB5FrqAeu212Gc4LN9D"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9PxhYqQ2Atz9qVQvNsC51d7wcPybUvkHF1vxPQeTB4Ds"
+  },
+  "rewardsTokenInfo": {
+    "address": "9PxhYqQ2Atz9qVQvNsC51d7wcPybUvkHF1vxPQeTB4Ds",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9Pxh",
+    "symbol": "9PxhY"
   }
 }

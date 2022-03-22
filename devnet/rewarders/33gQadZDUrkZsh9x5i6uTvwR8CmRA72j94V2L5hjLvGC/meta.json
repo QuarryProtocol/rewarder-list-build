@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EjnsdNk7mLDAkAwd2KSTUhX2Tofx8qSrqc5Jd3rqayE1",
-      "slug": "0",
+      "slug": "6r73u",
       "stakedToken": {
         "decimals": 6,
         "mint": "6R73Uo2kUDPZZ84AJthb1mMMYCzAAViPu2qoqno3bYBN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2XyKbbiRavs3gzaoBKic5TfXZ3hwgLf6L6gWAxC6oBmj",
-      "slug": "1",
+      "slug": "8muwb",
       "stakedToken": {
         "decimals": 6,
         "mint": "8muwboaL7DhfvcKzkh4KzWgc7wALfQ9vtThAzgASvYaB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D8JC1Db3bJSLGNbzZpAitCoQXS88TdhZ5EaCXUxEGsaw"
+  },
+  "rewardsTokenInfo": {
+    "address": "D8JC1Db3bJSLGNbzZpAitCoQXS88TdhZ5EaCXUxEGsaw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D8JC",
+    "symbol": "D8JC1"
   }
 }

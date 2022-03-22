@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "J1JHnCR5y49sRaxgaxXPXan96DVdCF4gHdcBFygwGzQG",
-      "slug": "0",
+      "slug": "5k7h7",
       "stakedToken": {
         "decimals": 6,
         "mint": "5k7H79bWyiTLBPhWs3mYi1xjE5cg9w5QKasWYcX4UpjA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "24z75vgvqEuVXYxRN88gL8oi8kte2auyTifJEfocRuSi",
-      "slug": "1",
+      "slug": "8by7m",
       "stakedToken": {
         "decimals": 6,
         "mint": "8by7MtzCaGuuAyKVK7UUoyHcy8KHUWN799LSynya8kR9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8BLyrbj7BttASUbFjmbZbWT2ovErS447cTh1My4or7DH"
+  },
+  "rewardsTokenInfo": {
+    "address": "8BLyrbj7BttASUbFjmbZbWT2ovErS447cTh1My4or7DH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8BLy",
+    "symbol": "8BLyr"
   }
 }

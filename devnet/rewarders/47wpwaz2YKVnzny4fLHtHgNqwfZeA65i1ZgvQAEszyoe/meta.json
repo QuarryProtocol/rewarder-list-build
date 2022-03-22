@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "91iVAMKfcGvWS3K5Dc4DSRoszXWhzsdMBsnWFH5eHk94",
-      "slug": "0",
+      "slug": "86nen",
       "stakedToken": {
         "decimals": 6,
         "mint": "86neNijLtFjXrUPKoHk6Jc4vtpe1aERhd4GgPxtnpR8M"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ay8Rhuv8xE11kME4mgbiPV1UV4KxYGZ32zYQ2iDXhFEn",
-      "slug": "1",
+      "slug": "7carj",
       "stakedToken": {
         "decimals": 6,
         "mint": "7CarJixcB2TA9TvCbQ9BuAjS94n7CxkH9NtC9ZaXRyiN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7hPNsaoCbqs8L4RQcRdHiMUskVwcxndxhcEnGG2iac5B"
+  },
+  "rewardsTokenInfo": {
+    "address": "7hPNsaoCbqs8L4RQcRdHiMUskVwcxndxhcEnGG2iac5B",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7hPN",
+    "symbol": "7hPNs"
   }
 }

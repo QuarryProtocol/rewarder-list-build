@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BP3kAHHJ3YptgoYjDM9Mgky1YAfjs1hpB3PrjuaNQWai",
-      "slug": "0",
+      "slug": "2qsgw",
       "stakedToken": {
         "decimals": 6,
         "mint": "2QsGwBTCMGgQY9WzYQD8fB5k9JpUNGYEBdCPG1XoCgTz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FxgoXKqLwA9E2MEDMKrZmDh7Hz5frG2Y85T7szteLM78",
-      "slug": "1",
+      "slug": "3c7gj",
       "stakedToken": {
         "decimals": 6,
         "mint": "3C7gj5QzEkaNJ19ANuy8M3nSSqHZmUwLr5LLhesp5oJ4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4xh5hy6spoSKZPbdwGbNT3QymevDBc9eWBe9NTKqL7bR"
+  },
+  "rewardsTokenInfo": {
+    "address": "4xh5hy6spoSKZPbdwGbNT3QymevDBc9eWBe9NTKqL7bR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4xh5",
+    "symbol": "4xh5h"
   }
 }

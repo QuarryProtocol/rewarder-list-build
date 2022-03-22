@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "92inSjajnmC4WSibNsG2vm5m52zaWWEGsXCjfTpYbWeX",
-      "slug": "0",
+      "slug": "gjucf",
       "stakedToken": {
         "decimals": 6,
         "mint": "GjUcfevNn7NL8zGoVTUuHrk5bWJTcUEzobXiDetsHyVx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2M77hi97nwjQQguC8ZzNbx2aveSbUKSWbBSDo3nEwY8w",
-      "slug": "1",
+      "slug": "5fpma",
       "stakedToken": {
         "decimals": 6,
         "mint": "5FPMAEMeHNjUt3LiiyQS1UeRCDaxSsqebEUD4BJ5Yknh"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GjUcfevNn7NL8zGoVTUuHrk5bWJTcUEzobXiDetsHyVx"
+  },
+  "rewardsTokenInfo": {
+    "address": "GjUcfevNn7NL8zGoVTUuHrk5bWJTcUEzobXiDetsHyVx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GjUc",
+    "symbol": "GjUcf"
   }
 }

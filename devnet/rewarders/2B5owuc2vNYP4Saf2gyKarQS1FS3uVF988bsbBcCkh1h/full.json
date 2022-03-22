@@ -14,7 +14,7 @@
       "quarry": "3fd7XFYghHfujLyxwp8iYPfocH2Q6YkWuu6wiQrszAhx",
       "replicaMint": "AyESqcWpvPJMtcfau9QFGWd4xHi2APRzFPuXWC8tjvUf",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ffm9q",
       "stakedToken": {
         "decimals": 6,
         "mint": "FfM9qgSXZer7YdkXuf4HzELmhFEmDNuLA9GBoUVuCEAs"
@@ -32,7 +32,7 @@
       "quarry": "HXxYZHHpBSs3aPRUQmst3tLf9Wsjhvu3PBBn2aHUhP2o",
       "replicaMint": "Gxy4Q6KG3jpSYEiYeaATffuj1BjHqZLKSH79934ZdNDs",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "9bid5",
       "stakedToken": {
         "decimals": 6,
         "mint": "9bid5SWjqqeseTaxGiR387hrNfRPYesR8EgdDLHjmaRp"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AzsZo59YDKE6snQQ9fsEybo52QbNt9AqE7oZCjZeykNa"
+  },
+  "rewardsTokenInfo": {
+    "address": "AzsZo59YDKE6snQQ9fsEybo52QbNt9AqE7oZCjZeykNa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AzsZ",
+    "symbol": "AzsZo"
   },
   "slug": "2B5owuc2vNYP4Saf2gyKarQS1FS3uVF988bsbBcCkh1h"
 }

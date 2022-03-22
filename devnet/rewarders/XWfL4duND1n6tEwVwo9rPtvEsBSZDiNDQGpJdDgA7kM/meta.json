@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7JGZL5vHytBe8PpZ1VTZmN7aBbWeaJkLGPLUubiyLCyR",
-      "slug": "0",
+      "slug": "3ftoc",
       "stakedToken": {
         "decimals": 6,
         "mint": "3ftoCVHX9rxRY3zmtRnWqkSGQyBSLiiLj7CReevLnQSt"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FS5PP9phRzB9sVKytNVeppK1stQaPTcttLXGhSyubDq5",
-      "slug": "1",
+      "slug": "hpbmo",
       "stakedToken": {
         "decimals": 6,
         "mint": "HpbmouXPTGzwFvN3ESZqArQVeEJAAERVUvQRPEJaazNx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EpToSBryiS1Bkaxd2CiPFdSmJ9BrAPGd6MgPr2AWeajT"
+  },
+  "rewardsTokenInfo": {
+    "address": "EpToSBryiS1Bkaxd2CiPFdSmJ9BrAPGd6MgPr2AWeajT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EpTo",
+    "symbol": "EpToS"
   }
 }

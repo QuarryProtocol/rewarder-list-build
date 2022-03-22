@@ -14,7 +14,7 @@
       "quarry": "9x6znKjE1jtXjz1GrYCaRRBZDhwE4oXDMTeqC7XXw5fd",
       "replicaMint": "B94dXsqQsqSaFh27d25YtmPe2qTXLsmTKNyWPB3SZZxZ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "43nko",
       "stakedToken": {
         "decimals": 6,
         "mint": "43nkoLA9rwQyjnyom1TajJRTn4hKacitwjeSmgssNvcV"
@@ -32,7 +32,7 @@
       "quarry": "ydWNimBntfYxht9CKuksNZBH5eFvwdu14Jags4dfpps",
       "replicaMint": "3JMztE1f2mYWBWn8DwDrLtVDGpT3hcdxFNpcAgpwrmij",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8msgu",
       "stakedToken": {
         "decimals": 6,
         "mint": "8MSGufUWMV1PHGVxxhBbLZ3pY8jV7ZUXtYrTvufhxfvo"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2XDGsEFCW2fwVGaG9pexu4U1CuqZeBLwkvnDaK6PBCvB"
+  },
+  "rewardsTokenInfo": {
+    "address": "2XDGsEFCW2fwVGaG9pexu4U1CuqZeBLwkvnDaK6PBCvB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2XDG",
+    "symbol": "2XDGs"
   },
   "slug": "8vXeJD2NXcn4cM8TLCXkWaXu1UmowEAoaTSrxZB4BmFy"
 }

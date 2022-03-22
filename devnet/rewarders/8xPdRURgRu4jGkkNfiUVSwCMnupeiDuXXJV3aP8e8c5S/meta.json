@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3T53JBncsNhyRgS9WL5sLycPj3q5aPLNcbtotQTp8m72",
-      "slug": "0",
+      "slug": "4gcgy",
       "stakedToken": {
         "decimals": 6,
         "mint": "4GcgyQ3rBqdTg5FtqwXcxgo3rhns5yjp59FZE5sHhKbj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "85yk3NbimABLjebAKThxU6obVXWhQAMm1HE6uXYkvVXa",
-      "slug": "1",
+      "slug": "dccxx",
       "stakedToken": {
         "decimals": 6,
         "mint": "DCcxxcjVuc3St9R288xHnqcadKupeUofjsYyzP3GvYEz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FE6WmSe3rD2fXjgVJCPWvVpDzbnBeTdooVvB1LBLqYbx"
+  },
+  "rewardsTokenInfo": {
+    "address": "FE6WmSe3rD2fXjgVJCPWvVpDzbnBeTdooVvB1LBLqYbx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FE6W",
+    "symbol": "FE6Wm"
   }
 }

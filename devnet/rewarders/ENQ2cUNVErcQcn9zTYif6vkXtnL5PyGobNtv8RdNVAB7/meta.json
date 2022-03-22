@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2coKCgGQWdjaF3ijoxkA4tXRGCdhZJrKr4kPvDG5RVPg",
-      "slug": "0",
+      "slug": "fdmau",
       "stakedToken": {
         "decimals": 6,
         "mint": "FDmAUh9tuzuEh8s8TjT1EfddqfumViVCwdhGobRfLK1e"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FDmAUh9tuzuEh8s8TjT1EfddqfumViVCwdhGobRfLK1e"
+  },
+  "rewardsTokenInfo": {
+    "address": "FDmAUh9tuzuEh8s8TjT1EfddqfumViVCwdhGobRfLK1e",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FDmA",
+    "symbol": "FDmAU"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2twe9kEeRRkJ4PVp6VYCnkxatDNEBhcSLGicAfc2gAdm",
-      "slug": "0",
+      "slug": "5fbfc",
       "stakedToken": {
         "decimals": 6,
         "mint": "5Fbfc46eNf7zf53YVxQVDJhugedMWYCfyvDnrpk8QoAD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9Vk1MvndWkxeYikhLturyk1WVcBaHFijKpYjNsg7zB7M",
-      "slug": "1",
+      "slug": "fzeaa",
       "stakedToken": {
         "decimals": 6,
         "mint": "FZeaa42qC1NX8V4zXzygb4k9marqm3N2nYMhjuoatZkK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "96VcLUvcggBPBho5L3rfqsjQMpyttnWw9693NtwfUNdn"
+  },
+  "rewardsTokenInfo": {
+    "address": "96VcLUvcggBPBho5L3rfqsjQMpyttnWw9693NtwfUNdn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 96Vc",
+    "symbol": "96VcL"
   }
 }

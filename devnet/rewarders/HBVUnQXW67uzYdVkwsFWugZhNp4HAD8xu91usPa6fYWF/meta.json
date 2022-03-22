@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HMAwJRRqhJL7BGrnM2w9XhrnbvsHNGJUUfSEcn2cSZhA",
-      "slug": "0",
+      "slug": "dqhwe",
       "stakedToken": {
         "decimals": 6,
         "mint": "DQhWevkzBUvVdSudQg22vgvi6mnzzwdzdxaQQwbEwHC8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Cr6HGdvQEvNAjHfbKiyjdn8LzcZvK5DcD2JezhZJNfGu",
-      "slug": "1",
+      "slug": "ex3sp",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ex3spEktE4NJA2QTrZJqdvPU3HPJeVbAgVkBXQHh82pN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GefvmNvz7b49qX4WCxo2pABSjHfW8kh2bFFJg1Hkn7Ah"
+  },
+  "rewardsTokenInfo": {
+    "address": "GefvmNvz7b49qX4WCxo2pABSjHfW8kh2bFFJg1Hkn7Ah",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gefv",
+    "symbol": "Gefvm"
   }
 }

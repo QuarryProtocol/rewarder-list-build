@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DmVYCWg533dp4UJHT7xn5JnCbvoafqw6RAdrNrBeeCSk",
-      "slug": "0",
+      "slug": "f8wax",
       "stakedToken": {
         "decimals": 6,
         "mint": "F8WaXdpu91YjCGk2qLdj4PCzEJRCqaYXW8TWKN5EsX4k"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7TN3wdLELPFSVzopywyVDn1trvq1sU4iRw4yqfBXb3vC",
-      "slug": "1",
+      "slug": "7pwst",
       "stakedToken": {
         "decimals": 6,
         "mint": "7pWsT6nRygeEdd7gAvJnVyt9yfP2Dz4Z9VkEx59ViQx8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bm1R2jKSJLCvq3xu86pfENx1bG8TsFnfRqC31ZauJDfs"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bm1R2jKSJLCvq3xu86pfENx1bG8TsFnfRqC31ZauJDfs",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bm1R",
+    "symbol": "Bm1R2"
   }
 }

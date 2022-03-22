@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BmaysxuVECfebrigBAvSo7epZd5WCxCBf1mBrkNR5m1j",
-      "slug": "0",
+      "slug": "sqmby",
       "stakedToken": {
         "decimals": 6,
         "mint": "SQMbyNPepzugPqKtwVoqc2JGeXimWzA9J5ZzdJoHJYT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5w1Y25cdSVQhCSDtG7NLzJc1gWdZRaK4PfhNRNtgUhrg",
-      "slug": "1",
+      "slug": "7agev",
       "stakedToken": {
         "decimals": 6,
         "mint": "7AgEvvwmv2nCT3fJPksGf1AMaxxyh3RGCmgpbBGz2FM7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "jqp6fi1TWuyNKrnvu9MN96evswKM5DbksoUr8d7PMoB"
+  },
+  "rewardsTokenInfo": {
+    "address": "jqp6fi1TWuyNKrnvu9MN96evswKM5DbksoUr8d7PMoB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token jqp6",
+    "symbol": "jqp6f"
   }
 }

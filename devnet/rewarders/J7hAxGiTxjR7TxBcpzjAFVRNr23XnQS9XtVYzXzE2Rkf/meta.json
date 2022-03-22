@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EzCcBiGKcN4Lb7n5fi53WvwNACjbaBqzaWAF3kbcfMVa",
-      "slug": "0",
+      "slug": "6bwzi",
       "stakedToken": {
         "decimals": 6,
         "mint": "6BWziudPeFiwdP6epfy5c3wQwrz3SfB1RwwskSagFFFg"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5votB4sMgGVCjviqTaWi9HP99awjNmu1Kgr9rXczfZKm",
-      "slug": "1",
+      "slug": "5ra9g",
       "stakedToken": {
         "decimals": 6,
         "mint": "5RA9GdP3ewG6z5tadTPeiVknLCrBHfuCi5nMMgfUMAyw"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B45dK1XZqCfn5ycPsKMWGNU5VZe6Ls4KTNqftkExYN1N"
+  },
+  "rewardsTokenInfo": {
+    "address": "B45dK1XZqCfn5ycPsKMWGNU5VZe6Ls4KTNqftkExYN1N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B45d",
+    "symbol": "B45dK"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "pn5q9YBAksMgnxpdNyEh2mAaDbJ7AriuETdsmz1uip1",
       "replicaMint": "A9aXDtUU224JdYPr4e72J2wsMfp6221MZw2Gv6EjjHmh",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "crgbz",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w"
@@ -32,7 +32,7 @@
       "quarry": "ByMsQBZnH9ybVtLe9P3wyrz1kV6LAC3fPnHUum7Rm6vS",
       "replicaMint": "5F5FmT9LCwJEqfvRXvGDGt4TEAKzSqn3Pm7VNJymYBYQ",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "x2rau",
       "stakedToken": {
         "decimals": 6,
         "mint": "x2raUTrLXq8sMujEzQs1QUGtfKnd7RTwJ9kUDufisfG"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w"
+  },
+  "rewardsTokenInfo": {
+    "address": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CrGb",
+    "symbol": "CrGbz"
   },
   "slug": "9QefXSQ5bUJyTqS7GxsAX9RwZhHU4rvsgNnhinTDHC67"
 }

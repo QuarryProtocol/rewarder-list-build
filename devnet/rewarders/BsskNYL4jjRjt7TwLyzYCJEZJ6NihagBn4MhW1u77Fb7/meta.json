@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4iERiAUhGERWF162HbuLRXNTLPjaoubAGyJRz6Gn3xyP",
-      "slug": "0",
+      "slug": "fmxq6",
       "stakedToken": {
         "decimals": 6,
         "mint": "FMXQ6RaavVMZxqsAqEXfqh177c56qHRKE8vqQyUq12s1"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FMXQ6RaavVMZxqsAqEXfqh177c56qHRKE8vqQyUq12s1"
+  },
+  "rewardsTokenInfo": {
+    "address": "FMXQ6RaavVMZxqsAqEXfqh177c56qHRKE8vqQyUq12s1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FMXQ",
+    "symbol": "FMXQ6"
   }
 }

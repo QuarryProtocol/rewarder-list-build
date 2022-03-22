@@ -14,7 +14,7 @@
       "quarry": "CXf62vnYiKVMULf3KgKmWunMjJdjfs5mBvkbHRBotS3L",
       "replicaMint": "AktA15SLg9xWFSfF9pvf9ndogfKQS1h9gxSFufCL6PfE",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "8yvip",
       "stakedToken": {
         "decimals": 6,
         "mint": "8YVipW8EE3VJhDKWYbY9geAWZCCqqiYWuBRUCJYmdGjp"
@@ -32,7 +32,7 @@
       "quarry": "JD1gNzpLWXWepbpVMrogFJ8svpG741iU9VPpizNA7bUk",
       "replicaMint": "3KX8gSfwA8uYFn5HZr2HEbqJpdMRmbsaCppnRuCqjZmq",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "b8rrr",
       "stakedToken": {
         "decimals": 6,
         "mint": "B8rRReHyPkd6BUmdk2uE5jBKwuNN7S7bAxiNY8N6FYKy"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BY9LFo51NV9VFBTK4rwzwPr8z2g4uG1M4AdLMMhEa7DG"
+  },
+  "rewardsTokenInfo": {
+    "address": "BY9LFo51NV9VFBTK4rwzwPr8z2g4uG1M4AdLMMhEa7DG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BY9L",
+    "symbol": "BY9LF"
   },
   "slug": "6nVKJa13BZvmaT1dxHNsBbyt1oYf3mPtjHcu8k5oxRRz"
 }

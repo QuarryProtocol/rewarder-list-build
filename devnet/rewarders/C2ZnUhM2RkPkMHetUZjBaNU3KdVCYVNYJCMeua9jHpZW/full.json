@@ -14,7 +14,7 @@
       "quarry": "9rz7zUKqKCj6Sy7W5UiS7eevzDgYdtobPpWHJEHTLhk1",
       "replicaMint": "A1VjTnHS3wBuGbz4xQ9ej7A28aBE8dm9VzDn5PcLJKMc",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "agtxb",
       "stakedToken": {
         "decimals": 6,
         "mint": "AgTxBagWewSrkM3tg5t7Csg7cWE3jhZqAGkCbhBCrQQM"
@@ -32,7 +32,7 @@
       "quarry": "F87cBcEgYdGWoDSu8zJz86gwoU22USwiNAr723QhbHsG",
       "replicaMint": "CjXGdz1WS4rRYZRphWWwMbeL93fJePocDb7ZG3azvm4Y",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "rdwz2",
       "stakedToken": {
         "decimals": 6,
         "mint": "rDwZ28cnBrFCPhe5EmQL1kUscM7KV7XEUWA1thu6nfc"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ADLVG77TrJqF5GocskuzYZZSQRkqEtW7TayBGdTvWrn8"
+  },
+  "rewardsTokenInfo": {
+    "address": "ADLVG77TrJqF5GocskuzYZZSQRkqEtW7TayBGdTvWrn8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ADLV",
+    "symbol": "ADLVG"
   },
   "slug": "C2ZnUhM2RkPkMHetUZjBaNU3KdVCYVNYJCMeua9jHpZW"
 }

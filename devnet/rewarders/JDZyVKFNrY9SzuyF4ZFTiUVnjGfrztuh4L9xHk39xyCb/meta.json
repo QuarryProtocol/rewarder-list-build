@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GVuNQAq2pMXLH91K9sDgXdYsDMgNdXUFo7PFpE2iwgwp",
-      "slug": "0",
+      "slug": "gmoh3",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gmoh391duuKodDD6Q1xsq7kGkgBCNaNvnuoMxHq3gZ44"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6yBzcDD6utdRCHdgNJQMJLpFEDPXctj9QG5PvR4jdku7",
-      "slug": "1",
+      "slug": "gy4xi",
       "stakedToken": {
         "decimals": 6,
         "mint": "GY4XiYSAaLAZuuBq6BmNhepJJ9CXdWSCvJLd45rdtaUz"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ca5mU64s7dWNoGvxgacE9KfrrkNb19nY98TnBbsfamJd"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ca5mU64s7dWNoGvxgacE9KfrrkNb19nY98TnBbsfamJd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ca5m",
+    "symbol": "Ca5mU"
   }
 }

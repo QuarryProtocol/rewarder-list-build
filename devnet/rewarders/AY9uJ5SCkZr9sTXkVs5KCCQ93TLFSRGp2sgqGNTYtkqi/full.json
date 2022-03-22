@@ -14,7 +14,7 @@
       "quarry": "AQavwQwdNU6oavVF738N78XJTtjs6z7EjvcBuK56oFqS",
       "replicaMint": "GtBTHwEUhhedk6GrSTfAtNLDEKNFDBYPzkY8HuHyWWAb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fuhcn",
       "stakedToken": {
         "decimals": 6,
         "mint": "FUhCnBZ4eExiBsmMY1h6VMqV43xpjTb4L7fqh5BhsULp"
@@ -32,7 +32,7 @@
       "quarry": "HdHWGpjuVn6Hesp6cQF5jyjZEyaTw9tiMkvaxzRovbqc",
       "replicaMint": "8RhAoP9BzKzLfAe2yofs6UAUBaCRWr7aGXyus9F6EcA5",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cc7wn",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cc7wnkFDdTZPzQ7FnrHnAXKBDqjSSe3ntNWL4XP3faLv"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5ExuEu8DLoMNvwHXKiK251QSVxhXqPbo6SXAFUSSAMMX"
+  },
+  "rewardsTokenInfo": {
+    "address": "5ExuEu8DLoMNvwHXKiK251QSVxhXqPbo6SXAFUSSAMMX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5Exu",
+    "symbol": "5ExuE"
   },
   "slug": "AY9uJ5SCkZr9sTXkVs5KCCQ93TLFSRGp2sgqGNTYtkqi"
 }

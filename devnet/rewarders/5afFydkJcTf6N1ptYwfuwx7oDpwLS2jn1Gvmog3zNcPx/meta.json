@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DW2pwyZEd72A76eSRWfdTn5d4RrvRktfZhP7S42bjiE8",
-      "slug": "0",
+      "slug": "epeme",
       "stakedToken": {
         "decimals": 6,
         "mint": "EPeMEJckABV5d5vM8ScuGQpeqQPb4L8M8enFYYEtRzeH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CT9HDX1PH2Uqdg7u8cvS81RtVkjU47r72wnBBzf8Czq2",
-      "slug": "1",
+      "slug": "bnodn",
       "stakedToken": {
         "decimals": 6,
         "mint": "BnoDN4YzW5s6rHDFNgP2Ph94kEbMG1Bnxa9xsBAZ1UCh"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "76oCpEvfs5Ee7qA7zMedy1d7pKJY5GgHRnG4pqpja2QW"
+  },
+  "rewardsTokenInfo": {
+    "address": "76oCpEvfs5Ee7qA7zMedy1d7pKJY5GgHRnG4pqpja2QW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 76oC",
+    "symbol": "76oCp"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8edgj5UY7mbTp7LtC9cSkVezGK19ugfqW5mgNJpUkwzE",
-      "slug": "0",
+      "slug": "hyscs",
       "stakedToken": {
         "decimals": 6,
         "mint": "HYsCs7qYAQ72bEBepYqzUBJa5mLVqn4e1mWyJdQJppLx"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HYsCs7qYAQ72bEBepYqzUBJa5mLVqn4e1mWyJdQJppLx"
+  },
+  "rewardsTokenInfo": {
+    "address": "HYsCs7qYAQ72bEBepYqzUBJa5mLVqn4e1mWyJdQJppLx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HYsC",
+    "symbol": "HYsCs"
   }
 }

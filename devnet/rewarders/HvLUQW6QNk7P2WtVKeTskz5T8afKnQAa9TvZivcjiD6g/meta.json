@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Amb1cHX4yQNtGkbQyv9Arb5AswsU3CtBcBfgXknJqUxY",
-      "slug": "0",
+      "slug": "ccqnd",
       "stakedToken": {
         "decimals": 6,
         "mint": "CCQnd4MoSCM59AJdKcMTAoSrJfHEfYLSaqv5on94gMTW"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5p2j6sqnxBZoxiej5uLDB8VT9gTqJXNm5VcfcecFhDPH",
-      "slug": "1",
+      "slug": "fgton",
       "stakedToken": {
         "decimals": 6,
         "mint": "FgtoNHq7njKj1emJFKed8LFp5o9Dfsdtx3ydEcZrfxJt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GNqX5RDFXT5G9p2aaJLrWp5Ht7pEGaUBKdYdco6Pe3PP"
+  },
+  "rewardsTokenInfo": {
+    "address": "GNqX5RDFXT5G9p2aaJLrWp5Ht7pEGaUBKdYdco6Pe3PP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GNqX",
+    "symbol": "GNqX5"
   }
 }

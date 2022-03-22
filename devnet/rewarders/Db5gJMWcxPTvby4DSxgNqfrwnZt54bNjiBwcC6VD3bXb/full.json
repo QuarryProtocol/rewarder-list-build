@@ -14,7 +14,7 @@
       "quarry": "6phJf7PtXGX2T4fRbMeZVqbLvDop2Xk94GKpXqXxFBou",
       "replicaMint": "8hPqwRAr6U4jMu5z19c8rdgRsGdFbc5hx3sRYcoAKkw2",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "newyh",
       "stakedToken": {
         "decimals": 6,
         "mint": "newYHbmTAzZuycnHqLXVuBHSkahzxyNuCY95xd3dWWj"
@@ -32,7 +32,7 @@
       "quarry": "GN94AgUQdM3AgSWavuGZiFN3RwkXaUJkF652PVHQVHEY",
       "replicaMint": "32MVaex7v57xbEYJr9QVKGEXRTuvJhBaVeVFAebtpgK5",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "6vqtn",
       "stakedToken": {
         "decimals": 6,
         "mint": "6Vqtnfpz9XRZ2cbkxg2CDwk6DSigBykAuYUk3ao9bh7Y"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FPNRoTb4Pv7FEzfVsmmqGkZ1KKPvQbvFSMfS2nd8XiVt"
+  },
+  "rewardsTokenInfo": {
+    "address": "FPNRoTb4Pv7FEzfVsmmqGkZ1KKPvQbvFSMfS2nd8XiVt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FPNR",
+    "symbol": "FPNRo"
   },
   "slug": "Db5gJMWcxPTvby4DSxgNqfrwnZt54bNjiBwcC6VD3bXb"
 }

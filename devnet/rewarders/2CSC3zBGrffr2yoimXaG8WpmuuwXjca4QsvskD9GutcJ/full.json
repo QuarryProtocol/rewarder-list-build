@@ -14,7 +14,7 @@
       "quarry": "3V4jubJD9BaLBQCTb3D959HsbCAoWL6caC62ByyXLgmJ",
       "replicaMint": "E4NdyiwqoJCZpPWxkDQPNPpnopXqDHv2rJX6iLjp26zj",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ec9cn",
       "stakedToken": {
         "decimals": 6,
         "mint": "EC9cnwJmWZyq4EmAjCgcsZ1zo6ejSdQJmXgKjNZpwRhE"
@@ -32,7 +32,7 @@
       "quarry": "GP1J2swRXw5KvPUYKxZksaXRfA9L4Heii9cN51Cjz75E",
       "replicaMint": "CyLao4rmkosiekRdcXKpVprgygcqQuYKL2VkVRzHrjsr",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "beru6",
       "stakedToken": {
         "decimals": 6,
         "mint": "BeRU6TTdgfUyqCE4Q5soGH8ikyW13Epufan1FZPbzE9G"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9YLDrLSqryADLxpRCXVo78GhRwSCgvhqjecc14mCCGia"
+  },
+  "rewardsTokenInfo": {
+    "address": "9YLDrLSqryADLxpRCXVo78GhRwSCgvhqjecc14mCCGia",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9YLD",
+    "symbol": "9YLDr"
   },
   "slug": "2CSC3zBGrffr2yoimXaG8WpmuuwXjca4QsvskD9GutcJ"
 }

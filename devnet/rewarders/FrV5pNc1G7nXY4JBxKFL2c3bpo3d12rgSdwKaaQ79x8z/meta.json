@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "F6BRevo643kQw1qaNHV9m7EcEZth9kTHvfjrhWkH66yt",
-      "slug": "0",
+      "slug": "gea2n",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gea2nSjFHRoTe9pUXNrgx89L9kjQyuWw2hMeBfXrsVPr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3J2tG6R8BMece6Wp4m6XDAEPNkc6kFfoA1ena8LYiWKT",
-      "slug": "1",
+      "slug": "7hw8d",
       "stakedToken": {
         "decimals": 6,
         "mint": "7HW8diAZyTUwxaQXKg6oZSJCfYus7aZwBNDU8SZkpn7E"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CPPrdVe5FDsbd1LGZhHcjdP9byB871CUrySbB6Qfa7zA"
+  },
+  "rewardsTokenInfo": {
+    "address": "CPPrdVe5FDsbd1LGZhHcjdP9byB871CUrySbB6Qfa7zA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CPPr",
+    "symbol": "CPPrd"
   }
 }

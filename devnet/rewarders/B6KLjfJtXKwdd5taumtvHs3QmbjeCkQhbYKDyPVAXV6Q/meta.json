@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AZZc18b72HUF7hAToAFcXBfmUrmiKqMcFPvMogsRFh4b",
-      "slug": "0",
+      "slug": "b7yfc",
       "stakedToken": {
         "decimals": 6,
         "mint": "B7YFcXzQat2SW8BGnQCeZHL3VGyErLJLP2jWbQGE87EM"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "H6HWUYS688kboWmbERuwMPcJnyDdqftEsCajTCfBimCP",
-      "slug": "1",
+      "slug": "az5yd",
       "stakedToken": {
         "decimals": 6,
         "mint": "Az5Yd3ouJoq14vGdQ2Z3gG3p68kuu7StuvZ47Xr6gugE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GdmFQXQUmVtYewtL91XbWCx63Tne3yxBrNmV8uBpUyb2"
+  },
+  "rewardsTokenInfo": {
+    "address": "GdmFQXQUmVtYewtL91XbWCx63Tne3yxBrNmV8uBpUyb2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GdmF",
+    "symbol": "GdmFQ"
   }
 }

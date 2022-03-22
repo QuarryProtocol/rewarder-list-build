@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7dm9tPFzBPTJxoW9WTeCD5jKysYPD2Xkdoycdm39JX4N",
-      "slug": "0",
+      "slug": "42qxt",
       "stakedToken": {
         "decimals": 6,
         "mint": "42qXThWyEP2Vjw174KtsjdYRci2WnDQUwSFDdxs51NBQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9Q59KHjw6jgCJdUcwZerUfn9mNbUJercKWgfLhJq76a5",
-      "slug": "1",
+      "slug": "8y31c",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Y31cBWkjVraMpWQRz3Q5zkPMxHskEvMCKc6YL5qhFv9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5KYF4p7AtpafAdHUx7Lkz5TYwdUYLQHQra9QQhY7zxnC"
+  },
+  "rewardsTokenInfo": {
+    "address": "5KYF4p7AtpafAdHUx7Lkz5TYwdUYLQHQra9QQhY7zxnC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5KYF",
+    "symbol": "5KYF4"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "xXjZs2YvDZCdwDj55UrUapgwonCgx9BRHCx9tRNsyGh",
-      "slug": "0",
+      "slug": "ffd9v",
       "stakedToken": {
         "decimals": 6,
         "mint": "FfD9VqnS1Ni3kCXbBvH1efuGyv4dnxg8SSm5b3c5oYTX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GQUaUQCsdBbs89DzpikrKvwXXeQokCaKWKqxBocE4xcH",
-      "slug": "1",
+      "slug": "dqf7f",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dqf7f2RNSqN22g1gB19oWVjZftf3oiz5TUXxEG1C7qtP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5gLoNzJkspGTUkrUmqteu9Ht7bcdSfsANTw3ismUYXZd"
+  },
+  "rewardsTokenInfo": {
+    "address": "5gLoNzJkspGTUkrUmqteu9Ht7bcdSfsANTw3ismUYXZd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5gLo",
+    "symbol": "5gLoN"
   }
 }

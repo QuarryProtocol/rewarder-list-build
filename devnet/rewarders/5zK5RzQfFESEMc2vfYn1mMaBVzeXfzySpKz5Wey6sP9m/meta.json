@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Ccd69m7o1ACW4zcyrEzufuMweGDr5puhW8VCdv4YoYhm",
-      "slug": "0",
+      "slug": "cjdyc",
       "stakedToken": {
         "decimals": 6,
         "mint": "CjDycoz9nX3tAwrgsnWVxpwQv7LgppuWfEkhjEEPbTMw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FdYuxNNDGPkgAhbn8QSjsfo6KeeHfAaP3BUyAZdZTkbP",
-      "slug": "1",
+      "slug": "92evw",
       "stakedToken": {
         "decimals": 6,
         "mint": "92eVWq4rsMv646dsSKyWQabkjYu1y1S2aADEsN8PLzUj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D8pWMQbUjbNqa8xrL9N27kYEURMR1azr1yXPwTahomiw"
+  },
+  "rewardsTokenInfo": {
+    "address": "D8pWMQbUjbNqa8xrL9N27kYEURMR1azr1yXPwTahomiw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D8pW",
+    "symbol": "D8pWM"
   }
 }

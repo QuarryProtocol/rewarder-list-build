@@ -14,7 +14,7 @@
       "quarry": "7y9eFto8JrXzYUhzk3PAVQQCUtzSzMkpV8GdTWp7BkaM",
       "replicaMint": "3Q4hjA3JnooQssZUXSUXMSG47xzpiJUB1C873wEsYYHW",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "7deex",
       "stakedToken": {
         "decimals": 6,
         "mint": "7DeeXcBRgB83TLhAi3YRedWxNrc6msBzz2M8R83cmJ2J"
@@ -32,7 +32,7 @@
       "quarry": "91PwLUgpvGUCUG6MMmn7HR6EJC42D7s1fBa3hymAT3Dp",
       "replicaMint": "9mNVvcUPm23cgjdk11mPQgpHsJWexaTauWjJ3GVW6N7K",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "c7a6i",
       "stakedToken": {
         "decimals": 6,
         "mint": "C7A6iVrbzFSXuByawaDgjZo2NqCHDy2X64DF4tGbGkq5"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DrQMc1M9VLQKYLvNjfj6bjsZtWMTM9aCKE3sT6b47rpY"
+  },
+  "rewardsTokenInfo": {
+    "address": "DrQMc1M9VLQKYLvNjfj6bjsZtWMTM9aCKE3sT6b47rpY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DrQM",
+    "symbol": "DrQMc"
   },
   "slug": "EyzXdUHCPt9tv6nNzx2ou3EVWutgP6myz3qfMBiZRLeu"
 }

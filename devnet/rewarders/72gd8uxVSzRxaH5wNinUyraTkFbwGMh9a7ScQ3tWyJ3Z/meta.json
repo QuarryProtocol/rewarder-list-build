@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BBDkkDD7AbB9aZCEHbdhonnNNyEASiBzzh2SQg2jZfnn",
-      "slug": "0",
+      "slug": "56tue",
       "stakedToken": {
         "decimals": 6,
         "mint": "56tUeyEonyJD32wUm3zG267uYZQCDXje9htKnCgnUiZs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GZGNq1P7qhuXKMHSgbrTjGMTbupshnkt9anLX5obDcan",
-      "slug": "1",
+      "slug": "frqar",
       "stakedToken": {
         "decimals": 6,
         "mint": "FRQar6PhopL6SjnMGXnjU75ehYVLDFhQQRnJjig2gn29"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "95ksFaMTZFx2FmEC4wJQVWfWMc3A2EPFwd6Zun4opFN3"
+  },
+  "rewardsTokenInfo": {
+    "address": "95ksFaMTZFx2FmEC4wJQVWfWMc3A2EPFwd6Zun4opFN3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 95ks",
+    "symbol": "95ksF"
   }
 }

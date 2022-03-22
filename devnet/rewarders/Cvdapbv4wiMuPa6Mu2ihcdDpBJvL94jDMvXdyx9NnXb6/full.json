@@ -14,7 +14,7 @@
       "quarry": "DzVMLrtTUapSoXqK8AmLFdHzc6AC6RvSX4s2WAywpX9o",
       "replicaMint": "72qVpBiGw5cKBU9TEfqRUZLxmkYukR3ux4yuzVxqwbE",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dcavq",
       "stakedToken": {
         "decimals": 6,
         "mint": "DCAvQdesKcYvY6hdySarzCP5aXFmfR6G2B84888GtMwd"
@@ -32,7 +32,7 @@
       "quarry": "EgkJ2TXxZ2656PimQ5fmaXWv6XvASCNmuZjUtcanSstN",
       "replicaMint": "49SdKXXmjtYyQS6Cj7uZRa11fJ9yVPkso8WDovuTbxpN",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "6tdcf",
       "stakedToken": {
         "decimals": 6,
         "mint": "6TdcF3EaG7sSowsneXpu3hxN9sovUB62d7BBMR28cjRv"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GCYtMQLmuz81fXjAzqEDNGCanW2W82fM4SHrjDqMdXE"
+  },
+  "rewardsTokenInfo": {
+    "address": "GCYtMQLmuz81fXjAzqEDNGCanW2W82fM4SHrjDqMdXE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GCYt",
+    "symbol": "GCYtM"
   },
   "slug": "Cvdapbv4wiMuPa6Mu2ihcdDpBJvL94jDMvXdyx9NnXb6"
 }

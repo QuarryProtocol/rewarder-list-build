@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5GRMxwSbuy3TAd6AeHDt3hm7YvsxJjULCVMZa1nNQH6m",
-      "slug": "0",
+      "slug": "5vrec",
       "stakedToken": {
         "decimals": 6,
         "mint": "5VRecxNwSJ6FD1vjaG2iJMT6Ss7hcAUdn1SMxztpvEH6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Asr8ybKYr6AAw6BeSuiiRwKECFiHLGbAZp8kN128kLqC",
-      "slug": "1",
+      "slug": "fw4h5",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fw4H5HG23gd3onebxxxGegzgENZguALiugkZZz15Z4SL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9ts3i6ucM5Vtkjdwfhtw8YG3rEzLzczKsZvQjXWZutDd"
+  },
+  "rewardsTokenInfo": {
+    "address": "9ts3i6ucM5Vtkjdwfhtw8YG3rEzLzczKsZvQjXWZutDd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9ts3",
+    "symbol": "9ts3i"
   }
 }

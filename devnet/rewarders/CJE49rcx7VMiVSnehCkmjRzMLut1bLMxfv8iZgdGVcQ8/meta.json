@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8Kn9pNwQTFMZVu2c4EKGe4DSHnWiE5FhzFGXYUWvB8rB",
-      "slug": "0",
+      "slug": "hfnom",
       "stakedToken": {
         "decimals": 6,
         "mint": "HfnoMbzUFCQjJSmtVuM53mXuqFesfeV2Rm6cDGftvJbG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E1JwmXpofLw9qdSWvCbbM3WxhdEBciuwjNavweCuKStW",
-      "slug": "1",
+      "slug": "beq8v",
       "stakedToken": {
         "decimals": 6,
         "mint": "Beq8V3Utgeb5nEXG46WtCGnnk6QNZp56C2iiwR8MPMTF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4Ywk2C39M2J4riABEcMUJtKM6m1qiSnwoaihozw7WuDF"
+  },
+  "rewardsTokenInfo": {
+    "address": "4Ywk2C39M2J4riABEcMUJtKM6m1qiSnwoaihozw7WuDF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4Ywk",
+    "symbol": "4Ywk2"
   }
 }

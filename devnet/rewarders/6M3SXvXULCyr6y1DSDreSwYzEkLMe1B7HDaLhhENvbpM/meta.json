@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CaWedV78KetCz474uaAsvcj3YyZbs9YzB9BCfgBrXzua",
-      "slug": "0",
+      "slug": "h259y",
       "stakedToken": {
         "decimals": 6,
         "mint": "H259YgPSTAAj4T3GL8sb1QZhu4qySHgteFPf3DXrW2gR"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D6zco3zTzVMWRkxKer1wpWcRcuRMnt2Zv9MSNN2FPLFc",
-      "slug": "1",
+      "slug": "duzum",
       "stakedToken": {
         "decimals": 6,
         "mint": "DuZUmaFETtbYwRi9YPc81CUErjZw9bZwYBUaEYyp7Crh"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FuVbDBucrBZb18RXjCQLHJTZFfiYwVRoPstK9Dnf46pA"
+  },
+  "rewardsTokenInfo": {
+    "address": "FuVbDBucrBZb18RXjCQLHJTZFfiYwVRoPstK9Dnf46pA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FuVb",
+    "symbol": "FuVbD"
   }
 }

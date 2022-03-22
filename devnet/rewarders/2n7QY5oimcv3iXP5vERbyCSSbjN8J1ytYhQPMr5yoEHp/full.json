@@ -14,7 +14,7 @@
       "quarry": "75mkDvG959rHPPk2G8tQmd2gg8eXoBF2ScGvrxm71VNm",
       "replicaMint": "EfHX5yPZX7KaQPScS4fgEEPsB5PL8xGKy5iv9pV2XPPo",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "7djfn",
       "stakedToken": {
         "decimals": 6,
         "mint": "7DJFNgYAPT7DddV9Tc56wGii7Mb3gbZ9m48WbpemGB5"
@@ -32,7 +32,7 @@
       "quarry": "9QUUx1jcqYLkLc3gVoKtq26yLoGeUgpza2BhfsNnRPh2",
       "replicaMint": "386GaTc2n4fKeUwMcyvvL4EFDtrpPfM2TtnvsDcKbLTw",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "a7u1i",
       "stakedToken": {
         "decimals": 6,
         "mint": "A7u1icX1JqfEUDLzJsA2VQknAJe5SsSPwJPiQdrYiTWx"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AuPEQ9ZZNPWiJoYPQDoRm4GWJ5cezFoZu4htcbyZN5Xg"
+  },
+  "rewardsTokenInfo": {
+    "address": "AuPEQ9ZZNPWiJoYPQDoRm4GWJ5cezFoZu4htcbyZN5Xg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AuPE",
+    "symbol": "AuPEQ"
   },
   "slug": "2n7QY5oimcv3iXP5vERbyCSSbjN8J1ytYhQPMr5yoEHp"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "NTRTCSNfiCM31aQwTQoyMsagAbNefo3c4JYQdmc4frx",
-      "slug": "0",
+      "slug": "2cxgx",
       "stakedToken": {
         "decimals": 6,
         "mint": "2CxGxw1PQdopdMJpNke3qr5GGsxWtFPgZ17mvcnefNhy"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ah5LQaLjJEu6XmR2wza3bvUEgHTDWTujX8od4oZPNTLd",
-      "slug": "1",
+      "slug": "bb6fk",
       "stakedToken": {
         "decimals": 6,
         "mint": "BB6fKBjWpiffw16oTjcf3PXeS8ZcBP6BbXNQ1Y5Gtcsv"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7zhFEi5gryFcW8zC5KHcTtMQ2REYMLac8X6szxtjmC4z"
+  },
+  "rewardsTokenInfo": {
+    "address": "7zhFEi5gryFcW8zC5KHcTtMQ2REYMLac8X6szxtjmC4z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7zhF",
+    "symbol": "7zhFE"
   }
 }

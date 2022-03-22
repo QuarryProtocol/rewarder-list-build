@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4kHmTpFuSsHc5Tomp1qBzTpjH2dg1CJ2ey6DjbF8cKNS",
-      "slug": "0",
+      "slug": "4ifk2",
       "stakedToken": {
         "decimals": 6,
         "mint": "4ifK2fnV9wgXojuqwwWa1RU1Wf9jBiczya6rudCWNGjT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4gtofqdbRM47vaKiYU6VSkqkYNW3byZSFHjaqvpknKMP",
-      "slug": "1",
+      "slug": "a8ygp",
       "stakedToken": {
         "decimals": 6,
         "mint": "A8yGPn5R5VGWtoA6qctWGYQ5nQQiXjby5562mVZPg5xy"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DCg2abwGtg63cyeohwWUUgnSn61ACj7nn4zckMVWJhmt"
+  },
+  "rewardsTokenInfo": {
+    "address": "DCg2abwGtg63cyeohwWUUgnSn61ACj7nn4zckMVWJhmt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DCg2",
+    "symbol": "DCg2a"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EKNK6APE2pNBETkus3Vy64J5qBvmGsHAZqyjj3jjskdC",
-      "slug": "0",
+      "slug": "cmwgu",
       "stakedToken": {
         "decimals": 6,
         "mint": "CMWGuXvw2visUDxTzN9GMcc9HuLXSHaZXQJuAjGrDMBV"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5WTKv1M4EyeqrYAqr3YmXhztC6tYsiGUeueXuD8GWPca",
-      "slug": "1",
+      "slug": "6pmdx",
       "stakedToken": {
         "decimals": 6,
         "mint": "6pMDxLcEctybFzBaAGrXAw75sLGgYVmCnY8PVCpaDQWe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J4R8kR7SACBYnfUVsn4XX3bZyk5Ko2cLrJFB6WMf3fiZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "J4R8kR7SACBYnfUVsn4XX3bZyk5Ko2cLrJFB6WMf3fiZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token J4R8",
+    "symbol": "J4R8k"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "YcY99FZuPgQeJWhVBD4kaFZ19MAKTDwire1YXGDnG6i",
-      "slug": "0",
+      "slug": "2ztdx",
       "stakedToken": {
         "decimals": 6,
         "mint": "2ZTDxwpn7K9ZA5Tu3wzeeccUKYiTG9NxGEUtmJpVdEko"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6hKTXcFBbPhMxjEsiEfjHeofmgyuHxWjge3Lsxb4FS5b",
-      "slug": "1",
+      "slug": "guvtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "guvTfB1NiipA3QyGvLwSJvcMRi88rwUCDCa7pXWD39m"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "bEVRRWrbTqw2DWjA8L5uHTDxMwDWW29J2dnFCVL9dya"
+  },
+  "rewardsTokenInfo": {
+    "address": "bEVRRWrbTqw2DWjA8L5uHTDxMwDWW29J2dnFCVL9dya",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token bEVR",
+    "symbol": "bEVRR"
   }
 }

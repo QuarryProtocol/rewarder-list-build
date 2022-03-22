@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3FVSmx1vxjcBYhTVG2pvJ1XoF99CGdgVCBQndgQoTvAr",
-      "slug": "0",
+      "slug": "a7rrr",
       "stakedToken": {
         "decimals": 6,
         "mint": "A7RrRigc3DCbzxGpxiPHhQ7S4bGohB2hBk8ye8cvQJLD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BvREgeZXUaKNQFea8wWU4YJasKEmsuRDVbJpqJJi1hMP",
-      "slug": "1",
+      "slug": "hr9ou",
       "stakedToken": {
         "decimals": 6,
         "mint": "HR9ou9JdsQLxAPUvNeZNcAyjxruLNZauhXwSjyLDMD7Y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "B6CDxAoSFvTLgHvHAsgtR9gRwFphhXAES2iX1gCYTBFp"
+  },
+  "rewardsTokenInfo": {
+    "address": "B6CDxAoSFvTLgHvHAsgtR9gRwFphhXAES2iX1gCYTBFp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token B6CD",
+    "symbol": "B6CDx"
   }
 }

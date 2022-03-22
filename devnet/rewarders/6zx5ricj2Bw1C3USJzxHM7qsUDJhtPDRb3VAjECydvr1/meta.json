@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "D4yu1AVULbqHRFWAJatandJ8HXrQgAwkgzGgdwFXjXtC",
-      "slug": "0",
+      "slug": "dqxmp",
       "stakedToken": {
         "decimals": 6,
         "mint": "DqXMpiy2BYkdJG9u8H2tMhXV1vW1zzUM8wHJwBi7gvUD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9nqMGGtF7BmbXmH2L3HpSMH5ZXVJBfu87jiPYWNUwXhr",
-      "slug": "1",
+      "slug": "hw3lc",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hw3LCt2U1u3kmxnZ5CZQkHSkar6YuFvrcW4d443QmWLV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8QAQVPqMDADZhFfj9yXNKwtHHJbsFtQMM16uZLvggQg5"
+  },
+  "rewardsTokenInfo": {
+    "address": "8QAQVPqMDADZhFfj9yXNKwtHHJbsFtQMM16uZLvggQg5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8QAQ",
+    "symbol": "8QAQV"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AWipp5zp5xQNUy3dAh6MjPweNJGZVeNCmD5qJwwbqEwA",
-      "slug": "0",
+      "slug": "atlut",
       "stakedToken": {
         "decimals": 6,
         "mint": "AtLUT4SLEtV2QasP8cYbpz5HLWkEZwfp4hqfM6nuryCN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3zLqzKkXsjjxbCcukRSKPqAUzQAgMfa25WNE6n33N8gi",
-      "slug": "1",
+      "slug": "3ftum",
       "stakedToken": {
         "decimals": 6,
         "mint": "3fTuM53nG6nUMJDMuNWKpArWizbmLLzbXNawLQtyHs5T"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AHxyyQJdZKK66GajNBLntjYtutY6nhW2MiXXkTirV27T"
+  },
+  "rewardsTokenInfo": {
+    "address": "AHxyyQJdZKK66GajNBLntjYtutY6nhW2MiXXkTirV27T",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AHxy",
+    "symbol": "AHxyy"
   }
 }

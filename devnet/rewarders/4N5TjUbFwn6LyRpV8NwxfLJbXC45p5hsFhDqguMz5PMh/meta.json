@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FEDgC4pTVPdSboGBYuPNMY8V5aiV64XTtJQ93ZdVXW6j",
-      "slug": "0",
+      "slug": "2ac5u",
       "stakedToken": {
         "decimals": 6,
         "mint": "2Ac5UEfECya9Rt4dcRYAEZpVJECsDoQrM55HEy1vxP5P"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Au8mPQKgKRC37KBxGHBLGKp2Ss3yuadpPFqMLHZeGrB1",
-      "slug": "1",
+      "slug": "7xozp",
       "stakedToken": {
         "decimals": 6,
         "mint": "7xozpm11MjhK6kjVRTDkYnWP2hWcfKs8EohbSwK1YPcS"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8GXYibuWC7ZCfeE6jcf6eRpWijLjryiSdDyfvwmiKgjh"
+  },
+  "rewardsTokenInfo": {
+    "address": "8GXYibuWC7ZCfeE6jcf6eRpWijLjryiSdDyfvwmiKgjh",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8GXY",
+    "symbol": "8GXYi"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AC24wziUN631aTrovw7RcrB4KwuC2VHTYXLGc9sVNPmC",
-      "slug": "0",
+      "slug": "8pdrf",
       "stakedToken": {
         "decimals": 6,
         "mint": "8pdrFVVUhMbU68jNg2LJj2Ev2rsnd4CMQqnMjtGKrtfo"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5pYXneLm9BvVzMS5eBG1LLvt9bPndtbx7HFSUyA6XHgc",
-      "slug": "1",
+      "slug": "4s7xd",
       "stakedToken": {
         "decimals": 6,
         "mint": "4s7xddetiRvSCcN2HxixJ2iwK9wGngXLSurmppXJLyFQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7bCWvwB1gyrGHLbpboTfTQ8ANGERqrHrRCbRaV2Rfbtx"
+  },
+  "rewardsTokenInfo": {
+    "address": "7bCWvwB1gyrGHLbpboTfTQ8ANGERqrHrRCbRaV2Rfbtx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7bCW",
+    "symbol": "7bCWv"
   }
 }

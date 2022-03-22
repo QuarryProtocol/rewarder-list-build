@@ -14,7 +14,7 @@
       "quarry": "7j4MEWrwerTznX7FsnPPReBCt9PBpopoe5bJPkPV2z73",
       "replicaMint": "CyvavxLhY9TjoRTLS8V1ByTzUVbsQK38FM96ruD3LCVz",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ugjqq",
       "stakedToken": {
         "decimals": 6,
         "mint": "uGJQqCg6zHWVw5fBQsTUFEpWcpN16vJSt5ZUrBGTuR5"
@@ -32,7 +32,7 @@
       "quarry": "82vs9EXqd12UQmhhzLAjap5Xs8kipcSNcZFS9XXabQZ3",
       "replicaMint": "98x46jdwQ6MJMdN6qqNqvPJ7TeAkShneLkgkVR1hNrVM",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "f7s2m",
       "stakedToken": {
         "decimals": 6,
         "mint": "F7s2M6e9PQoarWp2tazMP5GvkCoG2fyUzwFR8ZW2mCfn"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CiSspEi7uUWFormWj56Y2wmJW9kCzod2P5xzWTbmYyNt"
+  },
+  "rewardsTokenInfo": {
+    "address": "CiSspEi7uUWFormWj56Y2wmJW9kCzod2P5xzWTbmYyNt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CiSs",
+    "symbol": "CiSsp"
   },
   "slug": "BEeRo4LyRYF1eBWEE7saxsYBrhUyMfAjS5gyBn1SoGk5"
 }

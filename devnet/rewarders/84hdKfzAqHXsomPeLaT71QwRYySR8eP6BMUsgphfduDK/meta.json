@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Gd2j9k8ZFhB1LwK1BJhYu9Sju8AQp74Ty6iPgdfyEVoH",
-      "slug": "0",
+      "slug": "3qecw",
       "stakedToken": {
         "decimals": 6,
         "mint": "3QEcwLnbfaTYBUuxN645riS4zsARmLTHJ3sL35veF8Ae"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DxPfABgiQtTe6TJM9iox9oY4QCHyhWkxo5QcUnMiUZKc",
-      "slug": "1",
+      "slug": "dt1j1",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dt1J1SLbYCJxgmwyCHtCmCL76wYQuBZkP5DQ2HLwwS2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "33Gn1yz1ou34uA5pMmP3xRwFLug7SoggNtVK4VWzGw6C"
+  },
+  "rewardsTokenInfo": {
+    "address": "33Gn1yz1ou34uA5pMmP3xRwFLug7SoggNtVK4VWzGw6C",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 33Gn",
+    "symbol": "33Gn1"
   }
 }

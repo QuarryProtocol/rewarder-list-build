@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GUd2xVHRhBAfbZTXgXZLt9wYPQ5wpNifeW4MNCZJrhTm",
-      "slug": "0",
+      "slug": "d2wzb",
       "stakedToken": {
         "decimals": 6,
         "mint": "D2wZbYSMGK85ChNAKgb6jPCwHpJqTfTRXqtivDvaojMA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FuczGpdQC2Am2i5GBQe5XvZ4FtvyUAoZZWhkBASYSrdQ",
-      "slug": "1",
+      "slug": "ascml",
       "stakedToken": {
         "decimals": 6,
         "mint": "AscmLUCeZvAxVHCZ3Z3DmuyefPmbL53kcAw51HuHJGoE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H16zhr5gq8kVjAwDJqUZi5Z9BBR6p9KQTSzqmEybqxw9"
+  },
+  "rewardsTokenInfo": {
+    "address": "H16zhr5gq8kVjAwDJqUZi5Z9BBR6p9KQTSzqmEybqxw9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H16z",
+    "symbol": "H16zh"
   }
 }

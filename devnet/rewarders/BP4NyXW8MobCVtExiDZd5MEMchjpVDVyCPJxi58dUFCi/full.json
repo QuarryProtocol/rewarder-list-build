@@ -14,7 +14,7 @@
       "quarry": "8vDhnv69s1p5jPPGx7W8h4j2hfR8ekH14QgP3R2WG5rQ",
       "replicaMint": "J6dfrHc3gfKqZzHgZWM3ENRNB7Z1xmW66jvR3aSexVbd",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "msolz",
       "stakedToken": {
         "decimals": 9,
         "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "5u8kh1XekCmSQJR1uGMTHXxmVrhYLkdT14A6DUAoeZjJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "5u8kh1XekCmSQJR1uGMTHXxmVrhYLkdT14A6DUAoeZjJ",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token 5u8k",
+    "symbol": "5u8kh"
   },
   "slug": "BP4NyXW8MobCVtExiDZd5MEMchjpVDVyCPJxi58dUFCi"
 }

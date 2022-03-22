@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Ccg1rFYLQgZaqQYb9QHz8BhhX3JJkAxT5t4YDLce3FKV",
-      "slug": "0",
+      "slug": "ndw1h",
       "stakedToken": {
         "decimals": 6,
         "mint": "NDw1HPjdHGSFr3Ly2bBYofqMPFhtEQkKVvLmFVurook"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DhXTeVQGhU4S1M8hpoxGwdbeBa1Z9ig4ciqzbLAihGcb",
-      "slug": "1",
+      "slug": "bgaga",
       "stakedToken": {
         "decimals": 6,
         "mint": "BgAGABjiTX7EUC6ep5GKWSWpDteP1VBjTJtewDXtJXpC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AJ3yNQjimR3Q1WXhUkbSwjfxTowkf1DfMmgJqbC9PSFX"
+  },
+  "rewardsTokenInfo": {
+    "address": "AJ3yNQjimR3Q1WXhUkbSwjfxTowkf1DfMmgJqbC9PSFX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AJ3y",
+    "symbol": "AJ3yN"
   }
 }

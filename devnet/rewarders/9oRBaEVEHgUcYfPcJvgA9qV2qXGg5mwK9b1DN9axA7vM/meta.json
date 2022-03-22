@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9XrTnsELSbLBCNFNU2wC9EPHNaD4qKJpRGmPHXr9R2n",
-      "slug": "0",
+      "slug": "gvwiq",
       "stakedToken": {
         "decimals": 6,
         "mint": "GvwiQYgiX93ug8XDYD9oFt3Ez1PKcwr9FbQRbUagEGJu"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CL66ciPCQPhBYZFPzc8vQCT5fWPZvuarGH4GysCGc3Lg",
-      "slug": "1",
+      "slug": "drrcv",
       "stakedToken": {
         "decimals": 6,
         "mint": "DRrcvf9q6YdxHzPStNTRU2faCNEesceWq2bwqv4GAuQs"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "64E8NmADraEVYJsPJ9eXq7drUfbXE5yDv9ee4DiAD6yT"
+  },
+  "rewardsTokenInfo": {
+    "address": "64E8NmADraEVYJsPJ9eXq7drUfbXE5yDv9ee4DiAD6yT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 64E8",
+    "symbol": "64E8N"
   }
 }

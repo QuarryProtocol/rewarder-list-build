@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "qqpozWykoyQe5BxgnJBGhHvSmGK6fDGZE4Cp5bQjEyM",
-      "slug": "0",
+      "slug": "38sua",
       "stakedToken": {
         "decimals": 6,
         "mint": "38SUasQcmpSdFsPyJk7Nu13RFktMWKpLpbk6eT26eYVk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "59ckBPMDQimLE1EdjtHqEMBhvJVXNiiCPBEYdZGEmvHf",
-      "slug": "1",
+      "slug": "c2qtw",
       "stakedToken": {
         "decimals": 6,
         "mint": "C2qtWmDGni3HwhYsJPY2CNLqMt7dEF6fQnaD6tYioYTf"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EjewkFSS7LdeBZeaXSSMSBM2ETJ6JUdHLTRsbR8eWeA5"
+  },
+  "rewardsTokenInfo": {
+    "address": "EjewkFSS7LdeBZeaXSSMSBM2ETJ6JUdHLTRsbR8eWeA5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ejew",
+    "symbol": "Ejewk"
   }
 }

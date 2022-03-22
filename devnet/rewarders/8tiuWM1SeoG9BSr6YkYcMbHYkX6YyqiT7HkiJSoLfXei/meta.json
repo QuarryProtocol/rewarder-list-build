@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BGdF6QcuqKWKHmgai6di5dBXPENZVAY1ZJc1WDPth6mV",
-      "slug": "0",
+      "slug": "7adad",
       "stakedToken": {
         "decimals": 6,
         "mint": "7AdAdXs2aBJikS8s7vZEv9j83qBVu6fku2VtghArBqke"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "D2bThsT8MhPuWDTZDd3ss7XTRUkC86hmNo7PEU8EZ1Lc",
-      "slug": "1",
+      "slug": "bro3h",
       "stakedToken": {
         "decimals": 6,
         "mint": "BRo3h7nvYVSiYRMMsdqPBuVem9LVM2quvUYDkHRhsrCC"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GeghQE8J5YMqtMRGuyG2bFYxhFbRvo3Un4tcwTF5Cyts"
+  },
+  "rewardsTokenInfo": {
+    "address": "GeghQE8J5YMqtMRGuyG2bFYxhFbRvo3Un4tcwTF5Cyts",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gegh",
+    "symbol": "GeghQ"
   }
 }

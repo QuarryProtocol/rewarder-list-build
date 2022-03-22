@@ -13,7 +13,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "FvNtZdWva5uDG3FgtCc6bKzBHrQQeTkUzgAQAQpbYX5F",
       "redeemerVaultATA": "8QyMH2oPYrodVaFBjp1eH3jszZ8jwD2mdJH7t7ENPZUi",
-      "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+      "underlyingToken": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ",
+      "underlyingTokenInfo": {
+        "address": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token 5YwU",
+        "symbol": "5YwUk"
+      }
     },
     "website": "https://sentre.io"
   },
@@ -31,7 +38,7 @@
       "quarry": "HNkjQNJ98LRXfyaHGDScVyoNPgbwMnr6TxKJL1FQLDfi",
       "replicaMint": "F9p9inKRtENUFw7XCE2Cj7wKaZgtWQdfkQqwitZS8gmC",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "27hdc",
       "stakedToken": {
         "decimals": 9,
         "mint": "27hdcZv7RtuMp75vupThR3T4KLsL61t476eosMdoec4c"
@@ -49,7 +56,7 @@
       "quarry": "GFB21fTfZVJd3M3S9itoAvpvmj3qApjLpRc18mDTi1QW",
       "replicaMint": "3ijouRU5dUh3HikCq95nb3j1m9UrwkaEHdbmC7isa3QH",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "8jk4e",
       "stakedToken": {
         "decimals": 9,
         "mint": "8jk4eJymMfNZV9mkRNxJEt2VJ3pRvdJvD5FE94GXGBPM"
@@ -57,8 +64,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7"
+  },
+  "rewardsTokenInfo": {
+    "address": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token DkMN",
+    "symbol": "DkMNc"
   },
   "slug": "sentre-devnet"
 }

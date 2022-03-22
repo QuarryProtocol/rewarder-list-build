@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3p41DFd6GDfsdMc5tNJHGkhtnCMTiMnqCo2pC2cqPLzY",
-      "slug": "0",
+      "slug": "d3z8v",
       "stakedToken": {
         "decimals": 6,
         "mint": "D3Z8vf4NdnLjrg7e7Y6WDLs4m5TzEgssUmwnYTNokuui"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EFDJAGJmCMzww9xP9b6a6ws4vhmyyJ8m9vsuoR2LxAhE",
-      "slug": "1",
+      "slug": "cs9ow",
       "stakedToken": {
         "decimals": 6,
         "mint": "CS9oWdptXoUWjWw7x6jPewWSt5kmGk2JkS8JrEMhXH5d"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AG87SZA6y7JgsXA1yhNU1yhDdYpwyR3weNYzjVUSg5Zd"
+  },
+  "rewardsTokenInfo": {
+    "address": "AG87SZA6y7JgsXA1yhNU1yhDdYpwyR3weNYzjVUSg5Zd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AG87",
+    "symbol": "AG87S"
   }
 }

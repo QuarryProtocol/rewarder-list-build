@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GHjkdPFN6JC8KVkHCAwVEWv1ikbMVPbrdHH7zLBrghr5",
-      "slug": "0",
+      "slug": "tfpp2",
       "stakedToken": {
         "decimals": 6,
         "mint": "tFPP2HhNsAqWmEwUFNfdgRs8mU4BRgsUYmKwnneJ4LW"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2LMxkJijnXWHmmeEjzqBMAMkhn7TNHum4C6EJpupErYp",
-      "slug": "1",
+      "slug": "cieuk",
       "stakedToken": {
         "decimals": 6,
         "mint": "CieUkiV48m4Lgoq8ZypZ3iNPgM59Xxd3EHS4qFmnMNQr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2JgUyadSe9rCd6FjgjigCYdwh3NYiBFp6HYQt3Srnor5"
+  },
+  "rewardsTokenInfo": {
+    "address": "2JgUyadSe9rCd6FjgjigCYdwh3NYiBFp6HYQt3Srnor5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2JgU",
+    "symbol": "2JgUy"
   }
 }

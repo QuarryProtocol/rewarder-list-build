@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DLaJAdufk1nVNKbrsUQZbMcBH6byMA61ASDB4QKQnRV2",
-      "slug": "0",
+      "slug": "8myxz",
       "stakedToken": {
         "decimals": 6,
         "mint": "8MyxzsPktAGDFVXahqZXqcbEW3YkNmCne5Pu1VDrMjfC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J44arLwpSK55GAunSSR5GQmr5cP5usKPsda2w2Sfnia4",
-      "slug": "1",
+      "slug": "hbkjf",
       "stakedToken": {
         "decimals": 6,
         "mint": "HBKJfKEDuGY6Pd2n7CH1p9YsYr2HNzLReVQ3sq294VVM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H26tVvGBLN9yYy1xNFEeHAM1tQqu4QFYsedfoP4kKCT3"
+  },
+  "rewardsTokenInfo": {
+    "address": "H26tVvGBLN9yYy1xNFEeHAM1tQqu4QFYsedfoP4kKCT3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H26t",
+    "symbol": "H26tV"
   }
 }

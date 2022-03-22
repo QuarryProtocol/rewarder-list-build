@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "92Q953HKspRWzzgGCAqNSPb22GPbTofWR8RrGxxfyXeD",
-      "slug": "0",
+      "slug": "5pdec",
       "stakedToken": {
         "decimals": 6,
         "mint": "5PdEcTN2i4uNrpasyBykeM9YUoVZ9ZDu7CZnrWuzXmqi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5ynBGkDtJ7eaFbRpWhGQo3FaaG9nZW5kkohCffton53p",
-      "slug": "1",
+      "slug": "aty68",
       "stakedToken": {
         "decimals": 6,
         "mint": "ATy681xXnwCYingb3s6Xoc79RoQxXbn6iJD5nvLoALcg"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "tUHv8vMpajaGnDPEDGDXEsqmxqiiED79qhSq1R71P9w"
+  },
+  "rewardsTokenInfo": {
+    "address": "tUHv8vMpajaGnDPEDGDXEsqmxqiiED79qhSq1R71P9w",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token tUHv",
+    "symbol": "tUHv8"
   }
 }

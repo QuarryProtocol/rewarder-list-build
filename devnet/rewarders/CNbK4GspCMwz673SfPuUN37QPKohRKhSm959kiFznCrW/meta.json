@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FcSYeE4ebh46kG7HYLkHAKh1Z1Gq46df3BmnpBXE64wR",
-      "slug": "0",
+      "slug": "23jsg",
       "stakedToken": {
         "decimals": 6,
         "mint": "23jSGvv9Evuhg77Jqe4BL712FNZFZD4JFmFZrF9P1vh4"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 10,
     "mint": "FmMTHnBQHxP2k48huzz6ocvPpS3rFevzYuBF6CjgTanR"
+  },
+  "rewardsTokenInfo": {
+    "address": "FmMTHnBQHxP2k48huzz6ocvPpS3rFevzYuBF6CjgTanR",
+    "chainId": 103,
+    "decimals": 10,
+    "name": "Token FmMT",
+    "symbol": "FmMTH"
   }
 }

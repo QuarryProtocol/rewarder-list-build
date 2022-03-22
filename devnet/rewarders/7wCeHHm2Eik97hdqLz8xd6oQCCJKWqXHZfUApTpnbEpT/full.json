@@ -14,7 +14,7 @@
       "quarry": "Gx94YdioNihV4ww7C6nBBTyMvrPThfMu6XgkfsfcutVN",
       "replicaMint": "731yi9dwPGPU8whFr1fwUpodz9PeSdDRVANncqkve8uU",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fpgbb",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fpgbb2oj877e2pRxRsbSbiXg2miPDALmY5V7c9DseKnB"
@@ -32,7 +32,7 @@
       "quarry": "5mKKFj1iGxrq3sTHxUPiY3AZRJBP2bSseE24ms4DWLiY",
       "replicaMint": "HcyzZA4Pd8VL9c8gZYuxeGRv2oQyXaSeYZctbQJX19tT",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "3xlcb",
       "stakedToken": {
         "decimals": 6,
         "mint": "3XLCBNDyHLB5osq2knwjzGGwwAjXWb4EgoQc8CFaS67v"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DiNu3YEwKFkLty3oz6PocDyrZbSxT7gkEy4dbddA2FiD"
+  },
+  "rewardsTokenInfo": {
+    "address": "DiNu3YEwKFkLty3oz6PocDyrZbSxT7gkEy4dbddA2FiD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DiNu",
+    "symbol": "DiNu3"
   },
   "slug": "7wCeHHm2Eik97hdqLz8xd6oQCCJKWqXHZfUApTpnbEpT"
 }

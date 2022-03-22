@@ -14,7 +14,7 @@
       "quarry": "4eSw838R64onW4JnMFVXY7QusQdKUTASRU6JPem5nTjA",
       "replicaMint": "BAGWKpYejwpcmHQkumFhsE5dHeRfACH1jndiQ77cC4Cg",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cavpc",
       "stakedToken": {
         "decimals": 6,
         "mint": "CAvPCNwKEkQ87uK8kQfZrPvberbaGqkjg6BjK4U7XMvp"
@@ -32,7 +32,7 @@
       "quarry": "KKZ17aVwoQiNcXjkvAWBg12MbVC7xqehghK1LWVQycC",
       "replicaMint": "EPQ5zmnVqM1W5RciaSX2EeH5tSK3feYab2Z9MtPA8c93",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "hymti",
       "stakedToken": {
         "decimals": 6,
         "mint": "HymTih1zyvoE1hXswip9gXM6mav1KNBMQprnhCBnKDA6"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FTD1uEoBGqny4RsUn9BeP5G4bbF4xXeDkLCE7GYJGfTM"
+  },
+  "rewardsTokenInfo": {
+    "address": "FTD1uEoBGqny4RsUn9BeP5G4bbF4xXeDkLCE7GYJGfTM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FTD1",
+    "symbol": "FTD1u"
   },
   "slug": "CWRTFWV9sKCANwft3JoULAQbchEphwcZWhyaH5mHqxKS"
 }

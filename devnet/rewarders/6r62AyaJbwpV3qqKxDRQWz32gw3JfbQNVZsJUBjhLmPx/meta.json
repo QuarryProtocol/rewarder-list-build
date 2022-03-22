@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GLB7FXvmGxdZxyTpMwPVLa3CVmKCArrGaHm4wSYTv5Wj",
-      "slug": "0",
+      "slug": "c97uk",
       "stakedToken": {
         "decimals": 6,
         "mint": "C97ukN181PfKLBogbkXdP9b3xAhpMhoHfbiYSbyrikc5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4ZPeqycT7ZSy8uhHt3rEbfxasFiLfGypi39PGeJTKbsK",
-      "slug": "1",
+      "slug": "ba4mt",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ba4mTHBdMMJcugn1unLT55CPWe3sP8YUrxsfeMX9dor9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bq44tUgTQkoorX6b6XnmgHnQfQ4LSBrQ3Gx3GQzZTcYE"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bq44tUgTQkoorX6b6XnmgHnQfQ4LSBrQ3Gx3GQzZTcYE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bq44",
+    "symbol": "Bq44t"
   }
 }

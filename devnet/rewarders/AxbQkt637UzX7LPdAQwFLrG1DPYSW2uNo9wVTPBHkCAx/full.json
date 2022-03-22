@@ -14,7 +14,7 @@
       "quarry": "72odqfuquATpHKB9XNF6XTnpadeZvdj5rJM93A6Zqd1E",
       "replicaMint": "FCUudjmbaSiYbyawc5Pb8jZcr94EtodmBkop9LChuCVq",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ghkvp",
       "stakedToken": {
         "decimals": 6,
         "mint": "GHkvpUiCvi5rXe73sjXzUCCGdGGzKiTtZBq7JGH2Yiuy"
@@ -32,7 +32,7 @@
       "quarry": "7eNLgLfpN4rUuHR9rKPgFJvXityeqrNWPPqj2pPVBZUk",
       "replicaMint": "2ahDEDTvsa5A1UU1eDt8GaGiXGpd5N9UzdaVobSqoqkU",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "68due",
       "stakedToken": {
         "decimals": 6,
         "mint": "68DUeGsDE2BD4LHELkyqTrbCBTEfno2NMCsXYNEt4t9k"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2dN95ETYr1F6P9WG8R8os4NgCe2zjHN39guQ1Sh9auV5"
+  },
+  "rewardsTokenInfo": {
+    "address": "2dN95ETYr1F6P9WG8R8os4NgCe2zjHN39guQ1Sh9auV5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2dN9",
+    "symbol": "2dN95"
   },
   "slug": "AxbQkt637UzX7LPdAQwFLrG1DPYSW2uNo9wVTPBHkCAx"
 }

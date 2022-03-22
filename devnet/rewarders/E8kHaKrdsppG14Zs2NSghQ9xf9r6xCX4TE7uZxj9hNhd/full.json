@@ -14,7 +14,7 @@
       "quarry": "3hL2ww73fswoZPraJ1Cy4NNT8yq1bVwsnibA9cnXkAJ6",
       "replicaMint": "FkXExJEmtfTiNhTKfXubPfN2TFKW9DWrm28MqfbzLupW",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "79vty",
       "stakedToken": {
         "decimals": 6,
         "mint": "79VTYcFCEitfCfUnPgYQzNWxF5GRxLsXtQdd5Q2eGHuT"
@@ -32,7 +32,7 @@
       "quarry": "RQk4JmErCPwdjM74rhB1BCRTKMcV4phncLeyyx8XgQ3",
       "replicaMint": "ErHYSXCqL9Vhs5McEGf4GDENoh2AF1g4tdvNKis7iPZX",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cnvqb",
       "stakedToken": {
         "decimals": 6,
         "mint": "CNVQbHyeJCjSrQWFtajE9RTATajDbCoXJ39St8y32KBu"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CcQTEYk1zFGmAdLekrejvVSE7VAqTt8dDqc5Um26XX8x"
+  },
+  "rewardsTokenInfo": {
+    "address": "CcQTEYk1zFGmAdLekrejvVSE7VAqTt8dDqc5Um26XX8x",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CcQT",
+    "symbol": "CcQTE"
   },
   "slug": "E8kHaKrdsppG14Zs2NSghQ9xf9r6xCX4TE7uZxj9hNhd"
 }

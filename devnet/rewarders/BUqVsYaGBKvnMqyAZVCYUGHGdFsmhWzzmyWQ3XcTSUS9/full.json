@@ -14,7 +14,7 @@
       "quarry": "Fj1YdiXexoyyswmi6t2HbatmftbQ8ddqMnJfMKib59dL",
       "replicaMint": "GdTjoXdcyVXDVgnhPsy44RDkM3oADy1LkLPrStGQKRg1",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "42hwx",
       "stakedToken": {
         "decimals": 6,
         "mint": "42hWXbmm4TouVUjuAcGcR1h1Grht3t5whsiTFUqyBnWC"
@@ -32,7 +32,7 @@
       "quarry": "2DDAQxn9KVfivax6evgw84oUWQCEfq98fMgSKgXaFczP",
       "replicaMint": "HDZqpcY1v8jT8e22zjqpEHoSDRG9YcQtrc6ohk1YmEt6",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "d3mif",
       "stakedToken": {
         "decimals": 6,
         "mint": "D3MifwdcJRKjRn68T1TkVwAVehpCMuCQpn7qoLvi5a6T"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "LYxhyfix6JiWL7rviov2kzkyjWQFYKZLgBWTkoEkWcE"
+  },
+  "rewardsTokenInfo": {
+    "address": "LYxhyfix6JiWL7rviov2kzkyjWQFYKZLgBWTkoEkWcE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token LYxh",
+    "symbol": "LYxhy"
   },
   "slug": "BUqVsYaGBKvnMqyAZVCYUGHGdFsmhWzzmyWQ3XcTSUS9"
 }

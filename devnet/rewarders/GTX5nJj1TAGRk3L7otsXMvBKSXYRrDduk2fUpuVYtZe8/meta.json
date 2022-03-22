@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EASw9biqZsKfydHow7HthkDZANsRgqRQRNuCGsnmW9N5",
-      "slug": "0",
+      "slug": "ddqtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "DdQtFAfUbX54Lds1Sdqu2ELHfNLZsmi7zzeETRxjbHK6"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J2pQSLjzu1SLR6cdoucnhMMr91mh74FPXBd9aW8bptPS",
-      "slug": "1",
+      "slug": "drspx",
       "stakedToken": {
         "decimals": 6,
         "mint": "DrspxajphGwbjFdJb8XGfK6LsrwPSvtxP6ax6CBcVGaT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GAHobn7wbTdtJBq9yZJxh73DCBfhxxpzmt6rnMwHd53N"
+  },
+  "rewardsTokenInfo": {
+    "address": "GAHobn7wbTdtJBq9yZJxh73DCBfhxxpzmt6rnMwHd53N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GAHo",
+    "symbol": "GAHob"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HktFFG6fgXXxrC5T5s9G5AsAVgzd3bqFb8LQTw3NnpP1",
-      "slug": "0",
+      "slug": "fbxb4",
       "stakedToken": {
         "decimals": 6,
         "mint": "FbXB4BZyLA9Yyh8C8sZJfP3cHhJqFPYEdsvXZmCCQtvA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "888QceBq5h3pQ1mhizYWJxJ3gNWmSF5JYHUXVuKCt1cD",
-      "slug": "1",
+      "slug": "3yfsq",
       "stakedToken": {
         "decimals": 6,
         "mint": "3yfSQZHKyNhU7pWtxr2uBDBhWhgPeXJVju2bR4oMz1Nj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bf2sCkga8gJZ8dKGgLChxw2utQfhMbobTK1EKRhZqKwF"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bf2sCkga8gJZ8dKGgLChxw2utQfhMbobTK1EKRhZqKwF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bf2s",
+    "symbol": "Bf2sC"
   }
 }

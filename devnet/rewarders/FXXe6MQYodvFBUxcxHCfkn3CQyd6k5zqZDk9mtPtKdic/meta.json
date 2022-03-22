@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4miKKKXqUgJuPs5i2JDUbH1wiEJ9aefe6hSGh5Zmn4Qz",
-      "slug": "0",
+      "slug": "4czaf",
       "stakedToken": {
         "decimals": 6,
         "mint": "4CZAF5hqkdct7uHNhjFRi1ewEBXpX5huXwxmCLHT626s"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B2MwaRRsoJLNHwuB7Z8SRDsRH49DsjKTo1NgeYzSPAqx",
-      "slug": "1",
+      "slug": "fgngj",
       "stakedToken": {
         "decimals": 6,
         "mint": "FgNgJV2eYXVq2WZsy1GgqRdymPwfqMVy26CcRbqWSiFM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GpsdJEN7vAyd1Dafwt3KBfbzjU7ycAnTNLyD5Pyo2gdg"
+  },
+  "rewardsTokenInfo": {
+    "address": "GpsdJEN7vAyd1Dafwt3KBfbzjU7ycAnTNLyD5Pyo2gdg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gpsd",
+    "symbol": "GpsdJ"
   }
 }

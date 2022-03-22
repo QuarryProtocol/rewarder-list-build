@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FcaiahHqAUYN8rHPY4ZunH7WxRWkuRx7pR115yPi3NzB",
-      "slug": "0",
+      "slug": "95dpe",
       "stakedToken": {
         "decimals": 6,
         "mint": "95dpeB2yy3JCrQ96DcuLukHTxDCjPHbyqecwPT8NSTJC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5CfBcuZtJGSbk7CVPreBc7pjK9guq7zQmX9kMc9CfmhH",
-      "slug": "1",
+      "slug": "brj6w",
       "stakedToken": {
         "decimals": 6,
         "mint": "BRJ6WnhuC4BA93ppQHGiMaB8f8V7hrkbmpYi3R4RP4VK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9jimSVhmdGjf686VNdSiGscRyHsmSAnrmUj3dRDBEQu5"
+  },
+  "rewardsTokenInfo": {
+    "address": "9jimSVhmdGjf686VNdSiGscRyHsmSAnrmUj3dRDBEQu5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9jim",
+    "symbol": "9jimS"
   }
 }

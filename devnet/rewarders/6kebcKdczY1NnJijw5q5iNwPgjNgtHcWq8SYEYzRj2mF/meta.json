@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8j4uxkjeZeVFPMYRqzuH86tkDDySpGnvEx3TjoHFArW6",
-      "slug": "0",
+      "slug": "cqeta",
       "stakedToken": {
         "decimals": 6,
         "mint": "CQEtACvQrJJgkXPcwWGYWh5dETp2bTdvHnH3vV3WpDSk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FweLKCvkjfW8taG9pDABNfsneD5buDkyX3Egau5VnbJL",
-      "slug": "1",
+      "slug": "4vhtw",
       "stakedToken": {
         "decimals": 6,
         "mint": "4vhTwn2AxDhUnTeRnWoHwC4kJBh5VsP2mWAB4xvXLWjB"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FU6Jd6M7JTmrUvRnwBvPQipDcP9GwEyFBqqf9hrnTpjH"
+  },
+  "rewardsTokenInfo": {
+    "address": "FU6Jd6M7JTmrUvRnwBvPQipDcP9GwEyFBqqf9hrnTpjH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FU6J",
+    "symbol": "FU6Jd"
   }
 }

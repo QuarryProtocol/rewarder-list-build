@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2X5FZnS9r4KzKGA8kdMkPo3WLonMNxU5AmLw2RrNn14R",
-      "slug": "0",
+      "slug": "9tcw7",
       "stakedToken": {
         "decimals": 6,
         "mint": "9TCw7zd5uLdHBPQPzUWbvKHgbUmFiwXXHsyseNXFMftD"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4DwA3ENF6YZrhabhbBe4Xk6MxHDnkztR6Q8AytUjwNYU",
-      "slug": "1",
+      "slug": "gtmo8",
       "stakedToken": {
         "decimals": 6,
         "mint": "GtMo8ehtQ95VuZmcFTosgqxWjtdckAjkacRY852n2De7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9pN7h98wnp1y5kxnmtBmuyMsSsM64gYgDhQVd77retnK"
+  },
+  "rewardsTokenInfo": {
+    "address": "9pN7h98wnp1y5kxnmtBmuyMsSsM64gYgDhQVd77retnK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9pN7",
+    "symbol": "9pN7h"
   }
 }

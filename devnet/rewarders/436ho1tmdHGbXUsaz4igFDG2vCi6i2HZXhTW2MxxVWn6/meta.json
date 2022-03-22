@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4WJf7zs8YXGwn3Ww97LWaaiXF7DURZ3b3Y9kpiCm4f8a",
-      "slug": "0",
+      "slug": "2jaa5",
       "stakedToken": {
         "decimals": 6,
         "mint": "2JaA5VxCMqYbKzbL5MU8D1yv8uhd83N4uxsEKUJerCAk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "LC1r8yFhpKKUN2mLxrbGLvrTCWoThrKefH6gLdLQ4v5",
-      "slug": "1",
+      "slug": "67idh",
       "stakedToken": {
         "decimals": 6,
         "mint": "67iDhR36XQmTaH96h2J1eRTRziYPwXgpVvPNMdRCftf4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5pRfjXAT9iXdL6rM3jN4pk8M9X1pbgUe7ZGebTziAEji"
+  },
+  "rewardsTokenInfo": {
+    "address": "5pRfjXAT9iXdL6rM3jN4pk8M9X1pbgUe7ZGebTziAEji",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5pRf",
+    "symbol": "5pRfj"
   }
 }

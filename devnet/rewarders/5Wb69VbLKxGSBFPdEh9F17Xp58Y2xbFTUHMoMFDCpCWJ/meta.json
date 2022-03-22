@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4HCZuigmmcerQZEzoB5hTxRGMPrFdgefu1JRorjaxNdA",
-      "slug": "0",
+      "slug": "3uc5m",
       "stakedToken": {
         "decimals": 6,
         "mint": "3uc5M6Aw77kiPRaatemDSPohvWeBE9UDCwZUSVKCmuk7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "21fnmG6BagQAcMmkaZXKx7UiRy4CdhyzrSpYPuJanr38",
-      "slug": "1",
+      "slug": "3k9qb",
       "stakedToken": {
         "decimals": 6,
         "mint": "3k9QbDCUcVmeAW2Y25syydpzBBK1e99KPKMZjwoSgSbM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AP264ae2RAnv3Uj2aJvg9yUNhTe7BSZVLxT56KJLu4AP"
+  },
+  "rewardsTokenInfo": {
+    "address": "AP264ae2RAnv3Uj2aJvg9yUNhTe7BSZVLxT56KJLu4AP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AP26",
+    "symbol": "AP264"
   }
 }

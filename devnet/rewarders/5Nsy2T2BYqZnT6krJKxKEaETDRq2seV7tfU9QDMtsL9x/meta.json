@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CjJenTDRs1CAMu3rwYTGSnEZicuo3t7eFKvgKNXEfqds",
-      "slug": "0",
+      "slug": "d3miz",
       "stakedToken": {
         "decimals": 6,
         "mint": "D3MiZEtMMsLFYZtaMnu7KgfSMRPJibTgqQSWMy8TE3az"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7mDmQ6XCthuciBhVVZwNm1PcgaNCkfxgyzP6mRxZaXx3",
-      "slug": "1",
+      "slug": "z84ly",
       "stakedToken": {
         "decimals": 6,
         "mint": "Z84LyL9wsEn4gmjDH5WivLM3oXc5uAX8KAw713KJ1SW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "29YDAMVKTJWkNCt5h3U2i4MyL8VUbDkBGEUNLUh217Hp"
+  },
+  "rewardsTokenInfo": {
+    "address": "29YDAMVKTJWkNCt5h3U2i4MyL8VUbDkBGEUNLUh217Hp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 29YD",
+    "symbol": "29YDA"
   }
 }

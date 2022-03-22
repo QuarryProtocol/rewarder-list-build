@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "mVx6nNTSU4wMRrELsVeaE44Wn5SnQCXuTXQ5fQuhHRe",
-      "slug": "0",
+      "slug": "etjkb",
       "stakedToken": {
         "decimals": 6,
         "mint": "EtJKbkFTGih64bTkhcZ2UEB5bKVcFbTpcwh4Fd9uNhub"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fd9hHHNBCwZAQXawQQy5KnLm9ksDMzLq6Exn8struKhQ",
-      "slug": "1",
+      "slug": "dgr6k",
       "stakedToken": {
         "decimals": 6,
         "mint": "Dgr6Kf8o3vpyjqM8yjYyS4vor4FhagWSwsjXNHoopBGN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6kYwS7rvPdKbdtT89sh1jMQ9Y439StkeNHcMEHUiXyXH"
+  },
+  "rewardsTokenInfo": {
+    "address": "6kYwS7rvPdKbdtT89sh1jMQ9Y439StkeNHcMEHUiXyXH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6kYw",
+    "symbol": "6kYwS"
   }
 }

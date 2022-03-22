@@ -14,7 +14,7 @@
       "quarry": "EASw9biqZsKfydHow7HthkDZANsRgqRQRNuCGsnmW9N5",
       "replicaMint": "3euPTx2R5PyzGR4GGLjWhheaWTycMw4EJ6V3EEuv9Ssb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ddqtf",
       "stakedToken": {
         "decimals": 6,
         "mint": "DdQtFAfUbX54Lds1Sdqu2ELHfNLZsmi7zzeETRxjbHK6"
@@ -32,7 +32,7 @@
       "quarry": "J2pQSLjzu1SLR6cdoucnhMMr91mh74FPXBd9aW8bptPS",
       "replicaMint": "8P6sxcqYo9ZCEStHWGJN47e2X5waigLvUC77Y9gRghnA",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "drspx",
       "stakedToken": {
         "decimals": 6,
         "mint": "DrspxajphGwbjFdJb8XGfK6LsrwPSvtxP6ax6CBcVGaT"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GAHobn7wbTdtJBq9yZJxh73DCBfhxxpzmt6rnMwHd53N"
+  },
+  "rewardsTokenInfo": {
+    "address": "GAHobn7wbTdtJBq9yZJxh73DCBfhxxpzmt6rnMwHd53N",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GAHo",
+    "symbol": "GAHob"
   },
   "slug": "GTX5nJj1TAGRk3L7otsXMvBKSXYRrDduk2fUpuVYtZe8"
 }

@@ -14,7 +14,7 @@
       "quarry": "DqHZ6uUwPTSrTVnKgBXoMm3FvJXTfYBnbLZr8Pcg3C6E",
       "replicaMint": "H5XKNz7BWoo5QJxoXktzPSZexo3GQ6hBehT9DNrzr7Gz",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "cndzz",
       "stakedToken": {
         "decimals": 6,
         "mint": "CnDZZPLVXBqVZwkNUwrfHkMWdKj21nqR6RF4hPMqJ4tN"
@@ -32,7 +32,7 @@
       "quarry": "8cjRNKKKGGNJ4uj7cKkBWpookBAnjA15U1ZSxg5dW7Tw",
       "replicaMint": "C3C4zsJ1eVwD2EisYBBeP5Bxr1frCKZkMQfTUU4QBN1p",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "zjsj6",
       "stakedToken": {
         "decimals": 6,
         "mint": "zJSJ6GNWG34Y7CVq8ZftKCxVeyakeXQvfc8BnKsKaDa"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EUErGBBWtr31oZfuGvSF6vgTSsk2BmnkfY8DY7Xm4FKq"
+  },
+  "rewardsTokenInfo": {
+    "address": "EUErGBBWtr31oZfuGvSF6vgTSsk2BmnkfY8DY7Xm4FKq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EUEr",
+    "symbol": "EUErG"
   },
   "slug": "4hyzZvVpmgiduGhMwzaThtRvS6ETtJAB2L5rKaZUrmKe"
 }

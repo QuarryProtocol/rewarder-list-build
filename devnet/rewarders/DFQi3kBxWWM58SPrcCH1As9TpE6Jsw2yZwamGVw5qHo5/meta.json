@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6Xn51kYEXaWh5y6DqwoKLeUjvfMytqdwUu8cUJ9r3jjo",
-      "slug": "0",
+      "slug": "bs8fr",
       "stakedToken": {
         "decimals": 6,
         "mint": "Bs8fryEbUbuMTqUj6Tnezmcjekiypx1h1MVBcuG5Fu5V"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8oZssmRq1gYBogkbkKzet8eFeDNbsMX8zaqmgVSfciTC",
-      "slug": "1",
+      "slug": "hj5jb",
       "stakedToken": {
         "decimals": 6,
         "mint": "HJ5jb7okFxvTmsw17mEd6rXy1Zp8KnZSz9VVS3Fig6gT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CReH9so679NiJpHVYpFSLaH59owYYtgPN5597eZ3at1a"
+  },
+  "rewardsTokenInfo": {
+    "address": "CReH9so679NiJpHVYpFSLaH59owYYtgPN5597eZ3at1a",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CReH",
+    "symbol": "CReH9"
   }
 }

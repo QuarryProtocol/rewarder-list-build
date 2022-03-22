@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5TKoR9ippXkGdDMVjeDVixzNRWeQK5nhrnYqbmz9h71C",
-      "slug": "0",
+      "slug": "ewkjo",
       "stakedToken": {
         "decimals": 6,
         "mint": "EwKjovszcwY7ECqDRnaJhkKegssxkqhDXYuFk6dKjFLc"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4nWeyVhDsZvFsRxVcx8TuEMythMzRWyrx8CbRBgqemMR",
-      "slug": "1",
+      "slug": "6hwvo",
       "stakedToken": {
         "decimals": 6,
         "mint": "6hWvocC8wq5UJshW2y8177qAtxxgVxGNWGrCv4RgdQLP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7vtrU4BSoG6qrfcpGXQshqQD67KzhASegFzroyS13wLy"
+  },
+  "rewardsTokenInfo": {
+    "address": "7vtrU4BSoG6qrfcpGXQshqQD67KzhASegFzroyS13wLy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7vtr",
+    "symbol": "7vtrU"
   }
 }

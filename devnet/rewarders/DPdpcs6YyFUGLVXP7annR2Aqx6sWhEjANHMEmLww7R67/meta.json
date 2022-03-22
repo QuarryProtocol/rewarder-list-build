@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "G6dkEq7ojzdb7VxkdBshn17ChzEgHc6Uzo6baVzyMv5",
-      "slug": "0",
+      "slug": "fqzed",
       "stakedToken": {
         "decimals": 6,
         "mint": "FqzEDdZHDaVdBGB4VJRLoXcYm9ZZ9ceoALLE4uYdbsei"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8YafnrgsKKRTjgLmWmMvDBPvyJFvra7Qt94PFduuwtSi",
-      "slug": "1",
+      "slug": "gwc3g",
       "stakedToken": {
         "decimals": 6,
         "mint": "GWC3g31dQNNp7MUewVEeNedmtSjtikaZLDx73JynLekg"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DrvhniW38JDn2HZng3sawyH3t2K8uEC1voVwTF66ucTE"
+  },
+  "rewardsTokenInfo": {
+    "address": "DrvhniW38JDn2HZng3sawyH3t2K8uEC1voVwTF66ucTE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Drvh",
+    "symbol": "Drvhn"
   }
 }

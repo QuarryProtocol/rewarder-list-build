@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "cvUoWXuhUfc6adeLyDRtf7ufUyq2UtVm2mDgkCy8SS4",
-      "slug": "0",
+      "slug": "7hqfv",
       "stakedToken": {
         "decimals": 6,
         "mint": "7hqfvCqBE8uRvxYusJ5172Wr5WPmvcZgWBA2K5RVUHF2"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AjtwiRLwXSZC9Sx54hnKTfuDs9AQoSST7CTxNWWwQMSg",
-      "slug": "1",
+      "slug": "etrbw",
       "stakedToken": {
         "decimals": 6,
         "mint": "EtRBwD7bnJdVm7WsqMk7sVAeCriQXK7fRAUEazQ8PBad"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8FMhDjR592TRWBweG5c12fsxzfJQ2uXe4dHcPFuNcUik"
+  },
+  "rewardsTokenInfo": {
+    "address": "8FMhDjR592TRWBweG5c12fsxzfJQ2uXe4dHcPFuNcUik",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8FMh",
+    "symbol": "8FMhD"
   }
 }

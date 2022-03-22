@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AUb6M6HmgUc8wYv2fZ8sKMpwr9Lyx1qMr3enncVVvpNz",
-      "slug": "0",
+      "slug": "fqdsm",
       "stakedToken": {
         "decimals": 6,
         "mint": "FqdSMtp5FJuWmRq64jir8PVqwvjVNDaU49qticXXECKx"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EoC6Vi2HMaKn5tBUeEF1ou3D8q7PpvzoGUuUHQjMsoty",
-      "slug": "1",
+      "slug": "efdmz",
       "stakedToken": {
         "decimals": 6,
         "mint": "EFdMzR97EhmyqxYunS7cEwHfkprGgGcgQUnHM7JGLyR3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3JznbYFoTncN8YsjyK3WRVGa9uFhEeYw9KKr5LD1Mgyp"
+  },
+  "rewardsTokenInfo": {
+    "address": "3JznbYFoTncN8YsjyK3WRVGa9uFhEeYw9KKr5LD1Mgyp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Jzn",
+    "symbol": "3Jznb"
   }
 }

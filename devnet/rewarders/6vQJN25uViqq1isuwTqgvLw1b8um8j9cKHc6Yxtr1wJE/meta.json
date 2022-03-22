@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7vBBy3fXbijvVxjG4tPoc9zBZvUJjcLC4gHUeteFrG5E",
-      "slug": "0",
+      "slug": "74xkr",
       "stakedToken": {
         "decimals": 6,
         "mint": "74xkrSiyacEFcLyVm5VyGEyRDi1z3wdwfL9Cqck3JLeQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GavsRtDq7o5chmoVurRNSGmnRMSkigfWpCoTbSUY8nm9",
-      "slug": "1",
+      "slug": "cyxxe",
       "stakedToken": {
         "decimals": 6,
         "mint": "CYXxe6qWZ8PMuKSzY2k4ziZ1CC13TmQ9VNhvq2zEszRZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7ZwzdF8Lvo6FKcFAU5B9SLZUWXqJbGmBW6S4Jiw4A7QN"
+  },
+  "rewardsTokenInfo": {
+    "address": "7ZwzdF8Lvo6FKcFAU5B9SLZUWXqJbGmBW6S4Jiw4A7QN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7Zwz",
+    "symbol": "7Zwzd"
   }
 }

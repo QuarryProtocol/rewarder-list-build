@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FSZJkR6DCvYWBYhx3T1ayXLVwvMLnK8LSh3SfRQn5rNR",
-      "slug": "0",
+      "slug": "9xnvf",
       "stakedToken": {
         "decimals": 6,
         "mint": "9XNvFqhcvVCSZYaDohL5VCfhPfpg7WWQmBgBygVdYvh4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2cZWuDg5ZnAuvmjUJqgpSLkTJoDUYoornEcLjR9mehbD",
-      "slug": "1",
+      "slug": "dqenr",
       "stakedToken": {
         "decimals": 6,
         "mint": "DqenrTDCpeZAe9g1dbkuGWPyi9iEaDqMa3ohgyCyNaii"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4zS3ftHiJMuiGHwxe77ozjsb7fXBhZMU2zDPXrMAMtkG"
+  },
+  "rewardsTokenInfo": {
+    "address": "4zS3ftHiJMuiGHwxe77ozjsb7fXBhZMU2zDPXrMAMtkG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4zS3",
+    "symbol": "4zS3f"
   }
 }

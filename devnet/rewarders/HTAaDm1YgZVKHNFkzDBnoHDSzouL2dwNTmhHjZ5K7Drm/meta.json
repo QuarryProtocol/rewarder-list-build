@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Gv2bemjG3pSCagj9zmeNzypWsohJx35TJUnrXtBVZVN7",
-      "slug": "0",
+      "slug": "ek2xs",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ek2xs5ZVnswDDco5MHV4xomTM6VPmfWopazZwCGZ2YVd"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2wMMRyWt9ECPnQR7myNHFVrnqE4bBQtoTTLwP2LWVq7z",
-      "slug": "1",
+      "slug": "ekdxt",
       "stakedToken": {
         "decimals": 6,
         "mint": "EkDXtK9p2DnGwJJa1p6sDfJNtSHizCrA1aReVYhN4vN8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7pemjKgLBW1V8N8jQGFYfNdubJR2U19DGQcsqHVfvM1x"
+  },
+  "rewardsTokenInfo": {
+    "address": "7pemjKgLBW1V8N8jQGFYfNdubJR2U19DGQcsqHVfvM1x",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7pem",
+    "symbol": "7pemj"
   }
 }

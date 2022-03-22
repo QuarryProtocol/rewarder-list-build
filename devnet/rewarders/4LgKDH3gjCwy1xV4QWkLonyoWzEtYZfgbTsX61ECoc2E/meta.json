@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GJ6yRUW7gY3XqVQhxLYpfAwpgStB8Lw1H8Q1G4FeAt8j",
-      "slug": "0",
+      "slug": "gyzaf",
       "stakedToken": {
         "decimals": 6,
         "mint": "GYzaFueZ1DjKc3rm1WaP5XKsTnCXHrDxyzQKKK6invTU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "93nX6KBVXgJTnkQn6iXz5AsFoVvUKt6Gm7xfXkeJkAZ",
-      "slug": "1",
+      "slug": "fet2x",
       "stakedToken": {
         "decimals": 6,
         "mint": "FeT2XniojThnrz9jTdWESZ6qD1anRbMWgTtWhNGGopE8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2V5SDQqrQ9brQBj1athi4Bw7tr7Nht9vLTNvbN8Jc9vT"
+  },
+  "rewardsTokenInfo": {
+    "address": "2V5SDQqrQ9brQBj1athi4Bw7tr7Nht9vLTNvbN8Jc9vT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2V5S",
+    "symbol": "2V5SD"
   }
 }

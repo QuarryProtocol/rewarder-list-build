@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GmrJt1mcetiSZFiUiw3ScerbjgVsrEMxzqcM3VRvBsNS",
-      "slug": "0",
+      "slug": "ekpmt",
       "stakedToken": {
         "decimals": 6,
         "mint": "EkpmTxuRCVRNuDRyeHGkaEZW6vFNHGyndDA8YBnPKkwD"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FQxRLKEPwV3XFFFLN5GoGs8UjBeU4pLBpMHTp6hHwKt5"
+  },
+  "rewardsTokenInfo": {
+    "address": "FQxRLKEPwV3XFFFLN5GoGs8UjBeU4pLBpMHTp6hHwKt5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FQxR",
+    "symbol": "FQxRL"
   }
 }

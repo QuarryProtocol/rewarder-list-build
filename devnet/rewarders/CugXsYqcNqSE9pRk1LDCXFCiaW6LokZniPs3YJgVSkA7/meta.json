@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "bFsHBL5Rw4AvatrHeNDsRQh4N4hvifcV62GhQZozKVQ",
-      "slug": "0",
+      "slug": "cetpx",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cetpx1CBhm5HL1Vujv7t55siVjHPTys2Z1MN7BHHKQCB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Fs4LoiUEG22E1fWh4RetQVRpfHfYGYtD5UzdCivPNJ3N",
-      "slug": "1",
+      "slug": "6g6jk",
       "stakedToken": {
         "decimals": 6,
         "mint": "6g6jk1XjCMj5Q7JD4kawTVVXBWGTu8u88kt3JJbyyELJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CjUQP9DptjGNM53wUQoH7E7LvH91oQqYjXXL6cJXVYCm"
+  },
+  "rewardsTokenInfo": {
+    "address": "CjUQP9DptjGNM53wUQoH7E7LvH91oQqYjXXL6cJXVYCm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CjUQ",
+    "symbol": "CjUQP"
   }
 }

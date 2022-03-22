@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "67eU3XBnrb2VBcZJqdN9FPFSdfDEHkgiyCLBt6k9fxHf",
-      "slug": "0",
+      "slug": "8y7gt",
       "stakedToken": {
         "decimals": 6,
         "mint": "8Y7gtBjCUCPkgYBzxTTHgcsJnEMhPSBeGnyqsSyBVTik"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DBCqUpqPXvjahuzn2R6UiUSPWX253hP3QfZ9wjyJ6rkX",
-      "slug": "1",
+      "slug": "63pki",
       "stakedToken": {
         "decimals": 6,
         "mint": "63pKidDcUqFkcV3ovxwx42b1SX2vaFqS3K4shBswd3sR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4qP6FutNuMwJjVnZZARAAhhmS41Wzqw4tFyPiE52xGnb"
+  },
+  "rewardsTokenInfo": {
+    "address": "4qP6FutNuMwJjVnZZARAAhhmS41Wzqw4tFyPiE52xGnb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4qP6",
+    "symbol": "4qP6F"
   }
 }

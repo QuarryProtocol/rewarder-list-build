@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "7RgbGLpyDHtUrYUwKKDJyLP7BQyXVJyUm7mQMcGay8Hf",
-      "slug": "0",
+      "slug": "8gosp",
       "stakedToken": {
         "decimals": 6,
         "mint": "8goSPhC6XaD4SK8fSyWEqrucSJT3fjq15xpfxSSCEz4N"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "512APZ2wbgdhvb13r22r5vbMSGKTwCuXkKF5mqVihtGy",
-      "slug": "1",
+      "slug": "gymxu",
       "stakedToken": {
         "decimals": 6,
         "mint": "GYMxUZ2ynEAL4U8GRVTa3bpAhnYg2z97sYUb7NJrriG2"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E7shbJnLFdNJD3cLe7KwmGUyrJ7MkseJ2aThjyhDrfDm"
+  },
+  "rewardsTokenInfo": {
+    "address": "E7shbJnLFdNJD3cLe7KwmGUyrJ7MkseJ2aThjyhDrfDm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E7sh",
+    "symbol": "E7shb"
   }
 }

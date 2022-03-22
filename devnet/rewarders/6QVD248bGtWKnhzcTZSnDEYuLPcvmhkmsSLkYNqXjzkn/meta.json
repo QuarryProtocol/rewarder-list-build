@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "gHbvLq92F6oUNDoj3ckaCbsLGPv19jqbATerNgGNbYY",
-      "slug": "0",
+      "slug": "dyda3",
       "stakedToken": {
         "decimals": 6,
         "mint": "DYDA3ybXNu2gyGvv2vjbMdxiAtU8pTAjhY4e2EWY22sf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GYgVi1z9HFQKrYhGmvbtrRhQ7TPDsy7h1mAT6pY6pMXv",
-      "slug": "1",
+      "slug": "ctzsm",
       "stakedToken": {
         "decimals": 6,
         "mint": "CtZsMKxD5KPy2wrhuaASpxF2uVsi37N69EScnBCXf3DQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "94KYx6pqVJj8fXgwJ2cTnZi7NiGBibCPryfy3gqmc6hr"
+  },
+  "rewardsTokenInfo": {
+    "address": "94KYx6pqVJj8fXgwJ2cTnZi7NiGBibCPryfy3gqmc6hr",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 94KY",
+    "symbol": "94KYx"
   }
 }

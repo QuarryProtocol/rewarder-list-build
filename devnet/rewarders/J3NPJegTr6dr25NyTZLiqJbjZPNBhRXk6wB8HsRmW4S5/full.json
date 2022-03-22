@@ -14,7 +14,7 @@
       "quarry": "FjKzL355wcf8B7E7Hu1zk9YwbZx87tbrpsJBchqykZqt",
       "replicaMint": "8ZeysXoebpduzkTbXH9cf6x3dLeSZ9iJWjVo56hFgYei",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5aajg",
       "stakedToken": {
         "decimals": 6,
         "mint": "5aAJgmN6Jh2WZXkGdYQzVrLF27G2xH4VtzF3MnRb5rbY"
@@ -32,7 +32,7 @@
       "quarry": "DhCceV4jtsFFjAAg6qs8xsdwLzfeVFqAZYxQoGfcvpEC",
       "replicaMint": "4fMZr9hEoszeYpYSTmQpA6stKYR3DBsXFLn8hNTjh6GM",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "7du9t",
       "stakedToken": {
         "decimals": 6,
         "mint": "7DU9TGbHfPR6Rqckm3bc7jUBbmRqgfcuETimc37P3y9G"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GegMLcZzF2aRQJAgxiNPqJsxV36rxbVVDfaBYsvvXQka"
+  },
+  "rewardsTokenInfo": {
+    "address": "GegMLcZzF2aRQJAgxiNPqJsxV36rxbVVDfaBYsvvXQka",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GegM",
+    "symbol": "GegML"
   },
   "slug": "J3NPJegTr6dr25NyTZLiqJbjZPNBhRXk6wB8HsRmW4S5"
 }

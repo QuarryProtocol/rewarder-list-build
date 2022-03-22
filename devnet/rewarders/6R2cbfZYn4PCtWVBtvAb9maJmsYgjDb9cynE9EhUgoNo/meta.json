@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DuXnd1t94Y9HHHvXQP4cx2c9o3vnNo4EQyA8ajXBJX6V",
-      "slug": "0",
+      "slug": "dytbm",
       "stakedToken": {
         "decimals": 6,
         "mint": "DyTBMxCHb7638ndEuNdBnseaxBsWYxCTcZw9fZACUKiU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2yUDtdbc1whykhUAgJsF6PXPbjX3k5zx6NgEP2EigrmW",
-      "slug": "1",
+      "slug": "cjmsr",
       "stakedToken": {
         "decimals": 6,
         "mint": "CJmsrQjniUss95Hy8mZh7K4VRnP3qBx9X3uS1rfkZySK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Dcq7N4XaBDfwC8vMcoaq5Xpa4wLpKzpY9gcAYnMDwwoD"
+  },
+  "rewardsTokenInfo": {
+    "address": "Dcq7N4XaBDfwC8vMcoaq5Xpa4wLpKzpY9gcAYnMDwwoD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dcq7",
+    "symbol": "Dcq7N"
   }
 }

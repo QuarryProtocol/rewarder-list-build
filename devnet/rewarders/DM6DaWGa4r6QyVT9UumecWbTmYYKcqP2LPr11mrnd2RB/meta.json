@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DGD28rVRX54CUvJg2eRME1Fo69CSyb1RrGE2kod5Xycw",
-      "slug": "0",
+      "slug": "cyxfa",
       "stakedToken": {
         "decimals": 6,
         "mint": "CyxfAYTJ7cSkWMdQFstHZA6QPkhBNzqPg5TeTpU2BA9u"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8D2XnPcYnUL4xDkGZ2aGQNCzr5rrnMjme6or7zE86PAN",
-      "slug": "1",
+      "slug": "2axp1",
       "stakedToken": {
         "decimals": 6,
         "mint": "2aXP18UGrwn2uUo4Lee5G9eHebiU1TyAWrxGA4bBBYUo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7HCDLX4YLkcXDe6QYhz8LvE3Yuw9Cn8nZ4pQSvNJtbPi"
+  },
+  "rewardsTokenInfo": {
+    "address": "7HCDLX4YLkcXDe6QYhz8LvE3Yuw9Cn8nZ4pQSvNJtbPi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7HCD",
+    "symbol": "7HCDL"
   }
 }

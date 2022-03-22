@@ -14,7 +14,7 @@
       "quarry": "4cW3GLJ2T329NbnmNoVCQD5UeHbwTqt74FfNRtSagTNQ",
       "replicaMint": "2Y74tQJj9ifoC2jWpkvaH8GDq7Pkpa6sPtTWcXpyhty5",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "899ix",
       "stakedToken": {
         "decimals": 6,
         "mint": "899ixsxPq1vFzrguKXESGF5Z1xRCKp4i8S8QuyxMXLAb"
@@ -32,7 +32,7 @@
       "quarry": "FB7v2ss5DKBoNtvVeqVixPVoXXJLCaNEKGu5bPyp8RKA",
       "replicaMint": "AXuwsgDNnG5Gjnoyo7TSCgwbjhX4FBzktpSYsdgjeMqj",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "94zjm",
       "stakedToken": {
         "decimals": 6,
         "mint": "94ZJMwFLRuVbtPALPQu3XFjypYgK4X9uyvaD7YGZNDMN"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HnPmP8dGyeLodWXyajJWppeu56uiNpdMedKXJEhcYcFA"
+  },
+  "rewardsTokenInfo": {
+    "address": "HnPmP8dGyeLodWXyajJWppeu56uiNpdMedKXJEhcYcFA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HnPm",
+    "symbol": "HnPmP"
   },
   "slug": "BTSoiVTqTbY6gW8k3Fuqd62fsDgPqAwguZmt56c9EbNT"
 }

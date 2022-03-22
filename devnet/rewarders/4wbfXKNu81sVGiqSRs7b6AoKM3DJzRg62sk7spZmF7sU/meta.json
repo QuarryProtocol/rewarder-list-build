@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3f1GP7HW7t2R6WxeFz4G18bLBazpGstwjRG4NC6G2r1d",
-      "slug": "0",
+      "slug": "gxlni",
       "stakedToken": {
         "decimals": 6,
         "mint": "GXLNiZ4xTPpFauZReDpW1h2SJkHJJKLsCF5SQcHpMeJh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "YfNBLzYgLZMN7ZUNJuC1jWxkkX3eyC22g8oHVJNbovd",
-      "slug": "1",
+      "slug": "8ibih",
       "stakedToken": {
         "decimals": 6,
         "mint": "8ibiHvbHGGHyg9YVKq3c9ESHW5aG5L6WjeVEie1kqe1v"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6uK7HQPErA6hGiuHLvVp2sguhmzzfXRTMBeLT1cit8in"
+  },
+  "rewardsTokenInfo": {
+    "address": "6uK7HQPErA6hGiuHLvVp2sguhmzzfXRTMBeLT1cit8in",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6uK7",
+    "symbol": "6uK7H"
   }
 }

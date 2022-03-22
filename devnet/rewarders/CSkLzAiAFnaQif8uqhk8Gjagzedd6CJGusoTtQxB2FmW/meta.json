@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CkQYiVQGUKhXRdGXyReGa4b1x6YehceP2pn1TDVP41UW",
-      "slug": "0",
+      "slug": "14rdd",
       "stakedToken": {
         "decimals": 6,
         "mint": "14RDDNoEMPJM3RmLyiUDfqst6k1bSb8jiVuVP6TZbQ1R"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CuYwTFx1Bm1R8JqjcTg981DTF5PLLrgexQ5rQRb2sN6q",
-      "slug": "1",
+      "slug": "fea1m",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fea1mMzThjVokPkszKyjxL4yMsTXEFFjEcaJzdZKAVqL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5hmErsPHmTF4CohG1siyESFNXDX1kKYa8k2jWbbKxEM7"
+  },
+  "rewardsTokenInfo": {
+    "address": "5hmErsPHmTF4CohG1siyESFNXDX1kKYa8k2jWbbKxEM7",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5hmE",
+    "symbol": "5hmEr"
   }
 }

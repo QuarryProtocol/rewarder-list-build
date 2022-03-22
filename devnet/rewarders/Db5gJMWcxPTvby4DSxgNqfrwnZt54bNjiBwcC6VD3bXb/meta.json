@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6phJf7PtXGX2T4fRbMeZVqbLvDop2Xk94GKpXqXxFBou",
-      "slug": "0",
+      "slug": "newyh",
       "stakedToken": {
         "decimals": 6,
         "mint": "newYHbmTAzZuycnHqLXVuBHSkahzxyNuCY95xd3dWWj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GN94AgUQdM3AgSWavuGZiFN3RwkXaUJkF652PVHQVHEY",
-      "slug": "1",
+      "slug": "6vqtn",
       "stakedToken": {
         "decimals": 6,
         "mint": "6Vqtnfpz9XRZ2cbkxg2CDwk6DSigBykAuYUk3ao9bh7Y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FPNRoTb4Pv7FEzfVsmmqGkZ1KKPvQbvFSMfS2nd8XiVt"
+  },
+  "rewardsTokenInfo": {
+    "address": "FPNRoTb4Pv7FEzfVsmmqGkZ1KKPvQbvFSMfS2nd8XiVt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FPNR",
+    "symbol": "FPNRo"
   }
 }

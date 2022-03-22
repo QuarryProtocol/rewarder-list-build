@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5xa5VNKQX56GRkyh3Yh1TZTimZiaZbM9PWnP7vQxdRMk",
-      "slug": "0",
+      "slug": "3pbni",
       "stakedToken": {
         "decimals": 6,
         "mint": "3PBNiPReK21RNXjHVRjSaPCwaV5c3Am324xaZM8PZLxJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AfQ6RCet3tAJ6XAQShY94ek7RH63ESAgaY7DKjSduPMt",
-      "slug": "1",
+      "slug": "7ywti",
       "stakedToken": {
         "decimals": 6,
         "mint": "7yWtiWhSXFkg2puWjvtaMejoyWQ28sujP8HcK9tPTra1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9nCaCuubeinenjBdH8ExYCWEy7Mh3BAgfFLJNzFcjJyP"
+  },
+  "rewardsTokenInfo": {
+    "address": "9nCaCuubeinenjBdH8ExYCWEy7Mh3BAgfFLJNzFcjJyP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9nCa",
+    "symbol": "9nCaC"
   }
 }

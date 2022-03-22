@@ -14,7 +14,7 @@
       "quarry": "HJis45DzWf4mLT9rPgy2u4mH69pxb7j1xbNQwzk1v5MA",
       "replicaMint": "BZBXh1KjJdjUV1pgnLMxPdVfKjLNjjrhhQMzc1tCsDMK",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dgf31",
       "stakedToken": {
         "decimals": 6,
         "mint": "DgF31nx91nnmHcLHfihmF1786JuFzBBUpdSJLLgeMZRk"
@@ -32,7 +32,7 @@
       "quarry": "AXgPdLy8GhvSRDcAKArerUSSHFLeqfEz1E9NMRXv65Th",
       "replicaMint": "2s26DHvGvsZa2Cjo8VtDDXWeTbxpCwLbZgLL6b4HHLea",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "38hty",
       "stakedToken": {
         "decimals": 6,
         "mint": "38hTyi8L6zna7KgVYrv84gLsXum6ecbaatFjxGPT9Ko9"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "94KJH3txyzbf6nUzBv2GrfFLfqiYbv5xWQiJD1SwbvCy"
+  },
+  "rewardsTokenInfo": {
+    "address": "94KJH3txyzbf6nUzBv2GrfFLfqiYbv5xWQiJD1SwbvCy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 94KJ",
+    "symbol": "94KJH"
   },
   "slug": "F7ws77uDEHpDoD5YFKNVbnC1w8tSmGcCsQdoidpar2X6"
 }

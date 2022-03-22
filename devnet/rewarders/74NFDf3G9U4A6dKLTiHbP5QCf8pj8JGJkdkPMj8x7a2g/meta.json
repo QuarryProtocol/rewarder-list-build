@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6thEZCAnqCtFyQxDV9uLK7pf2EE7BauJNyPVu53jUZig",
-      "slug": "0",
+      "slug": "dhk2x",
       "stakedToken": {
         "decimals": 2,
         "mint": "DHK2XEeh1Zs3XEUe5eNqaAUzSZuZnECDyNkWVeSQKqFD"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "3pb3W7A2cjepXBxU3YD3V8T8roSNz3upVX9RT5kYrscq"
+  },
+  "rewardsTokenInfo": {
+    "address": "3pb3W7A2cjepXBxU3YD3V8T8roSNz3upVX9RT5kYrscq",
+    "chainId": 103,
+    "decimals": 2,
+    "name": "Token 3pb3",
+    "symbol": "3pb3W"
   }
 }

@@ -14,7 +14,7 @@
       "quarry": "Fek5FmiQPyC89uQEWEBEeqxWYooJxjhED2iYVSBVmgRd",
       "replicaMint": "357PQjrKxbYjS9ENptXtf6pSHrkZZkiKRhZhAhjz4ALx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6rtuz",
       "stakedToken": {
         "decimals": 6,
         "mint": "6rtuzPz5taYELRTcJBPH5J5gKqN5jB3Bgws8gFbv7u89"
@@ -32,7 +32,7 @@
       "quarry": "4gjpSDdWURbwQzfkkmpKbvVV5wXu2zpxFa4KP4YkEaCX",
       "replicaMint": "H2nmQto8pZUVJAmQJFZL5wvWGaZKDXPvxHK4XWEwA4aX",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "6kas8",
       "stakedToken": {
         "decimals": 6,
         "mint": "6Kas834975FwAn6kkSYFtfbxpRAvUwrEwKZvBv9zMB5G"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EZ9TB1dQrhro2Xjo22u5BjBi5Hzsdci66UUk2LfxPs1F"
+  },
+  "rewardsTokenInfo": {
+    "address": "EZ9TB1dQrhro2Xjo22u5BjBi5Hzsdci66UUk2LfxPs1F",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EZ9T",
+    "symbol": "EZ9TB"
   },
   "slug": "AC6ivghDksffZ8y6XDzTzT4oCNtxDwR8ii8iAyivcX1V"
 }

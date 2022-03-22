@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4ufCkJo6bjgBAy9okHMuQWnLJBVBP3xi5SWv4X9GituA",
-      "slug": "0",
+      "slug": "2yfgv",
       "stakedToken": {
         "decimals": 6,
         "mint": "2yFgvXuFRoc4sANp9Ex4Uyef4XdmgU6v3zh7Tg79pNtC"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EVgKBhmj8cPLgKkwSXvgyu11CVH3wDG6YX5gu7LbMPXJ",
-      "slug": "1",
+      "slug": "gseau",
       "stakedToken": {
         "decimals": 6,
         "mint": "GSeaUnygKwhGdt6MnHR57mNJn5eSzjHmrmBdz7nVuk61"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3nDa42J5of3iiXwsWsszDRLnabpj4yg53ccgNunRQuL5"
+  },
+  "rewardsTokenInfo": {
+    "address": "3nDa42J5of3iiXwsWsszDRLnabpj4yg53ccgNunRQuL5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3nDa",
+    "symbol": "3nDa4"
   }
 }

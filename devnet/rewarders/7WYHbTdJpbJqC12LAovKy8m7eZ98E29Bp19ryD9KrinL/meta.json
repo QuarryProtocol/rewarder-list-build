@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HNx3U7kRxnpkuvnYX33YXot5nW77Ko4NUpS1y2vVywpE",
-      "slug": "0",
+      "slug": "3jcbb",
       "stakedToken": {
         "decimals": 6,
         "mint": "3jcbbZvgySneF66mM6w5Rd4ZDaEvGgRgxHQ4ygikuBYV"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9yewCxdZqXe7DauZkH1G3DkQ6p9V5uHb4BUTU4FWq2hY",
-      "slug": "1",
+      "slug": "exvdg",
       "stakedToken": {
         "decimals": 6,
         "mint": "EXvdgHL3y7dx462svQ9BZZnWi7t9RJqXzsB5qoRakF72"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CTNRY8ZfUvCGx24FuzAQunbdZQiU7Yaj5A3NxhXeLsgY"
+  },
+  "rewardsTokenInfo": {
+    "address": "CTNRY8ZfUvCGx24FuzAQunbdZQiU7Yaj5A3NxhXeLsgY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CTNR",
+    "symbol": "CTNRY"
   }
 }

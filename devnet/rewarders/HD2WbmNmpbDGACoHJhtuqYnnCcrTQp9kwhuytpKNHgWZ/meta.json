@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HVf1DRKJmPWKujRWNCFKKDevYb3duxRoWpdmX3aNs1k9",
-      "slug": "0",
+      "slug": "fjve7",
       "stakedToken": {
         "decimals": 6,
         "mint": "FJve76yGDN9i4QcBw4oprEfn8q2MeDdJLb1Lcrq1C5E1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EHfEdPWcDff4N3gRVRHuxS8t8tWz6Gby6icEqCAro63t",
-      "slug": "1",
+      "slug": "4aubt",
       "stakedToken": {
         "decimals": 6,
         "mint": "4AUBTKBp4mVRa46AJ7cBuLMULUdiKPBdhuZmH7bp3Cov"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7QvBz5bBRup3G1vZqpdL6qQ3wj16s6HiccGPjfeEJEYc"
+  },
+  "rewardsTokenInfo": {
+    "address": "7QvBz5bBRup3G1vZqpdL6qQ3wj16s6HiccGPjfeEJEYc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7QvB",
+    "symbol": "7QvBz"
   }
 }

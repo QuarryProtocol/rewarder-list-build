@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GhboSuGh8vCzZQJjAFmoNTDEv1HoFVomdWBqW7AsxHi1",
-      "slug": "0",
+      "slug": "2pxra",
       "stakedToken": {
         "decimals": 6,
         "mint": "2pxRaezQjiyui7phsrMq5weJr9tZXZ4bLGbTE7c5KKdr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HRBnHzJoZdEznMhzMGWMG7CXGHBBZgT9JEK3K21p3fGJ",
-      "slug": "1",
+      "slug": "gaylj",
       "stakedToken": {
         "decimals": 6,
         "mint": "GAyLjrF4s73zgN6AMFaMsLzp7Z9Y2UpXwrBb2sMbmgx9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "qBpzyLpyrDmcCHpDzwEt4gXNNZjXVdJ1p7D4B7T6Wnb"
+  },
+  "rewardsTokenInfo": {
+    "address": "qBpzyLpyrDmcCHpDzwEt4gXNNZjXVdJ1p7D4B7T6Wnb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token qBpz",
+    "symbol": "qBpzy"
   }
 }

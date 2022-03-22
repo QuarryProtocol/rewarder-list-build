@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C4V8Zy1uhrr4YFZgqywdYzKYfb7RqWqtSsFMi9QsMU6y",
-      "slug": "0",
+      "slug": "12vm4",
       "stakedToken": {
         "decimals": 6,
         "mint": "12vM4g6aCoP5EUheBfS2K5gdxbPtmuPxUirYm8jFgGo4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DA4HYx9C1RywNFe9P6GUzUSkyxoZk7zG97VbhXLqqoub",
-      "slug": "1",
+      "slug": "j77xg",
       "stakedToken": {
         "decimals": 6,
         "mint": "J77xGfx1FWoD3zGEEYH4iV6CCDTmE9e2kuk4dqTUnHJ6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6Mki1GxCnH63togJUombhH2T3HTkyiKDVt3ZczoM2v8U"
+  },
+  "rewardsTokenInfo": {
+    "address": "6Mki1GxCnH63togJUombhH2T3HTkyiKDVt3ZczoM2v8U",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6Mki",
+    "symbol": "6Mki1"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Evhggwqr84U9PoV8wNzhYrff6QworXRUK4QcsMwTZF3c",
-      "slug": "0",
+      "slug": "4bdcz",
       "stakedToken": {
         "decimals": 6,
         "mint": "4BDCzwugVFyY8LQzXgPLwceBaBs73RGpV9XitZsgGhLk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6MD4Y9u8rCW5uL6foSZEUrSwTbzN6rsnvsyQikfz1GRK",
-      "slug": "1",
+      "slug": "a12my",
       "stakedToken": {
         "decimals": 6,
         "mint": "A12MY8keK8x248FadzBFP1vFAXe34Tpb1KKaG5C7iJs5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BCwuEThLLFBUSCTRaw52s8cUYF7eMRMrKMY7UvUEVWmZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "BCwuEThLLFBUSCTRaw52s8cUYF7eMRMrKMY7UvUEVWmZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BCwu",
+    "symbol": "BCwuE"
   }
 }

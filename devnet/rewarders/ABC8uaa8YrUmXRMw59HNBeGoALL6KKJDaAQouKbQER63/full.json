@@ -14,7 +14,7 @@
       "quarry": "47EDHu2h6JywyGUGXWa3zFcBcXAjgk5FNCtDqCYMB9Pi",
       "replicaMint": "MkA3nTLRbb9HVcHPDCxbwj84fqE4MSskgdM1gdMSd8s",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "273my",
       "stakedToken": {
         "decimals": 6,
         "mint": "273MYsKq5tQwVND8W1vNMGNJVpaMsEJpmPXQLLqXxqta"
@@ -32,7 +32,7 @@
       "quarry": "7dnF1cU4DWRmmzF4pUMHYiA2FuZWuxgkesbFfEB2rFYf",
       "replicaMint": "HtrMwc6EqMByhNSrqnu9F7wdCe2opZYccZZfRk3rhRsH",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "gu5vp",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gu5vpugpjJsbir8Q4rtwg78ftVTx2sFwCcMp2pjKjGW1"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Fupu6TTyWvWZ2z5uMjZ1f9r5L2bXQirUZ5VeXLZRoG64"
+  },
+  "rewardsTokenInfo": {
+    "address": "Fupu6TTyWvWZ2z5uMjZ1f9r5L2bXQirUZ5VeXLZRoG64",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fupu",
+    "symbol": "Fupu6"
   },
   "slug": "ABC8uaa8YrUmXRMw59HNBeGoALL6KKJDaAQouKbQER63"
 }

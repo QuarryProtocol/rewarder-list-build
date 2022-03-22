@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "D5iGVtqx5JfBdysXHvY465KeBxF6sc9JZmqWeRGKanvG",
-      "slug": "0",
+      "slug": "6dhxd",
       "stakedToken": {
         "decimals": 6,
         "mint": "6dHxDVWTSyMRSksAUjn6XvPTZBtwc34wKHvaU4ZQBeym"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Ao1X4nGYH2dfeMbQJyyfde7YsK3tSqQLk5TS9V2UCncZ",
-      "slug": "1",
+      "slug": "c65vd",
       "stakedToken": {
         "decimals": 6,
         "mint": "C65VDfFQpWswkaJ8z7nT3KidYCigHerL5e85dhjnLoSN"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BDABnLRHQgpo895ouhRQ5y7mxwkeRmfSy8aH1tBSw9xX"
+  },
+  "rewardsTokenInfo": {
+    "address": "BDABnLRHQgpo895ouhRQ5y7mxwkeRmfSy8aH1tBSw9xX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BDAB",
+    "symbol": "BDABn"
   }
 }

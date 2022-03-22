@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4JXSvRyntqRLF6oqZtwtinjMKUdZ8b8MjLoS6pbu3LEL",
-      "slug": "0",
+      "slug": "aw8aa",
       "stakedToken": {
         "decimals": 6,
         "mint": "Aw8AadrfAWjGZS2yqnFvC3GhjHJN8yAk3HzjrLS6kLe4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6gS8PRFeLFus21Fi9A8aWXnd3knGozPbCbmHxMnCDQ4X",
-      "slug": "1",
+      "slug": "ck39f",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ck39fvZBsV8hKRMVwQCVy9mwq69BgYfXgaXsU98gfkzQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "vo1JjBw6CH448UmyoCBzESWdVh1tg116qEyXYFuBbRq"
+  },
+  "rewardsTokenInfo": {
+    "address": "vo1JjBw6CH448UmyoCBzESWdVh1tg116qEyXYFuBbRq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token vo1J",
+    "symbol": "vo1Jj"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Es5tWqq9oYcjTb2176JjnxBWVZamLR2U9u7M3owabTCK",
-      "slug": "0",
+      "slug": "h2cwt",
       "stakedToken": {
         "decimals": 6,
         "mint": "H2CwtJMTmjXtu3osh8skA1Ryrd9Wb7BcvzZ1LC6mZpw8"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6SAHpdESZJncMMnLHydZo4apskii1Jx47Znofrgve2sW",
-      "slug": "1",
+      "slug": "4ltww",
       "stakedToken": {
         "decimals": 6,
         "mint": "4LTWwWStDVdrLkLmVU3SfoGrTm2SHihGSUHtps7fuKPp"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6SDZZvvzLMHR4rGnxERJ7uGbYFWgkvLEfZDtD5t32YF3"
+  },
+  "rewardsTokenInfo": {
+    "address": "6SDZZvvzLMHR4rGnxERJ7uGbYFWgkvLEfZDtD5t32YF3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6SDZ",
+    "symbol": "6SDZZ"
   }
 }

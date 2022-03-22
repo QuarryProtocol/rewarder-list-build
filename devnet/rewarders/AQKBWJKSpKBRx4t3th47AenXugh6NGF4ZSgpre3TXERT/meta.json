@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DzDpYJxnBYETUmYkrSePVE9saUwVe4VevuqtdSti2jZz",
-      "slug": "0",
+      "slug": "b9lcn",
       "stakedToken": {
         "decimals": 6,
         "mint": "B9LcNYejDjFE8Pah7pCvYbH531Hdrt6FA9G3aKkR545Y"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CgXpGdF6Gf1nrG8kdKVjrYZG1CeEe4V3gkogTcgfZyyy",
-      "slug": "1",
+      "slug": "byhxw",
       "stakedToken": {
         "decimals": 6,
         "mint": "ByHXwhecnv2PN7QcbGoCyjiikPL7rEY4FGBHMpM8GkKJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2LJGVALwRzrFEckagYztYTh1uUshPN6LXwMho6JJe1vg"
+  },
+  "rewardsTokenInfo": {
+    "address": "2LJGVALwRzrFEckagYztYTh1uUshPN6LXwMho6JJe1vg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2LJG",
+    "symbol": "2LJGV"
   }
 }

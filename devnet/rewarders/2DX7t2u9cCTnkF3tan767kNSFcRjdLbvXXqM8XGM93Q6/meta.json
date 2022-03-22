@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FW3Do27K6JG8g3phUJWi4aRa1ZYaKcJb4zKVaRzJZmbK",
-      "slug": "0",
+      "slug": "4tdwq",
       "stakedToken": {
         "decimals": 6,
         "mint": "4Tdwq3JWTxnfRJ3RkfSxUMGCLBN4fw1eDJdSEGFrERfy"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4qSFzy3JWmNABfEPeuVtXTuNsqgesAxeXbMwiJbWj3AB",
-      "slug": "1",
+      "slug": "25qir",
       "stakedToken": {
         "decimals": 6,
         "mint": "25Qiru4tJku5kAeF1R3XYMQWdq6feN1iPKGVJvtbfHQm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F8wnVKxKKSRVS32x8JRLyEjmUosggJKr7bgEJ1MXvnS3"
+  },
+  "rewardsTokenInfo": {
+    "address": "F8wnVKxKKSRVS32x8JRLyEjmUosggJKr7bgEJ1MXvnS3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F8wn",
+    "symbol": "F8wnV"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DSDRb5sNniEs1cx687r48ahT42nHvGXG5BM8Ero5VfVC",
-      "slug": "0",
+      "slug": "edyzm",
       "stakedToken": {
         "decimals": 6,
         "mint": "EdYzMR9DrRK9F3P4Addz26W7euRPDP7MmZ9JzxsiqKob"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3X7Wr37kkmrLAXBX3Ma4FNZP5qqoEuvwPwbXJA5snqWj",
-      "slug": "1",
+      "slug": "9wquq",
       "stakedToken": {
         "decimals": 6,
         "mint": "9wquqjg62JLnuh5HHstwdjy9cnwQ6x841Rcj5Q8oRweZ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8YXLWBdNKUhSJwMgA8SVfL7vhAFYr4EvF43hXakfaBJD"
+  },
+  "rewardsTokenInfo": {
+    "address": "8YXLWBdNKUhSJwMgA8SVfL7vhAFYr4EvF43hXakfaBJD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8YXL",
+    "symbol": "8YXLW"
   }
 }

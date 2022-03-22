@@ -14,7 +14,7 @@
       "quarry": "8MqAJs1tox98hJnuJEDGHerWkCMNAnhnEWfgt6cbnVkk",
       "replicaMint": "GYn1QQAWJ2B4TVPgWiBmWXASRNqdMNThsk9D3K7gcK8F",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "3vcmp",
       "stakedToken": {
         "decimals": 6,
         "mint": "3vcMpoyyt6kTvS5qXHLoUreAUfxNWtRsdQRhFg7ThBDR"
@@ -32,7 +32,7 @@
       "quarry": "G6bGi9TxBYhJurix8KTTBJKGoWnRdAHfpU3398gKTFqy",
       "replicaMint": "GmEuZoz6En7RmCcjcNUqSzT4G3jrAavfMr8rDfX9WLS3",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "gha6p",
       "stakedToken": {
         "decimals": 6,
         "mint": "GhA6p7utMo2QnkG3hKXAbePUy4xgSMvHbAXAkd6Zinrj"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HYFDqddSmHcoQD7bwvEJzYTD8YHNWcZeTZ3mv8fthR3y"
+  },
+  "rewardsTokenInfo": {
+    "address": "HYFDqddSmHcoQD7bwvEJzYTD8YHNWcZeTZ3mv8fthR3y",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HYFD",
+    "symbol": "HYFDq"
   },
   "slug": "8wQ1cP9GxKgLXFzxFhX7SDx1kozf6vPEdt76v91XQUXP"
 }

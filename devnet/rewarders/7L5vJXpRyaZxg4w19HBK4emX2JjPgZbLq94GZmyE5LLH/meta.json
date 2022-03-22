@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GriaKMbnfQc3NzvT89pS8AWWmeXZR2kSryw8CHz2Fuyi",
-      "slug": "0",
+      "slug": "cvvpk",
       "stakedToken": {
         "decimals": 6,
         "mint": "CVvpkVfVVKZEmrwvvyKKqBKqzRW8jkgx1DE3WDwhL9ib"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "56WDSCNCHmtzqqZnAutAS3stAqM7zvZYnFvt2BGmDW7i",
-      "slug": "1",
+      "slug": "5d9is",
       "stakedToken": {
         "decimals": 6,
         "mint": "5D9iswsNoX8KoZPoyQQntbPHASajYsRm8qtSNFSuYYpH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5QeDFUWVhSyEEtAuTqwofM39d9Mmqb1g2N4q632jReZD"
+  },
+  "rewardsTokenInfo": {
+    "address": "5QeDFUWVhSyEEtAuTqwofM39d9Mmqb1g2N4q632jReZD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5QeD",
+    "symbol": "5QeDF"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3fVGT5YRuQLuzToTPhNRJxUAsiQdSXHRiqvtwGE7ScpF",
-      "slug": "0",
+      "slug": "hhxht",
       "stakedToken": {
         "decimals": 6,
         "mint": "HHxHTiSGKMvjv3FmPDRYkwF2ySKkmeRfdTF36c1rwCrJ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "J3bBMW2vUQwjk99J7Fhyyd42SnYsYzxYc11E4DhKm5sn",
-      "slug": "1",
+      "slug": "9bwds",
       "stakedToken": {
         "decimals": 6,
         "mint": "9BwdSWN37BvvzfiEVuWMChvszXx7V3DJQbXFWafMXQXL"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bgo6xRF5Pzxqq8tz9TCC6tyobgA9HA4Y52SeZeCPDAac"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bgo6xRF5Pzxqq8tz9TCC6tyobgA9HA4Y52SeZeCPDAac",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bgo6",
+    "symbol": "Bgo6x"
   }
 }

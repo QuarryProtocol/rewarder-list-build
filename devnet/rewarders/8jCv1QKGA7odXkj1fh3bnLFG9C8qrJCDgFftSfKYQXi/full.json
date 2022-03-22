@@ -14,7 +14,7 @@
       "quarry": "8mhXdjQoMhDUvBCrSM1RnMKzhJYJKU7hQexnhebZbW9B",
       "replicaMint": "BezNJ3sHCpBmu3AP7Ch5anV37oYt8XRNCD4m4ms9UUEQ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6umol",
       "stakedToken": {
         "decimals": 6,
         "mint": "6UmoLoES5fvvkHBiErhtVvGPNAkLQX19abCnCcxmt1mb"
@@ -32,7 +32,7 @@
       "quarry": "GQQw8NXoqiy5pELsTAU9nr92h1LKeGUScukPGufrY3hp",
       "replicaMint": "EMicLCXuu5meiRvQ8uJvcUw6MGRqisfAgvu9uMW5S49a",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "9ckan",
       "stakedToken": {
         "decimals": 6,
         "mint": "9ckAnUMuqjG7ZhH9f4mt27vnEXLNt7ut3xmR1NekaW2e"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "mrHegHzzPqfrH7q1SERpPQC3YS23Khg2dfxci44RWsN"
+  },
+  "rewardsTokenInfo": {
+    "address": "mrHegHzzPqfrH7q1SERpPQC3YS23Khg2dfxci44RWsN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token mrHe",
+    "symbol": "mrHeg"
   },
   "slug": "8jCv1QKGA7odXkj1fh3bnLFG9C8qrJCDgFftSfKYQXi"
 }

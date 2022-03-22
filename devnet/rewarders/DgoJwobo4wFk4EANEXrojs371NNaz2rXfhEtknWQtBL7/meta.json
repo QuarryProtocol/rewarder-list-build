@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FxexdxdW318SP4dEK8nuS1enAj7VVR54GcEHMxpS8R52",
-      "slug": "0",
+      "slug": "hreih",
       "stakedToken": {
         "decimals": 6,
         "mint": "HrEiHEhsCWyCqXCznxpmWUS1s68298oLHgnZRPLeECPm"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BJtffEscbycs3Aa93thX5GaH2jDgN247F6VLqCFKChcB",
-      "slug": "1",
+      "slug": "6ormu",
       "stakedToken": {
         "decimals": 6,
         "mint": "6oRmuR4eJ3CMLoMXhquayYGrihWtAmy86RWto2DA7TuM"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DbpqDD6nmAwUmREQk2Dct6CxxPjbabWAshTP9Gn2LLnE"
+  },
+  "rewardsTokenInfo": {
+    "address": "DbpqDD6nmAwUmREQk2Dct6CxxPjbabWAshTP9Gn2LLnE",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dbpq",
+    "symbol": "DbpqD"
   }
 }

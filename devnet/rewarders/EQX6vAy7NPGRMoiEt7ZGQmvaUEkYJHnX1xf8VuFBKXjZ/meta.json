@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9xGDge3ZDTaLRmKuzew8dnrSBWvNbTj5b7KfRSqT9r8E",
-      "slug": "0",
+      "slug": "5yjhf",
       "stakedToken": {
         "decimals": 6,
         "mint": "5yJHfigANkfKgb4CudwzHaDRG6oc5GXh6xHtKHtTcdqw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3SDfJDo6Zk1Fe49P73CbvrHPZdNTRHuxBdMmp3FYCdsP",
-      "slug": "1",
+      "slug": "7ns78",
       "stakedToken": {
         "decimals": 6,
         "mint": "7Ns786uf7S454XXaVSjRLx94ivv3tdYsc4PVksg3nJqr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "49zzosqi5w1mL6hhGCCW65UoENNkuf8Fc5b39QnfEHRC"
+  },
+  "rewardsTokenInfo": {
+    "address": "49zzosqi5w1mL6hhGCCW65UoENNkuf8Fc5b39QnfEHRC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 49zz",
+    "symbol": "49zzo"
   }
 }

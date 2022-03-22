@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "APGMnHSQZLo7P626BHwrk4MkTZcTkRrDe72ez7rz1D49",
-      "slug": "0",
+      "slug": "hmxuo",
       "stakedToken": {
         "decimals": 6,
         "mint": "HMxuoejLg958jz2NhzqxZ9fLyjHTzEawALXahT6kKZeY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6vQeCv73FiZJptNtD6BiJVbsVZ54Yh9B8wbeUStxpcWw",
-      "slug": "1",
+      "slug": "8q3dy",
       "stakedToken": {
         "decimals": 6,
         "mint": "8q3DyPCaKidmshPQQyeVZvfmtQeHd1DNEwDTR7zRwQKt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "gav1CGEkcNRAtu3rhg11WQyzsJcXEQkx3VrRnwoZ1wB"
+  },
+  "rewardsTokenInfo": {
+    "address": "gav1CGEkcNRAtu3rhg11WQyzsJcXEQkx3VrRnwoZ1wB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token gav1",
+    "symbol": "gav1C"
   }
 }

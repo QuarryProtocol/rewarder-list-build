@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GhcVf9YEKLQQJpAPWbA7GrqV2Dj4iMGnHCRSBd1rg5D7",
-      "slug": "0",
+      "slug": "3q4pb",
       "stakedToken": {
         "decimals": 6,
         "mint": "3Q4pbcQhnKLPMrvQdDCpe2amgyLUcSpu59xqmbmhkaPB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EZQ6ZByusXa2QR7akYzuB5Sp69doQ1y3Ft6vNWsuRL7U",
-      "slug": "1",
+      "slug": "cattw",
       "stakedToken": {
         "decimals": 6,
         "mint": "CatTwT4yCs96gatbLjXMuPwNMKHJig3bpotg76FUDDfJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6PUDqwhnCBGLTMyLmE17ULFovHtPWCwenbMpja7XgdLQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "6PUDqwhnCBGLTMyLmE17ULFovHtPWCwenbMpja7XgdLQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6PUD",
+    "symbol": "6PUDq"
   }
 }

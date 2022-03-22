@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8FR898jF9takE5Q6Yaz8iHN1ssqbtzVB4uh2RzwD1hqV",
-      "slug": "0",
+      "slug": "9qgg2",
       "stakedToken": {
         "decimals": 6,
         "mint": "9Qgg2LGqCuGNGU7Bju58MhGt5DFLouWxvoSqgUSoKhMz"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FqmYp6gG1vstypKpfoG8AM9gQ6dCDYCR8tkwzg3kYpuq",
-      "slug": "1",
+      "slug": "9hyer",
       "stakedToken": {
         "decimals": 6,
         "mint": "9HYErmVFeWTV4wY3fs6fybHWJcaU26eLTCoNZpN6ma1a"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "49NBdbR2ukrsdoLHzVNngD5GoSFckULGm3jc9P8RiVsX"
+  },
+  "rewardsTokenInfo": {
+    "address": "49NBdbR2ukrsdoLHzVNngD5GoSFckULGm3jc9P8RiVsX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 49NB",
+    "symbol": "49NBd"
   }
 }

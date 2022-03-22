@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2yfmKnuX6sM4VuYPtNQA2TspyoVYKnLrBTifNf1YUYCP",
-      "slug": "0",
+      "slug": "hyh9m",
       "stakedToken": {
         "decimals": 6,
         "mint": "HYh9mTHNphcrfrr5eYsxPeC3e1q2zQZ8QsV71JiMmkZf"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4RFj3SoMWwmHA6gf9jvL8U9u8YkxGWwKDm3ED4AEiXGK",
-      "slug": "1",
+      "slug": "bqnnh",
       "stakedToken": {
         "decimals": 6,
         "mint": "BqnNHyFEhyJWgwtMqiYoEv4GBzabTvqnfqYHMqRD4mux"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CJKwjadHbbCFkMhyuMoqe9vSzQrBBovTu2LmF9Ar9TW"
+  },
+  "rewardsTokenInfo": {
+    "address": "CJKwjadHbbCFkMhyuMoqe9vSzQrBBovTu2LmF9Ar9TW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CJKw",
+    "symbol": "CJKwj"
   }
 }

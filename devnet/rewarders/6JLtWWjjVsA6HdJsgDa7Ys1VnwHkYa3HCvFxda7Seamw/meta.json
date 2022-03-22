@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FaamRjBtWyeH9LSaZ78vUwh7UQz6cGHuczcqGHtD4Ar9",
-      "slug": "0",
+      "slug": "cdfju",
       "stakedToken": {
         "decimals": 6,
         "mint": "CDFjuKsVPvsdFNpG7oSVxcwweyodYjBnhsXkRJKk3oKs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "76XotMtNobQtcmfPjMiwYpqVEYChsJ2N7JoqTix5vqM2",
-      "slug": "1",
+      "slug": "6gghe",
       "stakedToken": {
         "decimals": 6,
         "mint": "6ggHe9BjeAhQUVvQWMuUEsuX5TNPCtm8HD3mnPLUjWew"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BDX28FbVDHJrb56xQ7yEzgiScfdEo4BcfBUpfEBG8TY5"
+  },
+  "rewardsTokenInfo": {
+    "address": "BDX28FbVDHJrb56xQ7yEzgiScfdEo4BcfBUpfEBG8TY5",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BDX2",
+    "symbol": "BDX28"
   }
 }

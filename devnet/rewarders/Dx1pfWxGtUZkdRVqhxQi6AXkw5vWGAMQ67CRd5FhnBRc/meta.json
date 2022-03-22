@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BtmC6Sv4x4UZH22MprSGQxmr4SUeTQtmMogv8mXiMgKD",
-      "slug": "0",
+      "slug": "brnvr",
       "stakedToken": {
         "decimals": 6,
         "mint": "BrNvRJL1GtaVBfu8gZXESkWVyj7etbr5qGLrLjLwc8TR"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AuFsixKHkDBQurGjH3YoZAJW1MoEXDUpCyoRiNi3UUXA",
-      "slug": "1",
+      "slug": "7zfta",
       "stakedToken": {
         "decimals": 6,
         "mint": "7ZFTAG8tDjtYPuMssGdHTou4qvgw3TDUnx1sfjicyPBf"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7PFhT4WJji8K3VuPhHTiSdSabBeVMDGh4TNgNTmfMUB7"
+  },
+  "rewardsTokenInfo": {
+    "address": "7PFhT4WJji8K3VuPhHTiSdSabBeVMDGh4TNgNTmfMUB7",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7PFh",
+    "symbol": "7PFhT"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9Xquz5J4AtmYMhTM9jzdtumZ3GyKvEjutfuRNHdoCNc9",
-      "slug": "0",
+      "slug": "jej4a",
       "stakedToken": {
         "decimals": 6,
         "mint": "JEJ4AoJPKxVy8KyGSodE8C3dd8XkfJrFaNpuyYSfLqd4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5sm3Mb4cyw6KSzgTSJe628XwhmojusjJ5WKz8wsniwpG",
-      "slug": "1",
+      "slug": "6euh9",
       "stakedToken": {
         "decimals": 6,
         "mint": "6EuH9EkXTuDWXMUu7NCABigkVYAhqE2ZWbcHpT3UPcDY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G2otovVKKrcECGGJVXHQUnx2LgJSYuZ1NL1yEVC79Wm6"
+  },
+  "rewardsTokenInfo": {
+    "address": "G2otovVKKrcECGGJVXHQUnx2LgJSYuZ1NL1yEVC79Wm6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G2ot",
+    "symbol": "G2oto"
   }
 }

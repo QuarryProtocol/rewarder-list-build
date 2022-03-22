@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AGZzQxcsjHFVeYyetuK5dHrNneQM4VA3V2PRcpfqsj2t",
-      "slug": "0",
+      "slug": "j2bwm",
       "stakedToken": {
         "decimals": 6,
         "mint": "J2bwMh8WgGQa4DN9MkMvELmfxAvjBo4Uh7ix3sg5qYAj"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HHrfWofTftEhMMsZoZcfzzt3xCHVJYFTHLWvus6RZtm6",
-      "slug": "1",
+      "slug": "ahngk",
       "stakedToken": {
         "decimals": 6,
         "mint": "AhngkcB9szphf5uKoxe8uofGBc4r2re83aa8vaoJNkF5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "91Kf1nMVJYM8pHfFC3fnrQzhjcXRfbea7d2i4coc4KWd"
+  },
+  "rewardsTokenInfo": {
+    "address": "91Kf1nMVJYM8pHfFC3fnrQzhjcXRfbea7d2i4coc4KWd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 91Kf",
+    "symbol": "91Kf1"
   }
 }

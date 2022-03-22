@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3o55QamWg9FzFDLxPXQXLws42PAmUEFp8WS7c3t7Cec9",
-      "slug": "0",
+      "slug": "7hkfa",
       "stakedToken": {
         "decimals": 6,
         "mint": "7hkFAzR3vQNHdXsouJzcp5RMjFyySmmnLo2BG6ffyiJs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9JYHzUkp7YnDxdjf4ttrrco4wVToBZRfaq4rXhp4Fhgc",
-      "slug": "1",
+      "slug": "6ahnc",
       "stakedToken": {
         "decimals": 6,
         "mint": "6AhncqTjPFKwYZ75ZH4RdvAGf3VaBhwgdaewd8De3yPk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7trPNjFprR7NUYkQ8YrHFbu3vCo6L9Zaoe1rmMGUYpsQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "7trPNjFprR7NUYkQ8YrHFbu3vCo6L9Zaoe1rmMGUYpsQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7trP",
+    "symbol": "7trPN"
   }
 }

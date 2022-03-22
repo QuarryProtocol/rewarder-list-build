@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2yJ1T8bBwixqYr7qCyzrB19vvGQbUEYhttP75XZL8F51",
-      "slug": "0",
+      "slug": "5x5ey",
       "stakedToken": {
         "decimals": 6,
         "mint": "5X5eYMmBPZvwz7RQ8hEw3HK74WyUJt3cY7t2EovyUwfZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GM1ya2wkZLYZ71MSQTgacwf1hpkzoLShNLi1AFkJY5wx",
-      "slug": "1",
+      "slug": "99fkv",
       "stakedToken": {
         "decimals": 6,
         "mint": "99fkvsbXEdfFgVYVHGVfecL5xwVyDupCAVGuPraHjcZ4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8YCMVtibxgAPXndy2fdJi1PZTbXFthBQo5jneeNwTyyo"
+  },
+  "rewardsTokenInfo": {
+    "address": "8YCMVtibxgAPXndy2fdJi1PZTbXFthBQo5jneeNwTyyo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8YCM",
+    "symbol": "8YCMV"
   }
 }

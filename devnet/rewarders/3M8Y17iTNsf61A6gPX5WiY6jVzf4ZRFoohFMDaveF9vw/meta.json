@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5qzEzJGejRn9KY5tjdGrCGApqQn17gcFsgfGMpNLT6Qw",
-      "slug": "0",
+      "slug": "ghfjp",
       "stakedToken": {
         "decimals": 6,
         "mint": "GhFJpX4zkWpsEVvTwFzQNvXXVnASzgp3PM7WmD1SJ8rp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "THK42aiet9rYizut7gc5oArvRJ6rJMXceknhJR8h3Lg",
-      "slug": "1",
+      "slug": "g1wnq",
       "stakedToken": {
         "decimals": 6,
         "mint": "G1WnqFqhpfUdNzDVqK3byrPUAaeHAwrJTvMQbwRyxein"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8VHebqpsc6QobraFRrN8PFPaYucgVfitvtgvJTb1d1TJ"
+  },
+  "rewardsTokenInfo": {
+    "address": "8VHebqpsc6QobraFRrN8PFPaYucgVfitvtgvJTb1d1TJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8VHe",
+    "symbol": "8VHeb"
   }
 }

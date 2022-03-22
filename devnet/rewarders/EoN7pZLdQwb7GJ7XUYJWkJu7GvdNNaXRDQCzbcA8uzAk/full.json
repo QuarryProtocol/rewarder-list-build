@@ -14,7 +14,7 @@
       "quarry": "34JavwndBDsLSj74DKz7cYWtWhVNvzM645Eivs6BbMcj",
       "replicaMint": "2ttSbJq1xTXwBP9sskw8F4HafEEg1xvMwz9cRz3Fo1bL",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "7slcv",
       "stakedToken": {
         "decimals": 6,
         "mint": "7sLCv6pk45ZgNmeMk5K5EQWGRgqumyAta2Rnb5jbtGDC"
@@ -32,7 +32,7 @@
       "quarry": "5ZWXUU6wr4MRwG8Si2uxh6B1hdxzWqhsfAgyhFzdeUJ6",
       "replicaMint": "9P6vQ7DvHg8ZbSjR8CvEiZgmQUfdqWjrAN1rPyKUtRyk",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "havzb",
       "stakedToken": {
         "decimals": 6,
         "mint": "HavzB2NtQpix5LxNxt8VPj8rdQbJxfFtWgX6k39SCyPF"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HTbfbWpiVBoJn1uaF1EUhTY8Cv7uqSCfVJwr3CQTNKfY"
+  },
+  "rewardsTokenInfo": {
+    "address": "HTbfbWpiVBoJn1uaF1EUhTY8Cv7uqSCfVJwr3CQTNKfY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HTbf",
+    "symbol": "HTbfb"
   },
   "slug": "EoN7pZLdQwb7GJ7XUYJWkJu7GvdNNaXRDQCzbcA8uzAk"
 }

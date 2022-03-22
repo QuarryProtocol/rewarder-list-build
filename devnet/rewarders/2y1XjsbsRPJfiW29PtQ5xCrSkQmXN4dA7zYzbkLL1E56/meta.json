@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CwBkrgiZFZ9RwTAwvP7smqQCVXNed5kesqtASbfbVKja",
-      "slug": "0",
+      "slug": "2oxvd",
       "stakedToken": {
         "decimals": 6,
         "mint": "2oxvDWBpjeXydwfr75jRApDBdcHhuzPPFEceyZzPhmb1"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4WYgWCheFz93Apzy3RJTeLxU3DyNStaat2oBmGK743Bx",
-      "slug": "1",
+      "slug": "j75au",
       "stakedToken": {
         "decimals": 6,
         "mint": "J75aubdP5fsWEHEp1LRNpVnfCo8g53v8MZHztnvERTy5"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4mp175nJ1mdiVnYd3j46NW3Hgw1p7VToeYVr3FRcsRDt"
+  },
+  "rewardsTokenInfo": {
+    "address": "4mp175nJ1mdiVnYd3j46NW3Hgw1p7VToeYVr3FRcsRDt",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4mp1",
+    "symbol": "4mp17"
   }
 }

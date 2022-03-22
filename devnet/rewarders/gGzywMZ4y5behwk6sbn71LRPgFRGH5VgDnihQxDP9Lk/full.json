@@ -14,7 +14,7 @@
       "quarry": "6JEcr4GGqgA2Q9GNwqzzAP6DkebWzxGKA9qRsrLpoTRN",
       "replicaMint": "J6dfrHc3gfKqZzHgZWM3ENRNB7Z1xmW66jvR3aSexVbd",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "msolz",
       "stakedToken": {
         "decimals": 9,
         "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DGqqWyF7nAAzKuaehnjF6FhJtssbvqzwkxxZHpA4qyKe"
+  },
+  "rewardsTokenInfo": {
+    "address": "DGqqWyF7nAAzKuaehnjF6FhJtssbvqzwkxxZHpA4qyKe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DGqq",
+    "symbol": "DGqqW"
   },
   "slug": "gGzywMZ4y5behwk6sbn71LRPgFRGH5VgDnihQxDP9Lk"
 }

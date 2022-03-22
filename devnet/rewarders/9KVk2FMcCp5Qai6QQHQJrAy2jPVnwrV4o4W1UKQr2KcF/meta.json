@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Cs8ocyNq9KBmyzFMKemsaujyQcevMC5R6dqXgzaAmNDL",
-      "slug": "0",
+      "slug": "fczvy",
       "stakedToken": {
         "decimals": 6,
         "mint": "FCZVYwycqzjZFYRxj9x7SvbmknsDmjnBi9QzrbBPRwYH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9FBN3NBSviaDctaNefuSeGVyKeyFd8rtzK3fk6N2GeUh",
-      "slug": "1",
+      "slug": "cbjba",
       "stakedToken": {
         "decimals": 6,
         "mint": "CbJBa7PSRA1qoPzaGNeV6QPmr6ccpn5JhQrTRZUZU46y"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HictBVRhdZYSW1xUzPsv2C6jhSV8hrZwRGktXGELRx3j"
+  },
+  "rewardsTokenInfo": {
+    "address": "HictBVRhdZYSW1xUzPsv2C6jhSV8hrZwRGktXGELRx3j",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Hict",
+    "symbol": "HictB"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5QkWPoXMW98oLNz7iDg5PgZvN25zDWtRtRh79hEnnw9W",
-      "slug": "0",
+      "slug": "cjr3q",
       "stakedToken": {
         "decimals": 6,
         "mint": "CjR3QigWJfEsigZazrvFuU5PoSZjsCwc8Ycz9odtzXpw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4Vs8Z7d83CpRtJhRSex1eaE8JsTEoPmCvPiB5mAzWsYe",
-      "slug": "1",
+      "slug": "eaqhm",
       "stakedToken": {
         "decimals": 6,
         "mint": "EAQhMkQPA3VqMEhV4yARFBBiARJtEW6jC9gZtKwRQ4Ag"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DfdhyFuGLfBHU7dbNXb1bGkcuLoC2baMUFoqnA6qfy67"
+  },
+  "rewardsTokenInfo": {
+    "address": "DfdhyFuGLfBHU7dbNXb1bGkcuLoC2baMUFoqnA6qfy67",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Dfdh",
+    "symbol": "Dfdhy"
   }
 }

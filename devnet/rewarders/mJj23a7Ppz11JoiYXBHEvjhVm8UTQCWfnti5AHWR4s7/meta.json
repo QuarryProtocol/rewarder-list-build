@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Bc7SCSWaCNd4vyi9GcYYWYSNj2Lk7MoVNRtiGjSJ2oeK",
-      "slug": "0",
+      "slug": "htbyf",
       "stakedToken": {
         "decimals": 6,
         "mint": "HtByf8rQgenLbDf5VJ4JzuoxmKzoueBB4mdUAPxq8oKU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DAA6KCdV7NpkNRHp7j5dPt1boC1TjfX4Zst9CHsYofSr",
-      "slug": "1",
+      "slug": "h3wwb",
       "stakedToken": {
         "decimals": 6,
         "mint": "H3WWBxDh8MFYUvuDCrMq4f2sDqLriC9MTbGN74cZDyHd"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "tkWEDQey8PgWQsMUxtUeBqL5Hw2JoKe2T7pDNMwyGze"
+  },
+  "rewardsTokenInfo": {
+    "address": "tkWEDQey8PgWQsMUxtUeBqL5Hw2JoKe2T7pDNMwyGze",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token tkWE",
+    "symbol": "tkWED"
   }
 }

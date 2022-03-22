@@ -14,7 +14,7 @@
       "quarry": "GscCVWvvrLT2cGqsSc7XsskyG2iG8WVqtJNcddrvo6dH",
       "replicaMint": "9NXbomRsCs2resBUcoC6DpKDtCUm39qffNaywxw57Gj7",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "edntz",
       "stakedToken": {
         "decimals": 6,
         "mint": "EDNTzUt8e6Bm3NFKGri4NWW8yZbbY6BHj7nGRYRccbsm"
@@ -32,7 +32,7 @@
       "quarry": "9Gs7s7STgwHAXH1CSS2H2nMv4TRqSBgaggfesqpwRRVQ",
       "replicaMint": "G7DosakwsSw46SmYYjTeDPxUFXcpGhqDPwLFMFmDSydk",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cunkw",
       "stakedToken": {
         "decimals": 6,
         "mint": "CUNkWqCHGY9eihVgEqpcufbg98oniAwK9u7m83aeWiSy"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CxzHDeVQ5Tt4HcqupPBuPPjCDcUb3PpyFsxDdHYEo9so"
+  },
+  "rewardsTokenInfo": {
+    "address": "CxzHDeVQ5Tt4HcqupPBuPPjCDcUb3PpyFsxDdHYEo9so",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CxzH",
+    "symbol": "CxzHD"
   },
   "slug": "2srX8w83aiJnVyHwcXeLm1ces7ratDSXX43mwyKM5dS5"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EwEGDWzhybjWZ1YQRwcVPTybMH4MAXuByqjMNP4df5Ho",
-      "slug": "0",
+      "slug": "erryx",
       "stakedToken": {
         "decimals": 6,
         "mint": "ERRyxHzPs4PAkXnveuKcHDzudR4RRU9EQ1u4QdV53dcB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FhSuSH6cqw8Z43Ckhgh4Kt7ZQMijNh8hTwybCXimoran",
-      "slug": "1",
+      "slug": "9k3zj",
       "stakedToken": {
         "decimals": 6,
         "mint": "9k3zJpim2gKh6ssRF7hC6BZkH34VPSjeTc6bapKxYPQQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ERyX3MGhfGWzyBFtSh1uaA94wkkCh8VyBNYupBaAL6nU"
+  },
+  "rewardsTokenInfo": {
+    "address": "ERyX3MGhfGWzyBFtSh1uaA94wkkCh8VyBNYupBaAL6nU",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ERyX",
+    "symbol": "ERyX3"
   }
 }

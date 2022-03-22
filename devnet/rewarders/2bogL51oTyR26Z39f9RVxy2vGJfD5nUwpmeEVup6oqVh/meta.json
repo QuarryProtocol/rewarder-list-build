@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4JvpaDEGWj9tr7c9sSK9FRFGYCjtknnCeSp8SwXyq2dv",
-      "slug": "0",
+      "slug": "5yqz7",
       "stakedToken": {
         "decimals": 6,
         "mint": "5yqz783iAwQcvSmuVYB1Ej42EpQJix5ejGJRaW81i7oa"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "23cmpfao5fiXZZXHkScnoky7BTyBbajdt9x9BuKEr7eE",
-      "slug": "1",
+      "slug": "7y2su",
       "stakedToken": {
         "decimals": 6,
         "mint": "7Y2suXS6LJCHDKcs9Q5Cp3U8AjuQ3FuRKEKADkBfBiuG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CV1T4NUHjiBFcuRekuUdCD3AQQ9pN5mSuqorbzmui593"
+  },
+  "rewardsTokenInfo": {
+    "address": "CV1T4NUHjiBFcuRekuUdCD3AQQ9pN5mSuqorbzmui593",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CV1T",
+    "symbol": "CV1T4"
   }
 }

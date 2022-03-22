@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5PiK83vioGJGtGFxzTUkiG6cSphxDbj83CiCVGMiu6hj",
-      "slug": "0",
+      "slug": "2zuzv",
       "stakedToken": {
         "decimals": 6,
         "mint": "2zuzVmC5TGbQna7XpjdjzUHrBB2gJquBcfoxNCSqonpZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AfZuEtFoX5ZCtEqgpLoHMjKFb45pwsCytZu8SoUiYPas",
-      "slug": "1",
+      "slug": "317st",
       "stakedToken": {
         "decimals": 6,
         "mint": "317STvh4vJ7VzAgPJMqNozseGEBp8TFuUxszHZux8jPs"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9RaMVk3h4c4bRz59QnBzGEHgMWc162jf4Z4nuH2DVZPH"
+  },
+  "rewardsTokenInfo": {
+    "address": "9RaMVk3h4c4bRz59QnBzGEHgMWc162jf4Z4nuH2DVZPH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9RaM",
+    "symbol": "9RaMV"
   }
 }

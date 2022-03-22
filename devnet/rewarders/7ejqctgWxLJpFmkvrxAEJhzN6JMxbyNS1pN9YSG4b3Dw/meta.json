@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6RPjHuKoxFdSQeW1jdZfxhG7raMm3U1c8n68BUkxBeSF",
-      "slug": "0",
+      "slug": "9iokp",
       "stakedToken": {
         "decimals": 6,
         "mint": "9iokPydwJgcR37rcmg4q8jXxetwaBD2R39uA4HnutjMS"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DLqCwewr7KtqC9QALaczMNNT1BneZhByDKtM4S3g2JmL",
-      "slug": "1",
+      "slug": "7dklv",
       "stakedToken": {
         "decimals": 6,
         "mint": "7DkLvpMC1MB8kuBarBk9cnge7RhtBLKoPjBov1qMa1zK"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "57MdfEdz2UeM22FdpuFr8HxdCPKr6DQ2mvA7GiUznGDB"
+  },
+  "rewardsTokenInfo": {
+    "address": "57MdfEdz2UeM22FdpuFr8HxdCPKr6DQ2mvA7GiUznGDB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 57Md",
+    "symbol": "57Mdf"
   }
 }

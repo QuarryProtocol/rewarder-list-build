@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "31YupjPgFE3DaZF7AEzB5bWBMX54R62iP9GgmDEDWBTi",
-      "slug": "0",
+      "slug": "6fyo7",
       "stakedToken": {
         "decimals": 6,
         "mint": "6fyo7VmjhEVWHnATiBmrLKUUaUJrza6nnprKxtqioU7W"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DRC595miPUaR3KDqt1dkqmFQMPn81ZGs3dp3rTCjZDKB",
-      "slug": "1",
+      "slug": "bbrdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "BBrDcawkRH2UCMwvZDxhjomoiqsNxYSbWUy5o3s36qe8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CjaPEQ6saWvTZYJtKTGbzEwCwLHzTo6b6ah2JUqy1AA2"
+  },
+  "rewardsTokenInfo": {
+    "address": "CjaPEQ6saWvTZYJtKTGbzEwCwLHzTo6b6ah2JUqy1AA2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CjaP",
+    "symbol": "CjaPE"
   }
 }

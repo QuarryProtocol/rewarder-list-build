@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C9w8fsaGsQfCfdmGbsQjzKunDFK4exMdu5WHjtRGZTdb",
-      "slug": "0",
+      "slug": "hczcp",
       "stakedToken": {
         "decimals": 6,
         "mint": "HczCpKxahuRgTctFWAZHFQ2GPeggHohD5F31VwQEGjg7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6jp9v9pZvfZMAeBHah74v9mx2xUjbg7DtqcFH2E8hmoL",
-      "slug": "1",
+      "slug": "enxrt",
       "stakedToken": {
         "decimals": 6,
         "mint": "ENXrtAP6kw58JYwKwXCXBYZHGkjZ5PqWjbyXaDhTNFWE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Fs9rD25bSVzW4FgGDPPZb9fNjzycuFVBrExdutb37a7b"
+  },
+  "rewardsTokenInfo": {
+    "address": "Fs9rD25bSVzW4FgGDPPZb9fNjzycuFVBrExdutb37a7b",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fs9r",
+    "symbol": "Fs9rD"
   }
 }

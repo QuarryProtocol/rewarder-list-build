@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5JXeqdK29iXaz8RzTmzro8z7GrJNgDr25BF1ewAYrno6",
-      "slug": "0",
+      "slug": "ej8cn",
       "stakedToken": {
         "decimals": 6,
         "mint": "EJ8cn6PzeVjAkT7zJ42krQdpc5awqvM35f1z8KMghifZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4KMSeyG9t6dcgEbEffDu5RbnkKAT2K7kHeWmsG1Knpbj",
-      "slug": "1",
+      "slug": "edgjs",
       "stakedToken": {
         "decimals": 6,
         "mint": "EdGjSnJQohoddVDuiuruX4ERvhLiGMHHzSDAxeLBw9xP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bfc7k2SrxS2g4oGwNbfrzRdC7KzHf7K4U1cdX7RN9c61"
+  },
+  "rewardsTokenInfo": {
+    "address": "Bfc7k2SrxS2g4oGwNbfrzRdC7KzHf7K4U1cdX7RN9c61",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Bfc7",
+    "symbol": "Bfc7k"
   }
 }

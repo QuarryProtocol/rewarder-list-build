@@ -14,7 +14,7 @@
       "quarry": "9nz4BVfYH7PYfPsEGJBQQ1WSQ3rozkhvsKHiRRVcR9aA",
       "replicaMint": "G9ip3euJ9pH1HPFbtcwEyH5HS9Z3s5b8Daigs8Z2jkNJ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "edjcd",
       "stakedToken": {
         "decimals": 6,
         "mint": "EdjcDxt6baxXWmSJ9LF5gK7uLLbHMrmXCVe2Q6Vdu3Gf"
@@ -32,7 +32,7 @@
       "quarry": "GBf3k9vGehQ7pTsDrqMDdtkDTeQf5e7YhqYdDCEQyZ1G",
       "replicaMint": "FBpk93Ec3uy3amMQkVJPGgwREsiYqmTQBT2xbqfazBs5",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ft1he",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ft1HEeXGxWtwSbvv4BRmjtYV7wpLrjrrqt19GPzBJ6g1"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Ai76QptG2XpHdDkaSK4F58iZLuaPqKiDAdYrFvGqPN5Q"
+  },
+  "rewardsTokenInfo": {
+    "address": "Ai76QptG2XpHdDkaSK4F58iZLuaPqKiDAdYrFvGqPN5Q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Ai76",
+    "symbol": "Ai76Q"
   },
   "slug": "7c5BjDGYw91s4E9Yz7dVg5Fne5jf2mxFrQW6V5UU5T1b"
 }

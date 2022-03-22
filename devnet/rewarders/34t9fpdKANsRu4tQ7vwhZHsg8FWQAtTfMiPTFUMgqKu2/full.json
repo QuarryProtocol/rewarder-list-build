@@ -14,7 +14,7 @@
       "quarry": "3vPPPYoBxTtZvT8RAnrbs7zZGR8qsFLjCVboSCdY1wds",
       "replicaMint": "8at7uPiEFmMdcKp8ukPKoeaRZf1W5TRaNbwYYhyvnVDU",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "bctbn",
       "stakedToken": {
         "decimals": 6,
         "mint": "BcTBn5wSD6GUdpRqTqErSLKME5faMK6mc75nRQZrVhyn"
@@ -32,7 +32,7 @@
       "quarry": "CJydQrzeeMgMwhqPUDJZbSKbnPuB94PFb9KwbdRiUGMq",
       "replicaMint": "33VW8erfvatWYMdWjV1tPrddkduMocSGPycbXpnRNTGm",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "eue4a",
       "stakedToken": {
         "decimals": 6,
         "mint": "Eue4AAugd9jcncyjcV4hp7WFhRwmZukiUbVNXr5DumBw"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EMhKXfssWYa7yP3jxKfbwzdewhCzf48sGQjFKkYxqRUH"
+  },
+  "rewardsTokenInfo": {
+    "address": "EMhKXfssWYa7yP3jxKfbwzdewhCzf48sGQjFKkYxqRUH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EMhK",
+    "symbol": "EMhKX"
   },
   "slug": "34t9fpdKANsRu4tQ7vwhZHsg8FWQAtTfMiPTFUMgqKu2"
 }

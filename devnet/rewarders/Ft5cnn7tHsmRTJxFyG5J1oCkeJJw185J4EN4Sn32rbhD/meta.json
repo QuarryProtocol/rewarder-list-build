@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CYEB5Ud9pniBMnP9AoZJzFtfG9sD9pwB5TB4mhudHCNH",
-      "slug": "0",
+      "slug": "3jasl",
       "stakedToken": {
         "decimals": 6,
         "mint": "3JAsL5QdDsGVKdkYtCFc2xYUbCFEdUX1B1D1WzbqV28U"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "YrTYrB32WVr77JHF17zG93hwv7SokjwTepSZ6fAgjZ9",
-      "slug": "1",
+      "slug": "bdtds",
       "stakedToken": {
         "decimals": 6,
         "mint": "BdtDS4i7xgtdFXzZrKDjyTCBxYG2EpoYohpDSaqsjdDn"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "C2gjVDqmCh7oCGve1phGAVJMfEY2pZxDMX35qf64c7S"
+  },
+  "rewardsTokenInfo": {
+    "address": "C2gjVDqmCh7oCGve1phGAVJMfEY2pZxDMX35qf64c7S",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token C2gj",
+    "symbol": "C2gjV"
   }
 }

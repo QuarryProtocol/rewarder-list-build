@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "B4tyzZTRRPVME45U9L6zsMXUiLY1q69Haftf9n8FSNxS",
-      "slug": "0",
+      "slug": "c8zpq",
       "stakedToken": {
         "decimals": 6,
         "mint": "C8ZpQJsJsyeuiHK64TTWnZiw3FMPrCLGehq5L53kxcqB"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BXqcYsmF1FuGNH4R9siFzcgF6nMSRbofHraWVVjrgUek",
-      "slug": "1",
+      "slug": "dakj4",
       "stakedToken": {
         "decimals": 6,
         "mint": "DAkj45UbF4BtAFT8gx2UatStz2eb5WPg2RMAaJvnASd8"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CK9K79PhhVQ43UB8kGfCUTFqLk4TYdEocWVraTzdBwAg"
+  },
+  "rewardsTokenInfo": {
+    "address": "CK9K79PhhVQ43UB8kGfCUTFqLk4TYdEocWVraTzdBwAg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CK9K",
+    "symbol": "CK9K7"
   }
 }

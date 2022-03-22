@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GEAARm4c8RFZmvGH3Z1JELeG27LagakyP18hmVmgC8Fv",
-      "slug": "0",
+      "slug": "dmrvo",
       "stakedToken": {
         "decimals": 6,
         "mint": "DMRVoXPGuXADcHyJZx5jPUQAcPBhEQhme12WZBgnaQAk"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HEm9nwdANnGivZjKpirRuF9ZZPhvuGGPRhc2JvWgvmrb",
-      "slug": "1",
+      "slug": "9bx9b",
       "stakedToken": {
         "decimals": 6,
         "mint": "9BX9bHhNzdw4afygACfdGcdhhsL2YD2oEhTSKfdsLtCx"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ANji2T8JKiYaBpv9hLefATwQw9sNoB3ydEA27BErrz93"
+  },
+  "rewardsTokenInfo": {
+    "address": "ANji2T8JKiYaBpv9hLefATwQw9sNoB3ydEA27BErrz93",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ANji",
+    "symbol": "ANji2"
   }
 }

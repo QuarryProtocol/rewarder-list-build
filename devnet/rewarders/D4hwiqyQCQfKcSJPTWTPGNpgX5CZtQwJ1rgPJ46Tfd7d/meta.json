@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HrmNRP8uqHbkKnE5P7KWV58FJeRdRVbSDJtfAwyjY4uj",
-      "slug": "0",
+      "slug": "8xmz5",
       "stakedToken": {
         "decimals": 6,
         "mint": "8xMz568vGxdAYcniY8LsoXVZhGVHgmL3KZ4RNw1kEXnU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E7zUSk1vmU8yhHmYL9WE6im3uYE4aCWUUQJZELmHsX25",
-      "slug": "1",
+      "slug": "cefcd",
       "stakedToken": {
         "decimals": 6,
         "mint": "CEFCDg871wSYQEErLeL5AhJqAdKhm537VSUq24f8SXV9"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7MwXc7pQvp8Cck7xjdaxGfsXrS3ycUW4nuJijMaXpFAi"
+  },
+  "rewardsTokenInfo": {
+    "address": "7MwXc7pQvp8Cck7xjdaxGfsXrS3ycUW4nuJijMaXpFAi",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7MwX",
+    "symbol": "7MwXc"
   }
 }

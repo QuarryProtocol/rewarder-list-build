@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "75fLFWLiFZchpbw95HuGbyDSHyiVitW5wbD4jW5LLN7V",
-      "slug": "0",
+      "slug": "7dm1t",
       "stakedToken": {
         "decimals": 6,
         "mint": "7dm1t8HgSezwcpoTuEZTFiT63g12qyHGLNK2x5ScCFo5"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HSbVnK6Cn84XeZuo7P2hoYH235tUUgdcdCCKNARD8icb",
-      "slug": "1",
+      "slug": "a2xha",
       "stakedToken": {
         "decimals": 6,
         "mint": "A2xhaAv7BaL8RQpULKbSTGPZ4fop33exd8yKkJLoYmoP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "JA92WDrpYD1aed5LYgTpKU2Z13J2ydrTaFhnA4o6Gjyp"
+  },
+  "rewardsTokenInfo": {
+    "address": "JA92WDrpYD1aed5LYgTpKU2Z13J2ydrTaFhnA4o6Gjyp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token JA92",
+    "symbol": "JA92W"
   }
 }

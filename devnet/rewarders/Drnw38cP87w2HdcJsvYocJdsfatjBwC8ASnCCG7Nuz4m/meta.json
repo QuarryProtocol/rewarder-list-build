@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "95p2USwX9zFb7rB1L8twvgF8vD5a2WknQRgEJwJ1Q8Bh",
-      "slug": "0",
+      "slug": "84yiq",
       "stakedToken": {
         "decimals": 6,
         "mint": "84yiqFTVvwfbGohUy6Y5h58rjQo5XVntWyQdePB1U9nG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3YcCGR24NjiUjN1Rj9pf4b7kViUUn4YW2auvPpEgJRyh",
-      "slug": "1",
+      "slug": "4btbj",
       "stakedToken": {
         "decimals": 6,
         "mint": "4BTBJRGMGxNkM1WujGCb8Jaq2eUfoWjdKo7cuXSRoXuW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9XTzzsWwhQJ1zum6DHsTyM5QbZttgzdCeSr5Yz4n5ibo"
+  },
+  "rewardsTokenInfo": {
+    "address": "9XTzzsWwhQJ1zum6DHsTyM5QbZttgzdCeSr5Yz4n5ibo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9XTz",
+    "symbol": "9XTzz"
   }
 }

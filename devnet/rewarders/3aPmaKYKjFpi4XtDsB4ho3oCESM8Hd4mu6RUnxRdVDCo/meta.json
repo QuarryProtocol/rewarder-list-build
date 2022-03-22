@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "C1L7RmukhuzHcPtyEGu6LQmxxUeSPdRBGE77JZbrGsPB",
-      "slug": "0",
+      "slug": "3qcfe",
       "stakedToken": {
         "decimals": 6,
         "mint": "3qCfes8qkbfUiKpn4vZsFgQZSfbB37Kee4CQoZ91PPLw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HJ4q3QcPYJfhRiWySZsu9PZXxA3F5nw2cV6bJ4bXWLA1",
-      "slug": "1",
+      "slug": "aa1yc",
       "stakedToken": {
         "decimals": 6,
         "mint": "AA1yCzywTLHo5dr7uEo4aKv8mf2DZ6p9vqjpiP72HRJW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9iMTDtKd99UYKEH9xo6CKsKZsDFw3ZV8zU2GeU1P1TKZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "9iMTDtKd99UYKEH9xo6CKsKZsDFw3ZV8zU2GeU1P1TKZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9iMT",
+    "symbol": "9iMTD"
   }
 }

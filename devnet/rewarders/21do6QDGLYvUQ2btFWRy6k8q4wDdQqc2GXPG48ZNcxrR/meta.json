@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DfPoeZM8vcCp82d42a6PTSQuzLAv1jVEYXKYNd9QyFYA",
-      "slug": "0",
+      "slug": "dmmgm",
       "stakedToken": {
         "decimals": 6,
         "mint": "DMMgmB7LkJ6X4PWnbGPhyb3qi6dGxt7rbZwdEjX2RZsU"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9YFHproMWte3A17sMtAZgFiZJYrpKF6innnUb8iQ2sdc",
-      "slug": "1",
+      "slug": "4hsnq",
       "stakedToken": {
         "decimals": 6,
         "mint": "4HSnQF7Skw3ehWaj3fTX71F3rMBd47eTfwYpQuTyXXRq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "74a9yNR2DJ3DDKUTzj9xE7x3J3fJjLd26d6th6JSsZaZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "74a9yNR2DJ3DDKUTzj9xE7x3J3fJjLd26d6th6JSsZaZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 74a9",
+    "symbol": "74a9y"
   }
 }

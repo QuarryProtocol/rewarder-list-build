@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8H4FWYLqKfpqUh4q8Efj8m635WFhvHcz2NhxqSBpWkBu",
-      "slug": "0",
+      "slug": "8v256",
       "stakedToken": {
         "decimals": 6,
         "mint": "8v256A3Z9qATqbzYAfXjfhpgRwdzpDBC4rwxUKSf71S7"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DFUv5tWnexqPCd8A4bgeT4frDLktAaVLX5jGHmfLDUcM",
-      "slug": "1",
+      "slug": "ccogd",
       "stakedToken": {
         "decimals": 6,
         "mint": "CCoGDPSjnijxiNmv4FJQiLHDTcNTU3kwFnepzW2PAUuD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AGXmn4y3Ni1AoYdoFvZX25zLLnUqCdBp6FKKKHbXSbNZ"
+  },
+  "rewardsTokenInfo": {
+    "address": "AGXmn4y3Ni1AoYdoFvZX25zLLnUqCdBp6FKKKHbXSbNZ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AGXm",
+    "symbol": "AGXmn"
   }
 }

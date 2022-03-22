@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "B2rhiqrUCb1tf762Y9fjAeqkWSMc1yUPxZm2JvBDPXGh",
-      "slug": "0",
+      "slug": "62l3g",
       "stakedToken": {
         "decimals": 6,
         "mint": "62L3GBXkQ2yWcVfYewULYKeBuk4WmoGBwAFAaQX6Lp8D"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "B2oS5jMpNEsYG7bCZk3UnWj51uAT4arUYvarQBDk6pTu",
-      "slug": "1",
+      "slug": "d7mar",
       "stakedToken": {
         "decimals": 6,
         "mint": "D7maRCfveKfFMCeeXMLszXfFL3BdTdwVKfEeQHxJArg1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "JBm7RtvzsuA3Rg2kvWMS6Z2manGnU7kWjDJrcReUC94m"
+  },
+  "rewardsTokenInfo": {
+    "address": "JBm7RtvzsuA3Rg2kvWMS6Z2manGnU7kWjDJrcReUC94m",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token JBm7",
+    "symbol": "JBm7R"
   }
 }

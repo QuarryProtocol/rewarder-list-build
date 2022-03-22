@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GhrmHvQdrupidLkis155RUuobsdWQuuMSyBRCofzvpaE",
-      "slug": "0",
+      "slug": "4rmqr",
       "stakedToken": {
         "decimals": 6,
         "mint": "4rmqRNnvYmgPfKnN5XBnGoTE6w2h544WRKJPXuRfzz5g"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Gwk3N1aRHxpTNF4jrMKYHkXaHmES8JHiPtAhQwR6rXzJ",
-      "slug": "1",
+      "slug": "5zyvg",
       "stakedToken": {
         "decimals": 6,
         "mint": "5zYVguLHJ6rNVoeteNjvCgBM7vfYtFnrhcbbzPrURPwT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2uKYXMTysSxTj7zd2QVRQmUjtATsVkPSBhw5e1WowgzY"
+  },
+  "rewardsTokenInfo": {
+    "address": "2uKYXMTysSxTj7zd2QVRQmUjtATsVkPSBhw5e1WowgzY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2uKY",
+    "symbol": "2uKYX"
   }
 }

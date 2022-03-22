@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "pn5q9YBAksMgnxpdNyEh2mAaDbJ7AriuETdsmz1uip1",
-      "slug": "0",
+      "slug": "crgbz",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ByMsQBZnH9ybVtLe9P3wyrz1kV6LAC3fPnHUum7Rm6vS",
-      "slug": "1",
+      "slug": "x2rau",
       "stakedToken": {
         "decimals": 6,
         "mint": "x2raUTrLXq8sMujEzQs1QUGtfKnd7RTwJ9kUDufisfG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w"
+  },
+  "rewardsTokenInfo": {
+    "address": "CrGbzxqG3ybPeUnFKcctzsQFhmqegTKTzMayu6LCir5w",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CrGb",
+    "symbol": "CrGbz"
   }
 }

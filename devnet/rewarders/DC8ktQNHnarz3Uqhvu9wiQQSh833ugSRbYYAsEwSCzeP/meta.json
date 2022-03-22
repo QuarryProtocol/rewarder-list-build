@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ANzYJXM13wxCC5GVc8z9djhtbPi6DMETbrcsYFqgVqKP",
-      "slug": "0",
+      "slug": "hrcg5",
       "stakedToken": {
         "decimals": 6,
         "mint": "HrCg5tWtg77wLpmdG6XFhL8C4TvMtVGRCJkWiRHW8J4L"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9VCiRtvT45M4KKvr3osSdZ3SDatniwqZQSwCVRRFDnWU",
-      "slug": "1",
+      "slug": "cy4vm",
       "stakedToken": {
         "decimals": 6,
         "mint": "Cy4vMCyADVoVgiuaaKxCr1d5hEcXrdGewP9qsJshw6Mt"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2Y1kNdd2rmYd1jGuQGpDLpTvhY2NVFk2x9jqm5sEXbhk"
+  },
+  "rewardsTokenInfo": {
+    "address": "2Y1kNdd2rmYd1jGuQGpDLpTvhY2NVFk2x9jqm5sEXbhk",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2Y1k",
+    "symbol": "2Y1kN"
   }
 }

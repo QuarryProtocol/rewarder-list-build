@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DPiHaPWEYscbyTibh2N6Ew5265LtaYLw899wQXqUG3A6",
-      "slug": "0",
+      "slug": "bekfi",
       "stakedToken": {
         "decimals": 6,
         "mint": "BEkfidWsj8oGLSEx4wHLYT9fBzDuPWFdvQ79qrxo9Pnh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5QdcjeWtBEhN2abaEfuNsthCqQNn8RwF4or8PYQJWYWh",
-      "slug": "1",
+      "slug": "gvpb7",
       "stakedToken": {
         "decimals": 6,
         "mint": "Gvpb7G53WLnkJFfAAWR9dqscvtWYVK176KKmeKvJPN9C"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FehJtFcpZLSdpS8hWvKcUTdWTeugCT9cbn44m3bqXFJu"
+  },
+  "rewardsTokenInfo": {
+    "address": "FehJtFcpZLSdpS8hWvKcUTdWTeugCT9cbn44m3bqXFJu",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FehJ",
+    "symbol": "FehJt"
   }
 }

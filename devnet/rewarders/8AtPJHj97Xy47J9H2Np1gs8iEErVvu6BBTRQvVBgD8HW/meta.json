@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Gxz6xZvttpBr9gwwuUtq13Mk95n2nWx9Cainp3zeKYeV",
-      "slug": "0",
+      "slug": "8ayea",
       "stakedToken": {
         "decimals": 6,
         "mint": "8aYeAbiAKPmCDhFBK9gcta99ogts8rDY74TjLaRhpRJt"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C6Q9pDxBiJvpUHCWQ3TgPbZvi1Ub5Ctp7RcQsjd7UYKv",
-      "slug": "1",
+      "slug": "9x1mq",
       "stakedToken": {
         "decimals": 6,
         "mint": "9x1MQRX4fCWPrJsnHbcgfFH4Cha4PFCTD9W4kEKdz2P1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DUJ5rVMSDwdkeQ8k1Xv3L18rb7utzKatL2GQC6t4TmLA"
+  },
+  "rewardsTokenInfo": {
+    "address": "DUJ5rVMSDwdkeQ8k1Xv3L18rb7utzKatL2GQC6t4TmLA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DUJ5",
+    "symbol": "DUJ5r"
   }
 }

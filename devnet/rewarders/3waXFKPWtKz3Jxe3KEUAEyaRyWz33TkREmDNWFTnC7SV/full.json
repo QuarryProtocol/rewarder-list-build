@@ -14,7 +14,7 @@
       "quarry": "AjRHJRfFEuESU7u8FcBmZvnDFRgRwB8SSrxSkceRcdqv",
       "replicaMint": "E3SaHwQUDBM75MguBUP1yokgUMHkccXwYJsf3bz4KLEq",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dkm1w",
       "stakedToken": {
         "decimals": 6,
         "mint": "DkM1w2LrxADbDNjifSN3esFqkiGNCMfYBTN8KgAuf3J6"
@@ -32,7 +32,7 @@
       "quarry": "8EZEPWv2MF1JBKiGQ9Nx3tMT4ATD8JyWMLuX6xdfTW7P",
       "replicaMint": "4ri1hAwyyeDGa82FRjB8u4dYqi2PSraFKiaKvX4bErq7",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "7zhf1",
       "stakedToken": {
         "decimals": 6,
         "mint": "7Zhf1wBaSJo7FyDJBFFcKYFRkKGrxXwbac77fRnjPMsW"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DQ46iuUeAAwaqs3r3cqZj8YXaikU2Y5DcBhTTp9C3Gxy"
+  },
+  "rewardsTokenInfo": {
+    "address": "DQ46iuUeAAwaqs3r3cqZj8YXaikU2Y5DcBhTTp9C3Gxy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DQ46",
+    "symbol": "DQ46i"
   },
   "slug": "3waXFKPWtKz3Jxe3KEUAEyaRyWz33TkREmDNWFTnC7SV"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5oTvVuEeyvxhAXqoLZvRKMKX1ZLX2BjktjFRpTSgrRE3",
-      "slug": "0",
+      "slug": "3r9im",
       "stakedToken": {
         "decimals": 6,
         "mint": "3R9iMw9MtFuFNJ5fCmAEXrn6ukuPNUWKqfBBVvq811iX"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "C83f6qUrrFZv1J9vVyCbsizUtSerHEkECqBkhQHNNCs9",
-      "slug": "1",
+      "slug": "96mh3",
       "stakedToken": {
         "decimals": 6,
         "mint": "96mh3qENbegZBj9fvneWjxfLiK6bujHyG41njHrYZiVR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7wbhkS7SKCbumFe3Yzm7xk7ZNMjANVazBx1TZoBJKnBg"
+  },
+  "rewardsTokenInfo": {
+    "address": "7wbhkS7SKCbumFe3Yzm7xk7ZNMjANVazBx1TZoBJKnBg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7wbh",
+    "symbol": "7wbhk"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "pdPeKHSEfiDxprmAXpDzZXBu4bDVXG3RTxCLNCvQ1fb",
-      "slug": "0",
+      "slug": "eesvf",
       "stakedToken": {
         "decimals": 6,
         "mint": "EesVFciTBgqS8vj2Doigh21qigvwZ2ioub58rCuGgcJi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7K4nUYDCqWLDB3Vp4RD2xNS44FNLF7fynPLU1WQwce6n",
-      "slug": "1",
+      "slug": "7qscc",
       "stakedToken": {
         "decimals": 6,
         "mint": "7QsCcd1R5G8cN6KBBEUWXwf9py77cqZYXDpJqJdpcbQ1"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "26AuVa3C9KSideyoDmCAsK9ctS1kgaruVXEsa1mx77Aw"
+  },
+  "rewardsTokenInfo": {
+    "address": "26AuVa3C9KSideyoDmCAsK9ctS1kgaruVXEsa1mx77Aw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 26Au",
+    "symbol": "26AuV"
   }
 }

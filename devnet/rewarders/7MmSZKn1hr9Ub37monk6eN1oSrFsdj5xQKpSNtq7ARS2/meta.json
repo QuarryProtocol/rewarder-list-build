@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HTJQcaTC9nyzXMF8GoYZTbnbZtATrHJrWFV2LUL1Xigg",
-      "slug": "0",
+      "slug": "67bsz",
       "stakedToken": {
         "decimals": 6,
         "mint": "67bSZgKQ5AeT52YjG92uLSJ2Y5k5hD3gg1wf78FpAz9G"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2pRbi37ALUyDwaub63orz5xbwKg2refZh88JcG96AyeN",
-      "slug": "1",
+      "slug": "bpwef",
       "stakedToken": {
         "decimals": 6,
         "mint": "BpWEf8QnaTEPvuKxqiAvRd4AnsHbxUPXmzFPsZt3VdT8"
@@ -50,7 +50,7 @@
       },
       "index": 2,
       "quarry": "HV18S9Vq5BUqHH572WMzFzGFBaaMMyYRqPo7uMTsNsPt",
-      "slug": "2",
+      "slug": "duddf",
       "stakedToken": {
         "decimals": 6,
         "mint": "DUdDFhgM3wk2jpV487xQwCnyjvNrCTLNfyqq2qPLJNKM"
@@ -68,7 +68,7 @@
       },
       "index": 3,
       "quarry": "BYwW7shYDaHX2pWJtz14EAWEiQ6kAaHgFrtd31KCAMEA",
-      "slug": "3",
+      "slug": "g4zrs",
       "stakedToken": {
         "decimals": 6,
         "mint": "G4ZRsQ5DB7W6w4UXGpdU2PdoCptyn4Paiahkyu825f5o"
@@ -86,7 +86,7 @@
       },
       "index": 4,
       "quarry": "3jcd1BwJUT5Mb38LadJTusaAfTXU2Pb6MGvjTpdGKnE4",
-      "slug": "4",
+      "slug": "8urjr",
       "stakedToken": {
         "decimals": 6,
         "mint": "8UrjrTiRRR8UiiGdiHEKPdzrL9o6NQ8AYNtXcXQhitMC"
@@ -104,7 +104,7 @@
       },
       "index": 5,
       "quarry": "BfACYa2RhWz38BM2r3dWfGNNjrezGtGTWdLnG8Fu1qRv",
-      "slug": "5",
+      "slug": "hu3jg",
       "stakedToken": {
         "decimals": 6,
         "mint": "Hu3JGy6tvrtBcxHq9xvP1UhKUv3RHzqR3hJUdWEg2vRX"
@@ -114,11 +114,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 6,
-        "lastUpdateTs": "1647912940",
-        "numMiners": "151",
-        "rewardsPerTokenStored": "55330121118076",
+        "lastUpdateTs": "1647915447",
+        "numMiners": "164",
+        "rewardsPerTokenStored": "55340918547602",
         "rewardsShare": "1000000",
-        "totalTokensDeposited": "32451354216461"
+        "totalTokensDeposited": "36841354216461"
       },
       "index": 6,
       "quarry": "3uF7QEjX36VFsN1jxhoQbQCqWnjHeFenmb1chfNrokwQ",
@@ -132,11 +132,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 7,
-        "lastUpdateTs": "1647912914",
-        "numMiners": "140",
-        "rewardsPerTokenStored": "352951087783245",
+        "lastUpdateTs": "1647915583",
+        "numMiners": "154",
+        "rewardsPerTokenStored": "352957768057249",
         "rewardsShare": "1000000",
-        "totalTokensDeposited": "55552000000000"
+        "totalTokensDeposited": "60776000000000"
       },
       "index": 7,
       "quarry": "BbPxes6M8d4si77pyv38B98MqhGYyQ8nW8hbwyVuPze3",
@@ -150,11 +150,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 8,
-        "lastUpdateTs": "1647912926",
-        "numMiners": "182",
-        "rewardsPerTokenStored": "81038001080831",
+        "lastUpdateTs": "1647915533",
+        "numMiners": "196",
+        "rewardsPerTokenStored": "81044297396146",
         "rewardsShare": "1000000",
-        "totalTokensDeposited": "57255600000000"
+        "totalTokensDeposited": "63230600000000"
       },
       "index": 8,
       "quarry": "AoQiueipZeVYkf2ho2kRsAJDTqVE3dnCFebiXNbH4Erc",
@@ -168,11 +168,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 9,
-        "lastUpdateTs": "1647912933",
-        "numMiners": "146",
-        "rewardsPerTokenStored": "18366675671135",
+        "lastUpdateTs": "1647915585",
+        "numMiners": "160",
+        "rewardsPerTokenStored": "18376510061304",
         "rewardsShare": "1000000",
-        "totalTokensDeposited": "36891999999999"
+        "totalTokensDeposited": "43571999999999"
       },
       "index": 9,
       "quarry": "FNQfQSBAPSacaEo3cQkqhVyhRzgwhWDsMpX3zv4vwNF7",
@@ -184,7 +184,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5thfi9cDKV9BLvgVPd6f5F984tAsGAk4yJzTng8wn891"
+  },
+  "rewardsTokenInfo": {
+    "address": "5thfi9cDKV9BLvgVPd6f5F984tAsGAk4yJzTng8wn891",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5thf",
+    "symbol": "5thfi"
   }
 }

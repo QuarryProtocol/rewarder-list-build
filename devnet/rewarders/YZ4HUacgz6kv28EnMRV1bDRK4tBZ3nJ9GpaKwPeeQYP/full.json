@@ -14,7 +14,7 @@
       "quarry": "AbRvSuEupCLZJtembHawK8jR1hh2iYfRkBkAaNFEypQW",
       "replicaMint": "FcsBwLwyA5W8nhu9LcKyP5cTuJU48cAd9R8Kvq2jR4HT",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "4qvms",
       "stakedToken": {
         "decimals": 6,
         "mint": "4qvMSDxEnnkmjAVfgttiFygEjRN1RgNEQWGEEYFPybJT"
@@ -32,7 +32,7 @@
       "quarry": "GstHNauWJwXcDKdyoLboNJtnmMyDsoCySxMe3cVLyzDQ",
       "replicaMint": "GGW52gDxRbPzSY8pM4Sz5h7jfhhv9qQmSiAJfEESTphn",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "3zatk",
       "stakedToken": {
         "decimals": 6,
         "mint": "3zatkkgyDbbkFFUVeS77FtBqDcek8q4ECh5J7dqDaMLi"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "955X1DJ6SejWK6MsdpuVQPFH2wMQ7Foq7dY6LHB9nWX1"
+  },
+  "rewardsTokenInfo": {
+    "address": "955X1DJ6SejWK6MsdpuVQPFH2wMQ7Foq7dY6LHB9nWX1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 955X",
+    "symbol": "955X1"
   },
   "slug": "YZ4HUacgz6kv28EnMRV1bDRK4tBZ3nJ9GpaKwPeeQYP"
 }

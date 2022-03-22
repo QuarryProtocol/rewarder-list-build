@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "887t1TZzR2gxqZzkAWnbUz9CD13YJZRqjDzaPjfye6ym",
-      "slug": "0",
+      "slug": "dhk2x",
       "stakedToken": {
         "decimals": 2,
         "mint": "DHK2XEeh1Zs3XEUe5eNqaAUzSZuZnECDyNkWVeSQKqFD"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "5kbfFJJXVDVTEZV52bc18fMX46qTLZgttPENcvTmCwM5"
+  },
+  "rewardsTokenInfo": {
+    "address": "5kbfFJJXVDVTEZV52bc18fMX46qTLZgttPENcvTmCwM5",
+    "chainId": 103,
+    "decimals": 2,
+    "name": "Token 5kbf",
+    "symbol": "5kbfF"
   }
 }

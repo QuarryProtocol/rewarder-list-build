@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GUXsi9Xjzdyvj2yghqFN6HkC6WGjtUy4sT7kBpdqQHJm",
-      "slug": "0",
+      "slug": "5uhee",
       "stakedToken": {
         "decimals": 6,
         "mint": "5uHEesfZQghUg9U9asVBDjQUBNA7D2nfmudYTLKiJuxZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EQA6eqMLSTFPTRtHJrRdov6wMwWduxEDMaLgEdU7dJXr",
-      "slug": "1",
+      "slug": "7vb5n",
       "stakedToken": {
         "decimals": 6,
         "mint": "7VB5nfZQqdqpvQpcQLHMGSxCovrYcMjLv7UXXbaXHvEo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "G8GxYymz6UL3mXUgfkKeHZvTgoWYbWx17ZJfAkhxwifm"
+  },
+  "rewardsTokenInfo": {
+    "address": "G8GxYymz6UL3mXUgfkKeHZvTgoWYbWx17ZJfAkhxwifm",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token G8Gx",
+    "symbol": "G8GxY"
   }
 }

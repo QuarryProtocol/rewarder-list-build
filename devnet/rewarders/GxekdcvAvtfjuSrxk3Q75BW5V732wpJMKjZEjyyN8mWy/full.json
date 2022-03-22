@@ -14,7 +14,7 @@
       "quarry": "FgcGfCSjwy34eVhEypWhbW8o5Y6Y24JfA1HntMMRczPf",
       "replicaMint": "8QHi2zwyKLRyzsvzDGDBPj4QsxmpQBqbYxKYHV2hDhi3",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hnvhq",
       "stakedToken": {
         "decimals": 6,
         "mint": "HnVHqrQtRtzxgPMPV6JEQEVjJjCJFb6T2EgoTfXwsCsw"
@@ -32,7 +32,7 @@
       "quarry": "7iNf2SfMxPbQyRqynA5mdZCFDyftpcfV4gZFGgNgjLWP",
       "replicaMint": "7T1Sjd2mKsUdSemt48VpedDzfJUASev68BDR6KfaBWpm",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "zdmuc",
       "stakedToken": {
         "decimals": 6,
         "mint": "zDMUcs2Tq2i6FaCXss45fwUG7sAMP92CSJ241Gk7kJn"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HDzpTUWJ6ToseMXR5Fu9ixYrFjAJ1KkMaLqqkY4wsDY2"
+  },
+  "rewardsTokenInfo": {
+    "address": "HDzpTUWJ6ToseMXR5Fu9ixYrFjAJ1KkMaLqqkY4wsDY2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HDzp",
+    "symbol": "HDzpT"
   },
   "slug": "GxekdcvAvtfjuSrxk3Q75BW5V732wpJMKjZEjyyN8mWy"
 }

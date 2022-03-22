@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5TaKHaXfX5xkFguDcHxHCXc7s7w2D2LS4MKZLxXLVY73",
-      "slug": "0",
+      "slug": "8nsij",
       "stakedToken": {
         "decimals": 6,
         "mint": "8NSiJkqJeKSX34HCdnT8souSCsNZgpGNVvRRQwKezWgT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "Hb4MbFEFtTMc7VSEwaAu46U9ZtDckdNubg9tjW1onTPa",
-      "slug": "1",
+      "slug": "eq5ly",
       "stakedToken": {
         "decimals": 6,
         "mint": "EQ5LyEiSQMWUKcZvniXod8R7VNHwWsVCL4rkGMKtSJkR"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3PVDdNdX7MjMEGWTDWKRkaS5CNzvDPo1rgoNdNAV2TBP"
+  },
+  "rewardsTokenInfo": {
+    "address": "3PVDdNdX7MjMEGWTDWKRkaS5CNzvDPo1rgoNdNAV2TBP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3PVD",
+    "symbol": "3PVDd"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4SpuX9scBdAXM3xHsH3Vbz4jzPg43ShnVUnFu2UWx93u",
-      "slug": "0",
+      "slug": "9mwyz",
       "stakedToken": {
         "decimals": 6,
         "mint": "9mwYZ7DZ2nd6rKcGhzuddHrbtxZ5gxsm8gt1NWh515Tn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2GeNABrnqpiHkKY43cbdrMx2825u2szaSk1vyZYoFkN8",
-      "slug": "1",
+      "slug": "9yxoc",
       "stakedToken": {
         "decimals": 6,
         "mint": "9Yxoc9gbLx9wiSD55a8QTTJwezcsmLX8szVMQE5i31ph"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FGidy52fFpRUMsC8dYmPeJjjMeMdd5cb8iJG4TLdEuDd"
+  },
+  "rewardsTokenInfo": {
+    "address": "FGidy52fFpRUMsC8dYmPeJjjMeMdd5cb8iJG4TLdEuDd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FGid",
+    "symbol": "FGidy"
   }
 }

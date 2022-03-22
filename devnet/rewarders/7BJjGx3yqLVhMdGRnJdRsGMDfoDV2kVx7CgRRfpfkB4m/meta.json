@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "tgfmo1b37PxLmwZDoodzHPJZsLe4A5YCG5RguL3gFZZ",
-      "slug": "0",
+      "slug": "h188d",
       "stakedToken": {
         "decimals": 6,
         "mint": "H188dQ7ei9jckX5yiBMg4R4XKcm5wJn2DeLniAGx69es"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "4c5TnksSk5ziTuMvoknFFr8X1ivVHffkZbd4ZtcWewEr",
-      "slug": "1",
+      "slug": "f7rxd",
       "stakedToken": {
         "decimals": 6,
         "mint": "F7RxdcyTRZnoJxjpqydd4zMpzTHKGKUKo1kHdxArMg88"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "cakCPtRunWLQPAsqMN2cPoTjtmiKatCezUCYPWhkzLF"
+  },
+  "rewardsTokenInfo": {
+    "address": "cakCPtRunWLQPAsqMN2cPoTjtmiKatCezUCYPWhkzLF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token cakC",
+    "symbol": "cakCP"
   }
 }

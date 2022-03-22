@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "A7UHqc548goPzNeVrJGqasC26TWoBaPxjKK4Cn8Kwjae",
-      "slug": "0",
+      "slug": "a8fjj",
       "stakedToken": {
         "decimals": 6,
         "mint": "A8fjJK89dVf9qL3UhDbRtWHkary7fqQsvQkJcELCpT12"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9LkvK1sdhpeWoHLfdfNPBJFaGMu3PhC6twgJ9mrXxyMs",
-      "slug": "1",
+      "slug": "9789d",
       "stakedToken": {
         "decimals": 6,
         "mint": "9789dSWBRLGAjpxRJnNZMUFst75VBQ9xGysYzTvfXuhT"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FYVgPgGVqWZM9VNgY3voE7SVKwAtVsgmAyvUjf6dKZHn"
+  },
+  "rewardsTokenInfo": {
+    "address": "FYVgPgGVqWZM9VNgY3voE7SVKwAtVsgmAyvUjf6dKZHn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FYVg",
+    "symbol": "FYVgP"
   }
 }

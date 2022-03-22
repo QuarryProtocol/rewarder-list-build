@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Bcxhvz3GM9wpb7jH7DY4sw7i9nf8xLNteDZGtGxN2XWC",
-      "slug": "0",
+      "slug": "hz3ku",
       "stakedToken": {
         "decimals": 6,
         "mint": "HZ3KuAByD7PRWarGky2j3EceH9XeCf1m6MhsDdzKyEfA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2gfMkJbXvD69QrK325Aguv57aWpA7xCMZdjtgbbd5x1h",
-      "slug": "1",
+      "slug": "huebd",
       "stakedToken": {
         "decimals": 6,
         "mint": "HueBDZFtuYSjjEXPQsQXnCPJMiTmVjQiNuociWdr7KtH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6oCM2Z84NztJZ7yLV97GHLtLEUoNLgVGryNcBJRikfHn"
+  },
+  "rewardsTokenInfo": {
+    "address": "6oCM2Z84NztJZ7yLV97GHLtLEUoNLgVGryNcBJRikfHn",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6oCM",
+    "symbol": "6oCM2"
   }
 }

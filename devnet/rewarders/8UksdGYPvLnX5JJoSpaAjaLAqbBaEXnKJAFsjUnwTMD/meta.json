@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DMoMPUruNttScH6rYv2r5GZfgogNwtCNRhhSejeesLjN",
-      "slug": "0",
+      "slug": "crkgy",
       "stakedToken": {
         "decimals": 6,
         "mint": "CrKGyBDsGwXKTNh4Rw8b8WZMTjqro5Ex6KHeHLFyZPfs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2rohejmoGotttb3bm4ZQacrC3nMfQBGA9icm2coDTktU",
-      "slug": "1",
+      "slug": "9ntba",
       "stakedToken": {
         "decimals": 6,
         "mint": "9NTbabdNDfcfJXxMUXuMBARbb3gfohxZAFbk4QYUkpQD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6izMra1zx2nFLZKueaXn7fuXpgcZdJrkec3Zqexc1wD4"
+  },
+  "rewardsTokenInfo": {
+    "address": "6izMra1zx2nFLZKueaXn7fuXpgcZdJrkec3Zqexc1wD4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6izM",
+    "symbol": "6izMr"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GHqAHxveqD7qT4nBe9PVWnj1rzZLnkgEutBW4ETm5ona",
-      "slug": "0",
+      "slug": "3tdlo",
       "stakedToken": {
         "decimals": 6,
         "mint": "3TDLoCspzf8MhQqki8rvZJ4fAA4t5dE8osStCnpCmCDw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5Kk2gwwcwbHaDZTtHuGXa9qaUppo5mGoP9nnfnVUcGDq",
-      "slug": "1",
+      "slug": "5iarj",
       "stakedToken": {
         "decimals": 6,
         "mint": "5iARJuMX1CqANWm5ZSYQwptGZc4u1KTyTXuN4x3SXP6q"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5jicAsNsaXGH8v3HUHUSYHfNuWLKUkdK3VME55k4LcVa"
+  },
+  "rewardsTokenInfo": {
+    "address": "5jicAsNsaXGH8v3HUHUSYHfNuWLKUkdK3VME55k4LcVa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5jic",
+    "symbol": "5jicA"
   }
 }

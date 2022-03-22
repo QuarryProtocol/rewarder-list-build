@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Fw9tUDuS6d26ABp7W4xo51k9VzHW7P5Av97tsgf4LagB",
-      "slug": "0",
+      "slug": "7vkxw",
       "stakedToken": {
         "decimals": 6,
         "mint": "7VKxwB5wTbhqSTGgiE4AfnjLfpcTVKiDy4ye4LNDDyJi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HUHT3MPuSGaQ2QWjZDRR8aoZ4zU9mdnjpqYTqJdGepMk",
-      "slug": "1",
+      "slug": "dkjea",
       "stakedToken": {
         "decimals": 6,
         "mint": "DKJeaaSKt33piEAkJe8HyQayrvBHYPu5HZ91UhjFDekS"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "533YNhL7QTiKXWzmwMrYB3WvVn3UP3nB4AkoV69faqDa"
+  },
+  "rewardsTokenInfo": {
+    "address": "533YNhL7QTiKXWzmwMrYB3WvVn3UP3nB4AkoV69faqDa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 533Y",
+    "symbol": "533YN"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "vAAUv7SUjqTAnjSkryeR7zTza1RV4PqnPz3pgMUchZ7",
-      "slug": "0",
+      "slug": "hfx77",
       "stakedToken": {
         "decimals": 6,
         "mint": "HfX77sA2eocWwSKiDk4hFFBjCCdTGJdQntJHH6EgmJ67"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "27ZexaBRLqR8GHaXDNtJ84h8HgVipT5haocuJyLhQC2b",
-      "slug": "1",
+      "slug": "c8nar",
       "stakedToken": {
         "decimals": 6,
         "mint": "C8NARGpdeE9gKAhjuKmMNrD7aSSyK7iDsA65veN2CEUX"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4K57ba8CjDnEssrkTtytCP9ELhZdpT9Xc3fKUo7kkxJS"
+  },
+  "rewardsTokenInfo": {
+    "address": "4K57ba8CjDnEssrkTtytCP9ELhZdpT9Xc3fKUo7kkxJS",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4K57",
+    "symbol": "4K57b"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DyLvLpSJk66RwBoWzwK1ich8QmXuTAnLC9NmaVCakByG",
-      "slug": "0",
+      "slug": "hcihz",
       "stakedToken": {
         "decimals": 6,
         "mint": "HciHZkdaQneB7t3hSD19TiYv4VE6x9HynuFDEU8YKWAe"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EpNMCku2VX6fuYuqnTqEhr5zWHPFkTi4CcCGL5ctqUJ5",
-      "slug": "1",
+      "slug": "36xac",
       "stakedToken": {
         "decimals": 6,
         "mint": "36xACMqe8yxvMSkboxBUVtygxVo51Z8NfremLQzw816b"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DKLKo9foGS35eRwnZibExQoUJ59RfXtcC7CRTogRVYTM"
+  },
+  "rewardsTokenInfo": {
+    "address": "DKLKo9foGS35eRwnZibExQoUJ59RfXtcC7CRTogRVYTM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DKLK",
+    "symbol": "DKLKo"
   }
 }

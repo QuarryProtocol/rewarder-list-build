@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GBgqcsDqb2mFzSeXnhLSoXoE489sR321HAq3KJsHzpef",
-      "slug": "0",
+      "slug": "5imed",
       "stakedToken": {
         "decimals": 6,
         "mint": "5iMEdzW7sjYc26gVvJVefkVA2PaC4K5CJh8nhi9PhQcH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "F8cVWyzuyDRmzwrXW2oXGo1AruDZanqNMcorYpkySUt9",
-      "slug": "1",
+      "slug": "8nkzv",
       "stakedToken": {
         "decimals": 6,
         "mint": "8nkzV54PgLuKrF3U6bE8sTZaPrXfhnKAGeNTCcB36PLQ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AKsXzPrqYpfRdj8sv7HnSmcsDLw24BRHGURw8mocK9ro"
+  },
+  "rewardsTokenInfo": {
+    "address": "AKsXzPrqYpfRdj8sv7HnSmcsDLw24BRHGURw8mocK9ro",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AKsX",
+    "symbol": "AKsXz"
   }
 }

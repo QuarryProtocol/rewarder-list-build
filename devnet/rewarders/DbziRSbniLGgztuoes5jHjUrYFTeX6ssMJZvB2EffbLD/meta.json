@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3qKg4VwcGSEijbFRFKiVUjRtAQotG1k8cJcC4BocfHgF",
-      "slug": "0",
+      "slug": "8u3wu",
       "stakedToken": {
         "decimals": 6,
         "mint": "8u3WuxYFbf91Pf5veEgftq5eU81di8kf5iMJH9ry9SJw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6zoKtAMmUyj8cE8hS5o85YUoi1Z7ZURWS9gP6ZSrSKCR",
-      "slug": "1",
+      "slug": "atxrb",
       "stakedToken": {
         "decimals": 6,
         "mint": "AtxrbFnWAVBoEiuvuUpAJ8Ev6p9AbHuvXPuHN5wEWpVW"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "767nVHkS9buG39YtBGvvxbjuenkRnWTpdp1thD4RKeMs"
+  },
+  "rewardsTokenInfo": {
+    "address": "767nVHkS9buG39YtBGvvxbjuenkRnWTpdp1thD4RKeMs",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 767n",
+    "symbol": "767nV"
   }
 }

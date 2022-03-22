@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9bj9yzzGtrFUdPiKDBEyKk5Ao17vm9SBjPhxHxwjHUTy",
-      "slug": "0",
+      "slug": "5x5ey",
       "stakedToken": {
         "decimals": 6,
         "mint": "5X5eYMmBPZvwz7RQ8hEw3HK74WyUJt3cY7t2EovyUwfZ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3Z7iupgmkhktDHUYV8vXiLgKB2Ya6puvbcfT7Mo6TwJs",
-      "slug": "1",
+      "slug": "99fkv",
       "stakedToken": {
         "decimals": 6,
         "mint": "99fkvsbXEdfFgVYVHGVfecL5xwVyDupCAVGuPraHjcZ4"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "w2ZCcBqW8T8GppVoG3ochCv3zP8k2vFokASJLnUursF"
+  },
+  "rewardsTokenInfo": {
+    "address": "w2ZCcBqW8T8GppVoG3ochCv3zP8k2vFokASJLnUursF",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token w2ZC",
+    "symbol": "w2ZCc"
   }
 }

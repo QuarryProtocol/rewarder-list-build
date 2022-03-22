@@ -14,7 +14,7 @@
       "quarry": "3aqjE6GL8MwsBZNSzRqBz9oLWd1HYHYyYaEBb3uke9tK",
       "replicaMint": "5wEapErGuDmWnPTxbDpHNFRiDY6vazDKR6VGUAxMTmZ3",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "hkrny",
       "stakedToken": {
         "decimals": 6,
         "mint": "HkrnyDed7Pnc7qjZwHP26nn85o7w1hWeDbaJka8mar7r"
@@ -32,7 +32,7 @@
       "quarry": "GeVCR82xPcyTDpU4mscNpS76byqKRkUkXYw9HZqU7YP7",
       "replicaMint": "fjQax966b61sCofiYBRVJ1dDxBeDi6JxvpjeSH1X8Aw",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "3eyp8",
       "stakedToken": {
         "decimals": 6,
         "mint": "3eYP8PMN7G7gC3ccXpZYN23kqT87a3ZwwNeuhndm7uaJ"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5N9orfNLhMNnmgMGAuDbLaUFDDCG1Jj28RXCfMbxHqXp"
+  },
+  "rewardsTokenInfo": {
+    "address": "5N9orfNLhMNnmgMGAuDbLaUFDDCG1Jj28RXCfMbxHqXp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5N9o",
+    "symbol": "5N9or"
   },
   "slug": "Eg4ErBT6tSN1ufHPFpsYHVN4g9gAmM4M3QobeXeQAMDQ"
 }

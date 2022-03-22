@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "dRwtP5Atcj82sE9yV3gHboqbZMxZc8NNFfoy1XxcM1o",
-      "slug": "0",
+      "slug": "usbky",
       "stakedToken": {
         "decimals": 6,
         "mint": "usbKYMjuLXv63eyL864VaiBZ3EnNWWHG3GPr7zh8T1U"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "58BSDNXoFskizegHWZ6W96h8d7CHtXSWtTmHXebjPGHy",
-      "slug": "1",
+      "slug": "3ysjr",
       "stakedToken": {
         "decimals": 6,
         "mint": "3YSjRsiyJwKXg4DU8GCjmwGf9Pg5rxnLU1AacdaE19f7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6tYYBUHxz2h8kUvZVt99cf6DZYa9kzvEsHFnvRFRqfrd"
+  },
+  "rewardsTokenInfo": {
+    "address": "6tYYBUHxz2h8kUvZVt99cf6DZYa9kzvEsHFnvRFRqfrd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6tYY",
+    "symbol": "6tYYB"
   }
 }

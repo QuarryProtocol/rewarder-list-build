@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "H9f1HWvbtbkErHWyLPKweWPpauDLa55vnqXhHnqPwUNa",
-      "slug": "0",
+      "slug": "3jubs",
       "stakedToken": {
         "decimals": 6,
         "mint": "3JuBSyN6ZTakj7ga8JMLQrp8ksZCaRaPwKfdVzVoqUiG"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CwJ8okJPDEtabJNvw5TRZrSveAyMuNwHbwt4rzucvdqK",
-      "slug": "1",
+      "slug": "ej8ak",
       "stakedToken": {
         "decimals": 6,
         "mint": "EJ8akWBC466cCXH5hb6MYJx5XmVdGrqvF1xvhRBQ94S"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5BVsTHqmejunWBpaguwEkp8RAW6A2JtZxBGQXCm8rUj4"
+  },
+  "rewardsTokenInfo": {
+    "address": "5BVsTHqmejunWBpaguwEkp8RAW6A2JtZxBGQXCm8rUj4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5BVs",
+    "symbol": "5BVsT"
   }
 }

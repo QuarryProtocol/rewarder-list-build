@@ -14,7 +14,7 @@
       "quarry": "BbH348XvNCuQAgVZER7RCijPwNiyeaYnVDECVdN6EEpE",
       "replicaMint": "DYheVkJ8GRGdtpGPZJUqvfHuAW58LtVW5ANsuFzQXP6v",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "8ev57",
       "stakedToken": {
         "decimals": 6,
         "mint": "8ev57w5b9NQ54U6SB9gtMAY3QLE26wTGV77tB94TEwoj"
@@ -32,7 +32,7 @@
       "quarry": "Dy55xNyrE35eEwHHtXu8SfgaVCkeacKNUmiMFidznAsv",
       "replicaMint": "J52RC9SpK6hAEtAeP4HAR4FFppr5ENFPKrnJjPqqbShP",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cvqsf",
       "stakedToken": {
         "decimals": 6,
         "mint": "CvQsFV9qP1GEcwsVCvhBBtBPwnq2nxvPcYGshZSH8ES3"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AeM9TBouNVJT46MSZ11Bxw6e1vq1AHRX9vdbKtk3cwh9"
+  },
+  "rewardsTokenInfo": {
+    "address": "AeM9TBouNVJT46MSZ11Bxw6e1vq1AHRX9vdbKtk3cwh9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AeM9",
+    "symbol": "AeM9T"
   },
   "slug": "DVA9j7rWASgz2xFiSwkrxnKcxETRFHoniKpLuEttcPwU"
 }

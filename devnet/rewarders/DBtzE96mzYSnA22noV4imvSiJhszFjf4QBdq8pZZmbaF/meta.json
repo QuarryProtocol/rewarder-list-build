@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DRi7kwyqi3WhYbhvXt4yvmhhm9tMcEeiVbCS1JiAFLp",
-      "slug": "0",
+      "slug": "3s9et",
       "stakedToken": {
         "decimals": 6,
         "mint": "3S9etipSF3VWf62BHRPaL6Hn5h6PEYkDTFLYrHi8HrTv"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "BkdW3TjjV4frXBC5v7HAGTkaSfh45X1pYcMqzW5jy3c",
-      "slug": "1",
+      "slug": "4ogrh",
       "stakedToken": {
         "decimals": 6,
         "mint": "4ogRHts4V7FeZK8jFjjbpRL5dwxfVE42TwiJ7s5REHEr"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HeXwa7rT7PU3qZURq4WgXi9ZBk1B9j6Fyjg8qrwtuxm2"
+  },
+  "rewardsTokenInfo": {
+    "address": "HeXwa7rT7PU3qZURq4WgXi9ZBk1B9j6Fyjg8qrwtuxm2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HeXw",
+    "symbol": "HeXwa"
   }
 }

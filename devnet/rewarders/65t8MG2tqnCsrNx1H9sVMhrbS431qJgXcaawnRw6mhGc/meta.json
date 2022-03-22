@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6f3RtuNyS9Zdd3e3yWQsYyNduAWJytTEo1KWhiUufNJM",
-      "slug": "0",
+      "slug": "aa52k",
       "stakedToken": {
         "decimals": 6,
         "mint": "AA52Kwm2DrJS1nsMYZapbZg5o9a3SDD5cdo5wfGZSd24"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "E1GYwSk3YEjzgzMauC7mzRPr4PJzb2i22nqwasxYuHdG",
-      "slug": "1",
+      "slug": "31fcj",
       "stakedToken": {
         "decimals": 6,
         "mint": "31FCjECUGw5YBWqsPmDPRQPUDqeSUrQmUfr3Tk8wHu6c"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2c96YpgRXYfMYYyPJhZUDYXGexo3n16imco4SgvAatig"
+  },
+  "rewardsTokenInfo": {
+    "address": "2c96YpgRXYfMYYyPJhZUDYXGexo3n16imco4SgvAatig",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2c96",
+    "symbol": "2c96Y"
   }
 }

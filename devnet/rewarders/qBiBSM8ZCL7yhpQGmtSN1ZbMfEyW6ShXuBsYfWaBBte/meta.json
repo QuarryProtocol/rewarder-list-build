@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "E29DMXt2MPPbCUC9K64tRMQgToCCEPeRMjxsAfF2xLSW",
-      "slug": "0",
+      "slug": "hsy2c",
       "stakedToken": {
         "decimals": 6,
         "mint": "HSY2CPBHKzD1qiePTZmrifQijaLWr3eP9kfGEP1hmbKH"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2GFKnUBXE9E4t9B3n6jLNZ7j58KFf275nXxJP74z7fuX",
-      "slug": "1",
+      "slug": "f6sdr",
       "stakedToken": {
         "decimals": 6,
         "mint": "F6SDrgWf7pMhE8vKCTWDjeohmrcXjWm7jqQJk2XD5Joq"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ZrRB3rm3QiTJ2TW6kutUbrZcuQfvc9b6fUGGhXUbQ6j"
+  },
+  "rewardsTokenInfo": {
+    "address": "ZrRB3rm3QiTJ2TW6kutUbrZcuQfvc9b6fUGGhXUbQ6j",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ZrRB",
+    "symbol": "ZrRB3"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HmbYem2Mc8qKPzWwkWF5suRpozVxQzWZVUEyccM9Mcj8",
-      "slug": "0",
+      "slug": "beqmf",
       "stakedToken": {
         "decimals": 6,
         "mint": "BeqMfmNpRHrXfpUYM6UE4xp1BpJ7FtN6f2oydM3ZVaY4"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "HzyaajR8nGTVvRo9hTTqaLAzQqe8QtJg1hvNA7yGJW8U",
-      "slug": "1",
+      "slug": "bvxev",
       "stakedToken": {
         "decimals": 6,
         "mint": "BVxEvqnhWYWDbSXUSjrsGPDvJmQfSHbSou6EUAk2G42h"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "42KTLuNaGM7u1fVqBHhq3AmQMYVLqGLHgSMy3bigD6Bj"
+  },
+  "rewardsTokenInfo": {
+    "address": "42KTLuNaGM7u1fVqBHhq3AmQMYVLqGLHgSMy3bigD6Bj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 42KT",
+    "symbol": "42KTL"
   }
 }

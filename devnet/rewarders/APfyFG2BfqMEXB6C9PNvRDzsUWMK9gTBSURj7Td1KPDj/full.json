@@ -14,7 +14,7 @@
       "quarry": "F8YxJ5VCUQWTwxh4o8SXJ5RA4Ko6FvJxpvtVsYiEfeve",
       "replicaMint": "5oAv2PNVP5LD9pBCdaRTZDs1eUaWhMKBEGisKdJMngyZ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "4h2yp",
       "stakedToken": {
         "decimals": 6,
         "mint": "4h2Ypfx5GKLMAhcm1L8fL81xSot9rzUi47Se8v7Cx2dz"
@@ -32,7 +32,7 @@
       "quarry": "FHrFBkr4sjfnBRzaWtaiMx7gpktaNYVUe1CHgooHZD7V",
       "replicaMint": "3ibYqgCthPgSDRJja1atVffxMMaoQPa5jozLkx3ta3Wd",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5pfdx",
       "stakedToken": {
         "decimals": 6,
         "mint": "5pfdxEnQaVxuYH2kNRU3KXwfFKdY1bboy4H7Ekqx68yo"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FZEV9wSMfozWgXtvappnJx49YYuKyuZ4MMECyeBLSo2b"
+  },
+  "rewardsTokenInfo": {
+    "address": "FZEV9wSMfozWgXtvappnJx49YYuKyuZ4MMECyeBLSo2b",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FZEV",
+    "symbol": "FZEV9"
   },
   "slug": "APfyFG2BfqMEXB6C9PNvRDzsUWMK9gTBSURj7Td1KPDj"
 }

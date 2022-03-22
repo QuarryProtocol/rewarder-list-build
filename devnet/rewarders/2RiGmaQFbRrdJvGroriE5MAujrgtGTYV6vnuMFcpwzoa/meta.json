@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "56fQXvFdBwDmrakYZ51bY2VgMdgpiSc5L4VMvzCqpuhU",
-      "slug": "0",
+      "slug": "2fmja",
       "stakedToken": {
         "decimals": 6,
         "mint": "2FMjatSRdSjT6hSGxyKASGdrKSFoaj8JmsFsv1QTo1iT"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FXCxY6kJm2U77XrK6PBPs7cqPu93xqBp824t5uZaBCm1",
-      "slug": "1",
+      "slug": "fc5lc",
       "stakedToken": {
         "decimals": 6,
         "mint": "FC5LCeRFmjjVZwwn6bWc676UVYiCXyNzddKzh77jBhvH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BbMSchViWPM8BDLESAq4fyuP8bBFKo1GXHqity6nGoFB"
+  },
+  "rewardsTokenInfo": {
+    "address": "BbMSchViWPM8BDLESAq4fyuP8bBFKo1GXHqity6nGoFB",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token BbMS",
+    "symbol": "BbMSc"
   }
 }

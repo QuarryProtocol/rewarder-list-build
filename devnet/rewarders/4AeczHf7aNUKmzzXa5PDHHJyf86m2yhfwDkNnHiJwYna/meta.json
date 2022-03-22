@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "ayeiRetfXvwGksgEVsPXbeL2ZzGg1oEgPDfNXtKtKr8",
-      "slug": "0",
+      "slug": "92h6y",
       "stakedToken": {
         "decimals": 6,
         "mint": "92H6YYrxdQHadmeMixdD8W2XcJnYpW5wdhEfC67zPbKQ"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "26v9MftCCEoR3kaNupnM1fqti2CrPqwRcqttDQgSSQNW",
-      "slug": "1",
+      "slug": "dhrkt",
       "stakedToken": {
         "decimals": 6,
         "mint": "DhrKtUszCg3Kaa9MDK8HZBSyYqKXS5mPJ1LXh3PEZZmk"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F9xnJsGt8tp4bDpDT2cApeScof8Cs1dF1wwx2qFq7f8a"
+  },
+  "rewardsTokenInfo": {
+    "address": "F9xnJsGt8tp4bDpDT2cApeScof8Cs1dF1wwx2qFq7f8a",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F9xn",
+    "symbol": "F9xnJ"
   }
 }

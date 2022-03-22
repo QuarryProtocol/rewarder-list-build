@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FeD8J3BNPtT3yYCg6DtwMLGtgHLWHRGu4ARcn4KqC4wi",
-      "slug": "0",
+      "slug": "akqk2",
       "stakedToken": {
         "decimals": 6,
         "mint": "AKQk2bQYgEa4bzRVDSLeBaBe7DHrN6sqpLdbW3g8NAuN"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8bfWU7e59WpwCLU33CwzbXFZ39r2BWJ6XCXRuexAwZnu",
-      "slug": "1",
+      "slug": "bwrjd",
       "stakedToken": {
         "decimals": 6,
         "mint": "BwRJd3DSFS5FfUZcbxR2DDpqezTWmNVQr8HmSWcgJqGE"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DiUuDudUhcuk1f5Sn7zPEkM3DiohbsSVcsxF7Pz72W4e"
+  },
+  "rewardsTokenInfo": {
+    "address": "DiUuDudUhcuk1f5Sn7zPEkM3DiohbsSVcsxF7Pz72W4e",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DiUu",
+    "symbol": "DiUuD"
   }
 }

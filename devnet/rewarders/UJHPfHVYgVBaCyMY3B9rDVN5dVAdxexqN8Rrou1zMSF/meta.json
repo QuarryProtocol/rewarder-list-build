@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3M44kke9H5QsBAhpcBwKD9R3m2oyNK1szYdqjpsW4qio",
-      "slug": "0",
+      "slug": "2fvbk",
       "stakedToken": {
         "decimals": 6,
         "mint": "2FVBkC63BBpqrYa6mTGu9SGtt7MVN7Aycb19ie8VreWp"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "DH3u4Pkva6K5YXxct3B6snDyMjQPDZ29XxzJbtPdkUuc",
-      "slug": "1",
+      "slug": "dwh6s",
       "stakedToken": {
         "decimals": 6,
         "mint": "DwH6Sq9TFf2i9Huzq4PRaDKjGCxrXpcro2J18fL6oMuJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E16K7Rryih8csq34M97SnrcEWn29D3rafbp6BL2iEphe"
+  },
+  "rewardsTokenInfo": {
+    "address": "E16K7Rryih8csq34M97SnrcEWn29D3rafbp6BL2iEphe",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E16K",
+    "symbol": "E16K7"
   }
 }

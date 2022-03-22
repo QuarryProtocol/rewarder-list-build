@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FBLCiWnhqW4W2qAw6FmfFH12MqMV46dXzxMxtL8NZ2LE",
-      "slug": "0",
+      "slug": "cejsf",
       "stakedToken": {
         "decimals": 6,
         "mint": "CejSf2ut7gNh9dEeVbHwnidSBDZBJN45CGuyg6destwr"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GcrfcqKGerCbLdDPkxSXSabF8zMWYriVGYmqpaNNappB",
-      "slug": "1",
+      "slug": "hjj6t",
       "stakedToken": {
         "decimals": 6,
         "mint": "HjJ6Tn5pawy2CBpGCwW14KnpkMHp9yJynzkY2DBttXx7"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6F1L1xVaViCeZqPG1P7xfBjtwWVkhzSxP9QfKT3UAVpP"
+  },
+  "rewardsTokenInfo": {
+    "address": "6F1L1xVaViCeZqPG1P7xfBjtwWVkhzSxP9QfKT3UAVpP",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6F1L",
+    "symbol": "6F1L1"
   }
 }

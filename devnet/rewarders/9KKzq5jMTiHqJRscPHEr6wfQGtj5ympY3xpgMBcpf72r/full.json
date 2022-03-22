@@ -14,7 +14,7 @@
       "quarry": "3k7rfwnnmRVXFJLWYFuJ6FoyKyyti4RgejJg2vxL8x6t",
       "replicaMint": "4EWgnpim4NskETo2CMhtZcgg22azfKSjCHzxmXhDRuJL",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "lm1wf",
       "stakedToken": {
         "decimals": 6,
         "mint": "LM1wFgvrUa8LmjHrfWnE5S9TEimQJeGWDPBHostuRZF"
@@ -32,7 +32,7 @@
       "quarry": "3rAs3XJJtpc2Cb6ygUz9Uz3HZRKEqgnE9tvzk7DYngk2",
       "replicaMint": "Ujf8pp74uPtteLSgoviWSRoLHeyxDJK14r4R3HKbE8B",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ddtbn",
       "stakedToken": {
         "decimals": 6,
         "mint": "DdTBNx3g4amSd6ZmCQ4yTaWozLM9KgvDAAfuR4wKoDf9"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FHygW9LuGGNzZZvy745AMKrpv887d9mHm4twSkKcqm8k"
+  },
+  "rewardsTokenInfo": {
+    "address": "FHygW9LuGGNzZZvy745AMKrpv887d9mHm4twSkKcqm8k",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FHyg",
+    "symbol": "FHygW"
   },
   "slug": "9KKzq5jMTiHqJRscPHEr6wfQGtj5ympY3xpgMBcpf72r"
 }

@@ -14,7 +14,7 @@
       "quarry": "EGzmgcBBvxqMEfvpRrrnC6qhHs2zLfNuLnuU4f6X81aK",
       "replicaMint": "DfUfeg2LvV3MzHY15Vkqb6a3Ce29Cy5iTwsNdARKKBGh",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "abkbu",
       "stakedToken": {
         "decimals": 6,
         "mint": "AbKbUWNHET97L3GHwRpk8qVjwtC9LEudT1Zrr7nuqs2V"
@@ -32,7 +32,7 @@
       "quarry": "62JjE7x5kVcpF3zan6uFaR6K47WWke9Xj4AS63Xj15Ls",
       "replicaMint": "2cCNzp3SHyyT1UGTbtkfY5hQFeXRcwUfKxXvcApJfWf5",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "anjun",
       "stakedToken": {
         "decimals": 6,
         "mint": "Anjun7ktUTaBspLBvdiLWk4cQ9kS8AKHAN7pyJhkwEqQ"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "62M2obNQ8RJf2GEJmFXEHVHAQLsSUxE5tr6LWXNprmdK"
+  },
+  "rewardsTokenInfo": {
+    "address": "62M2obNQ8RJf2GEJmFXEHVHAQLsSUxE5tr6LWXNprmdK",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 62M2",
+    "symbol": "62M2o"
   },
   "slug": "3MWdreSC6twck5VJFcJXCLPtSDQU6oxh3exchVwdBadY"
 }

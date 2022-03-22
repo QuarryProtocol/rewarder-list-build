@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "53yPAs1tScqUBqpiD3VBawLSMHM95T4a6ipiL4aPZyHU",
-      "slug": "0",
+      "slug": "2xtz1",
       "stakedToken": {
         "decimals": 6,
         "mint": "2xTz1wQSGJvbUR7z5ZkVY33dwwRhszL99pFDRmDcg8ch"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2xTz1wQSGJvbUR7z5ZkVY33dwwRhszL99pFDRmDcg8ch"
+  },
+  "rewardsTokenInfo": {
+    "address": "2xTz1wQSGJvbUR7z5ZkVY33dwwRhszL99pFDRmDcg8ch",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2xTz",
+    "symbol": "2xTz1"
   }
 }

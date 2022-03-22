@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "bzx2t8cxARAZfvdPCHSxbYNfP8eUMeremD5AbHCC5JG",
-      "slug": "0",
+      "slug": "fr6fg",
       "stakedToken": {
         "decimals": 6,
         "mint": "FR6FGpH6x8wbbgCgy8vgyXVo1BPxREJV9vm3qcnCbz9w"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CmoUeV3gMVjVoyerFCaFYGER67R5jw83j92u7VnZEUnK",
-      "slug": "1",
+      "slug": "h6pzc",
       "stakedToken": {
         "decimals": 6,
         "mint": "H6pzcfaE8Yjq7doGRdawLr5BSzNEy5VhdGKD3Aj8hZPP"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9pAzGFspNx56XqNA7dcT4eucPwPfzuE8vDM7a4yTF6uW"
+  },
+  "rewardsTokenInfo": {
+    "address": "9pAzGFspNx56XqNA7dcT4eucPwPfzuE8vDM7a4yTF6uW",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9pAz",
+    "symbol": "9pAzG"
   }
 }

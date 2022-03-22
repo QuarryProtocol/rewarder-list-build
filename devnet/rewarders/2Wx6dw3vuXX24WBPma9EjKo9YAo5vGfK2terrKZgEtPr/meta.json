@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EjJDjVnGAvncy5LtYi7f7un864iEo8pPuFzk8iJXEPTh",
-      "slug": "0",
+      "slug": "ddjrx",
       "stakedToken": {
         "decimals": 6,
         "mint": "DdJRxuGPGyggJwabruy66wjoKhrtvGvz9ByDCV533NqY"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "3UDRyTz5ggEvyw3jXQaZTHmQ1PSvsTZvR2w3Sem1PmDV",
-      "slug": "1",
+      "slug": "hcrji",
       "stakedToken": {
         "decimals": 6,
         "mint": "HCrjiWVF54rcPkRmnLGbd9aYtTcPZ6mxkUqUUKruxHNG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4MRfL8Wcvx6UUa68pDHaCZequoDnpfdGsf12fVvqzLdb"
+  },
+  "rewardsTokenInfo": {
+    "address": "4MRfL8Wcvx6UUa68pDHaCZequoDnpfdGsf12fVvqzLdb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4MRf",
+    "symbol": "4MRfL"
   }
 }

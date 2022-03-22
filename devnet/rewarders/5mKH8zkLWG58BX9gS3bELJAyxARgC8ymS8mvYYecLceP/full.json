@@ -14,7 +14,7 @@
       "quarry": "DQ1cAwCmgwarzCuYiF2WqHEHFAjPCjaYboqMotcCKipT",
       "replicaMint": "DswX7yiTvsk2CQWmzFLvodPrEgca7Y5aNkYtYDCEX9qU",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "qxjuh",
       "stakedToken": {
         "decimals": 6,
         "mint": "qxJUHnNo3yVwzaPcEhmdMuNeeseDeqHg7yt7pyYpGgz"
@@ -32,7 +32,7 @@
       "quarry": "9653ySCDTca1zF1698s3Ym72DrdzQtVS1FaWWLri5sbP",
       "replicaMint": "8Z3xsFEQQ3z5FyEcx39f4D716ZZtot3yJtvPd7eLBAG1",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5nbcm",
       "stakedToken": {
         "decimals": 6,
         "mint": "5NbcmosWhfS1fpeyZa12Q5hNvmHysEv16bK267sfkrNu"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GHd5aoFfbDtHvkh7HuvZj2go2gFKtzfP4qMfhXUxypPQ"
+  },
+  "rewardsTokenInfo": {
+    "address": "GHd5aoFfbDtHvkh7HuvZj2go2gFKtzfP4qMfhXUxypPQ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GHd5",
+    "symbol": "GHd5a"
   },
   "slug": "5mKH8zkLWG58BX9gS3bELJAyxARgC8ymS8mvYYecLceP"
 }

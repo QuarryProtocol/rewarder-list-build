@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GhPmYycwzgsnaLmpigryQhPszyghrdBAfaCJx3n97yU3",
-      "slug": "0",
+      "slug": "ajw4r",
       "stakedToken": {
         "decimals": 6,
         "mint": "AjW4raab6LmdpqY1tQKHu3cV7Gx3ZoVzEsURRm47jtac"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "2c5VQ44kbLaC1awyfHwY8zkkdTQLoK5rW8rUBUgAFPCh",
-      "slug": "1",
+      "slug": "dh2hc",
       "stakedToken": {
         "decimals": 6,
         "mint": "DH2HCy9zDhfkjuwnFZf91aJUABTsLVWNcP34LnhYVGuo"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3YnwTnn6M2yLMoEFUBo947cQKsdXuxADu7SgcBbuGecc"
+  },
+  "rewardsTokenInfo": {
+    "address": "3YnwTnn6M2yLMoEFUBo947cQKsdXuxADu7SgcBbuGecc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Ynw",
+    "symbol": "3YnwT"
   }
 }

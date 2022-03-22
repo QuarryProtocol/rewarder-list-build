@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HdUoxuMKF4NQjhCLN6b5YSrQcTW3XUWwHERiiNEX3fEe",
-      "slug": "0",
+      "slug": "fkse7",
       "stakedToken": {
         "decimals": 6,
         "mint": "FKse7ub8hKhN19PBdUtKeeULuNRdLovCdVCDzNdbwZNn"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "7wG7Pukh3NrtirM58aU8RGabcFKE4eZ6cMRDW6NeMDL9",
-      "slug": "1",
+      "slug": "bta4s",
       "stakedToken": {
         "decimals": 6,
         "mint": "BtA4sVdSiZTVQXU9TtegHku32G7QCYVgF4sa8YfqgTX6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HmG7mstBqrkYu2kns9nLEUY2u1Ea1Qp1wSqStq6619F4"
+  },
+  "rewardsTokenInfo": {
+    "address": "HmG7mstBqrkYu2kns9nLEUY2u1Ea1Qp1wSqStq6619F4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HmG7",
+    "symbol": "HmG7m"
   }
 }

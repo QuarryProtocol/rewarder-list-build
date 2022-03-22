@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9upS6NPWdDRpvHtYHR9rPRx29KzKUEzCSgcGNzYZDRhx",
-      "slug": "0",
+      "slug": "xe38w",
       "stakedToken": {
         "decimals": 6,
         "mint": "xE38wwwcT86bKCcyTkzxJsDvqrgUw1RxDfiaoQJyPYs"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AixCt4B1QBFQ36ECDL8nEg36io91fQe8bY9rrDAZh3gc",
-      "slug": "1",
+      "slug": "glqdz",
       "stakedToken": {
         "decimals": 6,
         "mint": "GLQDzKfr8E6Z3E49D3HuFePKUUesRDyLnXFJZkYc1QuJ"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "73Edmy7teqAJyBv8w6oqZG4PE6NUiWCo2q7Wj9UjqAaR"
+  },
+  "rewardsTokenInfo": {
+    "address": "73Edmy7teqAJyBv8w6oqZG4PE6NUiWCo2q7Wj9UjqAaR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 73Ed",
+    "symbol": "73Edm"
   }
 }

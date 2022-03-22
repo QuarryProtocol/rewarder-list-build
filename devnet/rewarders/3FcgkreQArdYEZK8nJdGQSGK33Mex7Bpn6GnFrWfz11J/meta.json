@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "G1tETGJDpPG8Jy71SRPPoWWvrmBA1QfcQqh9Qxrzt1VJ",
-      "slug": "0",
+      "slug": "3jmkz",
       "stakedToken": {
         "decimals": 6,
         "mint": "3JMKzCX265uudnp35jGNrgMGCsXjchJJgo2AnYmUz1BP"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "F8heuqL79LNwkeyNbSL2nLxkDGTySFWzqooMZn55sosa",
-      "slug": "1",
+      "slug": "5xwuz",
       "stakedToken": {
         "decimals": 6,
         "mint": "5Xwuzj7ARrVyDvZgsFBuhMsfu4zxtsjrer3un9KcDTVF"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HMoj2w7TQQGPdpXtDXMgWWA21mUxCk5a93cmKDcWpehY"
+  },
+  "rewardsTokenInfo": {
+    "address": "HMoj2w7TQQGPdpXtDXMgWWA21mUxCk5a93cmKDcWpehY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HMoj",
+    "symbol": "HMoj2"
   }
 }

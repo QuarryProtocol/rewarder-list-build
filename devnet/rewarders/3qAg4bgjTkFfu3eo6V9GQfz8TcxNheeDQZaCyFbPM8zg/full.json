@@ -14,7 +14,7 @@
       "quarry": "G6vT5vFLsvC5e6LhgViXsSZRZWk99hPobgTvcvZ4iKr2",
       "replicaMint": "EEKdKh4bsqyXhsicpHYLyZHDhpz6wHeUfQc1XznEW5U1",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "d1nsj",
       "stakedToken": {
         "decimals": 6,
         "mint": "D1nsJ22msM38UfHiwPDt9pdC93NLio4cGMeKDLVaHNNx"
@@ -32,7 +32,7 @@
       "quarry": "9LndZHPDUcv3BdQ7dMnehPS2qFWK4hG6ZsvMKdHUyZ48",
       "replicaMint": "4ZEPqCScSLnoGLsPxQCfeznrLNMfDP7UfesBNDNDv289",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "5ascz",
       "stakedToken": {
         "decimals": 6,
         "mint": "5ASczF2HuAMU1APegK5nRs8gjTzVfXf5Mj1A8nKA4PLH"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DHGRoEKjsCfoQYjgqYP4vhxSShBXBVkjk2STMGVahoEH"
+  },
+  "rewardsTokenInfo": {
+    "address": "DHGRoEKjsCfoQYjgqYP4vhxSShBXBVkjk2STMGVahoEH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DHGR",
+    "symbol": "DHGRo"
   },
   "slug": "3qAg4bgjTkFfu3eo6V9GQfz8TcxNheeDQZaCyFbPM8zg"
 }

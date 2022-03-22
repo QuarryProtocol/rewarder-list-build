@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DujitSnN7RddF8aP2oGoPSeTJxnAnzuxqjYkzbLhejEp",
-      "slug": "0",
+      "slug": "5pvyc",
       "stakedToken": {
         "decimals": 6,
         "mint": "5PvyCUQ5216SG7n4ypZK6yxgf3tkLqabJm5DP7Dfgjud"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "EpnRimFPqBjRUq41AFQkXsedP8D3KcfLPEVacoguhQQk",
-      "slug": "1",
+      "slug": "gzhkz",
       "stakedToken": {
         "decimals": 6,
         "mint": "GzhKZwxUFSbbT5ZSDeWBHQN478F1YupESZAgYZK6nmUV"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3MQ6FRGqk8feaa9kpoyJ7svwKibjj7ZS6hah47gkCP4C"
+  },
+  "rewardsTokenInfo": {
+    "address": "3MQ6FRGqk8feaa9kpoyJ7svwKibjj7ZS6hah47gkCP4C",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3MQ6",
+    "symbol": "3MQ6F"
   }
 }

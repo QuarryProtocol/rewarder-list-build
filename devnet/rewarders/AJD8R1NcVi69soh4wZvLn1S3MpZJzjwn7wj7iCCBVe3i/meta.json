@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AqrSBThuHgTVB9JhdDB8yPk6Dwd4Di7ACUTRG24odN6r",
-      "slug": "0",
+      "slug": "3bycd",
       "stakedToken": {
         "decimals": 6,
         "mint": "3BycD4p32naFYZPzC8UTGzs7HdVDDKeBy9oRdAv6cZ5G"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AzELgVBdJTtTwTAEbwnypB9g4GEbM7phP63cG5fqCJda",
-      "slug": "1",
+      "slug": "6zvvi",
       "stakedToken": {
         "decimals": 6,
         "mint": "6zVvitHDfD32bfzVBdMwXXXJYv3edCSTe76QKdFdo18u"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ES57uVpp1tsMrQSTc2YB3NSZYHRcWEEv4ngngGnZaKCR"
+  },
+  "rewardsTokenInfo": {
+    "address": "ES57uVpp1tsMrQSTc2YB3NSZYHRcWEEv4ngngGnZaKCR",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ES57",
+    "symbol": "ES57u"
   }
 }

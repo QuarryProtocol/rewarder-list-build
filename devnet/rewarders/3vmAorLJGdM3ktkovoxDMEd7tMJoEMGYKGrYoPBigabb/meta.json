@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GRrAwynHuBhCxWu2apf3DHVQHEWCi3TzBVXNpzY8YUu7",
-      "slug": "0",
+      "slug": "ahusv",
       "stakedToken": {
         "decimals": 6,
         "mint": "AhusVf7pPzhbExWWpXxCNMN6TUwQfdjpUdcpVRjvT32z"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FJFrJ9g6WZ9gobpzLd1nN4MNh9Q3kc7NhWnbxi9TuswT",
-      "slug": "1",
+      "slug": "gecmq",
       "stakedToken": {
         "decimals": 6,
         "mint": "geCMq5kREwiANcvqyv52NtpuGUPUeqZRMGG5aGSE3P3"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4M2o8je1c5WSnSvUD2ABwan7tCqNfFGTrqWsqw75CxYa"
+  },
+  "rewardsTokenInfo": {
+    "address": "4M2o8je1c5WSnSvUD2ABwan7tCqNfFGTrqWsqw75CxYa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4M2o",
+    "symbol": "4M2o8"
   }
 }

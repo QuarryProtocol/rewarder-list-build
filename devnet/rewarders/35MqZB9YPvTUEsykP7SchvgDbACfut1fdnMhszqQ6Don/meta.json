@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HX1nVPrxjeZyVkkpgsgJu8HeeMhkffmo8PgukY99KCdR",
-      "slug": "0",
+      "slug": "bcxf8",
       "stakedToken": {
         "decimals": 6,
         "mint": "BcxF8esbJ28HA7antsahbfUvYqRJNYUuXk7yTrMGUVcA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5BwvXDtu2QxVs5grzLCB7HrEDUWJSNYs3vQwYUQ7wjJp",
-      "slug": "1",
+      "slug": "2hj8f",
       "stakedToken": {
         "decimals": 6,
         "mint": "2HJ8fgf74s3Bz6kaLCnZii47rxaMKLtfsP2k6tSbaswe"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "68W38ErRQBKCHp4fbaC9qchucgwCnC74D25BSBq7kGZA"
+  },
+  "rewardsTokenInfo": {
+    "address": "68W38ErRQBKCHp4fbaC9qchucgwCnC74D25BSBq7kGZA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 68W3",
+    "symbol": "68W38"
   }
 }
