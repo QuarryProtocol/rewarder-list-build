@@ -75,8 +75,31 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4"
+  },
+  "rewardsTokenInfo": {
+    "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "description": "The Jungle Finance governance token.",
+      "discord": "https://discord.gg/2DWjx5NywE",
+      "medium": "https://medium.com/@JungleDeFi",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/JungleDeFi",
+      "underlyingTokens": [
+        "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+      ],
+      "website": "https://jungledefi.io/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+    "name": "Jungle DeFi (IOU)",
+    "symbol": "iouJFI",
+    "tags": [
+      "governance-token",
+      "quarry-iou"
+    ]
   },
   "slug": "Jungle"
 }

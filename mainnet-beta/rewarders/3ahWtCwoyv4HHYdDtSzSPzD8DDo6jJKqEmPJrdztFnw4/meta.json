@@ -58,7 +58,30 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+  },
+  "rewardsTokenInfo": {
+    "address": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "discord": "https://discord.gg/RASngHfHhS",
+      "github": "https://github.com/pole-finance",
+      "medium": "https://medium.com/pole-aggregator",
+      "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/Pole_Finance",
+      "underlyingTokens": [
+        "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+      ],
+      "website": "https://pole.finance"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+    "name": "Pole Aggregator Governance Token (IOU)",
+    "symbol": "iouPOLE",
+    "tags": [
+      "quarry-iou"
+    ]
   }
 }

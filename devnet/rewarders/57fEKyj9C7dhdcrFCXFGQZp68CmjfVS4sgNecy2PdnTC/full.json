@@ -46,11 +46,27 @@
           "slug": "usdc-usdt"
         },
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+            "chainId": 103,
+            "decimals": 6,
+            "extensions": {
+              "source": "quarry-iou",
+              "underlyingTokens": [
+                "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+              ]
+            },
+            "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+            "name": "Saber Protocol Token (IOU)",
+            "symbol": "iouSBR",
+            "tags": [
+              "quarry-iou"
+            ]
+          },
           "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X",
           "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
           },
           "slug": "usdc-usdt"

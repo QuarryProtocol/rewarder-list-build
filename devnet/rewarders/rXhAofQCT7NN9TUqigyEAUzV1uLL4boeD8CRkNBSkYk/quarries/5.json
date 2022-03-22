@@ -60,10 +60,27 @@
     },
     "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
     },
     "slug": "saber"
+  },
+  "rewardsToken": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+      ]
+    },
+    "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+    "name": "Saber Protocol Token (IOU)",
+    "symbol": "iouSBR",
+    "tags": [
+      "quarry-iou"
+    ]
   },
   "stakedToken": {
     "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",

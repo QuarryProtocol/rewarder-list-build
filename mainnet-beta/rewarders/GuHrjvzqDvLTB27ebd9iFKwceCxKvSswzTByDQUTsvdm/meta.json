@@ -60,11 +60,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 3,
-        "lastUpdateTs": "1647911801",
+        "lastUpdateTs": "1647912735",
         "numMiners": "28",
-        "rewardsPerTokenStored": "521896335058929939770",
+        "rewardsPerTokenStored": "521896524738496091217",
         "rewardsShare": "28745148257",
-        "totalTokensDeposited": "49018685854"
+        "totalTokensDeposited": "49018686919"
       },
       "index": 3,
       "quarry": "Z5toEBpMA1B9TWZNBHGUxj7uUECxuTmBtUNvMGK6RWe",
@@ -78,11 +78,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 4,
-        "lastUpdateTs": "1647911780",
+        "lastUpdateTs": "1647912721",
         "numMiners": "27",
-        "rewardsPerTokenStored": "14394085220854497483120",
+        "rewardsPerTokenStored": "14394085221346933339929",
         "rewardsShare": "180142",
-        "totalTokensDeposited": "119212535"
+        "totalTokensDeposited": "119212657"
       },
       "index": 4,
       "quarry": "CNNo2mNmWrpvxkF5oijyPV9JCpKNvLvHUkFiRVQX36Wg",
@@ -168,11 +168,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 9,
-        "lastUpdateTs": "1647911753",
+        "lastUpdateTs": "1647912924",
         "numMiners": "12",
         "rewardsPerTokenStored": "16718814368701550",
         "rewardsShare": "0",
-        "totalTokensDeposited": "5662297626"
+        "totalTokensDeposited": "5662299016"
       },
       "index": 9,
       "quarry": "HTrfmiS4Xeb1XuvM6PD5QDU6JX9zGAszQCmpR8i5QLJT",
@@ -220,7 +220,33 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
+  },
+  "rewardsTokenInfo": {
+    "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "port-finance",
+      "discord": "https://discord.gg/nAMXAYhTb2",
+      "github": "https://github.com/port-finance/",
+      "medium": "https://medium.com/port-finance",
+      "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+      "source": "quarry-iou",
+      "telegram": "https://t.me/port_finance",
+      "twitter": "https://twitter.com/port_finance",
+      "underlyingTokens": [
+        "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+      ],
+      "waterfallbot": "https://bit.ly/PORTwaterfall",
+      "website": "https://port.finance/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+    "name": "Port Finance Token (IOU)",
+    "symbol": "iouPORT",
+    "tags": [
+      "quarry-iou"
+    ]
   }
 }

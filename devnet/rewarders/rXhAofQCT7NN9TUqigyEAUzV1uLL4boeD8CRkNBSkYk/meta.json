@@ -6,9 +6,9 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1647911700",
+        "lastUpdateTs": "1647912903",
         "numMiners": "1729",
-        "rewardsPerTokenStored": "1364758042791253664379",
+        "rewardsPerTokenStored": "1364758795252087389020",
         "rewardsShare": "1000",
         "totalTokensDeposited": "141870495290610"
       },
@@ -112,7 +112,24 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+  },
+  "rewardsTokenInfo": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+      ]
+    },
+    "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+    "name": "Saber Protocol Token (IOU)",
+    "symbol": "iouSBR",
+    "tags": [
+      "quarry-iou"
+    ]
   }
 }
