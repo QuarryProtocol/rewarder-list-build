@@ -21,10 +21,17 @@
     "authority": "DuLkcoV6TfHUJKaTEweWhNauXykUC6dAkWv49H263zQb",
     "mintWrapper": "83NVQARz4rPbzSKxVGbRrRrJawoVMqNGw6enoMmZvg6y",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o"
     },
     "slug": "4NCKdvCfgow7dxVvWcSCj9u22FL9rbgwNiRjQXzfpcDr"
+  },
+  "rewardsToken": {
+    "address": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 9812",
+    "symbol": "9812J"
   },
   "stakedToken": {
     "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",

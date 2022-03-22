@@ -29,7 +29,16 @@
     "address": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX",
     "chainId": 103,
     "decimals": 6,
-    "name": "Token 91kV",
-    "symbol": "91kVK"
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+      ]
+    },
+    "name": "Token 2jmz (IOU)",
+    "symbol": "iou2jmzZ",
+    "tags": [
+      "quarry-iou"
+    ]
   }
 }

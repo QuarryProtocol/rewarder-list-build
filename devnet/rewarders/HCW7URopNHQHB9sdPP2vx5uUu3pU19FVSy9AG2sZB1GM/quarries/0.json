@@ -54,8 +54,17 @@
     "address": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG",
     "chainId": 103,
     "decimals": 6,
-    "name": "Token FxEo",
-    "symbol": "FxEop"
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3"
+      ]
+    },
+    "name": "Token G2Ft (IOU)",
+    "symbol": "iouG2Ftt",
+    "tags": [
+      "quarry-iou"
+    ]
   },
   "stakedToken": {
     "address": "4gwmuQz6wgTciS6Wnj8yL2WETkM4rBi5XEAC5NBmBBAZ",

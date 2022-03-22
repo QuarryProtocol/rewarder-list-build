@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5T6giUuSUEevyUPqib2NpcyxwT7FDhnF2eXBbAPGaHZf",
-      "slug": "0",
+      "slug": "tdn25",
       "stakedToken": {
         "decimals": 2,
         "mint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "96fvspWgCVSaa1sknpJEbsHA9USnabtAag4Zajg7wSzq"
+  },
+  "rewardsTokenInfo": {
+    "address": "96fvspWgCVSaa1sknpJEbsHA9USnabtAag4Zajg7wSzq",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 96fv",
+    "symbol": "96fvs"
   }
 }

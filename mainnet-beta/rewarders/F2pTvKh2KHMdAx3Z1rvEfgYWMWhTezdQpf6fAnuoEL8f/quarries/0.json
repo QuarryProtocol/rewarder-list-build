@@ -21,10 +21,17 @@
     "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
     "mintWrapper": "8WmDjKKfiigf8mZV6oZLAuYDaLnSyAfKCySvL8i8NovV",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 2,
       "mint": "6wpxj44p5RYxpSU5y6CZWG18b94SFXz4fsfxdpUoN5MP"
     },
     "slug": "F2pTvKh2KHMdAx3Z1rvEfgYWMWhTezdQpf6fAnuoEL8f"
+  },
+  "rewardsToken": {
+    "address": "6wpxj44p5RYxpSU5y6CZWG18b94SFXz4fsfxdpUoN5MP",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 6wpx",
+    "symbol": "6wpxj"
   },
   "stakedToken": {
     "address": "8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU",

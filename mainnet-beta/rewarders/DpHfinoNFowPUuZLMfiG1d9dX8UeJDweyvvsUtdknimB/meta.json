@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "HQp3DM9AFXmyCvcKLEUVioUu2G5Tf25cp1taU85VrXDw",
-      "slug": "0",
+      "slug": "tdn25",
       "stakedToken": {
         "decimals": 2,
         "mint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "9tux5ZXkWtgJU1YjjBTmPwvMceP8tE6W9NkVphrBHJYU"
+  },
+  "rewardsTokenInfo": {
+    "address": "9tux5ZXkWtgJU1YjjBTmPwvMceP8tE6W9NkVphrBHJYU",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 9tux",
+    "symbol": "9tux5"
   }
 }

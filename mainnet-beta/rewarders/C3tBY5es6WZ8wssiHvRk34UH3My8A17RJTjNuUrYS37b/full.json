@@ -14,7 +14,7 @@
       "quarry": "2ZCbkLst1g6fD2RF26kmSeviVEqynFiExk7bMQxYt4HJ",
       "replicaMint": "AkP848iSfKhCry1ev4uZ9ufjevvRS6gxShZDgzdYSNwj",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "tdn25",
       "stakedToken": {
         "decimals": 2,
         "mint": "Tdn25ushgBJajNnG7BGvpdHiEbNdcxY7ssMefZ1jRT7"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "G6PJUoThXgeB48Rb5yZvfpCghXLXFLLuDP6YE3qbQcUp"
+  },
+  "rewardsTokenInfo": {
+    "address": "G6PJUoThXgeB48Rb5yZvfpCghXLXFLLuDP6YE3qbQcUp",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token G6PJ",
+    "symbol": "G6PJU"
   },
   "slug": "C3tBY5es6WZ8wssiHvRk34UH3My8A17RJTjNuUrYS37b"
 }

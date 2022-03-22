@@ -54,8 +54,17 @@
     "address": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ",
     "chainId": 103,
     "decimals": 6,
-    "name": "Token SWim",
-    "symbol": "SWimC"
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+      ]
+    },
+    "name": "Token swim (IOU)",
+    "symbol": "iouswimn",
+    "tags": [
+      "quarry-iou"
+    ]
   },
   "stakedToken": {
     "address": "BGDtBjkqrGngnN7b2yK67wUMZjUr5Zk64xocS5Jrb4fa",

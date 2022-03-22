@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FkUFyiaZ8J84KVgD74oSzi4KRpoKWCYq6rLHBiPAz6bD",
-      "slug": "0",
+      "slug": "ckqch",
       "stakedToken": {
         "decimals": 2,
         "mint": "CkqCHUJfc8xPVsNHQbZLHpmoHFZexJYsCEfZoxKMaboz"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "GTzZwaj8ibctnSCPLcn1GFtc7u9T2TnGBjA3wxVRdQEv"
+  },
+  "rewardsTokenInfo": {
+    "address": "GTzZwaj8ibctnSCPLcn1GFtc7u9T2TnGBjA3wxVRdQEv",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token GTzZ",
+    "symbol": "GTzZw"
   }
 }

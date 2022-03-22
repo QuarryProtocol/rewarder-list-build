@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "GYmmA5vD3co52DyEzPbgjwtSsCyW7Tcngdog8Vi1nEcS",
-      "slug": "0",
+      "slug": "fmqts",
       "stakedToken": {
         "decimals": 2,
         "mint": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "DNehdTVFyXMbjvjVWufHEmLJwjdWL5RH9hwVZ6Cy3UHq"
+  },
+  "rewardsTokenInfo": {
+    "address": "DNehdTVFyXMbjvjVWufHEmLJwjdWL5RH9hwVZ6Cy3UHq",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token DNeh",
+    "symbol": "DNehd"
   }
 }

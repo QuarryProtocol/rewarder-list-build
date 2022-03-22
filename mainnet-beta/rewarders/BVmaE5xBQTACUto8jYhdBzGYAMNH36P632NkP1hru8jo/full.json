@@ -14,7 +14,7 @@
       "quarry": "5QzK5DHpJktZMSaEAni6bzXMMknr88A8hp4bLSP7VF7b",
       "replicaMint": "9ev5r1g6beWNRwuWyxg5yHC7AtBXSoLaWVcGAgv2uCcE",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fmqts",
       "stakedToken": {
         "decimals": 2,
         "mint": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "5rWLSc6aQcbmdvtsUt5XYtGVM62BkSQndGynYw1UnAK3"
+  },
+  "rewardsTokenInfo": {
+    "address": "5rWLSc6aQcbmdvtsUt5XYtGVM62BkSQndGynYw1UnAK3",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 5rWL",
+    "symbol": "5rWLS"
   },
   "slug": "BVmaE5xBQTACUto8jYhdBzGYAMNH36P632NkP1hru8jo"
 }

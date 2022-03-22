@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Anei6KjvMJ34eWnW36h3LrbYp878e4yFPBq9TLSkMuNi",
-      "slug": "0",
+      "slug": "ckqch",
       "stakedToken": {
         "decimals": 2,
         "mint": "CkqCHUJfc8xPVsNHQbZLHpmoHFZexJYsCEfZoxKMaboz"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "GCxrPuR1uMGDErdkJAYjk9pVsFw72vFZ2ekdzyCh8rYx"
+  },
+  "rewardsTokenInfo": {
+    "address": "GCxrPuR1uMGDErdkJAYjk9pVsFw72vFZ2ekdzyCh8rYx",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token GCxr",
+    "symbol": "GCxrP"
   }
 }

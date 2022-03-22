@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FCqibfidX9Rvhn8ZUpc2aDHePpy2N7BVe2P5XX6MKSPN",
-      "slug": "0",
+      "slug": "ckqch",
       "stakedToken": {
         "decimals": 2,
         "mint": "CkqCHUJfc8xPVsNHQbZLHpmoHFZexJYsCEfZoxKMaboz"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "4QruyVyw1kMUDshsjwFfUDGWH6b5qtxUgLN5y4CZEdfC"
+  },
+  "rewardsTokenInfo": {
+    "address": "4QruyVyw1kMUDshsjwFfUDGWH6b5qtxUgLN5y4CZEdfC",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 4Qru",
+    "symbol": "4Qruy"
   }
 }

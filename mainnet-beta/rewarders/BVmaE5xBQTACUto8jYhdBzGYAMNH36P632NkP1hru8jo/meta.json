@@ -6,15 +6,15 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1647884376",
-        "numMiners": "12",
-        "rewardsPerTokenStored": "1390118576471625085",
+        "lastUpdateTs": "1647918410",
+        "numMiners": "13",
+        "rewardsPerTokenStored": "1419225463104237369",
         "rewardsShare": "2500",
-        "totalTokensDeposited": "624113"
+        "totalTokensDeposited": "633399"
       },
       "index": 0,
       "quarry": "5QzK5DHpJktZMSaEAni6bzXMMknr88A8hp4bLSP7VF7b",
-      "slug": "0",
+      "slug": "fmqts",
       "stakedToken": {
         "decimals": 2,
         "mint": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 2,
     "mint": "5rWLSc6aQcbmdvtsUt5XYtGVM62BkSQndGynYw1UnAK3"
+  },
+  "rewardsTokenInfo": {
+    "address": "5rWLSc6aQcbmdvtsUt5XYtGVM62BkSQndGynYw1UnAK3",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 5rWL",
+    "symbol": "5rWLS"
   }
 }
