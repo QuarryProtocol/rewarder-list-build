@@ -6,15 +6,15 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "0",
+        "lastUpdateTs": "1648006670",
         "numMiners": "2",
         "rewardsPerTokenStored": "0",
         "rewardsShare": "0",
-        "totalTokensDeposited": "0"
+        "totalTokensDeposited": "3600000000"
       },
       "index": 0,
       "quarry": "E5unYAqbzAJeUt7TWKCxhgFotHpWWDrjwWH8xksiJPvt",
-      "slug": "0",
+      "slug": "7dptc",
       "stakedToken": {
         "decimals": 8,
         "mint": "7dPtcMtfTG3gYymrJdE6GxnoPruCh6LCSriZVicCaXQQ"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HPTHiDxqUcwv14aGpz4Z35ytcYpxipyh3QmMU9qaEAwj"
+  },
+  "rewardsTokenInfo": {
+    "address": "HPTHiDxqUcwv14aGpz4Z35ytcYpxipyh3QmMU9qaEAwj",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HPTH",
+    "symbol": "HPTHi"
   }
 }
