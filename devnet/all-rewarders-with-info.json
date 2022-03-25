@@ -27727,6 +27727,35 @@
     },
     "slug": "6cPjqhw4gq9CpM6yGKnvyKsfPGzEn6pQTdFLKMpzk7tL"
   },
+  "6cdge9RVcAiX5WbZ1CEaFhEeUJPE8TPFtx6uFE6pA24M": {
+    "authority": "GavnzVNFAAyLC3obnVfHP3CYrcb8rXYYRQj3qxubeAG5",
+    "mintWrapper": "D3sWLA5JtPW6GzwF1s9u6hqf4LYBNKTmYwSBCLrdfTc4",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "BXCCTydxUecxXTqCNNTC8XqGW3juxuzuWqCeL24gcedg",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "HnTQjtab4XGSpXtNimU9UkwKP43LW2djtM9qJ1zmRkGj"
+        },
+        "quarry": "58PgYhyGCbVqjfuETV9BxpsgxpYMyVqjCtZGERCkWj82",
+        "replicaMint": "AG5UkSjEAvwuC8BzBWo68x1j54H2bWk4peBCMPeXpxGG",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "HnTQjtab4XGSpXtNimU9UkwKP43LW2djtM9qJ1zmRkGj"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "5nnV9WMdSwFMz9CcqaT4jmEC9eTu8zxP6LVoDsovNXGF"
+    },
+    "slug": "6cdge9RVcAiX5WbZ1CEaFhEeUJPE8TPFtx6uFE6pA24M"
+  },
   "6e1YYseV8LRjrHUNkVVQyaKSQ9oneTby9EPZF3JNuweN": {
     "authority": "7Uh5jPqFwJgu2PsCiHrPE7GzVFwEhD6sHRvZQ7AVjky7",
     "mintWrapper": "3tNzBraRj68NyewebbRovd56irvXbdDZGwMcCUkbpjdG",
@@ -96289,11 +96318,25 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 103,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
               "decimals": 6,
-              "name": "Token SLNA",
-              "symbol": "SLNAA"
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": [
+                "saber-hidden"
+              ]
             },
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
@@ -96342,22 +96385,24 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9",
-              "chainId": 103,
-              "decimals": 8,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
+              "decimals": 6,
               "extensions": {
-                "source": "quarry-iou",
-                "underlyingTokens": [
-                  "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
-                ],
-                "website": "https://app.saber.so/#/pools/btc"
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
               },
-              "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
-              "name": "Saber renBTC-WBTC LP (IOU)",
-              "symbol": "iourenBTC-WBTC",
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
               "tags": [
-                "saber-stableswap-lp",
-                "quarry-iou"
+                "saber-hidden"
               ]
             },
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
