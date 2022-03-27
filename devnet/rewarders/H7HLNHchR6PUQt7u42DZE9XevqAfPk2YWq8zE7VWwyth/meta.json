@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "AuDu2wa4vWNkD2gi4nHe6zmGDBnWvjyhD84ZXWQtHtTZ",
-      "slug": "0",
+      "slug": "hqgpe",
       "stakedToken": {
         "decimals": 6,
         "mint": "HqGPEuqapbrQQzG8dnLoR3jfwTSooudzd5zFJgfrY31w"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8uLsiPDffGX8RUh4UfwSVCE2Db1oUpA9tm3dEJzVPtR9"
+  },
+  "rewardsTokenInfo": {
+    "address": "8uLsiPDffGX8RUh4UfwSVCE2Db1oUpA9tm3dEJzVPtR9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8uLs",
+    "symbol": "8uLsi"
   }
 }
