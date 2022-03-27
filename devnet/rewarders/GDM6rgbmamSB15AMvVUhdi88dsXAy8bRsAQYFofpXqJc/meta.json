@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EnfxyFtz9b8JTdm7kTk52gMUX191jm6cvshPVhvgdCSw",
-      "slug": "0",
+      "slug": "hkgln",
       "stakedToken": {
         "decimals": 6,
         "mint": "HKGLnKFBWzcALsdHbUtMCcV1RLV3TsA9k1EDZie4CQBx"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DorFYdrGY4C46zgiH2ZekBGBybjWSRyHfxZJQ17CBuc6"
+  },
+  "rewardsTokenInfo": {
+    "address": "DorFYdrGY4C46zgiH2ZekBGBybjWSRyHfxZJQ17CBuc6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DorF",
+    "symbol": "DorFY"
   }
 }
