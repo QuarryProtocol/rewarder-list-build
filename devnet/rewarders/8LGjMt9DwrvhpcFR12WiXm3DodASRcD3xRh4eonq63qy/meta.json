@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "9n1Bn2WBLm2ruoU8GvUzjsdUmBxkgCgC8cLJ9F9QQFEJ",
-      "slug": "0",
+      "slug": "hovks",
       "stakedToken": {
         "decimals": 6,
         "mint": "HoVKstdtVuRNDLSchVtWjE9PjYqKD4UTcYYY5EaQpFyw"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CMWF1MhDfgom1ygSEoLMQ2ZaJMgGdyGLquzarzvP8fQH",
-      "slug": "1",
+      "slug": "ad4wa",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ad4wA8oN2NACVDqJD45Hukew9gzFEwg7UHBagbyBfmbu"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2mivxBUE3GwjqKcmiDg3fdgcFVqCCesS4tVhh939G39z"
+  },
+  "rewardsTokenInfo": {
+    "address": "2mivxBUE3GwjqKcmiDg3fdgcFVqCCesS4tVhh939G39z",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2miv",
+    "symbol": "2mivx"
   }
 }

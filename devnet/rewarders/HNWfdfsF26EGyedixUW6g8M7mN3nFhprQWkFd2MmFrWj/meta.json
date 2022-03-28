@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "6dxFV3kd5fhPZMFj5zZBA3ifshS51kByqdiMwvmzDVx3",
-      "slug": "0",
+      "slug": "hvyqe",
       "stakedToken": {
         "decimals": 6,
         "mint": "HVyQeHF32oFzuQ8s21mNXU4pV5TbEF4gyxeY53nfubfh"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "6N6zMAKoV2KhWBT56ebZwbnvRs81GLUdMKj26gTBkYSk",
-      "slug": "1",
+      "slug": "eudox",
       "stakedToken": {
         "decimals": 6,
         "mint": "EudoxPE2t1F4jrnZUG6UQi8MKKN4apmfxF8B3fmHhtKu"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "5Y4WxSpCEizqLa6izH7UXGzKcok39nFLqjsUPPjxi6nN"
+  },
+  "rewardsTokenInfo": {
+    "address": "5Y4WxSpCEizqLa6izH7UXGzKcok39nFLqjsUPPjxi6nN",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 5Y4W",
+    "symbol": "5Y4Wx"
   }
 }
