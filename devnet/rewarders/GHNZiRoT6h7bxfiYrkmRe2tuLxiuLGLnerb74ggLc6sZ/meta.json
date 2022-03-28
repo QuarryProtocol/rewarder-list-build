@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BQzjzA9FDJ2yCgoxAE6btYYQe74P5wURiCBi6pXHGviX",
-      "slug": "0",
+      "slug": "c3jb5",
       "stakedToken": {
         "decimals": 6,
         "mint": "C3jb5rZV3WnZFHp65bUmK1gJHhTG9d3VFKXaxY6Nk4AE"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "AadrpHBcuacXbJ6zMm6AM9ovRwBrr4pxZNqAhEM4xt1i",
-      "slug": "1",
+      "slug": "7vtxh",
       "stakedToken": {
         "decimals": 6,
         "mint": "7vtxH3orYGNMDXWTHSsZzyUzWXqfaSMa4ABJX3nFgMnD"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "rpB1p8JfAopnVVJenXv98fFftQxMHEekEuGmVwP4xvp"
+  },
+  "rewardsTokenInfo": {
+    "address": "rpB1p8JfAopnVVJenXv98fFftQxMHEekEuGmVwP4xvp",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token rpB1",
+    "symbol": "rpB1p"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2N98fzrV2VwgM4UDgRffXF8Y5SVN4xjHuc1PrunQSRh5",
-      "slug": "0",
+      "slug": "69npt",
       "stakedToken": {
         "decimals": 6,
         "mint": "69npT46VWAdesx4t65FBtrac9kcxCioau2YVMdncuoZP"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "GSxGt9pnmqZ8wLmVmBVJfTSstKNuz1n7n8ZmDXbQuLqR",
-      "slug": "1",
+      "slug": "e9xnw",
       "stakedToken": {
         "decimals": 6,
         "mint": "E9XnW6x9itbiNZQbnc5p4smWCqWKJChbPmSocgqotA96"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2yyiHvwkwywa1YGu899kgBWd2Vwqq2H8wtnhtvtZ8cN8"
+  },
+  "rewardsTokenInfo": {
+    "address": "2yyiHvwkwywa1YGu899kgBWd2Vwqq2H8wtnhtvtZ8cN8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2yyi",
+    "symbol": "2yyiH"
   }
 }

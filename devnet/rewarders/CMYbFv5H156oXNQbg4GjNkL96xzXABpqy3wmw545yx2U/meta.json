@@ -1,6 +1,6 @@
 {
-  "authority": "4WuDXkhx1p22TTtErAEGCouAVhDrYbvTRm3nEcez3vof",
-  "mintWrapper": "3a6MueDAzGjmSWgXFBzRvAkiCBxAMPGufUVRkoFXe81n",
+  "authority": "4UvTAnmaKGD9L3ZnGKMjdXiiiYTSyksEGSyzrVRiAAsH",
+  "mintWrapper": "6VcDp2AgwxMrw8PhErPgRG7PqffMJXuiRCG5Ngj1ZPnQ",
   "quarries": [
     {
       "cached": {
@@ -13,11 +13,11 @@
         "totalTokensDeposited": "0"
       },
       "index": 0,
-      "quarry": "Hbv8jvGcgSmjBrSfKwCPvtRgs4GSb8m9kXaQSKWbueap",
-      "slug": "6lug9",
+      "quarry": "GxaN1qhZZq4Wv7MYHjkbNj32mUhP577cKtoFHZJ2UmVb",
+      "slug": "0",
       "stakedToken": {
         "decimals": 6,
-        "mint": "6LuG97mfkrNYA1phz1PopDZrmXXbVgR5HF6bARRy4TRN"
+        "mint": "H5PmRPb78yZpVGsq8MNCbisjksvVSzNzkh9t8haiKt25"
       }
     },
     {
@@ -31,23 +31,16 @@
         "totalTokensDeposited": "0"
       },
       "index": 1,
-      "quarry": "3myYgLpvYSjJk6RZtUP3yE4z5w1X6GU18JyUat9CtKG7",
-      "slug": "61tkw",
+      "quarry": "6Vn3tVE8fzVHw7a7BwLAVjA9zBDPRK6PoG6e1ecompCU",
+      "slug": "1",
       "stakedToken": {
         "decimals": 6,
-        "mint": "61tkW8Pa6tFCMnz68He6rXsvL3cWUNHAhuXxmfbgbPcT"
+        "mint": "DLMEuWVyyBrAT43qCYN1w2MMAVk4S6bpYAJmT6oHrwUj"
       }
     }
   ],
   "rewardsToken": {
-    "decimals": 6,
-    "mint": "A4egfgdYN1TKx8mSdXKhasZ8eb8XDeVqvn41tPoDEW1h"
-  },
-  "rewardsTokenInfo": {
-    "address": "A4egfgdYN1TKx8mSdXKhasZ8eb8XDeVqvn41tPoDEW1h",
-    "chainId": 103,
-    "decimals": 6,
-    "name": "Token A4eg",
-    "symbol": "A4egf"
+    "decimals": -1,
+    "mint": "BnRGvG8piKbYZLKAWzXqhdhW4F4jMYeo7Crr2gb1ptvC"
   }
 }
