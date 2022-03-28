@@ -14,7 +14,7 @@
       "quarry": "CHAg2aENvEEcQ2TBatMwiBvppMMrYpuYKj5ykvArGP94",
       "replicaMint": "HCEYhbz2DPa7LofxMbARp2nw3FJtFox3tNXEMnkbMHTs",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dwfns",
       "stakedToken": {
         "decimals": 6,
         "mint": "DwFNsvfDVqeSCpCAfB5GcSQEEp52QQEWZDWnyy6mkbdZ"
@@ -32,7 +32,7 @@
       "quarry": "9vHZcAWsbdiC7nE1Vid6pnZK3Zn9JYAkMXBbxMzB3emN",
       "replicaMint": "AhqRAjSumN81GENYZmxHK6yqyAmqGmH98U96QcuigVqj",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cepnb",
       "stakedToken": {
         "decimals": 6,
         "mint": "CEpNBpqcSUPjzEzkbmtsKrfPwbSSpBVXvhq73tBzUKLR"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3DX9Xi2KB98Viot5dHPk6fBvvdKYYkodG1XnDrBLSLda"
+  },
+  "rewardsTokenInfo": {
+    "address": "3DX9Xi2KB98Viot5dHPk6fBvvdKYYkodG1XnDrBLSLda",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3DX9",
+    "symbol": "3DX9X"
   },
   "slug": "B7ixWxMNh4F88FF61rpRR7cYkYnWWAzXxJ26pbr3Ws98"
 }

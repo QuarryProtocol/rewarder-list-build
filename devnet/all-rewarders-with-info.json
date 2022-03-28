@@ -28696,7 +28696,7 @@
         "quarry": "Ch2Y4bYa78KoWYF9px6bLbg41dSmLTA4DRcxWLn4bHAJ",
         "replicaMint": "5w2LqT6AfRz7srj7Y4UjvF6zRrXESsH8GtMMkFFvnZbV",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "dfyrq",
         "stakedToken": {
           "decimals": 6,
           "mint": "DFYRq75DVgFV4R4Hcz7bD4mbRNGZJN6a1X7gTQQC1Rmb"
@@ -28714,7 +28714,7 @@
         "quarry": "9kHWHB2NCmC7t46eRiKEezfWBfFiFJrADbpuLfFhUFYn",
         "replicaMint": "69q52NWwdp1QxdVBc2PhFpJiqpw9DEdpsmptD8qtJekX",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "ezrap",
         "stakedToken": {
           "decimals": 6,
           "mint": "EzrAP7UoqEUUyb8AurefBxYnzzYW3Yxysh5Djx8oaatm"
@@ -28722,7 +28722,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "4giBTybcKyBgdmj8aJxD6Xw7JFr8zUgG3c5fQKk7VLDH"
     },
     "slug": "6nsZGuzQRfeTUa1SkiaSp76YXnqQhWgWTgsi4nQMgtYK"
@@ -53916,7 +53916,7 @@
         "quarry": "CHAg2aENvEEcQ2TBatMwiBvppMMrYpuYKj5ykvArGP94",
         "replicaMint": "HCEYhbz2DPa7LofxMbARp2nw3FJtFox3tNXEMnkbMHTs",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "dwfns",
         "stakedToken": {
           "decimals": 6,
           "mint": "DwFNsvfDVqeSCpCAfB5GcSQEEp52QQEWZDWnyy6mkbdZ"
@@ -53934,7 +53934,7 @@
         "quarry": "9vHZcAWsbdiC7nE1Vid6pnZK3Zn9JYAkMXBbxMzB3emN",
         "replicaMint": "AhqRAjSumN81GENYZmxHK6yqyAmqGmH98U96QcuigVqj",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "cepnb",
         "stakedToken": {
           "decimals": 6,
           "mint": "CEpNBpqcSUPjzEzkbmtsKrfPwbSSpBVXvhq73tBzUKLR"
@@ -53942,7 +53942,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "3DX9Xi2KB98Viot5dHPk6fBvvdKYYkodG1XnDrBLSLda"
     },
     "slug": "B7ixWxMNh4F88FF61rpRR7cYkYnWWAzXxJ26pbr3Ws98"
@@ -56488,6 +56488,53 @@
       "mint": "7zMssWL23q9KTuCbhop4X2c84M3NbjnAXYwbpEXuBTmM"
     },
     "slug": "BYRLFQsKiEcux5sRk8tJgXZDSA5n1CYWNL4QfUTj6oLh"
+  },
+  "BYp2EVsXRZC37vSKDKJrXQT4KGcWF3itFpstdAztc9fz": {
+    "authority": "AZxsPDWMkgzFTRxF5ujy1yunydNzzC2QgSMr6wMsRVhA",
+    "mintWrapper": "DbZhz1w5wPg1h12eNUxNkDcxAmxJEMrZnSabcwNfKcjc",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "FvZL74ZrZ9Emr7rchSfbSwkEvr9MZ4rFo8ta9UFr2u35",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "8W3udrLdH2w25LUfM4n5MNb5CVhus25aG3v7LYLTRpWy"
+        },
+        "quarry": "Hs7Ef8LZXqD53V9qLiHYDib6iDLKFn8yYSUBRyaVTYkc",
+        "replicaMint": "FCB94j2JXrRAhr95D88s6C5SVpuKkHqosFxBBCWyn8jA",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "8W3udrLdH2w25LUfM4n5MNb5CVhus25aG3v7LYLTRpWy"
+        }
+      },
+      {
+        "index": 1,
+        "isReplica": false,
+        "mergePool": "AbAQBrPhVmgCjXfknnxuhKVaLL5jWWxj2XZhwy1ApyaS",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "4SMThH61ejgHdDMCUiTEQEfcRbnFwqSsXtpeLayQCqT9"
+        },
+        "quarry": "FMnT6jNKeEd6prinU3DgC6AVqXUZkVyxtDphAaXFKhR4",
+        "replicaMint": "9bQFdqtSoAWCAJRsFu8iMohbXJVJ8NrksMrhxW7APyhM",
+        "replicaQuarries": [],
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "4SMThH61ejgHdDMCUiTEQEfcRbnFwqSsXtpeLayQCqT9"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "Ck5imAHYYyULXVhhEwW81LnTSjZRyKfgHSZTpajKguQQ"
+    },
+    "slug": "BYp2EVsXRZC37vSKDKJrXQT4KGcWF3itFpstdAztc9fz"
   },
   "BZHLqBNmVvVSKn2ebj94726q2KDB2MMBdWT19muARDHZ": {
     "authority": "BGFDJuvWbPZgtdeJF49nQDn4pMaEBzdKCavwDuhm6L7m",
@@ -72839,7 +72886,7 @@
         "quarry": "4kmw7EYzowkev7qrUrBa91s7vLL3FjcALEwcAGbp1eCf",
         "replicaMint": "HaEeaVy3VH6ZJAoGhCySpj6VgvCuMsm4ePJtJtUbsAmh",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "77y32",
         "stakedToken": {
           "decimals": 6,
           "mint": "77Y32wAGchfq14AYCoASmxnvEEUV3P2NFsZF1NquCtsW"
@@ -72857,7 +72904,7 @@
         "quarry": "G3obAquVGE4Za1gmDiKkAodXg5kqdDMnWSicpCCpsJ1E",
         "replicaMint": "EodRnS2z526Drsvw2BwJTCC45ypqwfwoTDb3eLQA8YhW",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "dn1gn",
         "stakedToken": {
           "decimals": 6,
           "mint": "DN1gNQtxyYr5Y2SN52R4D8p5mXyY1Ay9WUChC3RdrZzL"
@@ -72865,7 +72912,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "7bj6er4i3cgiwvzgqVQX3NPbW2x9RXxMxL6Xs5oksFZA"
     },
     "slug": "EHwA3VqR7BjbWj6Si1MogEn7B4LdXnHacfftfZHpgYX3"
@@ -82784,7 +82831,7 @@
         "quarry": "Hf6MepZVDczTyhmoU5mVXZt77rsRsx7HKrQmBCZdnK85",
         "replicaMint": "FYBnULCsnCyg1j6SnWGdipjbm6kcAH2XviyRAmpk1vB1",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "3l6rx",
         "stakedToken": {
           "decimals": 6,
           "mint": "3L6rxD8LXwRMg1j1viDVALuT9eSN4kkq96yf5jcUsVic"
@@ -82802,7 +82849,7 @@
         "quarry": "G2kuq2GsiJTJdXeexLR5zh2M81znivgDWdZUS4cpfQKp",
         "replicaMint": "5q64TjcDWA66mEv4KDVZtrwWDpGNAkByTy7G7F4N4yDk",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "6snuw",
         "stakedToken": {
           "decimals": 6,
           "mint": "6sNUw4soqsm2GaLuQ4Q9zgwLv1ZWzsSRrvCALG4ZjUbH"
@@ -82810,7 +82857,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "FZYJZPB6oErHhyPetdfz7ohonwF9zwFT8SRD4eoJ67jy"
     },
     "slug": "G6v4nyb4u3fy3jwSVyFtR7RoaUKTBiJ2FjLJ79XZmVGM"
@@ -97350,11 +97397,25 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 103,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
               "decimals": 6,
-              "name": "Token SLNA",
-              "symbol": "SLNAA"
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": [
+                "saber-hidden"
+              ]
             },
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
@@ -97403,22 +97464,24 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9",
-              "chainId": 103,
-              "decimals": 8,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
+              "decimals": 6,
               "extensions": {
-                "source": "quarry-iou",
-                "underlyingTokens": [
-                  "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
-                ],
-                "website": "https://app.saber.so/#/pools/btc"
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
               },
-              "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
-              "name": "Saber renBTC-WBTC LP (IOU)",
-              "symbol": "iourenBTC-WBTC",
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
               "tags": [
-                "saber-stableswap-lp",
-                "quarry-iou"
+                "saber-hidden"
               ]
             },
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",

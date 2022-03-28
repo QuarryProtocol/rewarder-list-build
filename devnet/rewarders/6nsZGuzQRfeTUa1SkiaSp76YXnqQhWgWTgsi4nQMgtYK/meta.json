@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Ch2Y4bYa78KoWYF9px6bLbg41dSmLTA4DRcxWLn4bHAJ",
-      "slug": "0",
+      "slug": "dfyrq",
       "stakedToken": {
         "decimals": 6,
         "mint": "DFYRq75DVgFV4R4Hcz7bD4mbRNGZJN6a1X7gTQQC1Rmb"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "9kHWHB2NCmC7t46eRiKEezfWBfFiFJrADbpuLfFhUFYn",
-      "slug": "1",
+      "slug": "ezrap",
       "stakedToken": {
         "decimals": 6,
         "mint": "EzrAP7UoqEUUyb8AurefBxYnzzYW3Yxysh5Djx8oaatm"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4giBTybcKyBgdmj8aJxD6Xw7JFr8zUgG3c5fQKk7VLDH"
+  },
+  "rewardsTokenInfo": {
+    "address": "4giBTybcKyBgdmj8aJxD6Xw7JFr8zUgG3c5fQKk7VLDH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4giB",
+    "symbol": "4giBT"
   }
 }

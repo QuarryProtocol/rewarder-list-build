@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Hf6MepZVDczTyhmoU5mVXZt77rsRsx7HKrQmBCZdnK85",
-      "slug": "0",
+      "slug": "3l6rx",
       "stakedToken": {
         "decimals": 6,
         "mint": "3L6rxD8LXwRMg1j1viDVALuT9eSN4kkq96yf5jcUsVic"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "G2kuq2GsiJTJdXeexLR5zh2M81znivgDWdZUS4cpfQKp",
-      "slug": "1",
+      "slug": "6snuw",
       "stakedToken": {
         "decimals": 6,
         "mint": "6sNUw4soqsm2GaLuQ4Q9zgwLv1ZWzsSRrvCALG4ZjUbH"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FZYJZPB6oErHhyPetdfz7ohonwF9zwFT8SRD4eoJ67jy"
+  },
+  "rewardsTokenInfo": {
+    "address": "FZYJZPB6oErHhyPetdfz7ohonwF9zwFT8SRD4eoJ67jy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FZYJ",
+    "symbol": "FZYJZ"
   }
 }
