@@ -87239,7 +87239,7 @@
         "quarry": "28zQyJusFSQzazLyx3kyTgAJ13nonnT5kgDAf1YufK2x",
         "replicaMint": "3rdUqK6Ritq1c8h3Drdi9TpPnXEifx4kbgujn4G427nC",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "fqqqs",
         "stakedToken": {
           "decimals": 6,
           "mint": "FQqQs48NuHnPfw2RnKgkiSvEKE6eTTzsbD2euEjKiNTt"
@@ -87257,7 +87257,7 @@
         "quarry": "CiN4BRkpCoSRYktutUbnuiNtxL9CwkyiYSQLdkshrmH1",
         "replicaMint": "4kaEUmRNdwuYjQwERWNuUwMZUESddfor8MGkpbJpb6jF",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "91iqj",
         "stakedToken": {
           "decimals": 6,
           "mint": "91iQJhV3w9zCtsehAgPLaqKBwxC392ngpkntq5RQMZJS"
@@ -87265,7 +87265,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "Cgu7hZL68R7TJCmJAZ4Sr1vwq4Cv7XQJZNgm2Ly7yo8x"
     },
     "slug": "Gu2qTJyoR4LySiGjYcv2azZECb5vuwUivuyjXLhZtVZv"
@@ -97509,11 +97509,25 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 103,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
               "decimals": 6,
-              "name": "Token SLNA",
-              "symbol": "SLNAA"
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": [
+                "saber-hidden"
+              ]
             },
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
@@ -97562,22 +97576,24 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9",
-              "chainId": 103,
-              "decimals": 8,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
+              "decimals": 6,
               "extensions": {
-                "source": "quarry-iou",
-                "underlyingTokens": [
-                  "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
-                ],
-                "website": "https://app.saber.so/#/pools/btc"
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
               },
-              "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
-              "name": "Saber renBTC-WBTC LP (IOU)",
-              "symbol": "iourenBTC-WBTC",
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
               "tags": [
-                "saber-stableswap-lp",
-                "quarry-iou"
+                "saber-hidden"
               ]
             },
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
