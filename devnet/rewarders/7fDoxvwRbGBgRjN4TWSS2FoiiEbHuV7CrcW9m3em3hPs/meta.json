@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4NSEsJM7PAru1etWLWewP5yekJsfPfkdkEXNjcfRe2Jg",
-      "slug": "0",
+      "slug": "fug1b",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fug1bPHZPxfXnimG2EmArG9FFHQtB6U4u5SPJ14rhWKi"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "CSkDhQeFbPKZu7ozEeR2scmbyxU2KXxQ9hGHvQZ9geEL",
-      "slug": "1",
+      "slug": "3h8fx",
       "stakedToken": {
         "decimals": 6,
         "mint": "3H8FXnbdiCRcSfYFbCrW5VwfKC95249MqLDRv353boNG"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6N5j5rarvRG4VEzpNjfZuKFLJX7xts41vQ7dknKv1x31"
+  },
+  "rewardsTokenInfo": {
+    "address": "6N5j5rarvRG4VEzpNjfZuKFLJX7xts41vQ7dknKv1x31",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6N5j",
+    "symbol": "6N5j5"
   }
 }
