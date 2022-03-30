@@ -1,9 +1,35 @@
 {
   "authority": "3wAoBy3enbDuo5M4nMshf4qutMzzARrQk6UkMLJJouav",
   "mintWrapper": "7VUd6tqhieNqWhDZWQgXvNuwrYsAykQPhUhohGx6GdCQ",
-  "quarries": [],
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1648673030",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "100",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "5cFQL9i9LMJg9n6EeAtVMJBPELyRuMXaVz9CJ7hH8icP",
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "D9DaGmpuzqzYnr4qxXP7EZCu9h1RE47eu3XnayB1e9oZ"
+      }
+    }
+  ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DAMGDSqnm4qB6VnA2XwK7so5BQWHGDCjwHBM17ZJ7rP3"
+  },
+  "rewardsTokenInfo": {
+    "address": "DAMGDSqnm4qB6VnA2XwK7so5BQWHGDCjwHBM17ZJ7rP3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DAMG",
+    "symbol": "DAMGD"
   }
 }
