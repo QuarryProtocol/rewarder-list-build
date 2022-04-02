@@ -14,7 +14,7 @@
       "quarry": "Ek5cnH5n48xba7NSP25NXmdK5Dy4GuSadcRF6E24gZ6",
       "replicaMint": "EQ6SdRK1TYK4XiSog53W1YrsCe3rLKHEjg8qkb8QGvWW",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "nbqej",
       "stakedToken": {
         "decimals": 6,
         "mint": "nBqej9bxqZAYNnqmGwgn7tTV7kExPtCiSwBvYu7HmbR"
@@ -32,7 +32,7 @@
       "quarry": "5zYi2euKUg4mnwCKy3w7PyX4DsWHeHAoTio2KPk6jRuM",
       "replicaMint": "EypTE9o2Yojm88R2dVw8dGJtucGrbAoYGgmoAwxkWBob",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "cynrz",
       "stakedToken": {
         "decimals": 6,
         "mint": "CyNRZJmCk6DGS8kasJweAmFUEbBFEAjocusMb7gMmaGY"
@@ -50,7 +50,7 @@
       "quarry": "4J8f8HPH3W8t2qQ7izSK1Pe4jVAzmc1Rofa4X6RkwbVz",
       "replicaMint": "FpLVEWeCsxPMLgwos9TLEoYJCCSxb2tedxCxCWsv7XAn",
       "replicaQuarries": [],
-      "slug": "2",
+      "slug": "ful3w",
       "stakedToken": {
         "decimals": 6,
         "mint": "FUL3WjMm6YPanMSYvWbRj7maWJY8XBxPjxVFGbiDW1T4"
@@ -68,7 +68,7 @@
       "quarry": "9k45fscE6q6JTK1dMm3vs5oUPvFGnT678hTCWYUwLUmo",
       "replicaMint": "76SzDKHeHWqkXEJBYKYvFSrM8fbkPsqGDpMPtdmPHRZc",
       "replicaQuarries": [],
-      "slug": "3",
+      "slug": "6ad5s",
       "stakedToken": {
         "decimals": 6,
         "mint": "6Ad5STWfAXo78owaWzqGqRmF6RaLh84EZPurzQHPy28d"
@@ -86,7 +86,7 @@
       "quarry": "4yZQzKipC5GbD8q8Ns4Q7tJbAtxEyFZfw6TXq9t2hbRP",
       "replicaMint": "6VdzASSKxZkAGhXCDdwe8GSvpRLDLav3u1rVLbcyPYam",
       "replicaQuarries": [],
-      "slug": "4",
+      "slug": "9xtus",
       "stakedToken": {
         "decimals": 6,
         "mint": "9xtUSzDK74wKUtXf8F83CYWdafNm9kyk4AosBAUCd82Z"
@@ -94,8 +94,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2BuZL886q1tCUsuEER6K1FNJvs7dYTXKTFchQX7hUPiD"
+  },
+  "rewardsTokenInfo": {
+    "address": "2BuZL886q1tCUsuEER6K1FNJvs7dYTXKTFchQX7hUPiD",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2BuZ",
+    "symbol": "2BuZL"
   },
   "slug": "6Y8ccyxa3jw1mvg5kHEjXcYcZNX6sfn9mWVutevWSRyS"
 }
