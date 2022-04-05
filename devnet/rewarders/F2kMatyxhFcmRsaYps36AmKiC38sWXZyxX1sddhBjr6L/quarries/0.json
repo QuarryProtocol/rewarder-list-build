@@ -1,0 +1,37 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "8uiJHB2eubd6q6SuK3hcfdykBo3JioMv5FcbteeeRZ6k",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "D9DaGmpuzqzYnr4qxXP7EZCu9h1RE47eu3XnayB1e9oZ"
+    },
+    "quarry": "6YFYAqfmVq4cgTGkG5hbrrAnEcwnebGfwx5x8TMjVhRe",
+    "replicaMint": "Hmr8p2UekxB4gYsie8L1cy2HPD8qkZqwwaj8qURfzBDE",
+    "replicaQuarries": [],
+    "slug": "d9dag",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "D9DaGmpuzqzYnr4qxXP7EZCu9h1RE47eu3XnayB1e9oZ"
+    }
+  },
+  "rewarder": {
+    "authority": "3wAoBy3enbDuo5M4nMshf4qutMzzARrQk6UkMLJJouav",
+    "mintWrapper": "8LJ5nYydRRn9wWygdRq9AsQXNQNbmUNqLnDvXoLsGBtQ",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "8cefy7mNS1krtKDPXvS8KwGT56gaYidzU1UMScXEG7Tg"
+    },
+    "slug": "F2kMatyxhFcmRsaYps36AmKiC38sWXZyxX1sddhBjr6L"
+  },
+  "stakedToken": {
+    "address": "D9DaGmpuzqzYnr4qxXP7EZCu9h1RE47eu3XnayB1e9oZ",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token D9Da",
+    "symbol": "D9DaG"
+  },
+  "underlyingTokens": []
+}
