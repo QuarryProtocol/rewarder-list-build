@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "B6nTuctJxNutJ2fjET9EHcVQLMZUVoe7YG2A45KLx2h4",
-      "slug": "0",
+      "slug": "fpejk",
       "stakedToken": {
         "decimals": 6,
         "mint": "FPeJKQwK6FTPUo5W1aQAF8FwqCPhKWg3a3txs77CqLS"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "FQiKiRurU5fNhqh9SiFcdK2axVFkwtJj8pSGeij1bZ2Q",
-      "slug": "1",
+      "slug": "6grhw",
       "stakedToken": {
         "decimals": 6,
         "mint": "6GRHwwArHUrotbo5yYKUiBoyLeGzDzExobgBVomv6w6"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gnmya4GgtuaNSAiwP48Eubwbskfh5biT58msdmbxcQfT"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gnmya4GgtuaNSAiwP48Eubwbskfh5biT58msdmbxcQfT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gnmy",
+    "symbol": "Gnmya"
   }
 }

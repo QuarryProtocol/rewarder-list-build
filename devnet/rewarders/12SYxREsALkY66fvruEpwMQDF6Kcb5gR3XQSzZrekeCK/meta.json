@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Eq9JQAC3ffABBNGioRwxv8kzfmT7QagCDhuoUXRYFtu",
-      "slug": "0",
+      "slug": "bbkza",
       "stakedToken": {
         "decimals": 6,
         "mint": "BBKzaBadXYMW5PACX54Avn7jcqNw5NPbwFaNKXqsKJpA"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "8BGS3V3FAnpgrcvPn4EgHqx7oicpdhgaGLAKtJbcCvkW",
-      "slug": "1",
+      "slug": "fe2pv",
       "stakedToken": {
         "decimals": 6,
         "mint": "Fe2pVZZMK4eWcWrbYtNGft2WXxnXy93VArg4nEGqrazY"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "6oLkCd8LeUD8fayQTZkcnn6yoEQtqV35JaRVEbNpRPSx"
+  },
+  "rewardsTokenInfo": {
+    "address": "6oLkCd8LeUD8fayQTZkcnn6yoEQtqV35JaRVEbNpRPSx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6oLk",
+    "symbol": "6oLkC"
   }
 }
