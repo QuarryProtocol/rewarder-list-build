@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "354oj5t1QABcWnQcdWJ3fVrwFtvWnrhPsFaNgbpenNND",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "2PPGcB1tYGZe3kY7V7AjbHLAaWUCjV5zgZTggPWwZSt2"
     },
     "slug": "8z4WAxz1EgguJXVm396BGESiiUYZQ8QsecdPyuG2NDvv"
+  },
+  "rewardsToken": {
+    "address": "2PPGcB1tYGZe3kY7V7AjbHLAaWUCjV5zgZTggPWwZSt2",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2PPG",
+    "symbol": "2PPGc"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

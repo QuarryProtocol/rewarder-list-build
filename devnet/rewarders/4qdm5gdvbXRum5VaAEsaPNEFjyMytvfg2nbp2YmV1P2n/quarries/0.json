@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "FZHprDLARBWps6p9z9apdxgrUWr8MjKcGt253ri16JY5",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "FPw3CEikedUscyaWdDPebEmf2cPgB6ZjFbpAnxKFsdhH"
     },
     "slug": "4qdm5gdvbXRum5VaAEsaPNEFjyMytvfg2nbp2YmV1P2n"
+  },
+  "rewardsToken": {
+    "address": "FPw3CEikedUscyaWdDPebEmf2cPgB6ZjFbpAnxKFsdhH",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FPw3",
+    "symbol": "FPw3C"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

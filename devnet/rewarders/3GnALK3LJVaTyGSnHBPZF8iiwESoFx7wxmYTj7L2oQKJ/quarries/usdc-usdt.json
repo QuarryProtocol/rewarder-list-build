@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "2Qf5Emh8uvS4eW5amH2JeX4eJRkpcw3xjofezBdcUUer",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "4bGoDDXdMHZUQ7fi3mhhZ9iUseU2Sd8HoEyY1QHbMisX"
     },
     "slug": "3GnALK3LJVaTyGSnHBPZF8iiwESoFx7wxmYTj7L2oQKJ"
+  },
+  "rewardsToken": {
+    "address": "4bGoDDXdMHZUQ7fi3mhhZ9iUseU2Sd8HoEyY1QHbMisX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4bGo",
+    "symbol": "4bGoD"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

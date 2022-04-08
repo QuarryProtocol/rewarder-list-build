@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "8CPNdRwgqbQTMTc3uqYv8qgBmSNL3zQPL7aFuF9Do7TU",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "2mvjDWyLvBcfBgA8u4Mb5BRNsUbLSs2kDertHJh8Dw94"
     },
     "slug": "2gD9CjEWMeZxxaPJ19aP77VoyBXkWFcXtYnKC3L9ivot"
+  },
+  "rewardsToken": {
+    "address": "2mvjDWyLvBcfBgA8u4Mb5BRNsUbLSs2kDertHJh8Dw94",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2mvj",
+    "symbol": "2mvjD"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

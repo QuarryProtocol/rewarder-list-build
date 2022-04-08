@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GistFhPWixRxxPYfn1h2fTGRXR4bjmm3VCufFaUaXAYY"
+  },
+  "rewardsTokenInfo": {
+    "address": "GistFhPWixRxxPYfn1h2fTGRXR4bjmm3VCufFaUaXAYY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gist",
+    "symbol": "GistF"
   }
 }

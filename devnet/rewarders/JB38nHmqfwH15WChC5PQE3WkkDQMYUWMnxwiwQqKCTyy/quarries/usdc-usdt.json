@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "AfDPJgAzHCE6aMLrAwWLgD5jQCv6baH57Cs8dnKhD23N",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8UceroJiYgeXrcPHq4fdd8aeVv61uDx5ukbpKGT5Cmjv"
     },
     "slug": "JB38nHmqfwH15WChC5PQE3WkkDQMYUWMnxwiwQqKCTyy"
+  },
+  "rewardsToken": {
+    "address": "8UceroJiYgeXrcPHq4fdd8aeVv61uDx5ukbpKGT5Cmjv",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8Uce",
+    "symbol": "8Ucer"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

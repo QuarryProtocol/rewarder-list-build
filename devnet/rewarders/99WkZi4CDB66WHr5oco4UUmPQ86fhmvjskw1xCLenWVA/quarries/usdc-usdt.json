@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "H3fG8KY9efRm2dfdGTox88Ti7cmR6BNiQy8Nqm8iUU3D",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "GistFhPWixRxxPYfn1h2fTGRXR4bjmm3VCufFaUaXAYY"
     },
     "slug": "99WkZi4CDB66WHr5oco4UUmPQ86fhmvjskw1xCLenWVA"
+  },
+  "rewardsToken": {
+    "address": "GistFhPWixRxxPYfn1h2fTGRXR4bjmm3VCufFaUaXAYY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gist",
+    "symbol": "GistF"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

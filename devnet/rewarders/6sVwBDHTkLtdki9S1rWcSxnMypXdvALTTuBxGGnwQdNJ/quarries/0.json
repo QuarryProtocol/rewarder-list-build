@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "4fLckiwCLGXspzRQzHCjzYuinmqrmdxUinFVJrZmyWWE",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "A4cixmD4sSY9qK5t9NgHVNMkZWqLhMNBuCv1tcaS2Wkw"
     },
     "slug": "6sVwBDHTkLtdki9S1rWcSxnMypXdvALTTuBxGGnwQdNJ"
+  },
+  "rewardsToken": {
+    "address": "A4cixmD4sSY9qK5t9NgHVNMkZWqLhMNBuCv1tcaS2Wkw",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token A4ci",
+    "symbol": "A4cix"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
