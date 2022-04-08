@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "8HmzApKW5DQrMqNHx7JJ1mSWre7a6Wk9ukWkPETQepcw",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "AW4DdnjCgcpbmgBLBt4ZDffrhJVhrXof4HsZYxQHTmiV"
     },
     "slug": "CVU1ZgKp5MPk1WvafyyeZuZNXejcdVVBt7mYun3mDjMD"
+  },
+  "rewardsToken": {
+    "address": "AW4DdnjCgcpbmgBLBt4ZDffrhJVhrXof4HsZYxQHTmiV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AW4D",
+    "symbol": "AW4Dd"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

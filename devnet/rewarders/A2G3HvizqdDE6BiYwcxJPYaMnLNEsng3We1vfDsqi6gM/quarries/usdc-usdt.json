@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "9v4HUkLcVYSBRZuNi5JcdamXs2pawtfhZCgHpe1ybvF6",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8AJLWnR99j51ZcFJCijBycB6awXotgPnZ6io6CmzaHfa"
     },
     "slug": "A2G3HvizqdDE6BiYwcxJPYaMnLNEsng3We1vfDsqi6gM"
+  },
+  "rewardsToken": {
+    "address": "8AJLWnR99j51ZcFJCijBycB6awXotgPnZ6io6CmzaHfa",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8AJL",
+    "symbol": "8AJLW"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

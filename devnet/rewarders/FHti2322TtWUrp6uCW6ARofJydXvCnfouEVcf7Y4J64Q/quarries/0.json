@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "8rhsoXAwHE4HZkuKea5NxCvdSiEFFo7kT16Dn8mZFMV1",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8PDp7qBGwiabmeVZoBhkddBzrxhW57UtdhAQPhKducDM"
     },
     "slug": "FHti2322TtWUrp6uCW6ARofJydXvCnfouEVcf7Y4J64Q"
+  },
+  "rewardsToken": {
+    "address": "8PDp7qBGwiabmeVZoBhkddBzrxhW57UtdhAQPhKducDM",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8PDp",
+    "symbol": "8PDp7"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

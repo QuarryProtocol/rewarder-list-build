@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "BrP7CrmKVwWS1f5RZx53UzYkTiS7vGAio1pY8BA4m55g",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "ECHVYQ8oWHmt1ow2sVzX1LYteCJkV2FHs8KXBahp7o7m"
     },
     "slug": "AH658srQPuZvXz9Vp1bpcfNRWXauJRQqmi74bg546AbH"
+  },
+  "rewardsToken": {
+    "address": "ECHVYQ8oWHmt1ow2sVzX1LYteCJkV2FHs8KXBahp7o7m",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ECHV",
+    "symbol": "ECHVY"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

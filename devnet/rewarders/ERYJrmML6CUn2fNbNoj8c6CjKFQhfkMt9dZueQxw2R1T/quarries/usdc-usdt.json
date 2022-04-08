@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "xfwLuxhQepdcgrJYxRpyGZbqHTuMjGposjA1XRWxtU4",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "78vhFppP5jeumXXi4NahstPKHSifJgGrzk9dTLgr5vu3"
     },
     "slug": "ERYJrmML6CUn2fNbNoj8c6CjKFQhfkMt9dZueQxw2R1T"
+  },
+  "rewardsToken": {
+    "address": "78vhFppP5jeumXXi4NahstPKHSifJgGrzk9dTLgr5vu3",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 78vh",
+    "symbol": "78vhF"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "3x8YMvifMnRFRTZcsFrWKiy8HKumSkFz3DJxPgdvLEM7",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "6YcDmehLHp1MEEQYQFvZoSy4RQY52sPBK2mr3eNYTvP1"
     },
     "slug": "4tZbWzQHm6HKybSSvrSzcHmNSVpzJDNahCrj4XDj3djf"
+  },
+  "rewardsToken": {
+    "address": "6YcDmehLHp1MEEQYQFvZoSy4RQY52sPBK2mr3eNYTvP1",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 6YcD",
+    "symbol": "6YcDm"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
