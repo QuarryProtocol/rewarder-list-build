@@ -261,11 +261,17 @@
         "slug": "usdc-usdt"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "NuZ3YzvPPcivG5YMic5t5hk2Ln2npjjLrvXSunFcXio",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token NuZ3",
+          "symbol": "NuZ3Y"
+        },
         "quarry": "9r5UU4cwGHiU4YZogvczAtzmzHoQtnQp6aUAmeHypvHq",
         "rewarder": "BDPSSfxNec53taaz6bTWsbe4P4q6TUGp3zBfaqjXmikw",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "NuZ3YzvPPcivG5YMic5t5hk2Ln2npjjLrvXSunFcXio"
         },
         "slug": "usdc-usdt"
@@ -303,11 +309,17 @@
         "slug": "usdc-usdt"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "A7iScYkqy5K9x4aS8tKDHuoTeW2fv8gCwht79XgswWqX",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token A7iS",
+          "symbol": "A7iSc"
+        },
         "quarry": "XqzvgfNUHaaGbuJTwVssqoNkYJ8iYUU1Pz6G161J4oh",
         "rewarder": "EpdkGifWtVbPkTVKWSgcFgCc4npyptsEouwxiNXdQjmP",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "A7iScYkqy5K9x4aS8tKDHuoTeW2fv8gCwht79XgswWqX"
         },
         "slug": "usdc-usdt"
@@ -325,6 +337,26 @@
         "rewardsToken": {
           "decimals": 6,
           "mint": "8PDp7qBGwiabmeVZoBhkddBzrxhW57UtdhAQPhKducDM"
+        },
+        "slug": "usdc-usdt"
+      },
+      {
+        "displayRewardsToken": null,
+        "quarry": "HwrGZPxVNLjYVY38Erve5cuj5JptqJUWfKj4QpdCpeJR",
+        "rewarder": "Fq31W286TaBfULaChjqKgjFm77WE5XtRvpkwxYVgc6p5",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "2fK8jx9WjGZhHahtU6PvgG8GV8MTwRg5u85oww6cxuFv"
+        },
+        "slug": "usdc-usdt"
+      },
+      {
+        "displayRewardsToken": null,
+        "quarry": "EZy4xR9KgjrQkphGZtck4ghAfrBrszrNkRXjeyU8Ld24",
+        "rewarder": "H6y7p8AM4uUVTnr2NXJzwijNpALhES6ZMCvXD8kRbo1P",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv"
         },
         "slug": "usdc-usdt"
       },

@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "9bL2tTDTadAhYRMtv7p7mhBxTydwkMu321upKuAcbjSL",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "NuZ3YzvPPcivG5YMic5t5hk2Ln2npjjLrvXSunFcXio"
     },
     "slug": "BDPSSfxNec53taaz6bTWsbe4P4q6TUGp3zBfaqjXmikw"
+  },
+  "rewardsToken": {
+    "address": "NuZ3YzvPPcivG5YMic5t5hk2Ln2npjjLrvXSunFcXio",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token NuZ3",
+    "symbol": "NuZ3Y"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

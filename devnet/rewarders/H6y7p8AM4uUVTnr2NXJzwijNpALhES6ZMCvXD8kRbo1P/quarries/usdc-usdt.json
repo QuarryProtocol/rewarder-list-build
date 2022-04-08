@@ -1,0 +1,101 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "ACHcNqKkVQ6d48Wedy3DvNdpAmX4tqaPj1vXjbgnWq7Q",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+    },
+    "quarry": "EZy4xR9KgjrQkphGZtck4ghAfrBrszrNkRXjeyU8Ld24",
+    "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
+    "replicaQuarries": [
+      {
+        "displayRewardsToken": {
+          "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token SLNA",
+          "symbol": "SLNAA"
+        },
+        "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
+        "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+        },
+        "slug": "qrusdc-usdt"
+      }
+    ],
+    "slug": "usdc-usdt",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+    }
+  },
+  "rewarder": {
+    "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
+    "mintWrapper": "36qBVJPb42uPnSk8VADHLFUWsQ9ZLKWCSUHhQLqSZMaj",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv"
+    },
+    "slug": "H6y7p8AM4uUVTnr2NXJzwijNpALhES6ZMCvXD8kRbo1P"
+  },
+  "stakedToken": {
+    "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+        "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+      ],
+      "website": "https://app.saber.so/#/pools/usdc_usdt"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+    "name": "Saber USDC-USDT LP",
+    "symbol": "USDC-USDT",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "name": "USD Coin (Saber Devnet)",
+      "symbol": "USDC",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
+      "name": "USDT (Saber Devnet)",
+      "symbol": "USDT",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    }
+  ]
+}
