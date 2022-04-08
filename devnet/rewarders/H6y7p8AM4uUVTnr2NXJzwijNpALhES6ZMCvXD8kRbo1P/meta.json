@@ -6,11 +6,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1649449334",
+        "lastUpdateTs": "1649455641",
         "numMiners": "1",
-        "rewardsPerTokenStored": "0",
+        "rewardsPerTokenStored": "1564136024007462614",
         "rewardsShare": "1",
-        "totalTokensDeposited": "0"
+        "totalTokensDeposited": "1000000"
       },
       "index": 0,
       "quarry": "EZy4xR9KgjrQkphGZtck4ghAfrBrszrNkRXjeyU8Ld24",
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv"
+  },
+  "rewardsTokenInfo": {
+    "address": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ADBF",
+    "symbol": "ADBFm"
   }
 }

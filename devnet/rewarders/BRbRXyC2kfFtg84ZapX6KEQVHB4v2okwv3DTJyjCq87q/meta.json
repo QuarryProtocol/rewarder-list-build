@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "8EHsGLbQSejzd82cMcW4euF8MibV6s2wPSx2FC9zZB4j",
-      "slug": "0",
+      "slug": "gzxjd",
       "stakedToken": {
         "decimals": 6,
         "mint": "GZXjD5EK8jj5ZCR4W6uESg5L9FbqHPanvzjSeNrj1qsk"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DEQJG3ASbgWL8dD1sCjM9dPzYRCTMPqgUC8CCFwBhBco"
+  },
+  "rewardsTokenInfo": {
+    "address": "DEQJG3ASbgWL8dD1sCjM9dPzYRCTMPqgUC8CCFwBhBco",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DEQJ",
+    "symbol": "DEQJG"
   }
 }

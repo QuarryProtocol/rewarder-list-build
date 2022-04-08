@@ -42,6 +42,16 @@
           "slug": "usdc-usdt"
         },
         {
+          "displayRewardsToken": null,
+          "quarry": "DmNCxGXPAVTSzVKCdarnL5VcU3yRfwehmcvoJhy597dm",
+          "rewarder": "2gSNYg75fMRWW94KpdSjTsthJN7nWmoRsKG2D1CDUZ5P",
+          "rewardsToken": {
+            "decimals": -1,
+            "mint": "2MyVVe5G6rkGuDiY26zhFXogY2fNd9eNNZ7yRnP59X1s"
+          },
+          "slug": "usdc-usdt"
+        },
+        {
           "displayRewardsToken": {
             "address": "4bGoDDXdMHZUQ7fi3mhhZ9iUseU2Sd8HoEyY1QHbMisX",
             "chainId": 103,
@@ -314,6 +324,16 @@
           "slug": "usdc-usdt"
         },
         {
+          "displayRewardsToken": null,
+          "quarry": "J8XcBGspp2Wv65Mm8RHRsyNS4fE6graosMHG3Bkw2NRP",
+          "rewarder": "EQxTVuYLg6ZicyxaZkpmhnuh2Tfu7bW3PorxYN3pBAGW",
+          "rewardsToken": {
+            "decimals": -1,
+            "mint": "GWEotZppD5MgS15WMBLU6CYrYugMqU6rDwahj9eSip1Q"
+          },
+          "slug": "usdc-usdt"
+        },
+        {
           "displayRewardsToken": {
             "address": "78vhFppP5jeumXXi4NahstPKHSifJgGrzk9dTLgr5vu3",
             "chainId": 103,
@@ -362,21 +382,33 @@
           "slug": "usdc-usdt"
         },
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "2fK8jx9WjGZhHahtU6PvgG8GV8MTwRg5u85oww6cxuFv",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token 2fK8",
+            "symbol": "2fK8j"
+          },
           "quarry": "HwrGZPxVNLjYVY38Erve5cuj5JptqJUWfKj4QpdCpeJR",
           "rewarder": "Fq31W286TaBfULaChjqKgjFm77WE5XtRvpkwxYVgc6p5",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "2fK8jx9WjGZhHahtU6PvgG8GV8MTwRg5u85oww6cxuFv"
           },
           "slug": "usdc-usdt"
         },
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token ADBF",
+            "symbol": "ADBFm"
+          },
           "quarry": "EZy4xR9KgjrQkphGZtck4ghAfrBrszrNkRXjeyU8Ld24",
           "rewarder": "H6y7p8AM4uUVTnr2NXJzwijNpALhES6ZMCvXD8kRbo1P",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv"
           },
           "slug": "usdc-usdt"

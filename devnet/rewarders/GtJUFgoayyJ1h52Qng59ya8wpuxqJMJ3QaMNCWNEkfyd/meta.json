@@ -6,15 +6,15 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1649449400",
+        "lastUpdateTs": "1649455641",
         "numMiners": "1",
-        "rewardsPerTokenStored": "0",
+        "rewardsPerTokenStored": "1564136024007462614",
         "rewardsShare": "1",
-        "totalTokensDeposited": "0"
+        "totalTokensDeposited": "1000000"
       },
       "index": 0,
       "quarry": "ADXLVmHJsiq9tUr32eZUD7t3L1mWnZekXEerVPGteUY1",
-      "slug": "0",
+      "slug": "bvuvf",
       "stakedToken": {
         "decimals": 6,
         "mint": "BvUVFsNehKEqpjsbfXPFyoz8JnuajJVdXF7iGhiMRzm8"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9WRLGRQ1nuDJoo77CidWYeeC856jSRkLwybWtaDQNso8"
+  },
+  "rewardsTokenInfo": {
+    "address": "9WRLGRQ1nuDJoo77CidWYeeC856jSRkLwybWtaDQNso8",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 9WRL",
+    "symbol": "9WRLG"
   }
 }

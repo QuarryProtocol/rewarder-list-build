@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "36qBVJPb42uPnSk8VADHLFUWsQ9ZLKWCSUHhQLqSZMaj",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv"
     },
     "slug": "H6y7p8AM4uUVTnr2NXJzwijNpALhES6ZMCvXD8kRbo1P"
+  },
+  "rewardsToken": {
+    "address": "ADBFmDQrQ734eQgiP34aNqCqcudm2A2RnBnGXncPepdv",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token ADBF",
+    "symbol": "ADBFm"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
