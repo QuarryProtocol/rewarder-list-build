@@ -42,11 +42,17 @@
           "slug": "usdc-usdt"
         },
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "2MyVVe5G6rkGuDiY26zhFXogY2fNd9eNNZ7yRnP59X1s",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token 2MyV",
+            "symbol": "2MyVV"
+          },
           "quarry": "DmNCxGXPAVTSzVKCdarnL5VcU3yRfwehmcvoJhy597dm",
           "rewarder": "2gSNYg75fMRWW94KpdSjTsthJN7nWmoRsKG2D1CDUZ5P",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "2MyVVe5G6rkGuDiY26zhFXogY2fNd9eNNZ7yRnP59X1s"
           },
           "slug": "usdc-usdt"
@@ -80,6 +86,16 @@
           "rewardsToken": {
             "decimals": 6,
             "mint": "GjF44CA1NpjrUQPwFyaDjXqCF2rKf68MvafVkCpg4QCf"
+          },
+          "slug": "usdc-usdt"
+        },
+        {
+          "displayRewardsToken": null,
+          "quarry": "6x7ZUmBs3dqVnfhkWKSch5hyCxaZRL8Edr8g4kVVXDGc",
+          "rewarder": "3tMv3KmFQHTshd6eD1d7MA69yhjcvyPVwbxetBP3U5A1",
+          "rewardsToken": {
+            "decimals": -1,
+            "mint": "79oMYTnCud6sDuDoS6WD98Q1iAvWVfuzEnvGW9DDLHJM"
           },
           "slug": "usdc-usdt"
         },
@@ -324,11 +340,17 @@
           "slug": "usdc-usdt"
         },
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "GWEotZppD5MgS15WMBLU6CYrYugMqU6rDwahj9eSip1Q",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token GWEo",
+            "symbol": "GWEot"
+          },
           "quarry": "J8XcBGspp2Wv65Mm8RHRsyNS4fE6graosMHG3Bkw2NRP",
           "rewarder": "EQxTVuYLg6ZicyxaZkpmhnuh2Tfu7bW3PorxYN3pBAGW",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "GWEotZppD5MgS15WMBLU6CYrYugMqU6rDwahj9eSip1Q"
           },
           "slug": "usdc-usdt"
@@ -378,6 +400,16 @@
           "rewardsToken": {
             "decimals": 6,
             "mint": "8PDp7qBGwiabmeVZoBhkddBzrxhW57UtdhAQPhKducDM"
+          },
+          "slug": "usdc-usdt"
+        },
+        {
+          "displayRewardsToken": null,
+          "quarry": "FJNMg6RXVp9giYE4Wgqnf1WWFBqrfZZNj6mwAZv8CFFZ",
+          "rewarder": "Fdoajnrwyp9FSQepH5VpPn7pkPQeza5z6tic2Nxxhizk",
+          "rewardsToken": {
+            "decimals": -1,
+            "mint": "93d5XYDqGVB2jYNLdxmLmGDLHAiGYX11tuboW8PRzmxa"
           },
           "slug": "usdc-usdt"
         },

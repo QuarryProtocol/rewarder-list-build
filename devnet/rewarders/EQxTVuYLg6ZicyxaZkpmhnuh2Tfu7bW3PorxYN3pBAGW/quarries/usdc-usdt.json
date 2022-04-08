@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "2DGJXcctFLV2VWfbp7Cnx6QKbh32yaVVBJ1xhL136NKv",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "GWEotZppD5MgS15WMBLU6CYrYugMqU6rDwahj9eSip1Q"
     },
     "slug": "EQxTVuYLg6ZicyxaZkpmhnuh2Tfu7bW3PorxYN3pBAGW"
+  },
+  "rewardsToken": {
+    "address": "GWEotZppD5MgS15WMBLU6CYrYugMqU6rDwahj9eSip1Q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GWEo",
+    "symbol": "GWEot"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

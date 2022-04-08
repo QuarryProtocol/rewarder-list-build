@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "EUQi9sYvMHiqJX7QXYH8dgqMBLiLF3Mkd6KQH1Jutser",
-      "slug": "0",
+      "slug": "eamzw",
       "stakedToken": {
         "decimals": 6,
         "mint": "EAmZwh8SRTdH5mhWbeBPv3azPp5jnUbsrEVg4AMxqT1q"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gdb8h8Cg12d23LgTQAzP3jp1WEWUgyPf6MaFS47KrXVx"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gdb8h8Cg12d23LgTQAzP3jp1WEWUgyPf6MaFS47KrXVx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gdb8",
+    "symbol": "Gdb8h"
   }
 }
