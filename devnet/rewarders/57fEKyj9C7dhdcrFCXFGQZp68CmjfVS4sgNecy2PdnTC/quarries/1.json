@@ -69,11 +69,17 @@
         "slug": "usdc-usdt"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "79oMYTnCud6sDuDoS6WD98Q1iAvWVfuzEnvGW9DDLHJM",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token 79oM",
+          "symbol": "79oMY"
+        },
         "quarry": "6x7ZUmBs3dqVnfhkWKSch5hyCxaZRL8Edr8g4kVVXDGc",
         "rewarder": "3tMv3KmFQHTshd6eD1d7MA69yhjcvyPVwbxetBP3U5A1",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "79oMYTnCud6sDuDoS6WD98Q1iAvWVfuzEnvGW9DDLHJM"
         },
         "slug": "usdc-usdt"
@@ -383,11 +389,17 @@
         "slug": "usdc-usdt"
       },
       {
-        "displayRewardsToken": null,
+        "displayRewardsToken": {
+          "address": "93d5XYDqGVB2jYNLdxmLmGDLHAiGYX11tuboW8PRzmxa",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token 93d5",
+          "symbol": "93d5X"
+        },
         "quarry": "FJNMg6RXVp9giYE4Wgqnf1WWFBqrfZZNj6mwAZv8CFFZ",
         "rewarder": "Fdoajnrwyp9FSQepH5VpPn7pkPQeza5z6tic2Nxxhizk",
         "rewardsToken": {
-          "decimals": -1,
+          "decimals": 6,
           "mint": "93d5XYDqGVB2jYNLdxmLmGDLHAiGYX11tuboW8PRzmxa"
         },
         "slug": "usdc-usdt"

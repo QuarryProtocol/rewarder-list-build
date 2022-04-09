@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BKARPNvQiU36Hyd8TPr1FH5CypQ1BWq8mrNBJ4W2MzY",
-      "slug": "0",
+      "slug": "dkhya",
       "stakedToken": {
         "decimals": 6,
         "mint": "DkHyARfxaBGGMG5na6UDrwLyccPrgziUzmqXHdujGNoR"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "12oQm6EX2yMCQgt4sdno8iEyBaHmMvvH9kJGoM8VaeYX"
+  },
+  "rewardsTokenInfo": {
+    "address": "12oQm6EX2yMCQgt4sdno8iEyBaHmMvvH9kJGoM8VaeYX",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 12oQ",
+    "symbol": "12oQm"
   }
 }
