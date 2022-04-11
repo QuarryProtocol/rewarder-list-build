@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "3JjR54ZorV1V32FsCNc2XBWJiPuA1Tkr4BbVXuuzht8P",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "8WtFURWDt9Jn4Buo2UFkSWX8D2MYFj9yBN7ZqhTUGnJJ"
     },
     "slug": "DGpCGNjYzwtd4KmsMGhHepNakfiokYGFGuYP6qtyHAXB"
+  },
+  "rewardsToken": {
+    "address": "8WtFURWDt9Jn4Buo2UFkSWX8D2MYFj9yBN7ZqhTUGnJJ",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 8WtF",
+    "symbol": "8WtFU"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "796cADVjsFW4R6RbcSLfheHrso1sZzgz1GYEx6si6u29",
-      "slug": "0",
+      "slug": "hbnvk",
       "stakedToken": {
         "decimals": 6,
         "mint": "HBnVKUwauBJJPVgi4EUPJTkHiuemqVJQSXvCq1m2NiVk"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7mm77AzRqj89r2PhUsMKXGh8G48bM8Gr1KQbH5fz7Q4M"
+  },
+  "rewardsTokenInfo": {
+    "address": "7mm77AzRqj89r2PhUsMKXGh8G48bM8Gr1KQbH5fz7Q4M",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 7mm7",
+    "symbol": "7mm77"
   }
 }

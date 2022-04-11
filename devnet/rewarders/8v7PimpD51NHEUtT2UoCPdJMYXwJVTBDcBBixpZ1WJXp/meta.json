@@ -1,19 +1,19 @@
 {
   "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
-  "mintWrapper": "3JjR54ZorV1V32FsCNc2XBWJiPuA1Tkr4BbVXuuzht8P",
+  "mintWrapper": "HLBvxFU2YejizZ5A5ZKvrKFr2FcfJDd8L8TW2GJCcNeg",
   "quarries": [
     {
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1649631441",
+        "lastUpdateTs": "1649635106",
         "numMiners": "1",
         "rewardsPerTokenStored": "0",
         "rewardsShare": "1",
         "totalTokensDeposited": "0"
       },
       "index": 0,
-      "quarry": "DLSkmxyiu2khQoruDEhKAL7xwuLk4ErJQqJRbmwBQ1zy",
+      "quarry": "8zSqN58V9kfn9sSQ2N574axZDCJYo8uX5ow7PWjjridb",
       "slug": "usdc-usdt",
       "stakedToken": {
         "decimals": 6,
@@ -22,14 +22,7 @@
     }
   ],
   "rewardsToken": {
-    "decimals": 6,
-    "mint": "8WtFURWDt9Jn4Buo2UFkSWX8D2MYFj9yBN7ZqhTUGnJJ"
-  },
-  "rewardsTokenInfo": {
-    "address": "8WtFURWDt9Jn4Buo2UFkSWX8D2MYFj9yBN7ZqhTUGnJJ",
-    "chainId": 103,
-    "decimals": 6,
-    "name": "Token 8WtF",
-    "symbol": "8WtFU"
+    "decimals": -1,
+    "mint": "2EaSFprHWpBmdz7Mse718dSpit9L5VEdVAaeZUbnJVUC"
   }
 }
