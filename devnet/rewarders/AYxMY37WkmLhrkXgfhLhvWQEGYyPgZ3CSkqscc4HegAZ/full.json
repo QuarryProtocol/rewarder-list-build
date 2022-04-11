@@ -39,8 +39,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "4AUDM3T3NDxZDNaBJuFRLHwvpfXiPSoyMLjN5rX8W6Nq"
+  },
+  "rewardsTokenInfo": {
+    "address": "4AUDM3T3NDxZDNaBJuFRLHwvpfXiPSoyMLjN5rX8W6Nq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4AUD",
+    "symbol": "4AUDM"
   },
   "slug": "AYxMY37WkmLhrkXgfhLhvWQEGYyPgZ3CSkqscc4HegAZ"
 }

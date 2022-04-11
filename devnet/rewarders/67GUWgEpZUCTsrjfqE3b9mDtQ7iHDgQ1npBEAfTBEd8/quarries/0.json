@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "5zvmxiDxGPa53VUPttsYHRPRWbzr3UZSAyqrZpEh46GE",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "HGiEHEL8dJZ42N61NgNX45ziHVbMUu6MmDWL6BsAx9Vy"
     },
     "slug": "67GUWgEpZUCTsrjfqE3b9mDtQ7iHDgQ1npBEAfTBEd8"
+  },
+  "rewardsToken": {
+    "address": "HGiEHEL8dJZ42N61NgNX45ziHVbMUu6MmDWL6BsAx9Vy",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token HGiE",
+    "symbol": "HGiEH"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

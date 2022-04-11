@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "3395HaQTh4MQadM9UeHgFcuwGaiDeCEweauX3fKzrYSu",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "85vuR9RCzouK5phBnDpvZxidp8hS6XNEpFZBPQHEV8ra"
     },
     "slug": "C5HeFcmDgU1AjoCViDbdHaqJLDp7Xbnmq3YRz1tLB8LQ"
+  },
+  "rewardsToken": {
+    "address": "85vuR9RCzouK5phBnDpvZxidp8hS6XNEpFZBPQHEV8ra",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 85vu",
+    "symbol": "85vuR"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

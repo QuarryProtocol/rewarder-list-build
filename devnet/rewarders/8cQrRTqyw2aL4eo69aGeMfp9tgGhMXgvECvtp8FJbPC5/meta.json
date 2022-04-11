@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2z8rV23sved1yNqiBimRFAc3ym295BkHtpmyXjNQky21",
-      "slug": "0",
+      "slug": "fydpn",
       "stakedToken": {
         "decimals": 6,
         "mint": "FYDPni7nkqyLGUry92FJyaCUKM48VmQfvhbDHVs3By4h"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "39DQiK8GRYQ7sbM3eiNqjfVZud6HEh1QyWDPXsPrkRVY"
+  },
+  "rewardsTokenInfo": {
+    "address": "39DQiK8GRYQ7sbM3eiNqjfVZud6HEh1QyWDPXsPrkRVY",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 39DQ",
+    "symbol": "39DQi"
   }
 }

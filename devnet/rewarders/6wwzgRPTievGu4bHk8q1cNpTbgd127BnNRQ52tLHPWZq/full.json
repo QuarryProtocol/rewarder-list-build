@@ -14,7 +14,7 @@
       "quarry": "DXKmvHeQeqG37yREAsC2fxZYH2KdKjK3ThN6HKHukp5E",
       "replicaMint": "F7HzLK8yWmy8TusYaJ7baNYJVx9f3e6rtyBocrxgppvu",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fpeam",
       "stakedToken": {
         "decimals": 6,
         "mint": "FpEaMk5zosdcQHL5KAaVj4SCF58MAEe12o5NVPBaniUn"
@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FinsSgpDyisGF3WTUgfYguo38XVJNDd7BjfZ9vbSz9Zx"
+  },
+  "rewardsTokenInfo": {
+    "address": "FinsSgpDyisGF3WTUgfYguo38XVJNDd7BjfZ9vbSz9Zx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fins",
+    "symbol": "FinsS"
   },
   "slug": "6wwzgRPTievGu4bHk8q1cNpTbgd127BnNRQ52tLHPWZq"
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "5unjghP8mMBf17TcLuhQeY5uFWU3A9tY6JvAULuHfzoo",
-      "slug": "0",
+      "slug": "iadvc",
       "stakedToken": {
         "decimals": 6,
         "mint": "iADVcRnxUPVh7SbNCni1fYsYVnp5DnsMNoNFDKwq3cR"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H1fwTYtdCQdVEq56bdDZUYNSKqwNp6k9niE5L8hqKXLG"
+  },
+  "rewardsTokenInfo": {
+    "address": "H1fwTYtdCQdVEq56bdDZUYNSKqwNp6k9niE5L8hqKXLG",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token H1fw",
+    "symbol": "H1fwT"
   }
 }

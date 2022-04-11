@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "3EB2HY1XGPEJ3ci6uLTnXAhU55axGK7NY3u9FGQdLdpP",
-      "slug": "0",
+      "slug": "bdimw",
       "stakedToken": {
         "decimals": 6,
         "mint": "BDimW2r1Ff4MUXHfXAFwx6V2218TnYZFmwvx21DNpz9X"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3WECynCmJcm7MA7DrYs1NqEGmAhGvYtvT2Gj34njpTbA"
+  },
+  "rewardsTokenInfo": {
+    "address": "3WECynCmJcm7MA7DrYs1NqEGmAhGvYtvT2Gj34njpTbA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3WEC",
+    "symbol": "3WECy"
   }
 }

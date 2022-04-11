@@ -14,7 +14,7 @@
       "quarry": "9zrG9jcohBNXS97JTsLLPh4yihJGZrZEWM4vmFg9Wnbn",
       "replicaMint": "5ZSCKSRCdX8cqHhKGEViGxETdgxwCX9xaimeQ4sL6KpQ",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "eaxgn",
       "stakedToken": {
         "decimals": 6,
         "mint": "EAXgnXR9r1hAdCetATSxTUtUGDFHfoQxP7Zo3m92c3st"
@@ -32,7 +32,7 @@
       "quarry": "FFr9n9QWYFppKhy8EtucJJXvwbbrffQAVJVFbEwsaFW3",
       "replicaMint": "2fpytySDez14YBaJc1iuwxiwabk5NawiCf7wRcQBBixh",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "btvut",
       "stakedToken": {
         "decimals": 6,
         "mint": "BtvuTJKBeHGcLLQWBtpDYR766doRHTVF56sVeU8k9EdU"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "D6VeggcivUprvCofct1zZD8BjdbwZjfJo97QYY25EWpb"
+  },
+  "rewardsTokenInfo": {
+    "address": "D6VeggcivUprvCofct1zZD8BjdbwZjfJo97QYY25EWpb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D6Ve",
+    "symbol": "D6Veg"
   },
   "slug": "C7kK5YRiQv7JtpR1FMemM7tXnQBq3d282PQHARgJsXkf"
 }

@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "B9VvD2xK1VnYNQJQc4UzyqnfasgaJWKMonrAQasEfmiK",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "AsSWB56c4YfKbYAB5RnTV6Q3ANtcyn7zsnob2L6tixRT"
     },
     "slug": "33FiDF5XTgy2XGZTQN4C11hhQF9GZ9MqUBUF6KBE8Rrb"
+  },
+  "rewardsToken": {
+    "address": "AsSWB56c4YfKbYAB5RnTV6Q3ANtcyn7zsnob2L6tixRT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AsSW",
+    "symbol": "AsSWB"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

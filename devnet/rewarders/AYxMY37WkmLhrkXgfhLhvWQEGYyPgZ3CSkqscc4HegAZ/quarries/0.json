@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "kYQD9GiuYN4Rn9s4At8NjA5F1vpXzpsg95FNF8dR5zB",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "4AUDM3T3NDxZDNaBJuFRLHwvpfXiPSoyMLjN5rX8W6Nq"
     },
     "slug": "AYxMY37WkmLhrkXgfhLhvWQEGYyPgZ3CSkqscc4HegAZ"
+  },
+  "rewardsToken": {
+    "address": "4AUDM3T3NDxZDNaBJuFRLHwvpfXiPSoyMLjN5rX8W6Nq",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 4AUD",
+    "symbol": "4AUDM"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

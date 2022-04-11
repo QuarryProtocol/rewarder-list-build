@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DXKmvHeQeqG37yREAsC2fxZYH2KdKjK3ThN6HKHukp5E",
-      "slug": "0",
+      "slug": "fpeam",
       "stakedToken": {
         "decimals": 6,
         "mint": "FpEaMk5zosdcQHL5KAaVj4SCF58MAEe12o5NVPBaniUn"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FinsSgpDyisGF3WTUgfYguo38XVJNDd7BjfZ9vbSz9Zx"
+  },
+  "rewardsTokenInfo": {
+    "address": "FinsSgpDyisGF3WTUgfYguo38XVJNDd7BjfZ9vbSz9Zx",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Fins",
+    "symbol": "FinsS"
   }
 }
