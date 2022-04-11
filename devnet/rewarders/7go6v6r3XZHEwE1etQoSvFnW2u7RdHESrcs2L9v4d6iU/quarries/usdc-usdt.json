@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "66LdhMxQh1BwLzHmL5FVyXVX3DWdArMqqoAw1RDwyo9H",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "D9VKbBhxBXkCLfawMHQ1eFbiD5rt34hcEbz2uzbEBWLc"
     },
     "slug": "7go6v6r3XZHEwE1etQoSvFnW2u7RdHESrcs2L9v4d6iU"
+  },
+  "rewardsToken": {
+    "address": "D9VKbBhxBXkCLfawMHQ1eFbiD5rt34hcEbz2uzbEBWLc",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token D9VK",
+    "symbol": "D9VKb"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",

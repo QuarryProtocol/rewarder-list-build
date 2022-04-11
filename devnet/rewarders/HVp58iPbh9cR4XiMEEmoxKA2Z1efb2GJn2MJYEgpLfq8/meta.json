@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DWZVJDFsGBshMHhfxDY3igbWMDnCDw8aVksEHkmCMSdg",
-      "slug": "0",
+      "slug": "8kbaf",
       "stakedToken": {
         "decimals": 6,
         "mint": "8KBAf8Y59Y1tc88bDkdwj8wQr2U9tM9dJVBTgSqxJbCq"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "5QYWhYdPyU1b1zYywVgK8DUZGGfg6Vn4gSskFLTNiDtd",
-      "slug": "1",
+      "slug": "3vext",
       "stakedToken": {
         "decimals": 6,
         "mint": "3VExt6jduSjh5jVmAj2wPPxUvVv3xjJBZGj9VycH4NJa"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Q6aBonw1NWoDXsxSYkFbevpEtAfCkdSCHCJ8ueaaUh4"
+  },
+  "rewardsTokenInfo": {
+    "address": "Q6aBonw1NWoDXsxSYkFbevpEtAfCkdSCHCJ8ueaaUh4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Q6aB",
+    "symbol": "Q6aBo"
   }
 }

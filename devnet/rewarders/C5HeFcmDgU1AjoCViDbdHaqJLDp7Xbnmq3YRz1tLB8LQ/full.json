@@ -1,0 +1,46 @@
+{
+  "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
+  "mintWrapper": "3395HaQTh4MQadM9UeHgFcuwGaiDeCEweauX3fKzrYSu",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "ACHcNqKkVQ6d48Wedy3DvNdpAmX4tqaPj1vXjbgnWq7Q",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 6,
+        "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+      },
+      "quarry": "CdzLBhoMabaw6mmHuniyrVBd11dfizRd9gVysCrY22ae",
+      "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
+      "replicaQuarries": [
+        {
+          "displayRewardsToken": {
+            "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+            "chainId": 103,
+            "decimals": 6,
+            "name": "Token SLNA",
+            "symbol": "SLNAA"
+          },
+          "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
+          "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+          },
+          "slug": "qrusdc-usdt"
+        }
+      ],
+      "slug": "usdc-usdt",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": -1,
+    "mint": "85vuR9RCzouK5phBnDpvZxidp8hS6XNEpFZBPQHEV8ra"
+  },
+  "slug": "C5HeFcmDgU1AjoCViDbdHaqJLDp7Xbnmq3YRz1tLB8LQ"
+}

@@ -38,10 +38,17 @@
     "authority": "BN4r1CTMsR8mFGW9PvUdgAGFBdsxGwbYhZhPfwG9qQBG",
     "mintWrapper": "HLBvxFU2YejizZ5A5ZKvrKFr2FcfJDd8L8TW2GJCcNeg",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "2EaSFprHWpBmdz7Mse718dSpit9L5VEdVAaeZUbnJVUC"
     },
     "slug": "8v7PimpD51NHEUtT2UoCPdJMYXwJVTBDcBBixpZ1WJXp"
+  },
+  "rewardsToken": {
+    "address": "2EaSFprHWpBmdz7Mse718dSpit9L5VEdVAaeZUbnJVUC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2EaS",
+    "symbol": "2EaSF"
   },
   "stakedToken": {
     "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
