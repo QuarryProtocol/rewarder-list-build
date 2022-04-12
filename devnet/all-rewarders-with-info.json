@@ -30133,6 +30133,16 @@
     },
     "slug": "6iHiMiTtmypvwBCsso6VHgS14YidDfP1Vye1TWm5eesp"
   },
+  "6iRozE5xcUf6RRD5iLGBmkgFa64T4CsfVsEERmjRsxG8": {
+    "authority": "H82DtK1Nuh9VudPTgdnzTNt6wfhAYpdE84in8MYsmFpk",
+    "mintWrapper": "GxyWSUHMCtWjSWNKhm6NrcWWtfHbdQUKbvvYin1EjEbW",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC"
+    },
+    "slug": "6iRozE5xcUf6RRD5iLGBmkgFa64T4CsfVsEERmjRsxG8"
+  },
   "6jSha5tzsrHwr2RuyatDSSMvvK65Ftz17EMLJFUaxJvi": {
     "authority": "7WgCi1sGbuRVH7H8rHEWBgFpvE1MXZXHeExNzNxUKSHy",
     "mintWrapper": "HkiwhCe2vYzpVr6QVJ4KdRCqv51SLtVzAYsErsDmrHcA",
@@ -42818,9 +42828,20 @@
         "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
         "underlyingTokenInfo": {
           "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "name": "Token SUNN",
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
           "symbol": "SUNNY"
         }
       },
@@ -78072,6 +78093,53 @@
     },
     "slug": "EhX1vpQBU3e2WboErKTauoXQMPULrZa1Q1Y88A8Z7Ayo"
   },
+  "Ei6KXbFTcAxm2W3YMxudC1X44PSSwJa7JPom5ZM8N54f": {
+    "authority": "7nQS2sAcG6hfq8cPLCZarMihCyzoNrTkaZMWkQevkt8N",
+    "mintWrapper": "6b121CifLGtG1okDRg2rmXQRrfrg7jA76LFSf6Hpk5Uf",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "d1omwXRdgsXS8XAJXJgwE2PCs3Lh4WLCrb8DqRu7Tc3",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "Ep4ggUuXdJZhjJsJAT7sBmxP7ke3XNaLCuocuxpLx6g7"
+        },
+        "quarry": "3qXnVcT5EQuB5QC5VAJvvAe1kDzQhJq1QjP2dscqb2ru",
+        "replicaMint": "DJoALG2vnm3gznETp6p67xqU1SaDScHeFubAaincLXUF",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "Ep4ggUuXdJZhjJsJAT7sBmxP7ke3XNaLCuocuxpLx6g7"
+        }
+      },
+      {
+        "index": 1,
+        "isReplica": false,
+        "mergePool": "8cevrWvbTs6Z6Xv7AXYAxPBDDA7yveFQvBfKrgqyMcNM",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "ADa6ED9PDa6iZLvTgGziW8GqtZBMNq494zwBJJbLNYLZ"
+        },
+        "quarry": "C17qKWLntvfSKYQUizMzbe2oAyv1UKR4SBYHdfJ2PZ58",
+        "replicaMint": "3rksodgjTygyKrTqvwT1vqyppscBnYF9KtkmBTvxRk4E",
+        "replicaQuarries": [],
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "ADa6ED9PDa6iZLvTgGziW8GqtZBMNq494zwBJJbLNYLZ"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "FuzAszQAPStcstfr8a24aLmjuR9sSyf7LqQqHxEh4k3t"
+    },
+    "slug": "Ei6KXbFTcAxm2W3YMxudC1X44PSSwJa7JPom5ZM8N54f"
+  },
   "Ek7JZZhJVQAu8wpgtiFSrxJAkd8bCttvynfRkCtrnf43": {
     "authority": "5DfA3Rx383xWsEGyR2H3ecVJSaKZ48Do88LJgJHpEHeG",
     "mintWrapper": "CBcg4QwKfCc2p4SpZDw6WRbP6kmjRCD4GZfy5Dk2zzqx",
@@ -81284,6 +81352,53 @@
       "mint": "9nMSFWFZW9TEctotMbdUrK94zfpnanXgNb3DrCYBEQxu"
     },
     "slug": "FGVr6DyqCBeNKd8An6wjQhdkWsm2VrkwRVngCDtM3mNK"
+  },
+  "FGh8RzsH6qX98LPuEiATWDdro6HWnjqzm8NMZiy3amt2": {
+    "authority": "4w39sMAgmRNGVWHkrU4LfoiBvXjtd4fUfqEkweDbWvRQ",
+    "mintWrapper": "udr4FzJQLc7RXwqrLJtCC34WuuZ41T6r54V5Tpx6uK6",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "2qb87Nf61KFa67U39231AFB8NAHmosB5QCobAHTgzRu1",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "k4xzbqbewqQYxU8BnpEMyp1ZAaST8G7cFz6uvZsiqAv"
+        },
+        "quarry": "Cu7BjCjJgEUsiwKm9SJxgoLHCdhSmCTH83XVRPBju2d3",
+        "replicaMint": "HhR2S7qtiUDC9jxBaAhhgzXfFAP15A3t8fx2AyCDrci4",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "k4xzbqbewqQYxU8BnpEMyp1ZAaST8G7cFz6uvZsiqAv"
+        }
+      },
+      {
+        "index": 1,
+        "isReplica": false,
+        "mergePool": "ewyX2WSrAeDRjhT4VffjekpTapjKh2nPbEANpy7gKkM",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "7UvFrKQqmCksMQft2xKMEXVTQeW4GWzrDaRarrYvbhoj"
+        },
+        "quarry": "ERyiAsUkr1362w6nJMWtpNxrhzV91Juh51JH3iH8ip5X",
+        "replicaMint": "Asfku7QMXyLL8m5wAjJHwUPqKZezSZV74rog1NUrfSE6",
+        "replicaQuarries": [],
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "7UvFrKQqmCksMQft2xKMEXVTQeW4GWzrDaRarrYvbhoj"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "3iPSDEShtaJYMoG6QUN7hWAS51YH39pGfhj6G5YhxGm9"
+    },
+    "slug": "FGh8RzsH6qX98LPuEiATWDdro6HWnjqzm8NMZiy3amt2"
   },
   "FGyqFa95kfhorUEejipNwEwP4wopxQ2iwYZfiApTEf2D": {
     "authority": "8BVsMbZ1UTEtd5ChFrhN9zRzAvsvbkA25PpMscVvU5Me",
@@ -98552,10 +98667,19 @@
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
         "underlyingTokenInfo": {
           "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 9,
-          "name": "Token MNDE",
-          "symbol": "MNDEF"
+          "extensions": {
+            "coingeckoId": "marinade",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+          "name": "Marinade",
+          "symbol": "MNDE"
         }
       },
       "website": "https://marinade.finance"
@@ -101767,13 +101891,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
