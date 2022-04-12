@@ -1,9 +1,53 @@
 {
   "authority": "H82DtK1Nuh9VudPTgdnzTNt6wfhAYpdE84in8MYsmFpk",
   "mintWrapper": "GxyWSUHMCtWjSWNKhm6NrcWWtfHbdQUKbvvYin1EjEbW",
-  "quarries": [],
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1649736739",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "29201493443053"
+      },
+      "index": 0,
+      "quarry": "67xHjXvKRcbiVH7DZM3fz6JkQpvXLq4ztDdZsbqZGfU5",
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "4r97CBf9Wbndopj1QHdDEinmF7X5duWxEr75kezmF8FF"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "1649736745",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "19497532490957"
+      },
+      "index": 1,
+      "quarry": "7wcnvSpte3oPodZfdyWz7y8Htdr5Vnt6TwZWDWXeUQBs",
+      "slug": "1",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "7HVmJEr4JJHgSEGd59W6rVHPdmYUab5gY41a2kFa46Ei"
+      }
+    }
+  ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gi8o",
+    "symbol": "Gi8oH"
   }
 }

@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "Cu7BjCjJgEUsiwKm9SJxgoLHCdhSmCTH83XVRPBju2d3",
-      "slug": "0",
+      "slug": "k4xzb",
       "stakedToken": {
         "decimals": 6,
         "mint": "k4xzbqbewqQYxU8BnpEMyp1ZAaST8G7cFz6uvZsiqAv"
@@ -32,7 +32,7 @@
       },
       "index": 1,
       "quarry": "ERyiAsUkr1362w6nJMWtpNxrhzV91Juh51JH3iH8ip5X",
-      "slug": "1",
+      "slug": "7uvfr",
       "stakedToken": {
         "decimals": 6,
         "mint": "7UvFrKQqmCksMQft2xKMEXVTQeW4GWzrDaRarrYvbhoj"
@@ -40,7 +40,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "3iPSDEShtaJYMoG6QUN7hWAS51YH39pGfhj6G5YhxGm9"
+  },
+  "rewardsTokenInfo": {
+    "address": "3iPSDEShtaJYMoG6QUN7hWAS51YH39pGfhj6G5YhxGm9",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3iPS",
+    "symbol": "3iPSD"
   }
 }

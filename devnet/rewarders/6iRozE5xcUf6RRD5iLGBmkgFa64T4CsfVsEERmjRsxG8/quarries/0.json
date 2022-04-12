@@ -1,0 +1,38 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "BGybKqa3AKmGbnV6bx6nsSXvH58S9WY8rgLxC6M1ry27",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "4r97CBf9Wbndopj1QHdDEinmF7X5duWxEr75kezmF8FF"
+    },
+    "quarry": "67xHjXvKRcbiVH7DZM3fz6JkQpvXLq4ztDdZsbqZGfU5",
+    "replicaMint": "7jSXBN5JDYob4Vofu8N6q7haqEHEXaok9u6uC4XDo6Lk",
+    "replicaQuarries": [],
+    "slug": "0",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "4r97CBf9Wbndopj1QHdDEinmF7X5duWxEr75kezmF8FF"
+    }
+  },
+  "rewarder": {
+    "authority": "H82DtK1Nuh9VudPTgdnzTNt6wfhAYpdE84in8MYsmFpk",
+    "mintWrapper": "GxyWSUHMCtWjSWNKhm6NrcWWtfHbdQUKbvvYin1EjEbW",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC"
+    },
+    "slug": "6iRozE5xcUf6RRD5iLGBmkgFa64T4CsfVsEERmjRsxG8"
+  },
+  "rewardsToken": {
+    "address": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gi8o",
+    "symbol": "Gi8oH"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}

@@ -14,7 +14,7 @@
       "quarry": "3qXnVcT5EQuB5QC5VAJvvAe1kDzQhJq1QjP2dscqb2ru",
       "replicaMint": "DJoALG2vnm3gznETp6p67xqU1SaDScHeFubAaincLXUF",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ep4gg",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ep4ggUuXdJZhjJsJAT7sBmxP7ke3XNaLCuocuxpLx6g7"
@@ -32,7 +32,7 @@
       "quarry": "C17qKWLntvfSKYQUizMzbe2oAyv1UKR4SBYHdfJ2PZ58",
       "replicaMint": "3rksodgjTygyKrTqvwT1vqyppscBnYF9KtkmBTvxRk4E",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "ada6e",
       "stakedToken": {
         "decimals": 6,
         "mint": "ADa6ED9PDa6iZLvTgGziW8GqtZBMNq494zwBJJbLNYLZ"
@@ -40,8 +40,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FuzAszQAPStcstfr8a24aLmjuR9sSyf7LqQqHxEh4k3t"
+  },
+  "rewardsTokenInfo": {
+    "address": "FuzAszQAPStcstfr8a24aLmjuR9sSyf7LqQqHxEh4k3t",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token FuzA",
+    "symbol": "FuzAs"
   },
   "slug": "Ei6KXbFTcAxm2W3YMxudC1X44PSSwJa7JPom5ZM8N54f"
 }
