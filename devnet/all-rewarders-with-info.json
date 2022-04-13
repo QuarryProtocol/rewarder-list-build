@@ -42865,9 +42865,20 @@
         "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
         "underlyingTokenInfo": {
           "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "name": "Token SUNN",
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
           "symbol": "SUNNY"
         }
       },
@@ -98693,10 +98704,19 @@
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
         "underlyingTokenInfo": {
           "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 9,
-          "name": "Token MNDE",
-          "symbol": "MNDEF"
+          "extensions": {
+            "coingeckoId": "marinade",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+          "name": "Marinade",
+          "symbol": "MNDE"
         }
       },
       "website": "https://marinade.finance"
@@ -101908,13 +101928,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -101935,25 +101966,11 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 101,
+              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "waterfallbot": "https://bit.ly/SBRwaterfall",
-                "website": "https://saber.so"
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
-              "tags": [
-                "saber-hidden"
-              ]
+              "name": "Token SLNA",
+              "symbol": "SLNAA"
             },
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
@@ -102002,24 +102019,22 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-              "chainId": 101,
-              "decimals": 6,
+              "address": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9",
+              "chainId": 103,
+              "decimals": 8,
               "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "waterfallbot": "https://bit.ly/SBRwaterfall",
-                "website": "https://saber.so"
+                "source": "quarry-iou",
+                "underlyingTokens": [
+                  "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+                ],
+                "website": "https://app.saber.so/#/pools/btc"
               },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
-              "name": "Saber Protocol Token",
-              "symbol": "SBR",
+              "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+              "name": "Saber renBTC-WBTC LP (IOU)",
+              "symbol": "iourenBTC-WBTC",
               "tags": [
-                "saber-hidden"
+                "saber-stableswap-lp",
+                "quarry-iou"
               ]
             },
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
