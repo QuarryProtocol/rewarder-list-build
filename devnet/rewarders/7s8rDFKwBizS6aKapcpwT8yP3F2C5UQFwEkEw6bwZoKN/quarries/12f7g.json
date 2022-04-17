@@ -21,10 +21,17 @@
     "authority": "UFw8PgS1hQaiveHUhEVY15pwSUioib1GrwjLLAcy9jc",
     "mintWrapper": "FrHyZsjnt16aPBx3G5kKmk3TLB9gnXmTQmtn6gbUMdvT",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd"
     },
     "slug": "7s8rDFKwBizS6aKapcpwT8yP3F2C5UQFwEkEw6bwZoKN"
+  },
+  "rewardsToken": {
+    "address": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token test",
+    "symbol": "testj"
   },
   "stakedToken": {
     "address": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg",

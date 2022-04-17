@@ -1,0 +1,65 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "6YvApqBriJ6DPjd8kofULoZUCLsPx4n9FSDjaQztdJsX",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "quarry": "45SaU2M7EBbEJJdpzu6znNUiMFJLHdvvV3nKRYM6zQaa",
+    "replicaMint": "6hBD1TRByc976mwsVhP5VadAaze1uRGtby28T4go5ZbQ",
+    "replicaQuarries": [],
+    "slug": "iousbr",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    }
+  },
+  "rewarder": {
+    "authority": "564cvJNyhFYvJMxNnhCK38ieRziaAoxGVemRkxWYx4Au",
+    "mintWrapper": "7bzuLcZTwE2izC6GsmTw8MJtFiBKciy7hjGstufs4yVE",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q"
+    },
+    "slug": "F3sTwDYAB54FYTR5GdGDxD7J5G4vdQs4W6QBkpKfqLr7"
+  },
+  "rewardsToken": {
+    "address": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2WPG",
+    "symbol": "2WPGe"
+  },
+  "stakedToken": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "source": "quarry-iou",
+      "underlyingTokens": [
+        "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+      ]
+    },
+    "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+    "name": "Saber Protocol Token (IOU)",
+    "symbol": "iouSBR",
+    "tags": [
+      "quarry-iou"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {},
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR",
+      "tags": []
+    }
+  ]
+}

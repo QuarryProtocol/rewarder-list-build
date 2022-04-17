@@ -22,8 +22,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd"
+  },
+  "rewardsTokenInfo": {
+    "address": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token test",
+    "symbol": "testj"
   },
   "slug": "7s8rDFKwBizS6aKapcpwT8yP3F2C5UQFwEkEw6bwZoKN"
 }

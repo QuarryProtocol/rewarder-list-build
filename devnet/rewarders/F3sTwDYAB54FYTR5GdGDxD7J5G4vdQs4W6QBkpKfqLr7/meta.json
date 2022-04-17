@@ -1,9 +1,35 @@
 {
-  "authority": "CisCuhqgTPsDzn3C8TUs1pPNH6ShEVkAXS5wJx4nHsdw",
+  "authority": "564cvJNyhFYvJMxNnhCK38ieRziaAoxGVemRkxWYx4Au",
   "mintWrapper": "7bzuLcZTwE2izC6GsmTw8MJtFiBKciy7hjGstufs4yVE",
-  "quarries": [],
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "45SaU2M7EBbEJJdpzu6znNUiMFJLHdvvV3nKRYM6zQaa",
+      "slug": "iousbr",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+      }
+    }
+  ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q"
+  },
+  "rewardsTokenInfo": {
+    "address": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 2WPG",
+    "symbol": "2WPGe"
   }
 }
