@@ -1,0 +1,37 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "BwK9Smgu4Zkcey4nemCiptNRRZ2BGFJkC2oUggk2fQeQ",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg"
+    },
+    "quarry": "CHWf4eR7GSPSRvg5LCggYhGZ3HdHHAYJxEbEpaaD5Bpi",
+    "replicaMint": "DFdWFroA325izie1esjdujAFEPVUzu2QQCrQ2nUHgbVC",
+    "replicaQuarries": [],
+    "slug": "12f7g",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg"
+    }
+  },
+  "rewarder": {
+    "authority": "UFw8PgS1hQaiveHUhEVY15pwSUioib1GrwjLLAcy9jc",
+    "mintWrapper": "FrHyZsjnt16aPBx3G5kKmk3TLB9gnXmTQmtn6gbUMdvT",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd"
+    },
+    "slug": "7s8rDFKwBizS6aKapcpwT8yP3F2C5UQFwEkEw6bwZoKN"
+  },
+  "stakedToken": {
+    "address": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 12f7",
+    "symbol": "12f7G"
+  },
+  "underlyingTokens": []
+}

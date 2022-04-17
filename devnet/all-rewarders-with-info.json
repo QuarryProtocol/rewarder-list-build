@@ -36134,6 +36134,35 @@
     },
     "slug": "7qB9CMmWYj5WLrJAFxpYFh2arcZxGrUGzWZPqABTa3KN"
   },
+  "7s8rDFKwBizS6aKapcpwT8yP3F2C5UQFwEkEw6bwZoKN": {
+    "authority": "UFw8PgS1hQaiveHUhEVY15pwSUioib1GrwjLLAcy9jc",
+    "mintWrapper": "FrHyZsjnt16aPBx3G5kKmk3TLB9gnXmTQmtn6gbUMdvT",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "BwK9Smgu4Zkcey4nemCiptNRRZ2BGFJkC2oUggk2fQeQ",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg"
+        },
+        "quarry": "CHWf4eR7GSPSRvg5LCggYhGZ3HdHHAYJxEbEpaaD5Bpi",
+        "replicaMint": "DFdWFroA325izie1esjdujAFEPVUzu2QQCrQ2nUHgbVC",
+        "replicaQuarries": [],
+        "slug": "12f7g",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "12f7GQoFVaBZzkKLjPTPukmMCjzK7czYN9vsAp8VQoZg"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd"
+    },
+    "slug": "7s8rDFKwBizS6aKapcpwT8yP3F2C5UQFwEkEw6bwZoKN"
+  },
   "7sGET1cHQSJNVSG483dst6kWjVTMHNimcqfCHtByYzg7": {
     "authority": "GavnzVNFAAyLC3obnVfHP3CYrcb8rXYYRQj3qxubeAG5",
     "mintWrapper": "HL1B5vqZEcoGardzCQmQYSrFPyT5HRY9EE7dkw6Et6eV",
@@ -42865,20 +42894,9 @@
         "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
         "underlyingTokenInfo": {
           "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
-          "chainId": 101,
+          "chainId": 103,
           "decimals": 6,
-          "extensions": {
-            "coingeckoId": "sunny-aggregator",
-            "discord": "https://chat.sunny.ag",
-            "github": "https://github.com/SunnyAggregator",
-            "medium": "https://medium.com/sunny-aggregator",
-            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
-            "twitter": "https://twitter.com/SunnyAggregator",
-            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
-            "website": "https://sunny.ag/"
-          },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
-          "name": "Sunny Governance Token",
+          "name": "Token SUNN",
           "symbol": "SUNNY"
         }
       },
@@ -80116,6 +80134,16 @@
     },
     "slug": "F3Eo41ouxTQg5nA2N2iButmRWChA5vLPgVWXDqDwZi3s"
   },
+  "F3sTwDYAB54FYTR5GdGDxD7J5G4vdQs4W6QBkpKfqLr7": {
+    "authority": "CisCuhqgTPsDzn3C8TUs1pPNH6ShEVkAXS5wJx4nHsdw",
+    "mintWrapper": "7bzuLcZTwE2izC6GsmTw8MJtFiBKciy7hjGstufs4yVE",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q"
+    },
+    "slug": "F3sTwDYAB54FYTR5GdGDxD7J5G4vdQs4W6QBkpKfqLr7"
+  },
   "F58DiWNjoLzAyr5cU669xcSg4R2VEpK7WTYqstN22xBj": {
     "authority": "G8dDpB1HjifMUAz9w2SBCDNNF3ZnARvjmuwizd65yM5C",
     "mintWrapper": "Ev9PmSunZ2qUU9ek4Ad6aVtLY4uf9BK5CSR27HDmSbem",
@@ -98714,19 +98742,10 @@
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
         "underlyingTokenInfo": {
           "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-          "chainId": 101,
+          "chainId": 103,
           "decimals": 9,
-          "extensions": {
-            "coingeckoId": "marinade",
-            "discord": "https://discord.gg/mGqZA5pjRN",
-            "github": "https://github.com/marinade-finance",
-            "medium": "https://medium.com/marinade-finance",
-            "twitter": "https://twitter.com/MarinadeFinance",
-            "website": "https://marinade.finance"
-          },
-          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-          "name": "Marinade",
-          "symbol": "MNDE"
+          "name": "Token MNDE",
+          "symbol": "MNDEF"
         }
       },
       "website": "https://marinade.finance"
@@ -102010,24 +102029,13 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 101,
+          "chainId": 103,
           "decimals": 6,
-          "extensions": {
-            "coingeckoId": "saber",
-            "discord": "https://chat.saber.so",
-            "github": "https://github.com/saber-hq",
-            "medium": "https://blog.saber.so",
-            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-            "twitter": "https://twitter.com/saber_hq",
-            "waterfallbot": "https://bit.ly/SBRwaterfall",
-            "website": "https://saber.so"
-          },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "extensions": {},
+          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": [
-            "saber-hidden"
-          ]
+          "tags": []
         }
       },
       "website": "https://saber.so"
@@ -102048,11 +102056,25 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 103,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
               "decimals": 6,
-              "name": "Token SLNA",
-              "symbol": "SLNAA"
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": [
+                "saber-hidden"
+              ]
             },
             "quarry": "AejJVoS9HNaDdcEtJR9bhGTF5Td22Lkin1SKUzXHaM2V",
             "rewarder": "57fEKyj9C7dhdcrFCXFGQZp68CmjfVS4sgNecy2PdnTC",
@@ -102101,22 +102123,24 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "AqF4wYRKFv6HpVgJWWAxg41FbXdRgACJkUpKaDcqb9W9",
-              "chainId": 103,
-              "decimals": 8,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 101,
+              "decimals": 6,
               "extensions": {
-                "source": "quarry-iou",
-                "underlyingTokens": [
-                  "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
-                ],
-                "website": "https://app.saber.so/#/pools/btc"
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "waterfallbot": "https://bit.ly/SBRwaterfall",
+                "website": "https://saber.so"
               },
-              "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
-              "name": "Saber renBTC-WBTC LP (IOU)",
-              "symbol": "iourenBTC-WBTC",
+              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
               "tags": [
-                "saber-stableswap-lp",
-                "quarry-iou"
+                "saber-hidden"
               ]
             },
             "quarry": "5xnc4CQwtVRKF9SM6DV7QwFqdZTK16upcP2SKwKTNnPg",
