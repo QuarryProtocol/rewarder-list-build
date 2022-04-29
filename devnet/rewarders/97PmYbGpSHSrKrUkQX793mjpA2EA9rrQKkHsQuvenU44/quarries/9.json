@@ -1,0 +1,64 @@
+{
+  "quarry": {
+    "index": 9,
+    "isReplica": false,
+    "mergePool": "4yYBdYaQM1r3E5U1TiceaqjncvcDxUWhiFMDsvJZvyhj",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "4vfYmWGtphkMEH3P381ANHcAkEYTHt43wA71gkrKoTrv"
+    },
+    "quarry": "9FzQowPX1EMMk3YBvMioB5ybYQdWVyLZo8TARqsRT6bx",
+    "replicaMint": "46NbzrWuod3y9E7bTavzPsBFu2HmTTucy6Pt7wWmHqfs",
+    "replicaQuarries": [],
+    "slug": "9",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "4vfYmWGtphkMEH3P381ANHcAkEYTHt43wA71gkrKoTrv"
+    }
+  },
+  "rewarder": {
+    "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "info": {
+      "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
+      "color": "#DC723F",
+      "description": "Solana's cross-chain DeFi yield aggregator.",
+      "hidden": true,
+      "id": "sunny",
+      "name": "Sunny Aggregator",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "sunny",
+        "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
+        "redeemerVaultATA": "9nRrFiRtGNHRyou1mAjpMmtfzExKH8xgfYkmhBS3udPd",
+        "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "underlyingTokenInfo": {
+          "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+          "chainId": 103,
+          "decimals": 6,
+          "name": "Token SUNN",
+          "symbol": "SUNNY"
+        }
+      },
+      "website": "https://sunny.ag"
+    },
+    "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    },
+    "slug": "sunny"
+  },
+  "rewardsToken": {
+    "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token SRYW",
+    "symbol": "SRYWv"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
