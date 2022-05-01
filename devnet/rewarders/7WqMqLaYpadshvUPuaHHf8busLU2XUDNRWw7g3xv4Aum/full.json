@@ -11,6 +11,23 @@
         "decimals": 6,
         "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
       },
+      "primaryTokenInfo": {
+        "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "usd-coin",
+          "currency": "USD",
+          "website": "https://saber.so/"
+        },
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+        "name": "USD Coin (Saber Devnet)",
+        "symbol": "USDC",
+        "tags": [
+          "saber-mkt-usd",
+          "stablecoin"
+        ]
+      },
       "quarry": "GyFR21ZUDd7nTg4dzfN5RimmtSUsY8EpcMaDxwFVGEfq",
       "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
       "replicaQuarries": [

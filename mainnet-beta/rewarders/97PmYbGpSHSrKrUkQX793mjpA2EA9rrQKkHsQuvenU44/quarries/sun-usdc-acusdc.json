@@ -8,6 +8,26 @@
       "decimals": 9,
       "mint": "DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3"
     },
+    "primaryTokenInfo": {
+      "address": "DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+        ],
+        "website": "https://app.sunny.ag"
+      },
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3/icon.png",
+      "name": "Sunny Saber USDC-acUSDC LP",
+      "symbol": "sun-USDC-acUSDC",
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ]
+    },
     "quarry": "3n2mXWgnWwUdPnkc258oPTB3YvSHJiw8AJALbgg6bpV3",
     "replicaMint": "B7e9qt54qDDT9vnfqZVqwzE8SRbN97hsDLB1jQESbcTh",
     "replicaQuarries": [],
@@ -60,6 +80,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    },
+    "rewardsTokenInfo": {
+      "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "sunny-aggregator",
+        "discord": "https://chat.sunny.ag",
+        "github": "https://github.com/SunnyAggregator",
+        "medium": "https://medium.com/sunny-aggregator",
+        "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+        "twitter": "https://twitter.com/SunnyAggregator",
+        "website": "https://sunny.ag/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+      "name": "Sunny IOU Token (Quarry Rewards)",
+      "symbol": "SUNNY"
     },
     "slug": "sunny"
   },

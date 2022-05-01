@@ -22,6 +22,13 @@
         "decimals": 6,
         "mint": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9"
       },
+      "primaryTokenInfo": {
+        "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "Token CGcz",
+        "symbol": "CGczF"
+      },
       "quarry": "87rkhCSK8AzJCe7SbEaah7nCA1i62mkv1Q656xFmQwKe",
       "replicaMint": "BKquiZw4J9Lkq5EXZZkwLcCrLsp9VFQCCnnrGgRDWxq1",
       "replicaQuarries": [],
@@ -66,6 +73,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c"
+      },
+      "primaryTokenInfo": {
+        "address": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "website": "https://app.saber.so/pools/solust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c/icon.png",
+        "name": "Saber solUST-UST LP",
+        "symbol": "solUST-UST",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "3LoAuZXaSemCe8xw5i6Sb9GvMHhnbYx7jSDLR3anaoJg",
       "replicaMint": "3ptc6AfFW91wGZ9TYTqj3M2tf99b4g5jLim5WKPqN9Sd",
@@ -133,6 +159,25 @@
         "decimals": 6,
         "mint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9"
       },
+      "primaryTokenInfo": {
+        "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+          ],
+          "website": "https://app.saber.so/pools/solust_usdh"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9/icon.png",
+        "name": "Saber solUST-USDH LP",
+        "symbol": "solUST-USDH",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "AiAca6swabjKjApzWvsLRidfKXNdYPh5mYU6NpHPKRud",
       "replicaMint": "5AfedLnewM7J8jeBrx3QaPydJtspdhLEXZFycGnXQBfq",
       "replicaQuarries": [
@@ -171,6 +216,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB"
+      },
+      "primaryTokenInfo": {
+        "address": "FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "description": "Sencha LP token between Soluna Governance Token and solUST",
+          "discord": "https://discord.gg/aF9USSwG33",
+          "medium": "https://medium.com/senchadex",
+          "source": "sencha",
+          "twitter": "https://twitter.com/SenchaDEX",
+          "underlyingTokens": [
+            "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+          ],
+          "website": "https://sencha.so/#/pool/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T"
+        },
+        "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/FjFWkXVQa27kd2SdFdCh4D4wQaQmX5K9UU63DAvimBCB/icon.png",
+        "name": "Sencha SLNA-solUST LP",
+        "symbol": "sSLNA-solUST"
       },
       "quarry": "6PZPV4eHUkSFGpF5FGTeqDQMxRvndbvxPnPM9MMmW14E",
       "replicaMint": "8w5CVRjRoZCsRKJ7V3pRmkKMAtgbBf4ypTkJRRCjx6Tk",

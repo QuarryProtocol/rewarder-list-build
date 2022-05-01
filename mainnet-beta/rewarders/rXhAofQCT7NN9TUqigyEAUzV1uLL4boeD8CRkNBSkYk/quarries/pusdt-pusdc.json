@@ -8,6 +8,26 @@
       "decimals": 6,
       "mint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en"
     },
+    "primaryTokenInfo": {
+      "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+          "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
+        ],
+        "website": "https://app.saber.so/pools/port_2pool"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
+      "name": "Saber pUSDT-pUSDC LP",
+      "symbol": "pUSDT-pUSDC",
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-port"
+      ]
+    },
     "quarry": "8fneZQffsCH7QmZBaUE6JUPpaNb5Y5ggbEJ7mq6w3UCu",
     "replicaMint": "E7AdPpqpyUsy5dzpDcu6g37Vi8phfNkcCoS2EzTP7w6j",
     "replicaQuarries": [
@@ -82,6 +102,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+        "twitter": "https://twitter.com/saber_hq",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber IOU Token (Liquidity Mining Rewards)",
+      "symbol": "SBR"
     },
     "slug": "saber"
   },

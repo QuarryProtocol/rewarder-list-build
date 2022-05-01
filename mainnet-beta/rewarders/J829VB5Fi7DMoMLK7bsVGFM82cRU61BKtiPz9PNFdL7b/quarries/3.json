@@ -8,6 +8,27 @@
       "decimals": 9,
       "mint": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt"
     },
+    "primaryTokenInfo": {
+      "address": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "discord": "https://discord.com/invite/eSkK9X67Qj",
+        "github": "https://github.com/Friktion-Labs",
+        "medium": "https://friktionlabs.medium.com/",
+        "twitter": "https://twitter.com/friktion_labs",
+        "website": "https://friktion.fi"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt/logo.png",
+      "name": "Friktion mSOL (Volt 01 Call)",
+      "symbol": "fcmSOL",
+      "tags": [
+        "friktion",
+        "friktion-share",
+        "volt-01",
+        "volt-01-call"
+      ]
+    },
     "quarry": "6reWgQvR2U5TErw9ZDTdgoqpogH3iPKdTQkEtMjrRMPT",
     "replicaMint": "3oQ64HsVDf3P663nUPKZ5yF8FiyxrndXAExQrMoKAoTp",
     "replicaQuarries": [],
@@ -57,6 +78,29 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+    },
+    "rewardsTokenInfo": {
+      "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "marinade",
+        "discord": "https://discord.gg/mGqZA5pjRN",
+        "github": "https://github.com/marinade-finance",
+        "medium": "https://medium.com/marinade-finance",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/MarinadeFinance",
+        "underlyingTokens": [
+          "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+        ],
+        "website": "https://marinade.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+      "name": "Marinade (IOU)",
+      "symbol": "iouMNDE",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "marinade"
   },

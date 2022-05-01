@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo"
     },
+    "primaryTokenInfo": {
+      "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+        ],
+        "website": "https://app.saber.so/pools/usdc_test"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo/icon.png",
+      "name": "Saber TEST-USDC LP",
+      "symbol": "TEST-USDC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "5cX41FTaqRwdMBh1eenEKsQ1J1GwxA7sirnKsmP4i5mz",
     "replicaMint": "GvPG4eKYHRu9f94EqDwPNQPm3MzFW7v9XzM9A6JYmFrp",
     "replicaQuarries": [],
@@ -62,6 +81,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ]
+      },
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+      "name": "Saber Protocol Token (IOU)",
+      "symbol": "iouSBR",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "saber"
   },

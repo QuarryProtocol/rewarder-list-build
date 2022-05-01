@@ -114,6 +114,23 @@
       "decimals": 6,
       "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
     },
+    "primaryTokenInfo": {
+      "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "name": "USD Coin (Saber Devnet)",
+      "symbol": "USDC",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
     "quarry": "Dj3qDLVAK8F31L2gS2MNURjhwAc21raBMAh6RZL6hAHX",
     "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
     "replicaQuarries": [
@@ -157,6 +174,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+    },
+    "rewardsTokenInfo": {
+      "address": "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 2jmz",
+      "symbol": "2jmzZ"
     },
     "slug": "larry-test-other"
   },

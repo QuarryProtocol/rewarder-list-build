@@ -8,6 +8,20 @@
       "decimals": 9,
       "mint": "HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg"
     },
+    "primaryTokenInfo": {
+      "address": "HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg",
+      "chainId": 103,
+      "decimals": 9,
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg/logo.png",
+      "name": "USDC-USDT Saber LP",
+      "symbol": "USDC-USDT",
+      "tags": [
+        "ratio-token"
+      ]
+    },
     "quarry": "FNQfQSBAPSacaEo3cQkqhVyhRzgwhWDsMpX3zv4vwNF7",
     "replicaMint": "8T6HaCqEvchmqmDV9VCqbpBaQc8guoHpQiZ9TsrNr77",
     "replicaQuarries": [],
@@ -23,6 +37,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "5thfi9cDKV9BLvgVPd6f5F984tAsGAk4yJzTng8wn891"
+    },
+    "rewardsTokenInfo": {
+      "address": "5thfi9cDKV9BLvgVPd6f5F984tAsGAk4yJzTng8wn891",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 5thf",
+      "symbol": "5thfi"
     },
     "slug": "7MmSZKn1hr9Ub37monk6eN1oSrFsdj5xQKpSNtq7ARS2"
   },

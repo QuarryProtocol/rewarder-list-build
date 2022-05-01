@@ -8,6 +8,13 @@
       "decimals": 9,
       "mint": "8jk4eJymMfNZV9mkRNxJEt2VJ3pRvdJvD5FE94GXGBPM"
     },
+    "primaryTokenInfo": {
+      "address": "8jk4eJymMfNZV9mkRNxJEt2VJ3pRvdJvD5FE94GXGBPM",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token 8jk4",
+      "symbol": "8jk4e"
+    },
     "quarry": "GFB21fTfZVJd3M3S9itoAvpvmj3qApjLpRc18mDTi1QW",
     "replicaMint": "3ijouRU5dUh3HikCq95nb3j1m9UrwkaEHdbmC7isa3QH",
     "replicaQuarries": [],
@@ -47,6 +54,22 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7"
+    },
+    "rewardsTokenInfo": {
+      "address": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7",
+      "chainId": 103,
+      "decimals": 9,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+        ]
+      },
+      "name": "Token 5YwU (IOU)",
+      "symbol": "iou5YwUk",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "sentre-devnet"
   },

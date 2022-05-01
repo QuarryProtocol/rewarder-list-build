@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
     },
+    "primaryTokenInfo": {
+      "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/pools/usdt_cash"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+      "name": "Saber USDT-CASH LP",
+      "symbol": "USDT-CASH",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "6JHgp4x49G48dgLt5ARbhmQyaCcRCBcWvm9cPfeqbCMy",
     "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",
     "replicaQuarries": [],
@@ -23,6 +42,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh"
+    },
+    "rewardsTokenInfo": {
+      "address": "3rZNcWwu6sTuhfbdugSkAM7ENgtU2UFyK4Sb9SgxtxZh",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 3rZN",
+      "symbol": "3rZNc"
     },
     "slug": "5NPXAXnkkXvw6kfXtvo78mS99LPz4oGekjkUAUzHEyHP"
   },

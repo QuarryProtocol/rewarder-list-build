@@ -8,6 +8,25 @@
       "decimals": 9,
       "mint": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq"
     },
+    "primaryTokenInfo": {
+      "address": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "website": "https://app.sunny.ag"
+      },
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq/icon.png",
+      "name": "Sunny Saber aSOL-SOL LP",
+      "symbol": "sun-aSOL-SOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "8hMGkpj9EuTNnMsqrcZ9a9LXh4UCgRS2DaGFJzK5KyaM",
     "replicaMint": "5omnro97jECPQLCAXdyEoARbjo1m84UqCRFkBPgCFS3A",
     "replicaQuarries": [],
@@ -60,6 +79,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    },
+    "rewardsTokenInfo": {
+      "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "sunny-aggregator",
+        "discord": "https://chat.sunny.ag",
+        "github": "https://github.com/SunnyAggregator",
+        "medium": "https://medium.com/sunny-aggregator",
+        "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+        "twitter": "https://twitter.com/SunnyAggregator",
+        "website": "https://sunny.ag/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+      "name": "Sunny IOU Token (Quarry Rewards)",
+      "symbol": "SUNNY"
     },
     "slug": "sunny"
   },

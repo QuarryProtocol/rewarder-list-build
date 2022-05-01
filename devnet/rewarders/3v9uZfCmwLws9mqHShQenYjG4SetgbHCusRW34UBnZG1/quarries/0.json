@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
     },
+    "primaryTokenInfo": {
+      "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+        ],
+        "website": "https://app.saber.so/pools/usdc_usdt"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+      "name": "Saber USDC-USDT LP",
+      "symbol": "USDC-USDT",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "DgxPyzQjDbcZ1Nfu1bDtRLuSKULaAxLr1P5YgNcoC13J",
     "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
     "replicaQuarries": [
@@ -40,6 +59,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "Ce2j2JocSpTHJGiqZjPyeP5VYpR6nNTroy347TKNcHQE"
+    },
+    "rewardsTokenInfo": {
+      "address": "Ce2j2JocSpTHJGiqZjPyeP5VYpR6nNTroy347TKNcHQE",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token Ce2j",
+      "symbol": "Ce2j2"
     },
     "slug": "3v9uZfCmwLws9mqHShQenYjG4SetgbHCusRW34UBnZG1"
   },

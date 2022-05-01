@@ -8,6 +8,25 @@
       "decimals": 9,
       "mint": "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
     },
+    "primaryTokenInfo": {
+      "address": "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "sentre",
+        "discord": "https://discord.gg/FyHJgQ7W",
+        "medium": "https://sentre.medium.com",
+        "telegram": "https://t.me/Sentre",
+        "twitter": "https://twitter.com/SentreProtocol",
+        "website": "https://sentre.io"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+      "name": "Sentre",
+      "symbol": "SNTR",
+      "tags": [
+        "utility-token"
+      ]
+    },
     "quarry": "DFuCTcbzKoKoBWNLK5XCgQfdv5d4Xwc9DnZjSPWpzPt1",
     "replicaMint": "Aok2XhH1ssv6NRudToaLdUyYKP8NwmW6YTvx2Snjevqx",
     "replicaQuarries": [],
@@ -59,6 +78,30 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"
+    },
+    "rewardsTokenInfo": {
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "sentre",
+        "discord": "https://discord.gg/FyHJgQ7W",
+        "medium": "https://sentre.medium.com",
+        "source": "quarry-iou",
+        "telegram": "https://t.me/Sentre",
+        "twitter": "https://twitter.com/SentreProtocol",
+        "underlyingTokens": [
+          "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+        ],
+        "website": "https://sentre.io"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+      "name": "Sentre (IOU)",
+      "symbol": "iouSNTR",
+      "tags": [
+        "utility-token",
+        "quarry-iou"
+      ]
     },
     "slug": "sentre"
   },

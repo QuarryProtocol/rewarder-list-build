@@ -8,6 +8,23 @@
       "decimals": 6,
       "mint": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
     },
+    "primaryTokenInfo": {
+      "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "website": "https://saber.so/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "name": "USD Coin (Saber Devnet)",
+      "symbol": "USDC",
+      "tags": [
+        "saber-mkt-usd",
+        "stablecoin"
+      ]
+    },
     "quarry": "5fW6pGKwoMRLk7AMcMDtWL9PXk4JYT2LWq9FMDUkB7qx",
     "replicaMint": "GEiGczRMX3RQt9EN2CYcbmG5SSth1o9MzjV1bEiemNeS",
     "replicaQuarries": [
@@ -40,6 +57,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "5xM8Ngg1GLaSx8X7uKUPURVU2pSQMoi5rhKcarv3iXWH"
+    },
+    "rewardsTokenInfo": {
+      "address": "5xM8Ngg1GLaSx8X7uKUPURVU2pSQMoi5rhKcarv3iXWH",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 5xM8",
+      "symbol": "5xM8N"
     },
     "slug": "29r5L2uGgsJmM4aJryWXNJ1ooAm4acHgMh6LGeL3KQst"
   },

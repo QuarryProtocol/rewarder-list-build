@@ -50,6 +50,26 @@
         "decimals": 9,
         "mint": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp"
       },
+      "primaryTokenInfo": {
+        "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/abbusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp/icon.png",
+        "name": "Saber abBUSD-USDC LP",
+        "symbol": "abBUSD-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "8RA7KUL1KJaN2hgexWy6iST8XdqVv2FapB6LbkQZdkfT",
       "replicaMint": "EYfQBeCrkxvRXFJFj6faTk1tPeJ7B5fJssLEb9z7DNXD",
       "replicaQuarries": [],
@@ -67,6 +87,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW"
+      },
+      "primaryTokenInfo": {
+        "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/usdk"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW/icon.png",
+        "name": "Saber wUSDK_V1-USDC LP",
+        "symbol": "wUSDKV1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "AfvTQGrJw4Wk71Lvv1uXtWbb8MF9igxtSe6yVAaXgDf7",
       "replicaMint": "XQpEE6qaYpKdQmYfXxXHwSdc5agjvoeHbKRjA2pszEr",
@@ -86,6 +126,26 @@
         "decimals": 9,
         "mint": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC"
       },
+      "primaryTokenInfo": {
+        "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/mai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC/icon.png",
+        "name": "Saber MAI-USDC LP",
+        "symbol": "MAI-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "GfhJbBiT4Yfv3FvnGY42EBGReCJpbLgQZbaZ8KuPydK5",
       "replicaMint": "5ymxxPVQBxDtR5NVmuP3DVeHkyo1Ne7cq2Nzfq37UYaZ",
       "replicaQuarries": [],
@@ -104,6 +164,25 @@
         "decimals": 6,
         "mint": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf"
       },
+      "primaryTokenInfo": {
+        "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          ],
+          "website": "https://app.saber.so/pools/usdc_usdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png",
+        "name": "Saber USDT-USDC LP",
+        "symbol": "USDT-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "Hs1X5YtXwZACueUtS9azZyXFDWVxAMLvm3tttubpK7ph",
       "replicaMint": "65t5h75EsYeMiDQ6BvReM7NFb9HMbdGo9kFm4fn8vXPp",
       "replicaQuarries": [],
@@ -121,6 +200,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz"
+      },
+      "primaryTokenInfo": {
+        "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/msol_sol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz/icon.png",
+        "name": "Saber mSOL-SOL LP",
+        "symbol": "mSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68",
       "replicaMint": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi",
@@ -179,6 +277,25 @@
         "decimals": 8,
         "mint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs"
       },
+      "primaryTokenInfo": {
+        "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+            "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
+          ],
+          "website": "https://app.saber.so/pools/btc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
+        "name": "Saber BTC-renBTC LP",
+        "symbol": "BTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
       "replicaMint": "BTE5SHy8W1xZ4s4mj15bkT43y3aQpf7gjMzXQwjtSnvu",
       "replicaQuarries": [],
@@ -196,6 +313,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR"
+      },
+      "primaryTokenInfo": {
+        "address": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/prtsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR/icon.png",
+        "name": "Saber prtSOL-SOL LP",
+        "symbol": "prtSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "3LbfNHhqvJ86u1W8TzoRg8TcozXj7HUhGvZC5gMzwzQa",
       "replicaMint": "27GS6FQ9cStgATVQKJitoMww8voNQnuw4SvC2uDeJGN1",
@@ -215,6 +351,26 @@
         "decimals": 6,
         "mint": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP"
       },
+      "primaryTokenInfo": {
+        "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/apusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP/icon.png",
+        "name": "Saber apUSDC-USDC LP",
+        "symbol": "apUSDC-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "3eNV6vLGDm9z8vKspbddEUvVcwcuHsFz5mBmVaRqYHqQ",
       "replicaMint": "8Aw32rZb7DjWWRiC8xP3JshaqHgPAw1KtgBhBi1eZaGG",
       "replicaQuarries": [],
@@ -233,6 +389,26 @@
         "decimals": 6,
         "mint": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj"
       },
+      "primaryTokenInfo": {
+        "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+            "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          ],
+          "website": "https://app.saber.so/pools/apusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj/icon.png",
+        "name": "Saber apUSDT-USDT LP",
+        "symbol": "apUSDT-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "9ngf7fgxie59xAbEcMZF27QbcVgRea88RbXqjFccE4dA",
       "replicaMint": "D4wxPRJQrhsGgvL9bF4xs5MLpKL3nrGvQaetHK8fmNz4",
       "replicaQuarries": [],
@@ -250,6 +426,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV"
+      },
+      "primaryTokenInfo": {
+        "address": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/stsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png",
+        "name": "Saber stSOL-SOL LP",
+        "symbol": "stSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "2isVhcqVVpsAeZ94d1DGVErCQ7uZQNSJ85xikN8awHeC",
       "replicaMint": "9qkeuJ3bcskGrJySqx7koV7pqCVkVeywDzX47v3vdxJC",
@@ -308,6 +503,25 @@
         "decimals": 9,
         "mint": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy"
       },
+      "primaryTokenInfo": {
+        "address": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
+            "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
+          ],
+          "website": "https://app.saber.so/pools/psol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy/icon.png",
+        "name": "Saber pSOL-prtSOL LP",
+        "symbol": "pSOL-prtSOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "8uEjJsJ5cCbz7m4K9jZEmQB6cL3SM3V2suc6fazkgWan",
       "replicaMint": "MHTai7g5op4yQfKELHqfE7c7EuQUQJhjbB5LPA2A22U",
       "replicaQuarries": [],
@@ -325,6 +539,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ"
+      },
+      "primaryTokenInfo": {
+        "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/usdc_pai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ/icon.png",
+        "name": "Saber PAI-USDC LP",
+        "symbol": "PAI-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "FR245AMbpU6Xcpad7JAVicSJRR36nWWxDw4itr2hNDHa",
       "replicaMint": "32x1JNqtjQwQcRCWL6kHkMntzVZSwQfL4Xf1V5kMxAQ5",
@@ -344,6 +577,25 @@
         "decimals": 8,
         "mint": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x"
       },
+      "primaryTokenInfo": {
+        "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+            "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
+          ],
+          "website": "https://app.saber.so/pools/pbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x/icon.png",
+        "name": "Saber pBTC-renBTC LP",
+        "symbol": "pBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "8hnBtfEumuBh8Vd19qZ16re6wWgMZypZQoFLum7vx1bf",
       "replicaMint": "J3EWKbgRFdrRhqBskyBuUbLqHLw9yck4EvvDfFfV27Dy",
       "replicaQuarries": [],
@@ -361,6 +613,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc"
+      },
+      "primaryTokenInfo": {
+        "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
+          ],
+          "website": "https://app.saber.so/pools/ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
+        "name": "Saber wUST_v1-USDC LP",
+        "symbol": "wUSTv1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "FFfgPdrES48xe8UKGgmdc5kvQ9cv49oeu5FUKadh1i1k",
       "replicaMint": "HxZo4gPwUKZr5EK9ic4u6ZDbWMscGLWaPntBGjECMJv9",
@@ -380,6 +652,26 @@
         "decimals": 9,
         "mint": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7"
       },
+      "primaryTokenInfo": {
+        "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+            "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
+          ],
+          "website": "https://app.saber.so/pools/ftt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7/icon.png",
+        "name": "Saber wFTT_v1-soFTT LP",
+        "symbol": "wFTTv1-soFTT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
+      },
       "quarry": "AB17JLiVcGQ6DjRy69Pz2ydMcaJW6kNZVX2ajWT4g1Ke",
       "replicaMint": "FWZJQxyYaqTvVXaKeM5Ycv9Uc9H7ea1Gt1w6mMVDhKxo",
       "replicaQuarries": [],
@@ -397,6 +689,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp"
+      },
+      "primaryTokenInfo": {
+        "address": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
+            "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+          ],
+          "website": "https://app.saber.so/pools/srm"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp/icon.png",
+        "name": "Saber wSRM_V1-SRM LP",
+        "symbol": "wSRMV1-SRM",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "2FfGDoqghYeaASLD7WbK16B4BCENGVrzxR6VQ21qZ4Xe",
       "replicaMint": "7F14JVJzjWPoKKRxZXDNN1ZxxBcEd8JPvma6zTbinGL1",
@@ -416,6 +728,26 @@
         "decimals": 8,
         "mint": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS"
       },
+      "primaryTokenInfo": {
+        "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/husd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
+        "name": "Saber wHUSD_v1-USDC LP",
+        "symbol": "wHUSDv1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
+      },
       "quarry": "4DqNHQTQTXkHgcsAQaBVYaqZUiPBqtdf73P4q2octpJH",
       "replicaMint": "3tgGLhYtuwmToojygEpbr42yWPdi3Zp2XFBA7w6kF1w4",
       "replicaQuarries": [],
@@ -433,6 +765,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3"
+      },
+      "primaryTokenInfo": {
+        "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/busd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3/icon.png",
+        "name": "Saber wBUSD_v1-USDC LP",
+        "symbol": "wBUSDv1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "FdefcL2FRLhz9bDnjyypuV8qRJ5p2TRKV2yUDxqFcFRN",
       "replicaMint": "5EtVCDMngQmhwTr4gy2eoBdsJFx3BmwjEmqTP1CfVvbK",
@@ -452,6 +804,26 @@
         "decimals": 9,
         "mint": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo"
       },
+      "primaryTokenInfo": {
+        "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/hbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo/icon.png",
+        "name": "Saber wHBTC_v1-renBTC LP",
+        "symbol": "wHBTCv1-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
+      },
       "quarry": "HHs32Mph7a19onVvNyfPTvxs8gdjbwfd576KtRwspX2u",
       "replicaMint": "Ds92FrfBmBrJKbshqsiidApYduytEb1zzHizK8Ca9AuW",
       "replicaQuarries": [],
@@ -469,6 +841,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE"
+      },
+      "primaryTokenInfo": {
+        "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
+            "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
+          ],
+          "website": "https://app.saber.so/pools/luna"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE/icon.png",
+        "name": "Saber wLUNA_v1-renLUNA LP",
+        "symbol": "wLUNAv1-renLUNA",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "FaEnerTg1tsHKtqXfjGKtHMDkUrd4pe6i7d41qoYDUJf",
       "replicaMint": "EyYdJkWax231LVJGLwEreDwCdZFRE7S12Z6VCvvVNewC",
@@ -488,6 +880,26 @@
         "decimals": 9,
         "mint": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh"
       },
+      "primaryTokenInfo": {
+        "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/dai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh/icon.png",
+        "name": "Saber wDAI_v1-USDC LP",
+        "symbol": "wDAIv1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
+      },
       "quarry": "EYbg27c9Afc1Cbxy8qnCvECw2unWajypuXAYiQq949Yy",
       "replicaMint": "EmK1sCqgb5W3XtATcS7mEzRBPa9sYUKFLNnKAphwHVFS",
       "replicaQuarries": [],
@@ -505,6 +917,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT"
+      },
+      "primaryTokenInfo": {
+        "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/ibbtc_ren"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png",
+        "name": "Saber wibBTC_V1-renBTC LP",
+        "symbol": "wibBTCV1-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
       },
       "quarry": "FP4zv3sQiVLgr5j2jV6cfvLeMi7ekVQL8tNSJuyUyhdy",
       "replicaMint": "5fiSGMGGBxrhk1NLU8fKQPc773Pm5CMZm2gv7c3qc5f5",
@@ -524,6 +956,26 @@
         "decimals": 9,
         "mint": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK"
       },
+      "primaryTokenInfo": {
+        "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/frax"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK/icon.png",
+        "name": "Saber wFRAX_v1-USDC LP",
+        "symbol": "wFRAXv1-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v1"
+        ]
+      },
       "quarry": "Cj4Ui8sa4CKSYZt4vVQF8QJsaa8Lgg6ykVseWXQkHTgU",
       "replicaMint": "Ht8rS3CaDTwmz6oBFTxdBpjnHSRgMzYs2uzk2GokVdAB",
       "replicaQuarries": [],
@@ -541,6 +993,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj"
+      },
+      "primaryTokenInfo": {
+        "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/socean"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png",
+        "name": "Saber scnSOL-SOL LP",
+        "symbol": "scnSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "75gshB42wbVJtFyF1PUULR6M4fegdqPLasG3HLGtTwRQ",
       "replicaMint": "Grw9fqPHe5fXBfj7Dze91VV23fNJ2sfDCMx7hKJHNo6M",
@@ -560,6 +1031,26 @@
         "decimals": 9,
         "mint": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk"
       },
+      "primaryTokenInfo": {
+        "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/acusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk/icon.png",
+        "name": "Saber acUSD-USDC LP",
+        "symbol": "acUSD-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "64Jh71Av4M5QaEyduDJigNsa4HUBwvT2cQyi5YBSp1e4",
       "replicaMint": "N6Ymdv5R8wgomAHM8vvRZHfKHCH45FNDFUyCfVSuNj2",
       "replicaQuarries": [],
@@ -577,6 +1068,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL"
+      },
+      "primaryTokenInfo": {
+        "address": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/webusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL/icon.png",
+        "name": "Saber BUSDet-USDC LP",
+        "symbol": "BUSDet-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "4RU52YmyNaxg1zPnzALtv3aeXJJZEy5uaRXaTC7bBSgA",
       "replicaMint": "DRKocdCTFy8r6PsHPHSiDMJD2PJXeC4h7XypZjoEQ5Qt",
@@ -596,6 +1107,26 @@
         "decimals": 8,
         "mint": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3"
       },
+      "primaryTokenInfo": {
+        "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/wdai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
+        "name": "Saber DAI-USDC LP",
+        "symbol": "DAI-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "Gr1ijg84eQWG9zsf5PaBpjrNy4iEzP6hBpUgqxWkpb9y",
       "replicaMint": "2QrRYiCK76az7hjb3rCVkyWZ9Q1xrCwLhhQKx5VbXNA8",
       "replicaQuarries": [],
@@ -613,6 +1144,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c"
+      },
+      "primaryTokenInfo": {
+        "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/weusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
+        "name": "Saber USDCet-USDC LP",
+        "symbol": "USDCet-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "7q5jvR4C6hFrC6tScyVKV4wE8km9koX537bud5iyw8ma",
       "replicaMint": "EpycTmDv37j6gGGqCmh6Bj5YdTBWXBMbVinusmzKjzXk",
@@ -632,6 +1183,26 @@
         "decimals": 6,
         "mint": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue"
       },
+      "primaryTokenInfo": {
+        "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+            "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          ],
+          "website": "https://app.saber.so/pools/weusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue/icon.png",
+        "name": "Saber USDTet-USDT LP",
+        "symbol": "USDTet-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "yPKVUwQxzuJ57uxW9rAJF6D1xEEButVjvRBsuN7E77P",
       "replicaMint": "GjYDPxQiekkUDMPyyR13eZyHGFbqCJsUvaEJH9WWuHyC",
       "replicaQuarries": [],
@@ -649,6 +1220,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz"
+      },
+      "primaryTokenInfo": {
+        "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/whusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz/icon.png",
+        "name": "Saber HUSD-USDC LP",
+        "symbol": "HUSD-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "41CPKcrV6XAJ7943hN7X9znsSaiN1DEGJNEncSA3hAPw",
       "replicaMint": "D9BS9uXub79cQdJMhiwHA8MU6JacE9J83tpf7kHkTgY2",
@@ -668,6 +1259,26 @@
         "decimals": 8,
         "mint": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz"
       },
+      "primaryTokenInfo": {
+        "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/wusdk"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz/icon.png",
+        "name": "Saber USDK-USDC LP",
+        "symbol": "USDK-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "4g9LQYZnLjvbDyzJJUtUKTdJfUeUe1j3wKKiGfXwUPJF",
       "replicaMint": "2MYSv83uvTaEStRM3mVCXbPkK8HfZGswdEiYnE39dbq9",
       "replicaQuarries": [],
@@ -685,6 +1296,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x"
+      },
+      "primaryTokenInfo": {
+        "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/wfrax"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x/icon.png",
+        "name": "Saber FRAX-USDC LP",
+        "symbol": "FRAX-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "CEtNcKPEirS6Ns2znGmvk1Z2UYQBt5GJabwhtrv28UEN",
       "replicaMint": "5VGws3oNcAoD6PwEA1qAqZXnGve3no9dDQUnmg8Tbubu",
@@ -704,6 +1335,26 @@
         "decimals": 9,
         "mint": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR"
       },
+      "primaryTokenInfo": {
+        "address": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+            "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
+          ],
+          "website": "https://app.saber.so/pools/aeeth"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR/icon.png",
+        "name": "Saber ETH-aeWETH LP",
+        "symbol": "ETH-aeWETH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "8vUrnWpraPY42kucjF5xYuFHx34Tn83b7X9TZRhx95Xd",
       "replicaMint": "4x7ECBabbKhBDNYu4RmvHf8BSG8MEmXnAy3Qigjns1t7",
       "replicaQuarries": [],
@@ -722,6 +1373,26 @@
         "decimals": 8,
         "mint": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA"
       },
+      "primaryTokenInfo": {
+        "address": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
+            "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
+          ],
+          "website": "https://app.saber.so/pools/wheth"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA/icon.png",
+        "name": "Saber soETH-ETH LP",
+        "symbol": "soETH-ETH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "4acW2PzwAxoZLSxj6w33Wvn2Af79bwCdJLdJGPY6HD3x",
       "replicaMint": "GeNd9q6gb3p7qv8f4z7X8GQKeVHmA2mcDvead2vHQrwK",
       "replicaQuarries": [],
@@ -739,6 +1410,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en"
+      },
+      "primaryTokenInfo": {
+        "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+            "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
+          ],
+          "website": "https://app.saber.so/pools/port_2pool"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
+        "name": "Saber pUSDT-pUSDC LP",
+        "symbol": "pUSDT-pUSDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-port"
+        ]
       },
       "quarry": "8fneZQffsCH7QmZBaUE6JUPpaNb5Y5ggbEJ7mq6w3UCu",
       "replicaMint": "E7AdPpqpyUsy5dzpDcu6g37Vi8phfNkcCoS2EzTP7w6j",
@@ -778,6 +1469,26 @@
         "decimals": 9,
         "mint": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz"
       },
+      "primaryTokenInfo": {
+        "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/aeusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz/icon.png",
+        "name": "Saber aeUSDC-USDC LP",
+        "symbol": "aeUSDC-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "HvHCpbooc8xtvAhW5gfByfhJgNbS2G265ecQT1VBBGGw",
       "replicaMint": "AYZF2XapjfCm2UH7neKRJHkeyAGXM28RycEQnSR2ixcU",
       "replicaQuarries": [],
@@ -795,6 +1506,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7"
+      },
+      "primaryTokenInfo": {
+        "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+            "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+          ],
+          "website": "https://app.saber.so/pools/aeusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7/icon.png",
+        "name": "Saber aeUSDT-USDT LP",
+        "symbol": "aeUSDT-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "CVjYK5fk69mj2k8ma1yCnvFzzDFGL6fziwEaxberD7n1",
       "replicaMint": "DaSEUDzZ2UppkEa7py3Q4z3gP8PE5FcTGc8dQyfpuEML",
@@ -814,6 +1545,26 @@
         "decimals": 9,
         "mint": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK"
       },
+      "primaryTokenInfo": {
+        "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+            "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
+          ],
+          "website": "https://app.saber.so/pools/wftt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK/icon.png",
+        "name": "Saber aeFTT-FTT LP",
+        "symbol": "aeFTT-FTT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "2o1fDM9y6BbrwfaTxE7MaXxescKm5QeAeknrWscHprNG",
       "replicaMint": "3HVyibzxHBr9rHwNKiavUww9f2UEyw2KQ2pbVEZpSGhD",
       "replicaQuarries": [],
@@ -831,6 +1582,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic"
+      },
+      "primaryTokenInfo": {
+        "address": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/aedai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic/icon.png",
+        "name": "Saber aeDAI-USDC LP",
+        "symbol": "aeDAI-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "GBkRWmWtDtHwnjhhDXGuHTDbVNQAs14nbUkwNpWXE2xp",
       "replicaMint": "8FmTDFPuWPgW2AjTcskAA8nDzicwaLP1FPoRhbgttjWG",
@@ -850,6 +1621,26 @@
         "decimals": 9,
         "mint": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv"
       },
+      "primaryTokenInfo": {
+        "address": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/aausdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv/icon.png",
+        "name": "Saber aaUSDC-USDC LP",
+        "symbol": "aaUSDC-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "A8NH6Fk92PLzQAGwwAY3b2e9Zuryiisvu8WUceu95QK6",
       "replicaMint": "Ek8bD6k2jWpTenma5Pc2VgW6ipVSW4zw8HHA22oGJwfU",
       "replicaQuarries": [],
@@ -867,6 +1658,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip"
+      },
+      "primaryTokenInfo": {
+        "address": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
+            "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+          ],
+          "website": "https://app.saber.so/pools/aausdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip/icon.png",
+        "name": "Saber aaUSDT-USDT LP",
+        "symbol": "aaUSDT-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "9chpeWW6MAjYZrgSB1AHRmJXTzBHKW2agbxqF4qMWNvz",
       "replicaMint": "4YSERTELbC2L2SttHsxe9zkCpmUV54ZFG38DZzeB9ruZ",
@@ -886,6 +1697,26 @@
         "decimals": 9,
         "mint": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC"
       },
+      "primaryTokenInfo": {
+        "address": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/aadai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC/icon.png",
+        "name": "Saber aaDAI-USDC LP",
+        "symbol": "aaDAI-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "228rDhwVZrJkwgFiMq7AHp5L9PdHJS8p8Ta8z8DP4ABh",
       "replicaMint": "dZjgKHNfg3mAMRAt9K1247rWcPsCwmizGqVNKziock5",
       "replicaQuarries": [],
@@ -903,6 +1734,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39"
+      },
+      "primaryTokenInfo": {
+        "address": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/aawbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39/icon.png",
+        "name": "Saber aaWBTC-renBTC LP",
+        "symbol": "aaWBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "6r6zEtUZghQmWsPpLFRwMvnoRja3SNDUaS72NUuQsFia",
       "replicaMint": "5LbxPDSwf9eVYASf8MrQb1Tk22mFWibQLthHNiV6qYjS",
@@ -922,6 +1773,26 @@
         "decimals": 6,
         "mint": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi"
       },
+      "primaryTokenInfo": {
+        "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/wust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi/icon.png",
+        "name": "Saber UST-USDC LP",
+        "symbol": "UST-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "BYEUtsLjYAVHRiRR3Avjqnd2RQLRL8n933N52p9kSX2y",
       "replicaMint": "SbXeFv9pSs93rN2oPKLUT5kf9bCkdahMVQzmHF3pcgD",
       "replicaQuarries": [],
@@ -939,6 +1810,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n"
+      },
+      "primaryTokenInfo": {
+        "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/xusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n/icon.png",
+        "name": "Saber xUSD-USDC LP",
+        "symbol": "xUSD-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
       },
       "quarry": "9XAGs2YwvRqCLupFAQQyH1XnP1MP3dp9PL6JaBD7yCZp",
       "replicaMint": "D3VrhMYSzaevWubptuMrQeB8tJmVckS3P9mCMkmgxnxH",
@@ -958,6 +1849,26 @@
         "decimals": 6,
         "mint": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU"
       },
+      "primaryTokenInfo": {
+        "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+            "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+          ],
+          "website": "https://app.saber.so/pools/wluna"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU/icon.png",
+        "name": "Saber LUNA-renLUNA LP",
+        "symbol": "LUNA-renLUNA",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "7DyHgSJ2KvjjreNFefeWxkPe8oucwbdtSb8LkjkVTarx",
       "replicaMint": "6ivC8FVyX5tJsQp8ouPUmV3v7Ah7nbX72FDfojB29a4P",
       "replicaQuarries": [],
@@ -975,6 +1886,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi"
+      },
+      "primaryTokenInfo": {
+        "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/xsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi/icon.png",
+        "name": "Saber xSOL-SOL LP",
+        "symbol": "xSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
       },
       "quarry": "BB8EYouLWTWnY3cpns7zGpBwcBbWTcczKuqpkvwcdkvi",
       "replicaMint": "472XRU2eTmstjxQTX74XmeU2uDjnhsjdzc8uqiryzPtB",
@@ -994,6 +1925,26 @@
         "decimals": 9,
         "mint": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY"
       },
+      "primaryTokenInfo": {
+        "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+            "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+          ],
+          "website": "https://app.saber.so/pools/xeth"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY/icon.png",
+        "name": "Saber xETH-ETH LP",
+        "symbol": "xETH-ETH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
+      },
       "quarry": "CipQjauQwCa2pBbavhtR67mKUHbd8ymrQsDwJHTxjPFB",
       "replicaMint": "E7ZDu4GQ9fQRxiDLBruEtHQEe9VcZcuvVxJSuLb231D5",
       "replicaQuarries": [],
@@ -1011,6 +1962,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA"
+      },
+      "primaryTokenInfo": {
+        "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+            "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+          ],
+          "website": "https://app.saber.so/pools/xftt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA/icon.png",
+        "name": "Saber xFTT-FTT LP",
+        "symbol": "xFTT-FTT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
       },
       "quarry": "FdHVdkarMfbpPhiAhHtKK6PgH8ibN8SnGSqWhQkTyD2c",
       "replicaMint": "7C4pT5J3ExTvcwdczy8VMRaxZ7vQcFhcv4Rqvrioqff2",
@@ -1030,6 +2001,26 @@
         "decimals": 10,
         "mint": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK"
       },
+      "primaryTokenInfo": {
+        "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
+        "chainId": 101,
+        "decimals": 10,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+            "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
+          ],
+          "website": "https://app.saber.so/pools/xbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK/icon.png",
+        "name": "Saber xBTC-renBTC LP",
+        "symbol": "xBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
+      },
       "quarry": "GWTy8S43vAUMCQpjNV9JBp5NPNSuCyCn34wz9Roz63YF",
       "replicaMint": "DXu5V43EoM4d49Yf11ba5j1A1PRtm7tAzSzC4ihLUqKY",
       "replicaQuarries": [],
@@ -1047,6 +2038,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV"
+      },
+      "primaryTokenInfo": {
+        "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/asol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV/icon.png",
+        "name": "Saber aSOL-SOL LP",
+        "symbol": "aSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "8RyD4nFiZ56nVNtHM3wBfn2kr889XBrxv8Y1swJq91md",
       "replicaMint": "D8HqSC1da39RkjarLh9EK8FNz8FAqLmgTf17taJedJb8",
@@ -1066,6 +2076,26 @@
         "decimals": 9,
         "mint": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC"
       },
+      "primaryTokenInfo": {
+        "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+            "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+          ],
+          "website": "https://app.saber.so/pools/acusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC/icon.png",
+        "name": "Saber USDC-acUSDC LP",
+        "symbol": "USDC-acUSDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "GkiBc6Vzqhdm9jeQUDpkXfAtZdfpbfaaiwVTMqM3uMc3",
       "replicaMint": "2EABWopZ8a2esZbG7h2eRTPZ7SsuzpN8xoug6kiWPaFi",
       "replicaQuarries": [],
@@ -1083,6 +2113,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv"
+      },
+      "primaryTokenInfo": {
+        "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png",
+        "name": "Saber CASH-USDC LP",
+        "symbol": "CASH-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "3esh4Uq1WMpdYSgBmK92C9eLVRU5MzcNPm2PJyG72Fqo",
       "replicaMint": "HoiqP8QaE1bvikWrRjrvcWL2v2AjYtnwKrveu2vNReMy",
@@ -1122,6 +2171,26 @@
         "decimals": 9,
         "mint": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J"
       },
+      "primaryTokenInfo": {
+        "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/ahwbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J/icon.png",
+        "name": "Saber ahBTC-renBTC LP",
+        "symbol": "ahBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "8mqVcEHKdGgYtnDTaK8MFDFGSrZoRddJeG46Ju9sET1G",
       "replicaMint": "d4jrAHrD4CqXUuLRy3cSfY7mWeYXwfJgZpK3b9w7JV6",
       "replicaQuarries": [],
@@ -1139,6 +2208,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR"
+      },
+      "primaryTokenInfo": {
+        "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/ahusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR/icon.png",
+        "name": "Saber ahUSDT-USDC LP",
+        "symbol": "ahUSDT-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "8T7Few94jmgsPNtG1e3Q16Bm4nQZVDjt9sUbzPaN23w4",
       "replicaMint": "CZWzHEhAtLfhmQg83tM5UUdETN7tvN7xNm12g8Mb1W5T",
@@ -1158,6 +2247,26 @@
         "decimals": 6,
         "mint": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE"
       },
+      "primaryTokenInfo": {
+        "address": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/wpusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE/icon.png",
+        "name": "Saber USDCpo-USDC LP",
+        "symbol": "USDCpo-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "Hutnp9RAkAaam3SGorHCjzYghrATZ9gkQTWdJ51QgXv",
       "replicaMint": "CjsEp4q7W6RBFHxJqiKkaiMZezvexbFRDX2xyPPQU6kY",
       "replicaQuarries": [],
@@ -1176,6 +2285,26 @@
         "decimals": 6,
         "mint": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj"
       },
+      "primaryTokenInfo": {
+        "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+            "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+          ],
+          "website": "https://app.saber.so/pools/wpusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj/icon.png",
+        "name": "Saber USDTpo-USDT LP",
+        "symbol": "USDTpo-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "ECbsUoB8LfzqwNe3zA3hNrvR7WX1vJRiMcL9sMsb92BE",
       "replicaMint": "AWqSM31QYPS9ApDCncFErhRY7vv1qmWAYqhycaes9tBE",
       "replicaQuarries": [],
@@ -1193,6 +2322,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY"
+      },
+      "primaryTokenInfo": {
+        "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/pai_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY/icon.png",
+        "name": "Saber PAI-CASH LP",
+        "symbol": "PAI-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
       },
       "quarry": "3id3soDcppeYRVvfN8ZPqaLbnB83wmfmsCJupwJVBwaL",
       "replicaMint": "AXMC4QhPZfx9kfMaYwwsn5WeEFivM7UnYw2tnVrD2xrA",
@@ -1231,6 +2380,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8"
+      },
+      "primaryTokenInfo": {
+        "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/ust_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8/icon.png",
+        "name": "Saber UST-CASH LP",
+        "symbol": "UST-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
       },
       "quarry": "HEFCUdoJRcsjD1VPacn4oYsoPne2TfdYaQNczq7Aj3iX",
       "replicaMint": "HdSp5C6F4GvVUhCD7hqWaj74cm4fVU2NZXs3r7jzCSVe",
@@ -1289,6 +2458,26 @@
         "decimals": 9,
         "mint": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7"
       },
+      "primaryTokenInfo": {
+        "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+            "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          ],
+          "website": "https://app.saber.so/pools/acusd_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7/icon.png",
+        "name": "Saber acUSD-CASH LP",
+        "symbol": "acUSD-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
+      },
       "quarry": "F5VvER2JdGfbEtPJBr92qEPJhE3b8tAA3Gi9zyPx2toa",
       "replicaMint": "6YSGgj2cbTYc75V6qXBqiAWrHfdoSH4TbqHvN7fANSyj",
       "replicaQuarries": [
@@ -1327,6 +2516,26 @@
         "decimals": 8,
         "mint": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS"
       },
+      "primaryTokenInfo": {
+        "address": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/wbusd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS/icon.png",
+        "name": "Saber BUSDbs-USDC LP",
+        "symbol": "BUSDbs-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "7xxkhSdMVhfoekF92ojd8AM6qzyJnX5yui9Yu2fx85VP",
       "replicaMint": "EeCVzrcYZmo2QrWqyH2iRGFQVqUTdMGyaWReXvaJs476",
       "replicaQuarries": [],
@@ -1344,6 +2553,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs"
+      },
+      "primaryTokenInfo": {
+        "address": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+          ],
+          "website": "https://app.saber.so/pools/wbusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png",
+        "name": "Saber USDCbs-USDC LP",
+        "symbol": "USDCbs-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "GiZDN6QkWTGwULWwoyacaeRNEwnQHsn9ohojE2cZZ995",
       "replicaMint": "84LbGXUe9q3S2Rsjfi2h56ASVDbjNt1ZZeaU5diGwnt2",
@@ -1363,6 +2592,26 @@
         "decimals": 8,
         "mint": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv"
       },
+      "primaryTokenInfo": {
+        "address": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+            "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
+          ],
+          "website": "https://app.saber.so/pools/wbusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv/icon.png",
+        "name": "Saber USDTbs-USDT LP",
+        "symbol": "USDTbs-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "86tqayCSmxprknt6Lu6rpJx7B7HjaurHXUmzev7Hx8v6",
       "replicaMint": "4aFZMCFfsLSu5gxMXBegge8pL3tx1qti5m9YoGD9Dpz1",
       "replicaQuarries": [],
@@ -1380,6 +2629,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP"
+      },
+      "primaryTokenInfo": {
+        "address": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
+            "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+          ],
+          "website": "https://app.saber.so/pools/abeth"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP/icon.png",
+        "name": "Saber abETH-ETH LP",
+        "symbol": "abETH-ETH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "3gx2cvAG1kwCcmGHPekfGESeFKchbVdXKC5uyesb6D8S",
       "replicaMint": "t7SYtbsjMCRsLB65mLTDKgXKyFk8tJzkck7pnTdnSkx",
@@ -1399,6 +2668,26 @@
         "decimals": 9,
         "mint": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo"
       },
+      "primaryTokenInfo": {
+        "address": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/abbtcb"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo/icon.png",
+        "name": "Saber abBTCB-renBTC LP",
+        "symbol": "abBTCB-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "4ywU1D73ip7hf5ZqLWdGsRVpLtNPnw39FDNPHQTVccC",
       "replicaMint": "BKZanYqWtEbCzMPCULQ7zBPckXvuKpcgBDma6RNdwPZC",
       "replicaQuarries": [],
@@ -1416,6 +2705,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ"
+      },
+      "primaryTokenInfo": {
+        "address": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
+            "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+          ],
+          "website": "https://app.saber.so/pools/abusdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ/icon.png",
+        "name": "Saber abUSDT-USDT LP",
+        "symbol": "abUSDT-USDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "AJExbb6wfD71dUD7QCcQASmHB5B6VqzWV9UjrCHsdDbU",
       "replicaMint": "8m3M5RUjhbCAnPrc8G68vMbhim97XRM4nDoFUwvGGJpT",
@@ -1435,6 +2744,26 @@
         "decimals": 9,
         "mint": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P"
       },
+      "primaryTokenInfo": {
+        "address": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/abusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P/icon.png",
+        "name": "Saber abUSDC-USDC LP",
+        "symbol": "abUSDC-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "FTxEbVX18g592J2EjxVg1BcHfCES7pgcnFo2VPcPAKLT",
       "replicaMint": "BjCghNn1C7cDniVuhVfzLwC7frGrEA8jNsBLyMgRCNPT",
       "replicaQuarries": [],
@@ -1452,6 +2781,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE"
+      },
+      "primaryTokenInfo": {
+        "address": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+            "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+          ],
+          "website": "https://app.saber.so/pools/wsrm"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE/icon.png",
+        "name": "Saber SRMet-SRM LP",
+        "symbol": "SRMet-SRM",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "C7faBVAJad3obMyRxXn8dqbDJT7TT2A4oidKeELCMckp",
       "replicaMint": "Hwv12V8DPVR2ffqCDpccqZHhtwthrMPWyzL4fTsUeto6",
@@ -1471,6 +2820,26 @@
         "decimals": 8,
         "mint": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx"
       },
+      "primaryTokenInfo": {
+        "address": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          ],
+          "website": "https://app.saber.so/pools/wibbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx/icon.png",
+        "name": "Saber wibBTC-renBTC LP",
+        "symbol": "wibBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "AVFD1KFfbG1sc7ExxqLHaSJKbDCA6PMkUgGPovD21Dbe",
       "replicaMint": "22tcHm9RgPZhcfLXdmiFFpqTntRFcxQhDAfHhSpKWZAy",
       "replicaQuarries": [],
@@ -1488,6 +2857,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm"
+      },
+      "primaryTokenInfo": {
+        "address": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+            "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+          ],
+          "website": "https://app.saber.so/pools/whbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm/icon.png",
+        "name": "Saber HBTC-renBTC LP",
+        "symbol": "HBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "5iB8Ux2h9XD9pfCimkFMN9i8KnUzB9SERaAedoAaDFo4",
       "replicaMint": "9pUHzpVvSjETNM45Knc7LSU9yQzSB1shWP9qHcoszuwf",
@@ -1507,6 +2896,26 @@
         "decimals": 9,
         "mint": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5"
       },
+      "primaryTokenInfo": {
+        "address": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+            "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+          ],
+          "website": "https://app.saber.so/pools/afbtc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5/icon.png",
+        "name": "Saber afBTC-renBTC LP",
+        "symbol": "afBTC-renBTC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "2na6Do1Qj6gQAcGenFxmU6EYRdirEmCMWoAQNy5HqnRH",
       "replicaMint": "4tkQdEZZQK4xtT2uZbwdhxHzwsRz24cyjHDycqD2an2K",
       "replicaQuarries": [],
@@ -1524,6 +2933,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo"
+      },
+      "primaryTokenInfo": {
+        "address": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/afusdc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo/icon.png",
+        "name": "Saber afUSDC-USDC LP",
+        "symbol": "afUSDC-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "12sujUAou8V518isa7o2q8ZMrkH5ivF2UrbZdTYVGpUj",
       "replicaMint": "6zmbSMhcBr2hdvTDMZVFT1xfEzFDfZfgeCmAxyQnLc1U",
@@ -1543,6 +2972,26 @@
         "decimals": 9,
         "mint": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov"
       },
+      "primaryTokenInfo": {
+        "address": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/afdai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov/icon.png",
+        "name": "Saber afDAI-USDC LP",
+        "symbol": "afDAI-USDC",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "AAJRKmVKzdh2fVgLQ7Gfb3adMe88sNu4hAkciuFB3nUP",
       "replicaMint": "Diwy5jVNmKHBM1MfT9aPucC46Usfpu76s9KuirKuKJag",
       "replicaQuarries": [],
@@ -1560,6 +3009,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e"
+      },
+      "primaryTokenInfo": {
+        "address": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+            "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+          ],
+          "website": "https://app.saber.so/pools/afeth"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
+        "name": "Saber afETH-ETH LP",
+        "symbol": "afETH-ETH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "AwVroXX4B2DefX6M85gA8F6Q5VBTPde2t7kzMKoz9p4y",
       "replicaMint": "AoP6pQFvFmD4KuCJqsosvgAjRxn4Vrq6DHosMtBCAEpr",
@@ -1579,6 +3048,26 @@
         "decimals": 9,
         "mint": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh"
       },
+      "primaryTokenInfo": {
+        "address": "ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+            "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          ],
+          "website": "https://app.saber.so/pools/mim_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh/icon.png",
+        "name": "Saber aeMIM-CASH LP",
+        "symbol": "aeMIM-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "CjpAJJw6YrmTubmQMhtvC39bcWkPbomfRn1o1hwYjfss",
       "replicaMint": "DNRn5cdDsgpkY2Wzexh8KZ6vMivoKZHSBdhxpVw9mmpZ",
       "replicaQuarries": [],
@@ -1596,6 +3085,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky"
+      },
+      "primaryTokenInfo": {
+        "address": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+            "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+          ],
+          "website": "https://app.saber.so/pools/mim_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky/icon.png",
+        "name": "Saber aeMIM-UST LP",
+        "symbol": "aeMIM-UST",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "kjswzZghGyCPtfdivs3iEr1cVTjJrMjU512TdPnHiCd",
       "replicaMint": "8XiGaZSsH3srBq1iQVxyTpvhxLmZcFhJnkfWiWsg3qeP",
@@ -1615,6 +3124,26 @@
         "decimals": 9,
         "mint": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq"
       },
+      "primaryTokenInfo": {
+        "address": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+            "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
+          ],
+          "website": "https://app.saber.so/pools/fei_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png",
+        "name": "Saber aeFEI-CASH LP",
+        "symbol": "aeFEI-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
+      },
       "quarry": "EQqa6BGXGTg2c2mHe8AtXeNEobsZsF5u6AnKkrgUpjyr",
       "replicaMint": "GBMVVqW5Nbb3EJieoAHVAciKJLXBRm9YKvNdmoN1Ai9Q",
       "replicaQuarries": [],
@@ -1632,6 +3161,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik"
+      },
+      "primaryTokenInfo": {
+        "address": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+            "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+          ],
+          "website": "https://app.saber.so/pools/fei_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
+        "name": "Saber aeFEI-UST LP",
+        "symbol": "aeFEI-UST",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge"
+        ]
       },
       "quarry": "EiMaivTu5DqfQohX8sYbFDrrumzFaSso9w3Z1sityvpP",
       "replicaMint": "Fv2t6edivimYWSAckDuGcVnA14JKE7J5SLGef55kbWX3",
@@ -1651,6 +3200,25 @@
         "decimals": 9,
         "mint": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw"
       },
+      "primaryTokenInfo": {
+        "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/jsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png",
+        "name": "Saber JSOL-SOL LP",
+        "symbol": "JSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "2hk3Qcp1mDvGNdQuPN3GoFKaLeQ3QaGmfeg4UTtaZey7",
       "replicaMint": "8YvzTjJT5hCSbwwZ46CV6641379k3SoTxYGzA3W1NhvD",
       "replicaQuarries": [],
@@ -1668,6 +3236,26 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD"
+      },
+      "primaryTokenInfo": {
+        "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+          ],
+          "website": "https://app.saber.so/pools/frax_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
+        "name": "Saber FRAX-UST LP",
+        "symbol": "FRAX-UST",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "CSzKyCBEh2yxQYKavrzH9U1uiuNpeUEo691VnHrDVU5v",
       "replicaMint": "GqLcJdCkLgk5AsJ2gBadYpPRNHxoYFWpwb7csJ2ED176",
@@ -1726,6 +3314,26 @@
         "decimals": 8,
         "mint": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n"
       },
+      "primaryTokenInfo": {
+        "address": "WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
+          ],
+          "website": "https://app.saber.so/pools/frax_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n/icon.png",
+        "name": "Saber FRAX-CASH LP",
+        "symbol": "FRAX-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
+      },
       "quarry": "2GaLgYiAejMPbhAYBxkcYDNgZXpEqqfwPKGQqjyWfyBi",
       "replicaMint": "4MUo1YBsfdteCnF3qgxLa8hDrYRm5xSHbdKgipFLkjAA",
       "replicaQuarries": [],
@@ -1743,6 +3351,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z"
+      },
+      "primaryTokenInfo": {
+        "address": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/monkedao"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z/icon.png",
+        "name": "Saber daoSOL-SOL LP",
+        "symbol": "daoSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "6rX9t63n4fWGr5AAJ2hEsuGH47UEee8dthZcJMrmbai2",
       "replicaMint": "Gs9LwDFxqBEfVprYyVCJEUiVsHHaWoTdkLQhAd1xVher",
@@ -1762,6 +3389,27 @@
         "decimals": 9,
         "mint": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz"
       },
+      "primaryTokenInfo": {
+        "address": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+            "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
+          ],
+          "website": "https://app.saber.so/pools/aceur_ageur"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz/icon.png",
+        "name": "Saber acEUR-agEUR LP",
+        "symbol": "acEUR-agEUR",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "DSqhEUtD1kmQAaaCRFae3UUbtPsxVLy7d8o9AYXxjXxe",
       "replicaMint": "8V699qtGAxEfzueZ6nvyWZwjC55X9YMbY1GhCsVWX5n5",
       "replicaQuarries": [],
@@ -1779,6 +3427,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer"
+      },
+      "primaryTokenInfo": {
+        "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+            "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+          ],
+          "website": "https://app.saber.so/pools/bilira"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer/icon.png",
+        "name": "Saber TRYB-TRYB LP",
+        "symbol": "TRYB-TRYB",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "HB4brmTLxoMEEzQx9ADMYtye71nc11yYq3SVXvvDbgu7",
       "replicaMint": "83qZvgk8siGTGbpAypmYRQfB9PEcv1xsu2q7CmXwbb82",
@@ -1798,6 +3466,26 @@
         "decimals": 6,
         "mint": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA"
       },
+      "primaryTokenInfo": {
+        "address": "ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/atust_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPBPdBQf8ibRm3PRCycDC8bdFZQhFgjUwZMtnxA3rAA/icon.png",
+        "name": "Saber atUST-CASH LP",
+        "symbol": "atUST-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
+      },
       "quarry": "HtqCusszJQPYULswQEbQ7F1PQhze3o9AFXxNi72EXgPX",
       "replicaMint": "3jsFx9Qh8x9S3qHXhnt53K4hoFzeBsS29Srj8PRXBR9x",
       "replicaQuarries": [],
@@ -1815,6 +3503,27 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY"
+      },
+      "primaryTokenInfo": {
+        "address": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
+            "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
+          ],
+          "website": "https://app.saber.so/pools/atust_wust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
+        "name": "Saber atLUNA-LUNA LP",
+        "symbol": "atLUNA-LUNA",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-allbridge",
+          "saber-lp-wormhole-v2"
+        ]
       },
       "quarry": "FCvKrbMgjttqUjduhW6U42xyEGxhr7Q9thmexazAobm2",
       "replicaMint": "4ExCFXUC28GrXpCo3W2EpMMbtikyD3Ccjt4UiQdA6cwj",
@@ -1834,6 +3543,26 @@
         "decimals": 6,
         "mint": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP"
       },
+      "primaryTokenInfo": {
+        "address": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
+            "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+          ],
+          "website": "https://app.saber.so/pools/xluna"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP/icon.png",
+        "name": "Saber xLUNA-LUNA LP",
+        "symbol": "xLUNA-LUNA",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-synthetify"
+        ]
+      },
       "quarry": "5XaTK9MV9Ab2BLP5Ug4xUfNxeMNYQqcn2mpVaZ4Mbbhh",
       "replicaMint": "GWAyNPJLaYhKzrLPRS4WDJ9TP82GxE29d8qotvFyYh8L",
       "replicaQuarries": [],
@@ -1851,6 +3580,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ"
+      },
+      "primaryTokenInfo": {
+        "address": "UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/uxd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ/icon.png",
+        "name": "Saber UXD-USDC LP",
+        "symbol": "UXD-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "BMMiE1bNCW61k3rw4Kfzx7er36JMrEsFGr1Bcng9i6Aq",
       "replicaMint": "GQpGLK3X3WrQw5ggEtFPdg4bg7zTbFX58tRfDRPrsF9h",
@@ -1870,6 +3618,26 @@
         "decimals": 8,
         "mint": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg"
       },
+      "primaryTokenInfo": {
+        "address": "WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
+            "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+          ],
+          "website": "https://app.saber.so/pools/sollet_ftt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg/icon.png",
+        "name": "Saber soFTT-FTT LP",
+        "symbol": "soFTT-FTT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "3PkM4UVVw3fuLiwfDb6gEsxiN94EcukxafYTJjqcsMyg",
       "replicaMint": "25yhh2q1mWgMzoP3EJaBGeM28A3hgd5x3j7b1zVNauPZ",
       "replicaQuarries": [],
@@ -1887,6 +3655,25 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau"
+      },
+      "primaryTokenInfo": {
+        "address": "ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/everstake_sol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau/icon.png",
+        "name": "Saber eSOL-SOL LP",
+        "symbol": "eSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "6yqzupus4AdYkghjsGNHxgRLNXW22oisAwCDDGGTWU4s",
       "replicaMint": "Hmv6aWc9RbTAkR4USSz1vk1E3pMw2qNjPaQQ7GVoZiP4",
@@ -1906,6 +3693,26 @@
         "decimals": 6,
         "mint": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW"
       },
+      "primaryTokenInfo": {
+        "address": "UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/uxd_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UXDjCH2xGyyLWa92stSUDftWPKGFFPEvqvk28gQA8bW/icon.png",
+        "name": "Saber UXD-CASH LP",
+        "symbol": "UXD-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
+      },
       "quarry": "Fp3eynmHDXTkCtosY9g7fhhfG3HFsCepyKP2UgaZBFAG",
       "replicaMint": "7PdapGEf3GA433C1sEU2of7fEpyBbwrXoDY9Lf8Abhu4",
       "replicaQuarries": [],
@@ -1923,6 +3730,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
+      },
+      "primaryTokenInfo": {
+        "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/usdh"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
+        "name": "Saber USDH-USDC LP",
+        "symbol": "USDH-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "H6TWopq51MkjYqtCy8xTRJrzm88esDWoNVpL87Akybwn",
       "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
@@ -1962,6 +3788,26 @@
         "decimals": 6,
         "mint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59"
       },
+      "primaryTokenInfo": {
+        "address": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/usdh_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59/icon.png",
+        "name": "Saber USDH-CASH LP",
+        "symbol": "USDH-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
+      },
       "quarry": "EJTo9MTgthEYZE7BSwsgLC5dDocWhka5VpsqhoGSp598",
       "replicaMint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",
       "replicaQuarries": [
@@ -1999,6 +3845,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c"
+      },
+      "primaryTokenInfo": {
+        "address": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "website": "https://app.saber.so/pools/solust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c/icon.png",
+        "name": "Saber solUST-UST LP",
+        "symbol": "solUST-UST",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "CavJJ3MoNvLAVd1vzGTiQk3F8D9gycvV9teyGGWCG6J9",
       "replicaMint": "3ptc6AfFW91wGZ9TYTqj3M2tf99b4g5jLim5WKPqN9Sd",
@@ -2038,6 +3903,26 @@
         "decimals": 6,
         "mint": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1"
       },
+      "primaryTokenInfo": {
+        "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+            "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
+          ],
+          "website": "https://app.saber.so/pools/solend_usdc_usdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1/icon.png",
+        "name": "Saber cUSDC-cUSDT LP",
+        "symbol": "cUSDC-cUSDT",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-solend"
+        ]
+      },
       "quarry": "ByuGnzyRgj73HKmQnLLC61Qgn6EtteeQ7qx9TPHwDYzN",
       "replicaMint": "7dx2iXA49mq4ifhEmXf2etyg68scdiUY7nYDJ6F3Q9to",
       "replicaQuarries": [],
@@ -2055,6 +3940,26 @@
       "primaryToken": {
         "decimals": 9,
         "mint": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa"
+      },
+      "primaryTokenInfo": {
+        "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+            "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
+          ],
+          "website": "https://app.saber.so/pools/solend_sol_msol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa/icon.png",
+        "name": "Saber cSOL-cmSOL LP",
+        "symbol": "cSOL-cmSOL",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-solend"
+        ]
       },
       "quarry": "7Cvc9vEFztaUEY5r27sj8BXUYpNMxRWTLSUwvQi19ug7",
       "replicaMint": "wVBZdENsWn9pYviBmDWdYcHgo46MStpJwFhtmqX1ShC",
@@ -2074,6 +3979,25 @@
         "decimals": 9,
         "mint": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca"
       },
+      "primaryTokenInfo": {
+        "address": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          ],
+          "website": "https://app.saber.so/pools/scn_jsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca/icon.png",
+        "name": "Saber scnSOL-JSOL LP",
+        "symbol": "scnSOL-JSOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "4TL78ccjwJawVbRBLuFwXdziVs3pC5v7S4W4cRHzVm45",
       "replicaMint": "39ywH3ywsZTDLcDh5b8a9WdrW6LYF36rWhCAWQwjGD4Y",
       "replicaQuarries": [],
@@ -2092,6 +4016,25 @@
         "decimals": 9,
         "mint": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9"
       },
+      "primaryTokenInfo": {
+        "address": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+          ],
+          "website": "https://app.saber.so/pools/msol_jsol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9/icon.png",
+        "name": "Saber mSOL-JSOL LP",
+        "symbol": "mSOL-JSOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "22qZzDhBckZxeZ2nojZbPqoZRoTq2NtUwDEv1jZEx2qK",
       "replicaMint": "5Cup6ykdnLtjxRQLw1ZiiPMdA8fD3bvhQEjZqe1VVMrK",
       "replicaQuarries": [],
@@ -2109,6 +4052,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9"
+      },
+      "primaryTokenInfo": {
+        "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+          ],
+          "website": "https://app.saber.so/pools/solust_usdh"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9/icon.png",
+        "name": "Saber solUST-USDH LP",
+        "symbol": "solUST-USDH",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "CEZw8iG7fHou9JV8v3ZqG1Ax2LbQaFYYP7aT8Tu55Xft",
       "replicaMint": "5AfedLnewM7J8jeBrx3QaPydJtspdhLEXZFycGnXQBfq",
@@ -2148,6 +4110,25 @@
         "decimals": 6,
         "mint": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn"
       },
+      "primaryTokenInfo": {
+        "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "website": "https://app.saber.so/pools/nirv_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn/icon.png",
+        "name": "Saber NIRV-UST LP",
+        "symbol": "NIRV-UST",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "8W2qWpq5gSzTbviZRkhVPtPUywvQymKgXHXuwL1ngEM6",
       "replicaMint": "DheeYredxepebxBBfsmyLLmMonevDnpcgZDXX4GWvpkS",
       "replicaQuarries": [],
@@ -2165,6 +4146,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH"
+      },
+      "primaryTokenInfo": {
+        "address": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+          ],
+          "website": "https://app.saber.so/pools/usdh_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH/icon.png",
+        "name": "Saber USDH-UST LP",
+        "symbol": "USDH-UST",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "5sjeN4FjzoenuhTwRuij7LdWaQemRyYaAMMaXazanVs9",
       "replicaMint": "7KrQDyR6BDVkidNvR3jifQ4TnpugRN2kSffp4ZKmiG3f",

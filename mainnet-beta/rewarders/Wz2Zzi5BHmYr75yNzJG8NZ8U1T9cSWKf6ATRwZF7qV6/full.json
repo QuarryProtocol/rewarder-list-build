@@ -75,6 +75,25 @@
         "decimals": 6,
         "mint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
       },
+      "primaryTokenInfo": {
+        "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://app.saber.so/pools/usdh"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
+        "name": "Saber USDH-USDC LP",
+        "symbol": "USDH-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
       "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
       "replicaQuarries": [
@@ -154,6 +173,26 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59"
+      },
+      "primaryTokenInfo": {
+        "address": "HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/usdh_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBMrYrYpxkPbBbULdsvSrcoa6Qv526AGuosrhF8V59/icon.png",
+        "name": "Saber USDH-CASH LP",
+        "symbol": "USDH-CASH",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-cashio"
+        ]
       },
       "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
       "replicaMint": "7JLqibrMkVNk33T3HRv5t5iFcxdxSy6wjon2M8v2GaSQ",

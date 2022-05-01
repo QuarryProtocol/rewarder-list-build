@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ"
     },
+    "primaryTokenInfo": {
+      "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://app.saber.so/pools/usdc_cash"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ/icon.png",
+      "name": "Saber USDC-CASH LP",
+      "symbol": "USDC-CASH",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm",
     "replicaMint": "BhBe4xPuVtfcKzkertpcQF6jzdhbYa7tC6gD5fvgPfQ5",
     "replicaQuarries": [],
@@ -62,6 +81,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ]
+      },
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+      "name": "Saber Protocol Token (IOU)",
+      "symbol": "iouSBR",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "saber"
   },

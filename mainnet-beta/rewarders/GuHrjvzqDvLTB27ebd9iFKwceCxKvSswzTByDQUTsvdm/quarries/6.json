@@ -8,6 +8,22 @@
       "decimals": 6,
       "mint": "FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv"
     },
+    "primaryTokenInfo": {
+      "address": "FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://port.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv/SBR.svg",
+      "name": "Port Finance Saber",
+      "symbol": "pSBR",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ]
+    },
     "quarry": "CmBMuQj1xL5k4wmR3ERP1xVi3jt4N6RRCps7MMZdQr8a",
     "replicaMint": "RXZM55FUxETVibcZNpyWosCa4Nu8Kfi1Jk1gJbBtntp",
     "replicaQuarries": [],
@@ -59,6 +75,32 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
+    },
+    "rewardsTokenInfo": {
+      "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "port-finance",
+        "discord": "https://discord.gg/nAMXAYhTb2",
+        "github": "https://github.com/port-finance/",
+        "medium": "https://medium.com/port-finance",
+        "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+        "source": "quarry-iou",
+        "telegram": "https://t.me/port_finance",
+        "twitter": "https://twitter.com/port_finance",
+        "underlyingTokens": [
+          "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+        ],
+        "waterfallbot": "https://bit.ly/PORTwaterfall",
+        "website": "https://port.finance/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+      "name": "Port Finance Token (IOU)",
+      "symbol": "iouPORT",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "port"
   },

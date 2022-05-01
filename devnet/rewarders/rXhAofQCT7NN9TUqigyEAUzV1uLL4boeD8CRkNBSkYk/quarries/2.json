@@ -8,6 +8,25 @@
       "decimals": 8,
       "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
     },
+    "primaryTokenInfo": {
+      "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+      "chainId": 103,
+      "decimals": 8,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+          "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+        ],
+        "website": "https://app.saber.so/pools/btc"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+      "name": "Saber renBTC-WBTC LP",
+      "symbol": "renBTC-WBTC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi",
     "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
     "replicaQuarries": [
@@ -91,6 +110,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ]
+      },
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+      "name": "Saber Protocol Token (IOU)",
+      "symbol": "iouSBR",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "saber"
   },

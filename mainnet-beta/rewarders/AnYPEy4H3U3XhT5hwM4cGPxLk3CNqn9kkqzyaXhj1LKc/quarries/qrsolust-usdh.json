@@ -35,6 +35,25 @@
       "decimals": 6,
       "mint": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9"
     },
+    "primaryTokenInfo": {
+      "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "website": "https://app.saber.so/pools/solust_usdh"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9/icon.png",
+      "name": "Saber solUST-USDH LP",
+      "symbol": "solUST-USDH",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "AiAca6swabjKjApzWvsLRidfKXNdYPh5mYU6NpHPKRud",
     "replicaMint": "5AfedLnewM7J8jeBrx3QaPydJtspdhLEXZFycGnXQBfq",
     "replicaQuarries": [
@@ -82,6 +101,17 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+    },
+    "rewardsTokenInfo": {
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://soluna.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA"
     },
     "slug": "soluna"
   },

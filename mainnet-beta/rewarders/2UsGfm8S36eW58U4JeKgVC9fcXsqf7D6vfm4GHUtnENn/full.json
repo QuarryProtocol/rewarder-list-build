@@ -74,6 +74,26 @@
         "decimals": 8,
         "mint": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD"
       },
+      "primaryTokenInfo": {
+        "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+            "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
+          ],
+          "website": "https://app.saber.so/pools/frax_ust"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
+        "name": "Saber FRAX-UST LP",
+        "symbol": "FRAX-UST",
+        "tags": [
+          "saber-stableswap-lp",
+          "saber-lp-wormhole-v2"
+        ]
+      },
       "quarry": "FseutSLJkpaopLEvEqMzanAJh6zGNiDzDi5HX4ToHAeE",
       "replicaMint": "GqLcJdCkLgk5AsJ2gBadYpPRNHxoYFWpwb7csJ2ED176",
       "replicaQuarries": [

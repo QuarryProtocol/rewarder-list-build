@@ -35,6 +35,27 @@
       "decimals": 2,
       "mint": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD"
     },
+    "primaryTokenInfo": {
+      "address": "Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD",
+      "chainId": 101,
+      "decimals": 2,
+      "extensions": {
+        "description": "Saros LP token between Pole Aggregator Governance and Cashio Dollar",
+        "pool": "HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx",
+        "source": "saros",
+        "token0Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "twitter": "https://twitter.com/saros_finance",
+        "underlyingTokens": [
+          "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://saros.finance/pool/HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx"
+      },
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD/icon.png",
+      "name": "Saros POLE-CASH Saros LP",
+      "symbol": "POLE-CASH"
+    },
     "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
     "replicaMint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK",
     "replicaQuarries": [
@@ -116,6 +137,29 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+    },
+    "rewardsTokenInfo": {
+      "address": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.gg/RASngHfHhS",
+        "github": "https://github.com/pole-finance",
+        "medium": "https://medium.com/pole-aggregator",
+        "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/Pole_Finance",
+        "underlyingTokens": [
+          "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+        ],
+        "website": "https://pole.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+      "name": "Pole Aggregator Governance Token (IOU)",
+      "symbol": "iouPOLE",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "pole"
   },

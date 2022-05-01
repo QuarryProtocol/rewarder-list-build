@@ -8,6 +8,27 @@
       "decimals": 2,
       "mint": "EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj"
     },
+    "primaryTokenInfo": {
+      "address": "EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj",
+      "chainId": 101,
+      "decimals": 2,
+      "extensions": {
+        "description": "Saros LP token between Parrot Finance and Cashio Dollar",
+        "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7",
+        "source": "saros",
+        "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "twitter": "https://twitter.com/saros_finance",
+        "underlyingTokens": [
+          "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "website": "https://saros.finance/pool/DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7"
+      },
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj/icon.png",
+      "name": "Saros PRT-CASH Saros LP",
+      "symbol": "PRT-CASH"
+    },
     "quarry": "AAqRP5aC1CYqH9bfPVTjLxSLj72NY75bWch3LLfQJHTm",
     "replicaMint": "14hFsyNUhdkHq6AUB8XpaTHKww4i8tZ7JktFR3m7sU7e",
     "replicaQuarries": [],
@@ -34,6 +55,23 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+    },
+    "rewardsTokenInfo": {
+      "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp",
+        "twitter": "https://twitter.com/CashioApp",
+        "website": "https://cashio.app"
+      },
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+      "name": "Cash Cow",
+      "symbol": "COW",
+      "tags": [
+        "governance-token"
+      ]
     },
     "slug": "cash-cow"
   },

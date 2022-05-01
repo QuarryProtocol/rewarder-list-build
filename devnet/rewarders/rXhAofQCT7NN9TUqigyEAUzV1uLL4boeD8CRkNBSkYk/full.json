@@ -50,6 +50,25 @@
         "decimals": 6,
         "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
       },
+      "primaryTokenInfo": {
+        "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+            "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+          ],
+          "website": "https://app.saber.so/pools/usdc_usdt"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+        "name": "Saber USDC-USDT LP",
+        "symbol": "USDC-USDT",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "8QfbpS8fBNcqee9qHjYG5pgBWTKyM193E7zjwzxeUZ3X",
       "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
       "replicaQuarries": [
@@ -85,6 +104,25 @@
         "decimals": 6,
         "mint": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J"
       },
+      "primaryTokenInfo": {
+        "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+            "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+          ],
+          "website": "https://app.saber.so/pools/usdc_pai"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J/icon.png",
+        "name": "Saber USDC-PAI LP",
+        "symbol": "USDC-PAI",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "Cae9hW42nD1G89LCheaSczN6CzngYYWQ6KbZMQXhMwyq",
       "replicaMint": "DAvvWrBic2wtK4UMkNrpdQXWLBCH8dmW3ck4KDGhNTUH",
       "replicaQuarries": [],
@@ -102,6 +140,25 @@
       "primaryToken": {
         "decimals": 8,
         "mint": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm"
+      },
+      "primaryTokenInfo": {
+        "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+        "chainId": 103,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+            "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+          ],
+          "website": "https://app.saber.so/pools/btc"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+        "name": "Saber renBTC-WBTC LP",
+        "symbol": "renBTC-WBTC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "CeE8rNxCFx2RAgpS7trsmcTz7ydyun33wbNY7r2nEvPi",
       "replicaMint": "7EFEZtfpjycSSfUVpYTXjyA11sCuUYmsEW5crF3CYLzT",
@@ -150,6 +207,25 @@
         "decimals": 6,
         "mint": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo"
       },
+      "primaryTokenInfo": {
+        "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+            "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+          ],
+          "website": "https://app.saber.so/pools/usdc_test"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo/icon.png",
+        "name": "Saber TEST-USDC LP",
+        "symbol": "TEST-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "5cX41FTaqRwdMBh1eenEKsQ1J1GwxA7sirnKsmP4i5mz",
       "replicaMint": "GvPG4eKYHRu9f94EqDwPNQPm3MzFW7v9XzM9A6JYmFrp",
       "replicaQuarries": [],
@@ -168,6 +244,25 @@
         "decimals": 6,
         "mint": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ"
       },
+      "primaryTokenInfo": {
+        "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/usdc_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ/icon.png",
+        "name": "Saber USDC-CASH LP",
+        "symbol": "USDC-CASH",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
       "quarry": "2xs4gZpawFvgUojWrqWPyFERRtu7F569VvRLeFS29jpm",
       "replicaMint": "BhBe4xPuVtfcKzkertpcQF6jzdhbYa7tC6gD5fvgPfQ5",
       "replicaQuarries": [],
@@ -185,6 +280,25 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4"
+      },
+      "primaryTokenInfo": {
+        "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+        "chainId": 103,
+        "decimals": 6,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+            "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+          ],
+          "website": "https://app.saber.so/pools/usdt_cash"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+        "name": "Saber USDT-CASH LP",
+        "symbol": "USDT-CASH",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
       },
       "quarry": "HTRAA85HHxsRmozFiZYv2AwQWjqHo1XnPWsc76zPbiFE",
       "replicaMint": "2sRz3tFukh12c1WdtDNWaNW5VmSvgQGxzwkn4iELenTc",

@@ -8,6 +8,24 @@
       "decimals": 6,
       "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     },
+    "primaryTokenInfo": {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    },
     "quarry": "BhBYD5zxXobckBGjAv1mFZ8qTSwBKAdJYEVptUu8ppdU",
     "replicaMint": "2E38eAnDnuiAr6zKMjQhZfEUYgiqWmsFYrMYcrSxoDWN",
     "replicaQuarries": [],
@@ -23,6 +41,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o"
+    },
+    "rewardsTokenInfo": {
+      "address": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token 9812",
+      "symbol": "9812J"
     },
     "slug": "4NCKdvCfgow7dxVvWcSCj9u22FL9rbgwNiRjQXzfpcDr"
   },

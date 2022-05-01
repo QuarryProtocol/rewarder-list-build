@@ -8,6 +8,25 @@
       "decimals": 4,
       "mint": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj"
     },
+    "primaryTokenInfo": {
+      "address": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj",
+      "chainId": 101,
+      "decimals": 4,
+      "extensions": {
+        "coingeckoId": "spacefalcon",
+        "telegram": "https://t.me/spacefalconIO",
+        "twitter": "https://twitter.com/SpaceFalconIO",
+        "website": "https://spacefalcon.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/spacefalcon-io/crypto/main/logo.svg",
+      "name": "Space Falcon",
+      "symbol": "FCON",
+      "tags": [
+        "game-token",
+        "utility-token",
+        "trading-token"
+      ]
+    },
     "quarry": "H6WaKqi3BftxYvUovFxznQWm2qqZHjBUbXDbMW41DzJq",
     "replicaMint": "AqC97RiCgPMkyXSbpaJsmHK7bH26E8XgGJAB1SyPaKMa",
     "replicaQuarries": [],
@@ -59,6 +78,30 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"
+    },
+    "rewardsTokenInfo": {
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "sentre",
+        "discord": "https://discord.gg/FyHJgQ7W",
+        "medium": "https://sentre.medium.com",
+        "source": "quarry-iou",
+        "telegram": "https://t.me/Sentre",
+        "twitter": "https://twitter.com/SentreProtocol",
+        "underlyingTokens": [
+          "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+        ],
+        "website": "https://sentre.io"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+      "name": "Sentre (IOU)",
+      "symbol": "iouSNTR",
+      "tags": [
+        "utility-token",
+        "quarry-iou"
+      ]
     },
     "slug": "sentre"
   },

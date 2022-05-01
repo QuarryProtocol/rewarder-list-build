@@ -8,6 +8,25 @@
       "decimals": 2,
       "mint": "8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU"
     },
+    "primaryTokenInfo": {
+      "address": "8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU",
+      "chainId": 101,
+      "decimals": 2,
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/8WTN3gDKgk2xfYoBZFjyBhek9DaMkqVMeSU8EcfUhHNU"
+      },
+      "logoURI": "https://testlaunchmynft.mypinata.cloud/ipfs/QmRHkP5XEJphdcSkqEsE8qEWB2tVBsUYxyhKZakcbQLzhK/54.png",
+      "name": "Degen MFer Floor Index",
+      "symbol": "DGENMF",
+      "tags": [
+        "bridgesplit-fraction",
+        "degen-mfers",
+        "fraction-index",
+        "fnft"
+      ]
+    },
     "quarry": "9kUGRYvG82465xjZNjCr1upGgZvUH3wT59wneu6JXek3",
     "replicaMint": "AXXXkpLseucwwDDVN9ddnExdFEF3srt2oGDbKB2ubha8",
     "replicaQuarries": [],
@@ -23,6 +42,13 @@
     "rewardsToken": {
       "decimals": 2,
       "mint": "6wpxj44p5RYxpSU5y6CZWG18b94SFXz4fsfxdpUoN5MP"
+    },
+    "rewardsTokenInfo": {
+      "address": "6wpxj44p5RYxpSU5y6CZWG18b94SFXz4fsfxdpUoN5MP",
+      "chainId": 101,
+      "decimals": 2,
+      "name": "Token 6wpx",
+      "symbol": "6wpxj"
     },
     "slug": "F2pTvKh2KHMdAx3Z1rvEfgYWMWhTezdQpf6fAnuoEL8f"
   },

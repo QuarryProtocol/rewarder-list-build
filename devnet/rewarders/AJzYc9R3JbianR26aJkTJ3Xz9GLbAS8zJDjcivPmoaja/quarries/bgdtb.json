@@ -8,6 +8,13 @@
       "decimals": 6,
       "mint": "BGDtBjkqrGngnN7b2yK67wUMZjUr5Zk64xocS5Jrb4fa"
     },
+    "primaryTokenInfo": {
+      "address": "BGDtBjkqrGngnN7b2yK67wUMZjUr5Zk64xocS5Jrb4fa",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token BGDt",
+      "symbol": "BGDtB"
+    },
     "quarry": "DE7emYNnM7FMXnUotg3aJZrSUYqrxQ3WzU1VkeptuqhQ",
     "replicaMint": "J1DawG91UGdTbeu8AzwNk5Upi6Eu4yiaPRCtchDCT1A1",
     "replicaQuarries": [],
@@ -47,6 +54,22 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ"
+    },
+    "rewardsTokenInfo": {
+      "address": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+        ]
+      },
+      "name": "Token swim (IOU)",
+      "symbol": "iouswimn",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "swim"
   },

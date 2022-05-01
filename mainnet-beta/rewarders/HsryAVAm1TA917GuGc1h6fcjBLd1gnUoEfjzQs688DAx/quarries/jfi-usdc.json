@@ -8,6 +8,24 @@
       "decimals": 9,
       "mint": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4"
     },
+    "primaryTokenInfo": {
+      "address": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "description": "The Jungle Finance Raydium LP token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4/logo.png",
+      "name": "Jungle DeFi Raydium LP Token",
+      "symbol": "JFI-USDC",
+      "tags": [
+        "lp-token"
+      ]
+    },
     "quarry": "Acrvt5xP8KNAKgBdgzSNgj6c48yjc556yHhka4Nfcxhh",
     "replicaMint": "GqHHg3ZAYrmch5BwBjrXSSVJHUm215Bo7tohAsoKhq3x",
     "replicaQuarries": [],
@@ -58,6 +76,29 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4"
+    },
+    "rewardsTokenInfo": {
+      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "description": "The Jungle Finance governance token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "underlyingTokens": [
+          "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+        ],
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "name": "Jungle DeFi (IOU)",
+      "symbol": "iouJFI",
+      "tags": [
+        "governance-token",
+        "quarry-iou"
+      ]
     },
     "slug": "Jungle"
   },

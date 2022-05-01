@@ -8,6 +8,20 @@
       "decimals": 6,
       "mint": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K"
     },
+    "primaryTokenInfo": {
+      "address": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "mercurial",
+        "serumV3Usdc": "G4LcexdCzzJUKZfqyVDQFzpkjhB1JoCNL8Kooxi9nJz5",
+        "waterfallbot": "https://bit.ly/MERwaterfall",
+        "website": "https://www.mercurial.finance/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K/logo.png",
+      "name": "Mercurial",
+      "symbol": "MER"
+    },
     "quarry": "HCz37H8xoXim4zQmtSfjy1qGG5327RGL1NPU5c6ruEKj",
     "replicaMint": "MmRjaVAFkVEJrdVwQ2LmSRk7EyFYnAnu5Qg3ebpZZKP",
     "replicaQuarries": [],
@@ -23,6 +37,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o"
+    },
+    "rewardsTokenInfo": {
+      "address": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token 9812",
+      "symbol": "9812J"
     },
     "slug": "4NCKdvCfgow7dxVvWcSCj9u22FL9rbgwNiRjQXzfpcDr"
   },

@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE"
     },
+    "primaryTokenInfo": {
+      "address": "3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "website": "https://app.sunny.ag"
+      },
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE/icon.png",
+      "name": "Sunny Saber USDT-USDC LP",
+      "symbol": "sun-USDT-USDC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "6DhdurC2bJH22jxfhtFK43XLSy7tGpx4ZmmVAS6q5dBV",
     "replicaMint": "49cLZmKCeq5hSpn8hYw3DkZwNBGukLdhC5enHXoiGyf2",
     "replicaQuarries": [],
@@ -23,6 +42,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "affHFjSgvsqLYkqBseKwEt2qwhmtj7f36mWFGVmefYD"
+    },
+    "rewardsTokenInfo": {
+      "address": "affHFjSgvsqLYkqBseKwEt2qwhmtj7f36mWFGVmefYD",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token affH",
+      "symbol": "affHF"
     },
     "slug": "8Rd6oUFAUeQtQ7nsRTmXNvR3taZKxPgth261AGHZytK4"
   },

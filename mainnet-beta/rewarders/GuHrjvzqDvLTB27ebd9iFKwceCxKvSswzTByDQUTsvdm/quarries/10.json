@@ -8,6 +8,26 @@
       "decimals": 9,
       "mint": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA"
     },
+    "primaryTokenInfo": {
+      "address": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "currency": "SOL",
+        "source": "port",
+        "sourceUrl": "https://mainnet.port.finance/#/markets",
+        "website": "https://port.finance"
+      },
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
+      "name": "Port Finance mSOL",
+      "symbol": "pmSOL",
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ]
+    },
     "quarry": "EuaCwHPRj38f9kkwiM8AVFShDQX9rjcwbP2cRdB2nTAK",
     "replicaMint": "6jnB8pX1hGLwA29sdNB4MmrKJgYorUzdDpSPDYtaLbza",
     "replicaQuarries": [],
@@ -59,6 +79,32 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH"
+    },
+    "rewardsTokenInfo": {
+      "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "port-finance",
+        "discord": "https://discord.gg/nAMXAYhTb2",
+        "github": "https://github.com/port-finance/",
+        "medium": "https://medium.com/port-finance",
+        "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+        "source": "quarry-iou",
+        "telegram": "https://t.me/port_finance",
+        "twitter": "https://twitter.com/port_finance",
+        "underlyingTokens": [
+          "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+        ],
+        "waterfallbot": "https://bit.ly/PORTwaterfall",
+        "website": "https://port.finance/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+      "name": "Port Finance Token (IOU)",
+      "symbol": "iouPORT",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "port"
   },

@@ -8,6 +8,24 @@
       "decimals": 9,
       "mint": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
     },
+    "primaryTokenInfo": {
+      "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "description": "The Jungle Finance governance token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "name": "Jungle DeFi",
+      "symbol": "JFI",
+      "tags": [
+        "governance-token"
+      ]
+    },
     "quarry": "9SQZgBb7wecpAyxmX3T49cD2yXXmn72x2TL2BDVYBqB",
     "replicaMint": "FVL6w9rMHyH7PaPujpXoo4tGjaKNK2UB4ducL2GLcao3",
     "replicaQuarries": [],
@@ -58,6 +76,29 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4"
+    },
+    "rewardsTokenInfo": {
+      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "description": "The Jungle Finance governance token.",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "medium": "https://medium.com/@JungleDeFi",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "underlyingTokens": [
+          "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+        ],
+        "website": "https://jungledefi.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "name": "Jungle DeFi (IOU)",
+      "symbol": "iouJFI",
+      "tags": [
+        "governance-token",
+        "quarry-iou"
+      ]
     },
     "slug": "Jungle"
   },

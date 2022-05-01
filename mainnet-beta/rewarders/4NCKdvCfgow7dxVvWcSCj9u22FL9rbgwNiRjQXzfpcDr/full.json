@@ -11,6 +11,24 @@
         "decimals": 6,
         "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
       },
+      "primaryTokenInfo": {
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "usd-coin",
+          "currency": "USD",
+          "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+          "website": "https://www.centre.io/"
+        },
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "tags": [
+          "stablecoin",
+          "saber-mkt-usd"
+        ]
+      },
       "quarry": "BhBYD5zxXobckBGjAv1mFZ8qTSwBKAdJYEVptUu8ppdU",
       "replicaMint": "2E38eAnDnuiAr6zKMjQhZfEUYgiqWmsFYrMYcrSxoDWN",
       "replicaQuarries": [],
@@ -28,6 +46,20 @@
       "primaryToken": {
         "decimals": 6,
         "mint": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K"
+      },
+      "primaryTokenInfo": {
+        "address": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "mercurial",
+          "serumV3Usdc": "G4LcexdCzzJUKZfqyVDQFzpkjhB1JoCNL8Kooxi9nJz5",
+          "waterfallbot": "https://bit.ly/MERwaterfall",
+          "website": "https://www.mercurial.finance/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K/logo.png",
+        "name": "Mercurial",
+        "symbol": "MER"
       },
       "quarry": "HCz37H8xoXim4zQmtSfjy1qGG5327RGL1NPU5c6ruEKj",
       "replicaMint": "MmRjaVAFkVEJrdVwQ2LmSRk7EyFYnAnu5Qg3ebpZZKP",

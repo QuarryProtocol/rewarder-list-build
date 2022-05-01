@@ -8,6 +8,13 @@
       "decimals": 9,
       "mint": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc"
     },
+    "primaryTokenInfo": {
+      "address": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token Y84T",
+      "symbol": "Y84TD"
+    },
     "quarry": "En7M6um6nPhUyko6cAtW9B6pHuLbHmieTPeN3BC2FNSs",
     "replicaMint": "Hu6KM33m6mFKvKek7BCf4FeWBgVPEaMV4tgYuqCPsG3T",
     "replicaQuarries": [],
@@ -59,6 +66,30 @@
     "rewardsToken": {
       "decimals": 9,
       "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"
+    },
+    "rewardsTokenInfo": {
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "sentre",
+        "discord": "https://discord.gg/FyHJgQ7W",
+        "medium": "https://sentre.medium.com",
+        "source": "quarry-iou",
+        "telegram": "https://t.me/Sentre",
+        "twitter": "https://twitter.com/SentreProtocol",
+        "underlyingTokens": [
+          "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+        ],
+        "website": "https://sentre.io"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+      "name": "Sentre (IOU)",
+      "symbol": "iouSNTR",
+      "tags": [
+        "utility-token",
+        "quarry-iou"
+      ]
     },
     "slug": "sentre"
   },

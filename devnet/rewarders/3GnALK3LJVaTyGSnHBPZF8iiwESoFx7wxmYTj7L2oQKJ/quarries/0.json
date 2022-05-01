@@ -8,6 +8,25 @@
       "decimals": 6,
       "mint": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57"
     },
+    "primaryTokenInfo": {
+      "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+        ],
+        "website": "https://app.saber.so/pools/usdc_usdt"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+      "name": "Saber USDC-USDT LP",
+      "symbol": "USDC-USDT",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "HXwXQVCt2a1G64Am6CzbFFUvYS8UABc8tFdsVdXM8K8u",
     "replicaMint": "3Dbc5bh4ULBBBTJ8c6HEBuPWd7qCB2WVjxZRwXqeANxy",
     "replicaQuarries": [
@@ -40,6 +59,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "4bGoDDXdMHZUQ7fi3mhhZ9iUseU2Sd8HoEyY1QHbMisX"
+    },
+    "rewardsTokenInfo": {
+      "address": "4bGoDDXdMHZUQ7fi3mhhZ9iUseU2Sd8HoEyY1QHbMisX",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 4bGo",
+      "symbol": "4bGoD"
     },
     "slug": "3GnALK3LJVaTyGSnHBPZF8iiwESoFx7wxmYTj7L2oQKJ"
   },

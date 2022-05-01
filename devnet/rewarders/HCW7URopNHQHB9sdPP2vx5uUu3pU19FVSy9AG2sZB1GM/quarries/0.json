@@ -8,6 +8,13 @@
       "decimals": 6,
       "mint": "4gwmuQz6wgTciS6Wnj8yL2WETkM4rBi5XEAC5NBmBBAZ"
     },
+    "primaryTokenInfo": {
+      "address": "4gwmuQz6wgTciS6Wnj8yL2WETkM4rBi5XEAC5NBmBBAZ",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 4gwm",
+      "symbol": "4gwmu"
+    },
     "quarry": "JQqX9aHuVB7aR4GAsMDWxvQ7ddYmp4uEfXfhdYvP7xm",
     "replicaMint": "7juMuKvzt2qiZicVREwTrCuiSQGspLYYHRQqBBggnSxD",
     "replicaQuarries": [],
@@ -47,6 +54,22 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG"
+    },
+    "rewardsTokenInfo": {
+      "address": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3"
+        ]
+      },
+      "name": "Token G2Ft (IOU)",
+      "symbol": "iouG2Ftt",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     "slug": "swim-devnet"
   },

@@ -8,6 +8,13 @@
       "decimals": 6,
       "mint": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9"
     },
+    "primaryTokenInfo": {
+      "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token CGcz",
+      "symbol": "CGczF"
+    },
     "quarry": "87rkhCSK8AzJCe7SbEaah7nCA1i62mkv1Q656xFmQwKe",
     "replicaMint": "BKquiZw4J9Lkq5EXZZkwLcCrLsp9VFQCCnnrGgRDWxq1",
     "replicaQuarries": [],
@@ -34,6 +41,17 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+    },
+    "rewardsTokenInfo": {
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://soluna.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA"
     },
     "slug": "soluna"
   },

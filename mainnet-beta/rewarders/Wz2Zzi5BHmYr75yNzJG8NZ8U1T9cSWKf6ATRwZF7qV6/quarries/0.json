@@ -35,6 +35,25 @@
       "decimals": 6,
       "mint": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
     },
+    "primaryTokenInfo": {
+      "address": "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "website": "https://app.saber.so/pools/usdh"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
+      "name": "Saber USDH-USDC LP",
+      "symbol": "USDH-USDC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
     "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
     "replicaMint": "HMabvRw6X5cNDPKMfXAHsLFYEmXSrhp5DHNqKhZAobi7",
     "replicaQuarries": [
@@ -122,6 +141,31 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx"
+    },
+    "rewardsTokenInfo": {
+      "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "hubble",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/",
+        "discord": "https://discord.gg/d44A8WvK",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/hubbleprotocol",
+        "underlyingTokens": [
+          "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
+        ],
+        "website": "https://hubbleprotocol.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
+      "name": "Hubble Protocol Token (IOU)",
+      "symbol": "iouHBB",
+      "tags": [
+        "stake-pool-token",
+        "utility-token",
+        "community-token",
+        "quarry-iou"
+      ]
     },
     "slug": "saber-hubb"
   },

@@ -8,6 +8,23 @@
       "decimals": 6,
       "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
     },
+    "primaryTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ]
+      },
+      "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+      "name": "Saber Protocol Token (IOU)",
+      "symbol": "iouSBR",
+      "tags": [
+        "quarry-iou"
+      ]
+    },
     "quarry": "45SaU2M7EBbEJJdpzu6znNUiMFJLHdvvV3nKRYM6zQaa",
     "replicaMint": "6hBD1TRByc976mwsVhP5VadAaze1uRGtby28T4go5ZbQ",
     "replicaQuarries": [],
@@ -23,6 +40,13 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q"
+    },
+    "rewardsTokenInfo": {
+      "address": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 2WPG",
+      "symbol": "2WPGe"
     },
     "slug": "F3sTwDYAB54FYTR5GdGDxD7J5G4vdQs4W6QBkpKfqLr7"
   },
