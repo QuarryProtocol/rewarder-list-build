@@ -255,11 +255,17 @@
         "decimals": 6,
         "mint": "Ev5DB4Bui2ZqxoztWSFQotiQ9YF8izygtop2JM2G9vCh"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "Ev5DB4Bui2ZqxoztWSFQotiQ9YF8izygtop2JM2G9vCh",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "Token Ev5D",
+        "symbol": "Ev5DB"
+      },
       "quarry": "MbV8h1tmfPdMkNAKMn6wH13hYYwXZyeLARkictUkdv8",
       "replicaMint": "5SmbeMXdTMVCzo4SNB9Dzko4gmy9RvDWmjW8nYq2sbo",
       "replicaQuarries": [],
-      "slug": "4",
+      "slug": "ev5db",
       "stakedToken": {
         "decimals": 6,
         "mint": "Ev5DB4Bui2ZqxoztWSFQotiQ9YF8izygtop2JM2G9vCh"
