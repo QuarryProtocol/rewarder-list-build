@@ -1,0 +1,65 @@
+{
+  "quarry": {
+    "index": 4,
+    "isReplica": false,
+    "mergePool": "34g3uY3VarUo2mNaviVhqHCcVAeG3oqpCS1LipDxkSca",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "Ev5DB4Bui2ZqxoztWSFQotiQ9YF8izygtop2JM2G9vCh"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "MbV8h1tmfPdMkNAKMn6wH13hYYwXZyeLARkictUkdv8",
+    "replicaMint": "5SmbeMXdTMVCzo4SNB9Dzko4gmy9RvDWmjW8nYq2sbo",
+    "replicaQuarries": [],
+    "slug": "4",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "Ev5DB4Bui2ZqxoztWSFQotiQ9YF8izygtop2JM2G9vCh"
+    }
+  },
+  "rewarder": {
+    "authority": "H4VXFyfeUDahSokaE9mjGUaP6UDREqyXcjiHWmfq9yQs",
+    "info": {
+      "address": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
+      "color": "#FEAB53",
+      "description": "The gateway to Anchor interest bearing assets on Solana.",
+      "id": "soluna",
+      "name": "Soluna",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://soluna.money"
+    },
+    "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35"
+    },
+    "rewardsTokenInfo": {
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://soluna.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA"
+    },
+    "slug": "soluna"
+  },
+  "rewardsToken": {
+    "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "website": "https://soluna.money/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+    "name": "Soluna Governance Token",
+    "symbol": "SLNA"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
