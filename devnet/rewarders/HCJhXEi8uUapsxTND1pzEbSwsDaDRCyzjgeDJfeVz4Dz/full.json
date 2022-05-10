@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "7f2X9jQ9ZemkLq8S6bahAfh9shvMjacaTR1twFZRLE8h"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "7f2X9jQ9ZemkLq8S6bahAfh9shvMjacaTR1twFZRLE8h",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token 7f2X",
+        "symbol": "7f2X9"
+      },
       "quarry": "FtfVgC3WWZaP5vZNiSAw87C4FDVsN9SSmknoXjXnAEQn",
       "replicaMint": "9qh1MV6KoYgnM7Z45DLaQNNDQ2u7aP2SUexX4gmWyBxR",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "7f2x9",
       "stakedToken": {
         "decimals": 6,
         "mint": "7f2X9jQ9ZemkLq8S6bahAfh9shvMjacaTR1twFZRLE8h"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GKvnEFeMUKeoChsH79p37tcyENfvuDDqYzRJMx3R7icA"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "GKvnEFeMUKeoChsH79p37tcyENfvuDDqYzRJMx3R7icA",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token GKvn",
+    "symbol": "GKvnE"
+  },
   "slug": "HCJhXEi8uUapsxTND1pzEbSwsDaDRCyzjgeDJfeVz4Dz"
 }

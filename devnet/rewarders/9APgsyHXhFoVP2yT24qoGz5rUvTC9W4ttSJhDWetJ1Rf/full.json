@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token 26xk",
+        "symbol": "26xkC"
+      },
       "quarry": "EES6xQULrzqQDSvc1reL1RMLzjY85hP4QMfbAGNTRQDJ",
       "replicaMint": "2DVZ7fjR7o98L3TV55Zo85HFvMzgEiGw1WXZP89JDa2R",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "26xkc",
       "stakedToken": {
         "decimals": 6,
         "mint": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "CnzELVRZT64aP7XVoDe3ortzCWfGQZUVZr3RA9wAutg6"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "CnzELVRZT64aP7XVoDe3ortzCWfGQZUVZr3RA9wAutg6",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token CnzE",
+    "symbol": "CnzEL"
+  },
   "slug": "9APgsyHXhFoVP2yT24qoGz5rUvTC9W4ttSJhDWetJ1Rf"
 }

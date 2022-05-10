@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token 26xk",
+        "symbol": "26xkC"
+      },
       "quarry": "GUXmLsb43QN2GWJ9SwxEiLdcjzbLfiGHv6pm1orzezBJ",
       "replicaMint": "2DVZ7fjR7o98L3TV55Zo85HFvMzgEiGw1WXZP89JDa2R",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "26xkc",
       "stakedToken": {
         "decimals": 6,
         "mint": "26xkCeHb5yxpvbsbsaHbUrh5r2NddyN12Z5KX1NfMXkU"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "DN7nTsjUYfy9iGtgi5T5NkSPoQNq9XoGEkpFsd3WU1By"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "DN7nTsjUYfy9iGtgi5T5NkSPoQNq9XoGEkpFsd3WU1By",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token DN7n",
+    "symbol": "DN7nT"
+  },
   "slug": "8RBNCRneGScBEDLhnqgcikTfakDUG6nFnEcXuNBfnsuo"
 }
