@@ -1,9 +1,35 @@
 {
   "authority": "EnHBYsRckMqtAkpfXhhRTpCo3XF5CFgywXyktqMYoJcV",
   "mintWrapper": "FJoKSdAiCqEEoHjfJ9GsXGabuF5yWtSBebx25vbmLBH9",
-  "quarries": [],
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1652166700",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "100000000000000",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "BPdagWPkvJNAFuaiRRComKoPcDtUBm3qgGuLsCdqEZe2",
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "8n7p8Ko42fbnmRa8kS6ZD3BuGEpjKKoSvM5pcq2covWj"
+      }
+    }
+  ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV"
+  },
+  "rewardsTokenInfo": {
+    "address": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EcHC",
+    "symbol": "EcHCh"
   }
 }

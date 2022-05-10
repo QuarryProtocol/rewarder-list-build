@@ -1,0 +1,46 @@
+{
+  "quarry": {
+    "index": 0,
+    "isReplica": false,
+    "mergePool": "CHfZe91Bed7ACQWZR88cKc8D52Vta6LrKBgc2Z1CibA5",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "8n7p8Ko42fbnmRa8kS6ZD3BuGEpjKKoSvM5pcq2covWj"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "BPdagWPkvJNAFuaiRRComKoPcDtUBm3qgGuLsCdqEZe2",
+    "replicaMint": "BW7i2vQ1d2dHJbZkr7taVXKkXpyetgFmx5LtpZu9jYxn",
+    "replicaQuarries": [],
+    "slug": "0",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "8n7p8Ko42fbnmRa8kS6ZD3BuGEpjKKoSvM5pcq2covWj"
+    }
+  },
+  "rewarder": {
+    "authority": "EnHBYsRckMqtAkpfXhhRTpCo3XF5CFgywXyktqMYoJcV",
+    "mintWrapper": "FJoKSdAiCqEEoHjfJ9GsXGabuF5yWtSBebx25vbmLBH9",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV"
+    },
+    "rewardsTokenInfo": {
+      "address": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token EcHC",
+      "symbol": "EcHCh"
+    },
+    "slug": "BCBHG2i9fZUk3LueGgCQj1Ucbz2ed76QmgCZaH56MUXY"
+  },
+  "rewardsToken": {
+    "address": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token EcHC",
+    "symbol": "EcHCh"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}

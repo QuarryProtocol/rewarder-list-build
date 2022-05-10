@@ -33041,9 +33041,19 @@
   "BCBHG2i9fZUk3LueGgCQj1Ucbz2ed76QmgCZaH56MUXY": {
     "authority": "EnHBYsRckMqtAkpfXhhRTpCo3XF5CFgywXyktqMYoJcV",
     "mintWrapper": "FJoKSdAiCqEEoHjfJ9GsXGabuF5yWtSBebx25vbmLBH9",
-    "quarries": [],
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "BPdagWPkvJNAFuaiRRComKoPcDtUBm3qgGuLsCdqEZe2",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "8n7p8Ko42fbnmRa8kS6ZD3BuGEpjKKoSvM5pcq2covWj"
+        }
+      }
+    ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "EcHChmCvQ88oqd3NehJFgoGLP4RCAL97oDNuQVzheyaV"
     }
   },
