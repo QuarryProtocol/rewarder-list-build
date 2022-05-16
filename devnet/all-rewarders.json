@@ -31581,6 +31581,34 @@
       "mint": "57ihBXwnBhUhJkFvzkxEmtNH8auuBsn1NvPvJtN7zJdT"
     }
   },
+  "An4sp8rG1N29U2MHXGyyCyWbXsMv3nKxBjLEJdgpjGpk": {
+    "authority": "jt7pPBCDkVu31FvvakRDJUQkqgFpBevKQvDdrG7SZgX",
+    "mintWrapper": "9uFpYpoYJCLBRhCQXdkUJFKcDcfeUsJAFymR2Jvid2dD",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "Fi8c2x1dGr1uNLp9cyMRMtLeD6ix4MV9ooFxp1QNW4Pd",
+        "slug": "msolz",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+        }
+      },
+      {
+        "index": 1,
+        "quarry": "4n5N61Hcm2VaRdLvEMPMDgi3EHyNAc5cdxThXcDde2LP",
+        "slug": "lpmso",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "AbJykVBsU5F1VSYa5G2azedeuPTbx9FMqw8B6zr14vYE"
+    }
+  },
   "An79snXjBVu7bKWxeE7P8VtgCsPDFeNBbwyEvojiH2X1": {
     "authority": "2KGFU3wcwWeGVGSYdqwJq366sUUuizxwtr7unpw2XyjK",
     "mintWrapper": "8jupSy8C67UJQsgBck1JskkUPzPyBxFAvweyL4QVvfs1",
@@ -50863,6 +50891,34 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "H3AmtH5XCoQXrfE73uYHG8NTDRJQ4vLBBiAeeqTYyuHb"
+    }
+  },
+  "GMs4D1w53hcxmnsAy2UJD36ANztbeW8mbmbbdyDGFNQc": {
+    "authority": "8gDffYypSq6tkyzjvqmsxpvY5mvyXLrKK1raFwnV6S9o",
+    "mintWrapper": "2HdJmgu22h8U5sB5yh4FV5rJawHC5FmPVY5F9Cvr5mVx",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "6oi7JHr4B3GX1FXdHKqqLhVTXvTcEbqVDrKWeqqh2WLp",
+        "slug": "msolz",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+        }
+      },
+      {
+        "index": 1,
+        "quarry": "A6aHXDXMiMeCdj3NxeSE84rSeFnVDxjDYc9Eauay9jm1",
+        "slug": "lpmso",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW"
     }
   },
   "GMx6D554A6YMoxBnyu6EN6zVQ8Z4oVaxYgz4LG67SvD5": {

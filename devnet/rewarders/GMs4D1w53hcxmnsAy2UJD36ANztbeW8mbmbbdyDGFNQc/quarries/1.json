@@ -1,0 +1,45 @@
+{
+  "quarry": {
+    "index": 1,
+    "isReplica": false,
+    "mergePool": "JDoon6rtyMrEiptXhYJgpsqA4bcGowLK13PME9BY8eAm",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+    },
+    "primaryTokenInfo": {
+      "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token LPmS",
+      "symbol": "LPmSo"
+    },
+    "quarry": "A6aHXDXMiMeCdj3NxeSE84rSeFnVDxjDYc9Eauay9jm1",
+    "replicaMint": "oZ4LqXpwXp4WcruCWegHHNCVBCpHQD1kHDBhtLSVD4n",
+    "replicaQuarries": [],
+    "slug": "lpmso",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+    }
+  },
+  "rewarder": {
+    "authority": "8gDffYypSq6tkyzjvqmsxpvY5mvyXLrKK1raFwnV6S9o",
+    "mintWrapper": "2HdJmgu22h8U5sB5yh4FV5rJawHC5FmPVY5F9Cvr5mVx",
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW"
+    },
+    "rewardsTokenInfo": null,
+    "slug": "GMs4D1w53hcxmnsAy2UJD36ANztbeW8mbmbbdyDGFNQc"
+  },
+  "stakedToken": {
+    "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token LPmS",
+    "symbol": "LPmSo"
+  },
+  "underlyingTokens": []
+}
