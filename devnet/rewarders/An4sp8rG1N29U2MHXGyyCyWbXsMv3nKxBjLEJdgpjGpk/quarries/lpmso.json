@@ -28,11 +28,24 @@
     "authority": "jt7pPBCDkVu31FvvakRDJUQkqgFpBevKQvDdrG7SZgX",
     "mintWrapper": "9uFpYpoYJCLBRhCQXdkUJFKcDcfeUsJAFymR2Jvid2dD",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "AbJykVBsU5F1VSYa5G2azedeuPTbx9FMqw8B6zr14vYE"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "AbJykVBsU5F1VSYa5G2azedeuPTbx9FMqw8B6zr14vYE",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token AbJy",
+      "symbol": "AbJyk"
+    },
     "slug": "An4sp8rG1N29U2MHXGyyCyWbXsMv3nKxBjLEJdgpjGpk"
+  },
+  "rewardsToken": {
+    "address": "AbJykVBsU5F1VSYa5G2azedeuPTbx9FMqw8B6zr14vYE",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token AbJy",
+    "symbol": "AbJyk"
   },
   "stakedToken": {
     "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",

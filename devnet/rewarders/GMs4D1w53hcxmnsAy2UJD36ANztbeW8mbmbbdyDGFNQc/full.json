@@ -54,9 +54,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token DiEM",
+    "symbol": "DiEMV"
+  },
   "slug": "GMs4D1w53hcxmnsAy2UJD36ANztbeW8mbmbbdyDGFNQc"
 }

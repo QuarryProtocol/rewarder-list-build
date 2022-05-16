@@ -28,11 +28,24 @@
     "authority": "8gDffYypSq6tkyzjvqmsxpvY5mvyXLrKK1raFwnV6S9o",
     "mintWrapper": "2HdJmgu22h8U5sB5yh4FV5rJawHC5FmPVY5F9Cvr5mVx",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token DiEM",
+      "symbol": "DiEMV"
+    },
     "slug": "GMs4D1w53hcxmnsAy2UJD36ANztbeW8mbmbbdyDGFNQc"
+  },
+  "rewardsToken": {
+    "address": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token DiEM",
+    "symbol": "DiEMV"
   },
   "stakedToken": {
     "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
