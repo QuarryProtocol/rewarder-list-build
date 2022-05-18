@@ -18,7 +18,7 @@
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
         ],
-        "website": "https://app.saber.so/pools/atluna_sluna-9"
+        "website": "https://app.saber.so/pools/atust_wust"
       },
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
       "name": "Saber atLUNA-LUNA LP",
@@ -57,13 +57,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -119,7 +130,7 @@
         "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
         "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
       ],
-      "website": "https://app.saber.so/pools/atluna_sluna-9"
+      "website": "https://app.saber.so/pools/atust_wust"
     },
     "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
     "name": "Saber atLUNA-LUNA LP",

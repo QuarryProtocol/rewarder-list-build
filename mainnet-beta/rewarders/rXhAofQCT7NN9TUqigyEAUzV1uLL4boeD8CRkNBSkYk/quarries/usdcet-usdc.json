@@ -18,7 +18,7 @@
           "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.saber.so/pools/usdcet_usdc"
+        "website": "https://app.saber.so/pools/weusdc"
       },
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
       "name": "Saber USDCet-USDC LP",
@@ -56,13 +56,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -118,7 +129,7 @@
         "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
       ],
-      "website": "https://app.saber.so/pools/usdcet_usdc"
+      "website": "https://app.saber.so/pools/weusdc"
     },
     "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
     "name": "Saber USDCet-USDC LP",

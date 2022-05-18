@@ -18,11 +18,11 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
         ],
-        "website": "https://app.saber.so/pools/susdc-9_wust_v1"
+        "website": "https://app.saber.so/pools/ust"
       },
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
-      "name": "Saber USDC-wUST_v1 LP",
-      "symbol": "USDC-wUSTv1",
+      "name": "Saber wUST_v1-USDC LP",
+      "symbol": "wUSTv1-USDC",
       "tags": [
         "saber-stableswap-lp",
         "saber-lp-wormhole-v1"
@@ -31,7 +31,7 @@
     "quarry": "FFfgPdrES48xe8UKGgmdc5kvQ9cv49oeu5FUKadh1i1k",
     "replicaMint": "HxZo4gPwUKZr5EK9ic4u6ZDbWMscGLWaPntBGjECMJv9",
     "replicaQuarries": [],
-    "slug": "usdc-wustv1",
+    "slug": "wustv1-usdc",
     "stakedToken": {
       "decimals": 9,
       "mint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc"
@@ -56,13 +56,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -118,11 +129,11 @@
         "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
         "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
       ],
-      "website": "https://app.saber.so/pools/susdc-9_wust_v1"
+      "website": "https://app.saber.so/pools/ust"
     },
     "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
-    "name": "Saber USDC-wUST_v1 LP",
-    "symbol": "USDC-wUSTv1",
+    "name": "Saber wUST_v1-USDC LP",
+    "symbol": "wUSTv1-USDC",
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"

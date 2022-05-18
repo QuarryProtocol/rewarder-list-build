@@ -102,7 +102,7 @@
               "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
               "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
             ],
-            "website": "https://app.saber.so/pools/frax_sust-8"
+            "website": "https://app.saber.so/pools/frax_ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
           "name": "Saber FRAX-UST LP",
@@ -324,7 +324,7 @@
               "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/stsol_sol"
+            "website": "https://app.saber.so/pools/stsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png",
           "name": "Saber stSOL-SOL LP",
@@ -964,7 +964,7 @@
               "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/cash_usdc"
+            "website": "https://app.saber.so/pools/cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png",
           "name": "Saber CASH-USDC LP",
@@ -1275,7 +1275,7 @@
               "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
               "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
             ],
-            "website": "https://app.saber.so/pools/acusd_scash-9"
+            "website": "https://app.saber.so/pools/acusd_cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7/icon.png",
           "name": "Saber acUSD-CASH LP",
@@ -2740,9 +2740,20 @@
         "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
         "underlyingTokenInfo": {
           "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "name": "Token SUNN",
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
           "symbol": "SUNNY"
         }
       },
@@ -6307,7 +6318,7 @@
               "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
               "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
             ],
-            "website": "https://app.saber.so/pools/frax_sust-8"
+            "website": "https://app.saber.so/pools/frax_ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
           "name": "Saber FRAX-UST LP",
@@ -6678,7 +6689,7 @@
               "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
               "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
             ],
-            "website": "https://app.saber.so/pools/solust_ust"
+            "website": "https://app.saber.so/pools/solust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c/icon.png",
           "name": "Saber solUST-UST LP",
@@ -7305,7 +7316,7 @@
               "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/stsol_sol"
+            "website": "https://app.saber.so/pools/stsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png",
           "name": "Saber stSOL-SOL LP",
@@ -8727,7 +8738,7 @@
               "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
               "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
             ],
-            "website": "https://app.saber.so/pools/pusdt_pusdc"
+            "website": "https://app.saber.so/pools/port_2pool"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
           "name": "Saber pUSDT-pUSDC LP",
@@ -8863,7 +8874,7 @@
               "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
               "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
             ],
-            "website": "https://app.saber.so/pools/pusdt_pusdc"
+            "website": "https://app.saber.so/pools/port_2pool"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
           "name": "Saber pUSDT-pUSDC LP",
@@ -9621,10 +9632,19 @@
         "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
         "underlyingTokenInfo": {
           "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 9,
-          "name": "Token MNDE",
-          "symbol": "MNDEF"
+          "extensions": {
+            "coingeckoId": "marinade",
+            "discord": "https://discord.gg/mGqZA5pjRN",
+            "github": "https://github.com/marinade-finance",
+            "medium": "https://medium.com/marinade-finance",
+            "twitter": "https://twitter.com/MarinadeFinance",
+            "website": "https://marinade.finance"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+          "name": "Marinade",
+          "symbol": "MNDE"
         }
       },
       "website": "https://marinade.finance"
@@ -9716,21 +9736,11 @@
         "primaryQuarries": [
           {
             "displayRewardsToken": {
-              "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
-              "chainId": 101,
-              "decimals": 6,
-              "extensions": {
-                "coingeckoId": "saber",
-                "discord": "https://chat.saber.so",
-                "github": "https://github.com/saber-hq",
-                "medium": "https://blog.saber.so",
-                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-                "twitter": "https://twitter.com/saber_hq",
-                "website": "https://saber.so"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-              "name": "Saber IOU Token (Liquidity Mining Rewards)",
-              "symbol": "SBR"
+              "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+              "chainId": 103,
+              "decimals": 9,
+              "name": "Token MNDE",
+              "symbol": "MNDEF"
             },
             "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68",
             "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
@@ -9769,27 +9779,11 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP",
-              "chainId": 101,
+              "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+              "chainId": 103,
               "decimals": 9,
-              "extensions": {
-                "coingeckoId": "marinade",
-                "discord": "https://discord.gg/mGqZA5pjRN",
-                "github": "https://github.com/marinade-finance",
-                "medium": "https://medium.com/marinade-finance",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/MarinadeFinance",
-                "underlyingTokens": [
-                  "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
-                ],
-                "website": "https://marinade.finance"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-              "name": "Marinade (IOU)",
-              "symbol": "iouMNDE",
-              "tags": [
-                "quarry-iou"
-              ]
+              "name": "Token MNDE",
+              "symbol": "MNDEF"
             },
             "quarry": "6ywGNd6BjPJi4mg9V8xXQaykM21XxhHEszxArhvobzR2",
             "rewarder": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
@@ -9801,27 +9795,11 @@
           },
           {
             "displayRewardsToken": {
-              "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
-              "chainId": 101,
+              "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+              "chainId": 103,
               "decimals": 9,
-              "extensions": {
-                "coingeckoId": "marinade",
-                "discord": "https://discord.gg/mGqZA5pjRN",
-                "github": "https://github.com/marinade-finance",
-                "medium": "https://medium.com/marinade-finance",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/MarinadeFinance",
-                "underlyingTokens": [
-                  "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
-                ],
-                "website": "https://marinade.finance"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-              "name": "Marinade (IOU)",
-              "symbol": "iouMNDE",
-              "tags": [
-                "quarry-iou"
-              ]
+              "name": "Token MNDE",
+              "symbol": "MNDEF"
             },
             "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
             "rewarder": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
@@ -10074,7 +10052,7 @@
               "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/usdh_usdc"
+            "website": "https://app.saber.so/pools/usdh"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
           "name": "Saber USDH-USDC LP",
@@ -10278,13 +10256,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -10310,7 +10299,7 @@
               "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/abbusd_susdc-9"
+            "website": "https://app.saber.so/pools/abbusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp/icon.png",
           "name": "Saber abBUSD-USDC LP",
@@ -10348,7 +10337,7 @@
               "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/wusdk_v1_susdc-9"
+            "website": "https://app.saber.so/pools/usdk"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW/icon.png",
           "name": "Saber wUSDK_V1-USDC LP",
@@ -10386,7 +10375,7 @@
               "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/mai_susdc-9"
+            "website": "https://app.saber.so/pools/mai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC/icon.png",
           "name": "Saber MAI-USDC LP",
@@ -10427,8 +10416,8 @@
             "website": "https://app.saber.so/pools/usdc_usdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png",
-          "name": "Saber USDC-USDT LP",
-          "symbol": "USDC-USDT",
+          "name": "Saber USDT-USDC LP",
+          "symbol": "USDT-USDC",
           "tags": [
             "saber-stableswap-lp"
           ]
@@ -10436,7 +10425,7 @@
         "quarry": "Hs1X5YtXwZACueUtS9azZyXFDWVxAMLvm3tttubpK7ph",
         "replicaMint": "65t5h75EsYeMiDQ6BvReM7NFb9HMbdGo9kFm4fn8vXPp",
         "replicaQuarries": [],
-        "slug": "usdc-usdt",
+        "slug": "usdt-usdc",
         "stakedToken": {
           "decimals": 6,
           "mint": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf"
@@ -10475,27 +10464,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP",
-              "chainId": 101,
-              "decimals": 9,
-              "extensions": {
-                "coingeckoId": "marinade",
-                "discord": "https://discord.gg/mGqZA5pjRN",
-                "github": "https://github.com/marinade-finance",
-                "medium": "https://medium.com/marinade-finance",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/MarinadeFinance",
-                "underlyingTokens": [
-                  "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
-                ],
-                "website": "https://marinade.finance"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-              "name": "Marinade (IOU)",
-              "symbol": "iouMNDE",
-              "tags": [
-                "quarry-iou"
-              ]
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "6ywGNd6BjPJi4mg9V8xXQaykM21XxhHEszxArhvobzR2",
             "rewarder": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
@@ -10507,27 +10483,14 @@
           },
           {
             "displayRewardsToken": {
-              "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
-              "chainId": 101,
-              "decimals": 9,
-              "extensions": {
-                "coingeckoId": "marinade",
-                "discord": "https://discord.gg/mGqZA5pjRN",
-                "github": "https://github.com/marinade-finance",
-                "medium": "https://medium.com/marinade-finance",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/MarinadeFinance",
-                "underlyingTokens": [
-                  "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
-                ],
-                "website": "https://marinade.finance"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-              "name": "Marinade (IOU)",
-              "symbol": "iouMNDE",
-              "tags": [
-                "quarry-iou"
-              ]
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
             "rewarder": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
@@ -10559,15 +10522,16 @@
           "decimals": 8,
           "extensions": {
             "source": "saber",
+            "sourceUrl": "https://bridge.renproject.io/mint",
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
               "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
             ],
-            "website": "https://app.saber.so/pools/renbtc_sbtc-8"
+            "website": "https://app.saber.so/pools/btc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
-          "name": "Saber renBTC-BTC LP",
-          "symbol": "renBTC-BTC",
+          "name": "Saber BTC-renBTC LP",
+          "symbol": "BTC-renBTC",
           "tags": [
             "saber-stableswap-lp"
           ]
@@ -10575,7 +10539,7 @@
         "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
         "replicaMint": "BTE5SHy8W1xZ4s4mj15bkT43y3aQpf7gjMzXQwjtSnvu",
         "replicaQuarries": [],
-        "slug": "renbtc-btc",
+        "slug": "btc-renbtc",
         "stakedToken": {
           "decimals": 8,
           "mint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs"
@@ -10600,7 +10564,7 @@
               "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/prtsol_sol"
+            "website": "https://app.saber.so/pools/prtsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR/icon.png",
           "name": "Saber prtSOL-SOL LP",
@@ -10637,7 +10601,7 @@
               "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/apusdc_usdc"
+            "website": "https://app.saber.so/pools/apusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP/icon.png",
           "name": "Saber apUSDC-USDC LP",
@@ -10675,7 +10639,7 @@
               "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
               "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
             ],
-            "website": "https://app.saber.so/pools/apusdt_usdt"
+            "website": "https://app.saber.so/pools/apusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj/icon.png",
           "name": "Saber apUSDT-USDT LP",
@@ -10713,7 +10677,7 @@
               "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/stsol_sol"
+            "website": "https://app.saber.so/pools/stsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png",
           "name": "Saber stSOL-SOL LP",
@@ -10727,29 +10691,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "3S6ytBWbnLaJr16waKk7GsSfSdnSDWSpXt7VXjnWd3xM",
-              "chainId": 101,
-              "decimals": 8,
-              "extensions": {
-                "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-                "assetContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-                "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-                "coingeckoId": "lido-dao",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/LidoFinance",
-                "underlyingTokens": [
-                  "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
-                ],
-                "website": "https://lido.fi/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
-              "name": "Lido DAO Token (Wormhole) (IOU)",
-              "symbol": "iouLDO",
-              "tags": [
-                "wrapped",
-                "ethereum",
-                "quarry-iou"
-              ]
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "CagEB6JXq2kVtFLTgEt3PKG6UnZS1Pomb91VCPELCNB2",
             "rewarder": "3UqiNcE1S2MoQ1M1PvrQf3gCkM7KB1nWfZdoQckobHpz",
@@ -10761,29 +10710,14 @@
           },
           {
             "displayRewardsToken": {
-              "address": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC",
-              "chainId": 101,
-              "decimals": 8,
-              "extensions": {
-                "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-                "assetContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-                "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-                "coingeckoId": "lido-dao",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/LidoFinance",
-                "underlyingTokens": [
-                  "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
-                ],
-                "website": "https://lido.fi/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
-              "name": "Lido DAO Token (Wormhole) (IOU)",
-              "symbol": "iouLDO",
-              "tags": [
-                "wrapped",
-                "ethereum",
-                "quarry-iou"
-              ]
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "73MxqaQeQwoHZAuCEFyyC94XYnJw1PPepiX1FBZXXX2E",
             "rewarder": "CXer5v3osVQFDWUB3SJUPB1PN1dB3dQSQfymyAnmCryp",
@@ -10819,7 +10753,7 @@
               "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
               "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
             ],
-            "website": "https://app.saber.so/pools/psol_prtsol"
+            "website": "https://app.saber.so/pools/psol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy/icon.png",
           "name": "Saber pSOL-prtSOL LP",
@@ -10856,7 +10790,7 @@
               "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/pai_usdc"
+            "website": "https://app.saber.so/pools/usdc_pai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ/icon.png",
           "name": "Saber PAI-USDC LP",
@@ -10889,15 +10823,16 @@
           "decimals": 8,
           "extensions": {
             "source": "saber",
+            "sourceUrl": "https://bridge.renproject.io/mint",
             "underlyingTokens": [
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
               "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
             ],
-            "website": "https://app.saber.so/pools/renbtc_pbtc"
+            "website": "https://app.saber.so/pools/pbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x/icon.png",
-          "name": "Saber renBTC-pBTC LP",
-          "symbol": "renBTC-pBTC",
+          "name": "Saber pBTC-renBTC LP",
+          "symbol": "pBTC-renBTC",
           "tags": [
             "saber-stableswap-lp"
           ]
@@ -10905,7 +10840,7 @@
         "quarry": "8hnBtfEumuBh8Vd19qZ16re6wWgMZypZQoFLum7vx1bf",
         "replicaMint": "J3EWKbgRFdrRhqBskyBuUbLqHLw9yck4EvvDfFfV27Dy",
         "replicaQuarries": [],
-        "slug": "renbtc-pbtc",
+        "slug": "pbtc-renbtc",
         "stakedToken": {
           "decimals": 8,
           "mint": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x"
@@ -10930,11 +10865,11 @@
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
               "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
             ],
-            "website": "https://app.saber.so/pools/susdc-9_wust_v1"
+            "website": "https://app.saber.so/pools/ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
-          "name": "Saber USDC-wUST_v1 LP",
-          "symbol": "USDC-wUSTv1",
+          "name": "Saber wUST_v1-USDC LP",
+          "symbol": "wUSTv1-USDC",
           "tags": [
             "saber-stableswap-lp",
             "saber-lp-wormhole-v1"
@@ -10943,7 +10878,7 @@
         "quarry": "FFfgPdrES48xe8UKGgmdc5kvQ9cv49oeu5FUKadh1i1k",
         "replicaMint": "HxZo4gPwUKZr5EK9ic4u6ZDbWMscGLWaPntBGjECMJv9",
         "replicaQuarries": [],
-        "slug": "usdc-wustv1",
+        "slug": "wustv1-usdc",
         "stakedToken": {
           "decimals": 9,
           "mint": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc"
@@ -10968,7 +10903,7 @@
               "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
               "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
             ],
-            "website": "https://app.saber.so/pools/wftt_v1_ssoftt-9"
+            "website": "https://app.saber.so/pools/ftt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7/icon.png",
           "name": "Saber wFTT_v1-soFTT LP",
@@ -11006,7 +10941,7 @@
               "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
               "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
             ],
-            "website": "https://app.saber.so/pools/wsrm_v1_srm"
+            "website": "https://app.saber.so/pools/srm"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp/icon.png",
           "name": "Saber wSRM_V1-SRM LP",
@@ -11044,7 +10979,7 @@
               "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/whusd_v1_susdc-8"
+            "website": "https://app.saber.so/pools/husd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
           "name": "Saber wHUSD_v1-USDC LP",
@@ -11082,7 +11017,7 @@
               "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/wbusd_v1_susdc-9"
+            "website": "https://app.saber.so/pools/busd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3/icon.png",
           "name": "Saber wBUSD_v1-USDC LP",
@@ -11120,7 +11055,7 @@
               "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/whbtc_v1_srenbtc-9"
+            "website": "https://app.saber.so/pools/hbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo/icon.png",
           "name": "Saber wHBTC_v1-renBTC LP",
@@ -11158,7 +11093,7 @@
               "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
               "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
             ],
-            "website": "https://app.saber.so/pools/wluna_v1_srenluna-9"
+            "website": "https://app.saber.so/pools/luna"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE/icon.png",
           "name": "Saber wLUNA_v1-renLUNA LP",
@@ -11196,7 +11131,7 @@
               "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/wdai_v1_susdc-9"
+            "website": "https://app.saber.so/pools/dai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh/icon.png",
           "name": "Saber wDAI_v1-USDC LP",
@@ -11234,7 +11169,7 @@
               "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/wibbtc_v1_srenbtc-9"
+            "website": "https://app.saber.so/pools/ibbtc_ren"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png",
           "name": "Saber wibBTC_V1-renBTC LP",
@@ -11272,7 +11207,7 @@
               "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/wfrax_v1_susdc-9"
+            "website": "https://app.saber.so/pools/frax"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK/icon.png",
           "name": "Saber wFRAX_v1-USDC LP",
@@ -11310,7 +11245,7 @@
               "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/scnsol_sol"
+            "website": "https://app.saber.so/pools/socean"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png",
           "name": "Saber scnSOL-SOL LP",
@@ -11347,7 +11282,7 @@
               "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/acusd_susdc-9"
+            "website": "https://app.saber.so/pools/acusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk/icon.png",
           "name": "Saber acUSD-USDC LP",
@@ -11385,7 +11320,7 @@
               "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/busdet_susdc-8"
+            "website": "https://app.saber.so/pools/webusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL/icon.png",
           "name": "Saber BUSDet-USDC LP",
@@ -11423,7 +11358,7 @@
               "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/dai_susdc-8"
+            "website": "https://app.saber.so/pools/wdai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
           "name": "Saber DAI-USDC LP",
@@ -11461,7 +11396,7 @@
               "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/usdcet_usdc"
+            "website": "https://app.saber.so/pools/weusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
           "name": "Saber USDCet-USDC LP",
@@ -11499,7 +11434,7 @@
               "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
               "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
             ],
-            "website": "https://app.saber.so/pools/usdtet_usdt"
+            "website": "https://app.saber.so/pools/weusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue/icon.png",
           "name": "Saber USDTet-USDT LP",
@@ -11537,7 +11472,7 @@
               "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/husd_susdc-8"
+            "website": "https://app.saber.so/pools/whusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz/icon.png",
           "name": "Saber HUSD-USDC LP",
@@ -11575,7 +11510,7 @@
               "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/usdk_susdc-8"
+            "website": "https://app.saber.so/pools/wusdk"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz/icon.png",
           "name": "Saber USDK-USDC LP",
@@ -11613,7 +11548,7 @@
               "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/frax_susdc-8"
+            "website": "https://app.saber.so/pools/wfrax"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x/icon.png",
           "name": "Saber FRAX-USDC LP",
@@ -11651,7 +11586,7 @@
               "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
               "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
             ],
-            "website": "https://app.saber.so/pools/seth-9_aeweth"
+            "website": "https://app.saber.so/pools/aeeth"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR/icon.png",
           "name": "Saber ETH-aeWETH LP",
@@ -11689,7 +11624,7 @@
               "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
               "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
             ],
-            "website": "https://app.saber.so/pools/ssoeth-8_eth"
+            "website": "https://app.saber.so/pools/wheth"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA/icon.png",
           "name": "Saber soETH-ETH LP",
@@ -11727,7 +11662,7 @@
               "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
               "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
             ],
-            "website": "https://app.saber.so/pools/pusdt_pusdc"
+            "website": "https://app.saber.so/pools/port_2pool"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
           "name": "Saber pUSDT-pUSDC LP",
@@ -11742,30 +11677,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "coingeckoId": "port-finance",
-                "discord": "https://discord.gg/nAMXAYhTb2",
-                "github": "https://github.com/port-finance/",
-                "medium": "https://medium.com/port-finance",
-                "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
-                "source": "quarry-iou",
-                "telegram": "https://t.me/port_finance",
-                "twitter": "https://twitter.com/port_finance",
-                "underlyingTokens": [
-                  "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
-                ],
-                "waterfallbot": "https://bit.ly/PORTwaterfall",
-                "website": "https://port.finance/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
-              "name": "Port Finance Token (IOU)",
-              "symbol": "iouPORT",
-              "tags": [
-                "quarry-iou"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "6SATFnRVoXHPnKKvtejYDoAni8XX26SDwfi5e3pfL1xN",
             "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm",
@@ -11801,7 +11720,7 @@
               "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/aeusdc_susdc-9"
+            "website": "https://app.saber.so/pools/aeusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz/icon.png",
           "name": "Saber aeUSDC-USDC LP",
@@ -11839,7 +11758,7 @@
               "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
               "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
             ],
-            "website": "https://app.saber.so/pools/aeusdt_susdt-9"
+            "website": "https://app.saber.so/pools/aeusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7/icon.png",
           "name": "Saber aeUSDT-USDT LP",
@@ -11877,7 +11796,7 @@
               "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
               "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
             ],
-            "website": "https://app.saber.so/pools/aeftt_sftt-9"
+            "website": "https://app.saber.so/pools/wftt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK/icon.png",
           "name": "Saber aeFTT-FTT LP",
@@ -11915,7 +11834,7 @@
               "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/aedai_susdc-9"
+            "website": "https://app.saber.so/pools/aedai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic/icon.png",
           "name": "Saber aeDAI-USDC LP",
@@ -11953,7 +11872,7 @@
               "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/aausdc_susdc-9"
+            "website": "https://app.saber.so/pools/aausdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv/icon.png",
           "name": "Saber aaUSDC-USDC LP",
@@ -11991,7 +11910,7 @@
               "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
               "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
             ],
-            "website": "https://app.saber.so/pools/aausdt_susdt-9"
+            "website": "https://app.saber.so/pools/aausdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip/icon.png",
           "name": "Saber aaUSDT-USDT LP",
@@ -12029,7 +11948,7 @@
               "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/aadai_susdc-9"
+            "website": "https://app.saber.so/pools/aadai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC/icon.png",
           "name": "Saber aaDAI-USDC LP",
@@ -12067,7 +11986,7 @@
               "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/aawbtc_srenbtc-9"
+            "website": "https://app.saber.so/pools/aawbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39/icon.png",
           "name": "Saber aaWBTC-renBTC LP",
@@ -12105,7 +12024,7 @@
               "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/ust_usdc"
+            "website": "https://app.saber.so/pools/wust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi/icon.png",
           "name": "Saber UST-USDC LP",
@@ -12143,7 +12062,7 @@
               "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/xusd_usdc"
+            "website": "https://app.saber.so/pools/xusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n/icon.png",
           "name": "Saber xUSD-USDC LP",
@@ -12181,7 +12100,7 @@
               "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
               "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
             ],
-            "website": "https://app.saber.so/pools/luna_renluna"
+            "website": "https://app.saber.so/pools/wluna"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU/icon.png",
           "name": "Saber LUNA-renLUNA LP",
@@ -12219,7 +12138,7 @@
               "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/xsol_sol"
+            "website": "https://app.saber.so/pools/xsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi/icon.png",
           "name": "Saber xSOL-SOL LP",
@@ -12257,7 +12176,7 @@
               "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
               "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
             ],
-            "website": "https://app.saber.so/pools/xeth_seth-9"
+            "website": "https://app.saber.so/pools/xeth"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY/icon.png",
           "name": "Saber xETH-ETH LP",
@@ -12295,7 +12214,7 @@
               "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
               "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
             ],
-            "website": "https://app.saber.so/pools/xftt_ftt"
+            "website": "https://app.saber.so/pools/xftt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA/icon.png",
           "name": "Saber xFTT-FTT LP",
@@ -12333,7 +12252,7 @@
               "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
               "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
             ],
-            "website": "https://app.saber.so/pools/xbtc_srenbtc-10"
+            "website": "https://app.saber.so/pools/xbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK/icon.png",
           "name": "Saber xBTC-renBTC LP",
@@ -12371,7 +12290,7 @@
               "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/asol_sol"
+            "website": "https://app.saber.so/pools/asol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV/icon.png",
           "name": "Saber aSOL-SOL LP",
@@ -12408,7 +12327,7 @@
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
               "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
             ],
-            "website": "https://app.saber.so/pools/susdc-9_acusdc"
+            "website": "https://app.saber.so/pools/acusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC/icon.png",
           "name": "Saber USDC-acUSDC LP",
@@ -12446,7 +12365,7 @@
               "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/cash_usdc"
+            "website": "https://app.saber.so/pools/cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png",
           "name": "Saber CASH-USDC LP",
@@ -12460,21 +12379,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "discord": "https://discord.com/invite/GmkRRKJkuh",
-                "medium": "https://medium.com/@cashioapp",
-                "twitter": "https://twitter.com/CashioApp",
-                "website": "https://cashio.app"
-              },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
-              "name": "Cash Cow",
-              "symbol": "COW",
-              "tags": [
-                "governance-token"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "9bPMa5dzJ44UGnkx4st2apPJNxb1h5DT2XbzqBh7ELUZ",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -12510,7 +12422,7 @@
               "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/ahbtc_srenbtc-9"
+            "website": "https://app.saber.so/pools/ahwbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J/icon.png",
           "name": "Saber ahBTC-renBTC LP",
@@ -12548,7 +12460,7 @@
               "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/ahusdt_susdc-9"
+            "website": "https://app.saber.so/pools/ahusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR/icon.png",
           "name": "Saber ahUSDT-USDC LP",
@@ -12586,7 +12498,7 @@
               "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/usdcpo_usdc"
+            "website": "https://app.saber.so/pools/wpusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE/icon.png",
           "name": "Saber USDCpo-USDC LP",
@@ -12624,7 +12536,7 @@
               "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
               "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
             ],
-            "website": "https://app.saber.so/pools/usdtpo_usdt"
+            "website": "https://app.saber.so/pools/wpusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj/icon.png",
           "name": "Saber USDTpo-USDT LP",
@@ -12677,21 +12589,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "discord": "https://discord.com/invite/GmkRRKJkuh",
-                "medium": "https://medium.com/@cashioapp",
-                "twitter": "https://twitter.com/CashioApp",
-                "website": "https://cashio.app"
-              },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
-              "name": "Cash Cow",
-              "symbol": "COW",
-              "tags": [
-                "governance-token"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "CgiCrf6uVZgvovSgiFYSPqginW2xgfMxBU418zr8D8pn",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -12742,21 +12647,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "discord": "https://discord.com/invite/GmkRRKJkuh",
-                "medium": "https://medium.com/@cashioapp",
-                "twitter": "https://twitter.com/CashioApp",
-                "website": "https://cashio.app"
-              },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
-              "name": "Cash Cow",
-              "symbol": "COW",
-              "tags": [
-                "governance-token"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "E2zqjr8DsAXotspX5Eays37w9vnZaCWPokbaSnSfpf9n",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -12768,31 +12666,14 @@
           },
           {
             "displayRewardsToken": {
-              "address": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "address": "uluna",
-                "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-                "coingeckoId": "terra-luna",
-                "currency": "LUNA",
-                "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
-                "source": "quarry-iou",
-                "sourceUrl": "https://wormholebridge.com/#/transfer",
-                "underlyingTokens": [
-                  "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
-                ]
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
-              "name": "LUNA (Wormhole) (IOU)",
-              "symbol": "iouLUNA",
-              "tags": [
-                "wrapped",
-                "wormhole",
-                "saber-mkt-luna",
-                "wormhole-v2",
-                "quarry-iou"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "H5X3fTtypufVaPtH8D7GbMffCqSRHA3MWNj3FT4tVXQU",
             "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
@@ -12828,7 +12709,7 @@
               "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
               "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
             ],
-            "website": "https://app.saber.so/pools/acusd_scash-9"
+            "website": "https://app.saber.so/pools/acusd_cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7/icon.png",
           "name": "Saber acUSD-CASH LP",
@@ -12843,21 +12724,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "discord": "https://discord.com/invite/GmkRRKJkuh",
-                "medium": "https://medium.com/@cashioapp",
-                "twitter": "https://twitter.com/CashioApp",
-                "website": "https://cashio.app"
-              },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
-              "name": "Cash Cow",
-              "symbol": "COW",
-              "tags": [
-                "governance-token"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "BUNETXgxVog7yV5pHjxAN9Pgms6zwLRdprRt31r5Ei5x",
             "rewarder": "5LAZ5rUe1CLJoKYauyVXdbG6e7nBmY2j5mJ8PnesCA8z",
@@ -12893,7 +12767,7 @@
               "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/busdbs_susdc-8"
+            "website": "https://app.saber.so/pools/wbusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS/icon.png",
           "name": "Saber BUSDbs-USDC LP",
@@ -12931,7 +12805,7 @@
               "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
               "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
             ],
-            "website": "https://app.saber.so/pools/usdcbs_susdc-8"
+            "website": "https://app.saber.so/pools/wbusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png",
           "name": "Saber USDCbs-USDC LP",
@@ -12969,7 +12843,7 @@
               "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
               "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
             ],
-            "website": "https://app.saber.so/pools/usdtbs_susdt-8"
+            "website": "https://app.saber.so/pools/wbusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv/icon.png",
           "name": "Saber USDTbs-USDT LP",
@@ -13007,7 +12881,7 @@
               "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
               "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
             ],
-            "website": "https://app.saber.so/pools/abeth_seth-9"
+            "website": "https://app.saber.so/pools/abeth"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP/icon.png",
           "name": "Saber abETH-ETH LP",
@@ -13045,7 +12919,7 @@
               "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/abbtcb_srenbtc-9"
+            "website": "https://app.saber.so/pools/abbtcb"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo/icon.png",
           "name": "Saber abBTCB-renBTC LP",
@@ -13083,7 +12957,7 @@
               "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
               "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
             ],
-            "website": "https://app.saber.so/pools/abusdt_susdt-9"
+            "website": "https://app.saber.so/pools/abusdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ/icon.png",
           "name": "Saber abUSDT-USDT LP",
@@ -13121,7 +12995,7 @@
               "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/abusdc_susdc-9"
+            "website": "https://app.saber.so/pools/abusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P/icon.png",
           "name": "Saber abUSDC-USDC LP",
@@ -13159,7 +13033,7 @@
               "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
               "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
             ],
-            "website": "https://app.saber.so/pools/srmet_srm"
+            "website": "https://app.saber.so/pools/wsrm"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE/icon.png",
           "name": "Saber SRMet-SRM LP",
@@ -13197,7 +13071,7 @@
               "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "website": "https://app.saber.so/pools/wibbtc_renbtc"
+            "website": "https://app.saber.so/pools/wibbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx/icon.png",
           "name": "Saber wibBTC-renBTC LP",
@@ -13235,7 +13109,7 @@
               "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
               "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
             ],
-            "website": "https://app.saber.so/pools/hbtc_renbtc"
+            "website": "https://app.saber.so/pools/whbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm/icon.png",
           "name": "Saber HBTC-renBTC LP",
@@ -13273,7 +13147,7 @@
               "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
               "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
             ],
-            "website": "https://app.saber.so/pools/afbtc_srenbtc-9"
+            "website": "https://app.saber.so/pools/afbtc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5/icon.png",
           "name": "Saber afBTC-renBTC LP",
@@ -13311,7 +13185,7 @@
               "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/afusdc_susdc-9"
+            "website": "https://app.saber.so/pools/afusdc"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo/icon.png",
           "name": "Saber afUSDC-USDC LP",
@@ -13349,7 +13223,7 @@
               "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/afdai_susdc-9"
+            "website": "https://app.saber.so/pools/afdai"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov/icon.png",
           "name": "Saber afDAI-USDC LP",
@@ -13387,7 +13261,7 @@
               "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
               "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
             ],
-            "website": "https://app.saber.so/pools/afeth_seth-9"
+            "website": "https://app.saber.so/pools/afeth"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
           "name": "Saber afETH-ETH LP",
@@ -13425,7 +13299,7 @@
               "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
               "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
             ],
-            "website": "https://app.saber.so/pools/aemim_scash-9"
+            "website": "https://app.saber.so/pools/mim_cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh/icon.png",
           "name": "Saber aeMIM-CASH LP",
@@ -13463,7 +13337,7 @@
               "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
               "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
             ],
-            "website": "https://app.saber.so/pools/aemim_sust-9"
+            "website": "https://app.saber.so/pools/mim_ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky/icon.png",
           "name": "Saber aeMIM-UST LP",
@@ -13501,7 +13375,7 @@
               "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
               "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
             ],
-            "website": "https://app.saber.so/pools/aefei_scash-9"
+            "website": "https://app.saber.so/pools/fei_cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png",
           "name": "Saber aeFEI-CASH LP",
@@ -13539,7 +13413,7 @@
               "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
               "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
             ],
-            "website": "https://app.saber.so/pools/aefei_sust-9"
+            "website": "https://app.saber.so/pools/fei_ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
           "name": "Saber aeFEI-UST LP",
@@ -13577,7 +13451,7 @@
               "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/jsol_sol"
+            "website": "https://app.saber.so/pools/jsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png",
           "name": "Saber JSOL-SOL LP",
@@ -13614,7 +13488,7 @@
               "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
               "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
             ],
-            "website": "https://app.saber.so/pools/frax_sust-8"
+            "website": "https://app.saber.so/pools/frax_ust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
           "name": "Saber FRAX-UST LP",
@@ -13629,27 +13503,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "9SbDFHpA5MLXTDhwRgdFXBdLV2ywnXTXFv1gsTq5JZfi",
-              "chainId": 101,
-              "decimals": 8,
-              "extensions": {
-                "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
-                "assetContract": "https://etherscan.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
-                "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-                "coingeckoId": "frax-share",
-                "source": "quarry-iou",
-                "underlyingTokens": [
-                  "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
-                ]
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
-              "name": "Frax Share (Wormhole) (IOU)",
-              "symbol": "iouFXS",
-              "tags": [
-                "wrapped",
-                "wormhole",
-                "quarry-iou"
-              ]
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "FseutSLJkpaopLEvEqMzanAJh6zGNiDzDi5HX4ToHAeE",
             "rewarder": "2UsGfm8S36eW58U4JeKgVC9fcXsqf7D6vfm4GHUtnENn",
@@ -13661,31 +13522,14 @@
           },
           {
             "displayRewardsToken": {
-              "address": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "address": "uluna",
-                "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-                "coingeckoId": "terra-luna",
-                "currency": "LUNA",
-                "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
-                "source": "quarry-iou",
-                "sourceUrl": "https://wormholebridge.com/#/transfer",
-                "underlyingTokens": [
-                  "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
-                ]
-              },
-              "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
-              "name": "LUNA (Wormhole) (IOU)",
-              "symbol": "iouLUNA",
-              "tags": [
-                "wrapped",
-                "wormhole",
-                "saber-mkt-luna",
-                "wormhole-v2",
-                "quarry-iou"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "48n63dcqQ3zX1rinAksYu42J4aSpJbte3Mt6bNCnymio",
             "rewarder": "9eNj2Y4YdqM9Unw8qTm8kzx1Xt64Rft8a6HjvpkPL7QJ",
@@ -13721,7 +13565,7 @@
               "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
               "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
             ],
-            "website": "https://app.saber.so/pools/frax_scash-8"
+            "website": "https://app.saber.so/pools/frax_cash"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPv9tHDgkx3ekW8Kyp1TC222oYpr5BMZXTyBTLbk2n/icon.png",
           "name": "Saber FRAX-CASH LP",
@@ -13759,7 +13603,7 @@
               "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/daosol_sol"
+            "website": "https://app.saber.so/pools/monkedao"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z/icon.png",
           "name": "Saber daoSOL-SOL LP",
@@ -13796,7 +13640,7 @@
               "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
               "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
             ],
-            "website": "https://app.saber.so/pools/aceur_sageur-9"
+            "website": "https://app.saber.so/pools/aceur_ageur"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz/icon.png",
           "name": "Saber acEUR-agEUR LP",
@@ -13835,7 +13679,7 @@
               "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
               "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
             ],
-            "website": "https://app.saber.so/pools/tryb_tryb"
+            "website": "https://app.saber.so/pools/bilira"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer/icon.png",
           "name": "Saber TRYB-TRYB LP",
@@ -13911,7 +13755,7 @@
               "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
               "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
             ],
-            "website": "https://app.saber.so/pools/atluna_sluna-9"
+            "website": "https://app.saber.so/pools/atust_wust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
           "name": "Saber atLUNA-LUNA LP",
@@ -13950,7 +13794,7 @@
               "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
               "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
             ],
-            "website": "https://app.saber.so/pools/xluna_luna"
+            "website": "https://app.saber.so/pools/xluna"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP/icon.png",
           "name": "Saber xLUNA-LUNA LP",
@@ -13988,7 +13832,7 @@
               "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/uxd_usdc"
+            "website": "https://app.saber.so/pools/uxd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UXDgmqLd1roNYkC4TmJzok61qcM9oKs5foDADiFoCiJ/icon.png",
           "name": "Saber UXD-USDC LP",
@@ -14025,7 +13869,7 @@
               "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
               "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
             ],
-            "website": "https://app.saber.so/pools/ssoftt-8_ftt"
+            "website": "https://app.saber.so/pools/sollet_ftt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPmZgnajNcCzYv68gQDsix4NNjTxGTPmKRMtiXMuFg/icon.png",
           "name": "Saber soFTT-FTT LP",
@@ -14063,7 +13907,7 @@
               "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
               "So11111111111111111111111111111111111111112"
             ],
-            "website": "https://app.saber.so/pools/esol_sol"
+            "website": "https://app.saber.so/pools/everstake_sol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESoLEkfqBkqti137xAmnEHXB4omZpGXUdSPpfBWe9sau/icon.png",
           "name": "Saber eSOL-SOL LP",
@@ -14138,7 +13982,7 @@
               "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
               "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
             ],
-            "website": "https://app.saber.so/pools/usdh_usdc"
+            "website": "https://app.saber.so/pools/usdh"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS/icon.png",
           "name": "Saber USDH-USDC LP",
@@ -14152,29 +13996,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "coingeckoId": "hubble",
-                "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/",
-                "discord": "https://discord.gg/d44A8WvK",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/hubbleprotocol",
-                "underlyingTokens": [
-                  "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
-                ],
-                "website": "https://hubbleprotocol.io/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
-              "name": "Hubble Protocol Token (IOU)",
-              "symbol": "iouHBB",
-              "tags": [
-                "stake-pool-token",
-                "utility-token",
-                "community-token",
-                "quarry-iou"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "wdu4fz6Xw5jurCKWQx3YRtL7SEDoQRMaMdHJM1xRP6A",
             "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
@@ -14225,29 +14054,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "coingeckoId": "hubble",
-                "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/",
-                "discord": "https://discord.gg/d44A8WvK",
-                "source": "quarry-iou",
-                "twitter": "https://twitter.com/hubbleprotocol",
-                "underlyingTokens": [
-                  "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
-                ],
-                "website": "https://hubbleprotocol.io/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
-              "name": "Hubble Protocol Token (IOU)",
-              "symbol": "iouHBB",
-              "tags": [
-                "stake-pool-token",
-                "utility-token",
-                "community-token",
-                "quarry-iou"
-              ]
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "5Ac3qWq7vJG92e99xpMZT6FyRWSa1BxMkbYF9RJs4gow",
             "rewarder": "Wz2Zzi5BHmYr75yNzJG8NZ8U1T9cSWKf6ATRwZF7qV6",
@@ -14283,7 +14097,7 @@
               "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
               "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
             ],
-            "website": "https://app.saber.so/pools/solust_ust"
+            "website": "https://app.saber.so/pools/solust"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c/icon.png",
           "name": "Saber solUST-UST LP",
@@ -14297,15 +14111,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "website": "https://soluna.money/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
-              "name": "Soluna Governance Token",
-              "symbol": "SLNA"
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "3LoAuZXaSemCe8xw5i6Sb9GvMHhnbYx7jSDLR3anaoJg",
             "rewarder": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
@@ -14341,7 +14154,7 @@
               "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
               "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
             ],
-            "website": "https://app.saber.so/pools/cusdc_cusdt"
+            "website": "https://app.saber.so/pools/solend_usdc_usdt"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1/icon.png",
           "name": "Saber cUSDC-cUSDT LP",
@@ -14379,7 +14192,7 @@
               "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
               "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
             ],
-            "website": "https://app.saber.so/pools/csol_cmsol"
+            "website": "https://app.saber.so/pools/solend_sol_msol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa/icon.png",
           "name": "Saber cSOL-cmSOL LP",
@@ -14417,7 +14230,7 @@
               "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
               "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
             ],
-            "website": "https://app.saber.so/pools/scnsol_jsol"
+            "website": "https://app.saber.so/pools/scn_jsol"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca/icon.png",
           "name": "Saber scnSOL-JSOL LP",
@@ -14505,15 +14318,14 @@
         "replicaQuarries": [
           {
             "displayRewardsToken": {
-              "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
-              "chainId": 101,
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
               "decimals": 6,
-              "extensions": {
-                "website": "https://soluna.money/"
-              },
-              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
-              "name": "Soluna Governance Token",
-              "symbol": "SLNA"
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
             },
             "quarry": "AiAca6swabjKjApzWvsLRidfKXNdYPh5mYU6NpHPKRud",
             "rewarder": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
@@ -14734,7 +14546,7 @@
               "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
               "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
             ],
-            "website": "https://app.saber.so/pools/calusd_susdc-9"
+            "website": "https://app.saber.so/pools/calusd"
           },
           "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa/icon.png",
           "name": "Saber calUSD-USDC LP",

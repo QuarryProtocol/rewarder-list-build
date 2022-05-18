@@ -14,15 +14,16 @@
       "decimals": 8,
       "extensions": {
         "source": "saber",
+        "sourceUrl": "https://bridge.renproject.io/mint",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
         ],
-        "website": "https://app.saber.so/pools/renbtc_sbtc-8"
+        "website": "https://app.saber.so/pools/btc"
       },
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
-      "name": "Saber renBTC-BTC LP",
-      "symbol": "renBTC-BTC",
+      "name": "Saber BTC-renBTC LP",
+      "symbol": "BTC-renBTC",
       "tags": [
         "saber-stableswap-lp"
       ]
@@ -30,7 +31,7 @@
     "quarry": "4pp9vu4oVr61KmyW1byfXg613jhfsDAA6FCuLhw9ycMp",
     "replicaMint": "BTE5SHy8W1xZ4s4mj15bkT43y3aQpf7gjMzXQwjtSnvu",
     "replicaQuarries": [],
-    "slug": "renbtc-btc",
+    "slug": "btc-renbtc",
     "stakedToken": {
       "decimals": 8,
       "mint": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs"
@@ -55,13 +56,24 @@
         "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
         "underlyingTokenInfo": {
           "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
-          "tags": []
+          "tags": [
+            "saber-hidden"
+          ]
         }
       },
       "website": "https://saber.so"
@@ -113,15 +125,16 @@
     "decimals": 8,
     "extensions": {
       "source": "saber",
+      "sourceUrl": "https://bridge.renproject.io/mint",
       "underlyingTokens": [
         "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
         "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
       ],
-      "website": "https://app.saber.so/pools/renbtc_sbtc-8"
+      "website": "https://app.saber.so/pools/btc"
     },
     "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
-    "name": "Saber renBTC-BTC LP",
-    "symbol": "renBTC-BTC",
+    "name": "Saber BTC-renBTC LP",
+    "symbol": "BTC-renBTC",
     "tags": [
       "saber-stableswap-lp"
     ]
