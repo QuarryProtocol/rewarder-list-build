@@ -14376,6 +14376,117 @@
           "decimals": 6,
           "mint": "HUTcohdsuStHyqTx6RnCrvbgeMCY1QR8eRprBMFRQaRH"
         }
+      },
+      {
+        "index": 101,
+        "isReplica": false,
+        "mergePool": "9epDLjxBmgtMf9V1RRrnPd4vbhn3nGfE7gbTLzpjCpp4",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e"
+        },
+        "primaryTokenInfo": {
+          "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "source": "saber",
+            "underlyingTokens": [
+              "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+              "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+            ],
+            "website": "https://app.saber.so/pools/nirv_usdh"
+          },
+          "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e/icon.png",
+          "name": "Saber NIRV-USDH LP",
+          "symbol": "NIRV-USDH",
+          "tags": [
+            "saber-stableswap-lp"
+          ]
+        },
+        "quarry": "G5AyUriDUFzptFr2ipxfFqUxfQWz6kfdk3Wjkhxp7YKL",
+        "replicaMint": "B3WhvHacjLNg8KKdm2ccBxYox1aD4DQ3jc62ZfgQ1tuu",
+        "replicaQuarries": [],
+        "slug": "nirv-usdh",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e"
+        }
+      },
+      {
+        "index": 102,
+        "isReplica": false,
+        "mergePool": "CvpAnpa1k3CL4VXpeVA65TQWbDHwLafzuRjDgNr7kbvs",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y"
+        },
+        "primaryTokenInfo": {
+          "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "source": "saber",
+            "underlyingTokens": [
+              "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+              "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+            ],
+            "website": "https://app.saber.so/pools/nirv_usdt"
+          },
+          "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y/icon.png",
+          "name": "Saber NIRV-USDT LP",
+          "symbol": "NIRV-USDT",
+          "tags": [
+            "saber-stableswap-lp"
+          ]
+        },
+        "quarry": "4Z82JmmzXxz8tQPPJkbns52bWjvud8aWcTS3xAbcijk3",
+        "replicaMint": "7T6pMTwPbov47EWPTg5qjUironTCB35mY6khDr3eeasx",
+        "replicaQuarries": [],
+        "slug": "nirv-usdt",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y"
+        }
+      },
+      {
+        "index": 103,
+        "isReplica": false,
+        "mergePool": "9jRRxPgNCsT8zczVrBU3s87KaPLgNtvvsjqbP9xqixu9",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 6,
+          "mint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP"
+        },
+        "primaryTokenInfo": {
+          "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "source": "saber",
+            "underlyingTokens": [
+              "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "website": "https://app.saber.so/pools/nirv_usdc"
+          },
+          "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP/icon.png",
+          "name": "Saber NIRV-USDC LP",
+          "symbol": "NIRV-USDC",
+          "tags": [
+            "saber-stableswap-lp"
+          ]
+        },
+        "quarry": "GzoTtZx6LHqrS8Drws8f6vb66UgQb8JRe2rm4Lj9WTtA",
+        "replicaMint": "E5dAgqU2SXCxZQFJ1Z2Yi8a3juNi4PJ7YAx4gVCW5UK6",
+        "replicaQuarries": [],
+        "slug": "nirv-usdc",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP"
+        }
       }
     ],
     "rewardsToken": {

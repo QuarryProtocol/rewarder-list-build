@@ -8,11 +8,17 @@
       "decimals": 6,
       "mint": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb"
     },
-    "primaryTokenInfo": null,
+    "primaryTokenInfo": {
+      "address": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token 3Z25",
+      "symbol": "3Z25F"
+    },
     "quarry": "D7dam2CyEyQMYusjsRojn3H7XrCwqreTPT3sHr2jH32r",
     "replicaMint": "57FTSyMsisPavGa72yZxm571pesaYTUdhm78WrmprYev",
     "replicaQuarries": [],
-    "slug": "10",
+    "slug": "3z25f",
     "stakedToken": {
       "decimals": 6,
       "mint": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb"
@@ -78,6 +84,12 @@
     "name": "Token SRYW",
     "symbol": "SRYWv"
   },
-  "stakedToken": null,
+  "stakedToken": {
+    "address": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token 3Z25",
+    "symbol": "3Z25F"
+  },
   "underlyingTokens": []
 }

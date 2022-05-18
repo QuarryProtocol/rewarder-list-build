@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-18T18:11:16.765Z",
+  "timestamp": "2022-05-18T19:07:48.594Z",
   "tokens": [
     {
       "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
@@ -7224,6 +7224,63 @@
       "tags": [
         "currency",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "website": "https://app.saber.so/pools/nirv_usdc"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP/icon.png",
+      "name": "Saber NIRV-USDC LP",
+      "symbol": "NIRV-USDC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "website": "https://app.saber.so/pools/nirv_usdh"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e/icon.png",
+      "name": "Saber NIRV-USDH LP",
+      "symbol": "NIRV-USDH",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "website": "https://app.saber.so/pools/nirv_usdt"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y/icon.png",
+      "name": "Saber NIRV-USDT LP",
+      "symbol": "NIRV-USDT",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {

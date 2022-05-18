@@ -8,11 +8,17 @@
       "decimals": 8,
       "mint": "Ep3hAePNwF4Ug8DVRWAyWUonLM3MsWfGdz7TPp7AGfbf"
     },
-    "primaryTokenInfo": null,
+    "primaryTokenInfo": {
+      "address": "Ep3hAePNwF4Ug8DVRWAyWUonLM3MsWfGdz7TPp7AGfbf",
+      "chainId": 103,
+      "decimals": 8,
+      "name": "Token Ep3h",
+      "symbol": "Ep3hA"
+    },
     "quarry": "HRis9W5DrjrughzAex1VowVKjawHdcBaAnwd2ami2FoZ",
     "replicaMint": "BpnBAXMsXvL9BmVVRutHt1CPfVVNLkhRGWrxmbkppKgx",
     "replicaQuarries": [],
-    "slug": "11",
+    "slug": "ep3ha",
     "stakedToken": {
       "decimals": 8,
       "mint": "Ep3hAePNwF4Ug8DVRWAyWUonLM3MsWfGdz7TPp7AGfbf"
@@ -78,6 +84,12 @@
     "name": "Token SRYW",
     "symbol": "SRYWv"
   },
-  "stakedToken": null,
+  "stakedToken": {
+    "address": "Ep3hAePNwF4Ug8DVRWAyWUonLM3MsWfGdz7TPp7AGfbf",
+    "chainId": 103,
+    "decimals": 8,
+    "name": "Token Ep3h",
+    "symbol": "Ep3hA"
+  },
   "underlyingTokens": []
 }
