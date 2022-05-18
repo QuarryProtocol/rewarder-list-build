@@ -1,0 +1,83 @@
+{
+  "quarry": {
+    "index": 10,
+    "isReplica": false,
+    "mergePool": "DJw4XhiSNRtR5eaW9UzuHaFKiWZ1nrALKgseS3ASjbD5",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "D7dam2CyEyQMYusjsRojn3H7XrCwqreTPT3sHr2jH32r",
+    "replicaMint": "57FTSyMsisPavGa72yZxm571pesaYTUdhm78WrmprYev",
+    "replicaQuarries": [],
+    "slug": "10",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "3Z25Fd3ZMqBitYBVqMjPH9akQAnvLqm8A2LvYfPdmWJb"
+    }
+  },
+  "rewarder": {
+    "authority": "6nkKEQNWkMS1EXeypCQB5QvRVqSbDDxJM7furzPGmxmR",
+    "info": {
+      "address": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44",
+      "color": "#DC723F",
+      "description": "Solana's cross-chain DeFi yield aggregator.",
+      "hidden": true,
+      "id": "sunny",
+      "name": "Sunny Aggregator",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "sunny",
+        "redeemerKey": "vcrQ4VwhAzM98SgFYc5jpW29aeACRm6UsCK1kJeUh2x",
+        "redeemerVaultATA": "9nRrFiRtGNHRyou1mAjpMmtfzExKH8xgfYkmhBS3udPd",
+        "underlyingToken": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "underlyingTokenInfo": {
+          "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "sunny-aggregator",
+            "discord": "https://chat.sunny.ag",
+            "github": "https://github.com/SunnyAggregator",
+            "medium": "https://medium.com/sunny-aggregator",
+            "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+            "twitter": "https://twitter.com/SunnyAggregator",
+            "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+            "website": "https://sunny.ag/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+          "name": "Sunny Governance Token",
+          "symbol": "SUNNY"
+        }
+      },
+      "website": "https://sunny.ag"
+    },
+    "mintWrapper": "9AMTd87fjLQzVt2fM9fdm2h4RNWHBVv9QR1UvYt8fVHP",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC"
+    },
+    "rewardsTokenInfo": {
+      "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+      "chainId": 103,
+      "decimals": 6,
+      "name": "Token SRYW",
+      "symbol": "SRYWv"
+    },
+    "slug": "sunny"
+  },
+  "rewardsToken": {
+    "address": "SRYWvj5Xw1UoivpdfJN4hFZU1qbtceMvfM5nBc3PsRC",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token SRYW",
+    "symbol": "SRYWv"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
