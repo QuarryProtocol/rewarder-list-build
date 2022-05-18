@@ -239,6 +239,43 @@
         "decimals": 9,
         "mint": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt"
       }
+    },
+    {
+      "index": 4,
+      "isReplica": false,
+      "mergePool": "68XR3FNxurqjWLcuTExJx1s5zawkTZkF1kW9afCQoTA7",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT"
+      },
+      "primaryTokenInfo": {
+        "address": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "discord": "https://discord.gg/katana-hq",
+          "github": "https://github.com/Katana-Labs",
+          "twitter": "https://twitter.com/Katana_HQ",
+          "website": "https://app.katana.so"
+        },
+        "logoURI": "https://raw.githubusercontent.com/Katana-Labs/assets/master/token-list/E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT/logo.png",
+        "name": "Katana MSOL Covered Call Vault Share",
+        "symbol": "kcMSOL",
+        "tags": [
+          "Katana",
+          "share-token",
+          "utility-token"
+        ]
+      },
+      "quarry": "4vEpGyST5RVWpDEPp6FHrnkcbXyNN5sm9zpgzKgj3LQr",
+      "replicaMint": "5vvtprSabiwMXwk8rjRsr1hUnb3jUQsCrNo23UrcjQVx",
+      "replicaQuarries": [],
+      "slug": "kcmsol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT"
+      }
     }
   ],
   "rewardsToken": {

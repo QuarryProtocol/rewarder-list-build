@@ -4285,6 +4285,43 @@
         "decimals": 6,
         "mint": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP"
       }
+    },
+    {
+      "index": 104,
+      "isReplica": false,
+      "mergePool": "Fnd17vo6rx2Tn5oWQkmLfUu2KA3EphmjRURYcpeTGH5H",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa"
+      },
+      "primaryTokenInfo": {
+        "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/calusd_susdc-9"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa/icon.png",
+        "name": "Saber calUSD-USDC LP",
+        "symbol": "calUSD-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
+      "quarry": "AotTWCpKdh2GdHr1D73QYkjzu1GPDXEb6yot9q2z1h8A",
+      "replicaMint": "2J1ct3XjvRjeJJ9HjK9x6Pn1i13heRUaB5pidtKecQAw",
+      "replicaQuarries": [],
+      "slug": "calusd-usdc",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa"
+      }
     }
   ],
   "rewardsToken": {
