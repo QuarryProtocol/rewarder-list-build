@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "Token 5BbE",
+        "symbol": "5BbEG"
+      },
       "quarry": "87ojWCEfLKxqt8NpV8LGkYDpjAayws6BLbA5T2zDs7cA",
       "replicaMint": "6VK3T1MjkjkVKP8RbQJT6X2ceS3L3SoJUhmGJN3nPr1V",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5bbeg",
       "stakedToken": {
         "decimals": 6,
         "mint": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW"
@@ -30,11 +36,17 @@
         "decimals": 6,
         "mint": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "Token 97HZ",
+        "symbol": "97HZY"
+      },
       "quarry": "wb3f78nbpp7bV1hnmJBmy6ZdiDtxCg6jWXx9gHomaTC",
       "replicaMint": "E3stMWjprCLAzcvF4JuQ1SaeGnz7WDAX5t3sEmfFQePV",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "97hzy",
       "stakedToken": {
         "decimals": 6,
         "mint": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA"
@@ -42,9 +54,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token FUXD",
+    "symbol": "FUXDf"
+  },
   "slug": "Euv9QFYjjPVzF56Pvp8aUZisAnU465oKEfn858apHmsf"
 }
