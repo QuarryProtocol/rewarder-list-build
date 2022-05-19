@@ -11,11 +11,17 @@
         "decimals": 9,
         "mint": "FfnZQY4rhH9ADKzzogUULSNDtvp39gZqxytY26GLdAT6"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "FfnZQY4rhH9ADKzzogUULSNDtvp39gZqxytY26GLdAT6",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token FfnZ",
+        "symbol": "FfnZQ"
+      },
       "quarry": "93x19So5dYuDoAqtffKrb8ot9qCKZxeJDVt6TuGyjToe",
       "replicaMint": "2GKQDhkZYh1CEEKdo7MrDxA4pSfF8saXYKQSs4RF4aDa",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ffnzq",
       "stakedToken": {
         "decimals": 9,
         "mint": "FfnZQY4rhH9ADKzzogUULSNDtvp39gZqxytY26GLdAT6"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "XwDPN7CArdsCFr2XBoEdBndFKw8bWCDuUX1ZgcAzruL"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "XwDPN7CArdsCFr2XBoEdBndFKw8bWCDuUX1ZgcAzruL",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token XwDP",
+    "symbol": "XwDPN"
+  },
   "slug": "8nCvnukz9GjM8aRCLPpc8odGPCEvUwsBujuhqmSY7sUJ"
 }
