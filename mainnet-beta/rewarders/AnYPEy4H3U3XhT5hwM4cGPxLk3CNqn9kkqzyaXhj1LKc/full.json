@@ -26,13 +26,20 @@
         "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
         "chainId": 101,
         "decimals": 6,
-        "name": "Token CGcz",
-        "symbol": "CGczF"
+        "extensions": {
+          "website": "https://soluna.money/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9/icon.svg",
+        "name": "Staked solUST",
+        "symbol": "yiSolUST",
+        "tags": [
+          "stablecoin"
+        ]
       },
       "quarry": "87rkhCSK8AzJCe7SbEaah7nCA1i62mkv1Q656xFmQwKe",
       "replicaMint": "BKquiZw4J9Lkq5EXZZkwLcCrLsp9VFQCCnnrGgRDWxq1",
       "replicaQuarries": [],
-      "slug": "cgczf",
+      "slug": "yisolust",
       "stakedToken": {
         "decimals": 6,
         "mint": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9"

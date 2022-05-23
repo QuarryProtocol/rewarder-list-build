@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-05-23T05:50:04.911Z",
+  "timestamp": "2022-05-23T05:58:29.705Z",
   "tokens": [
     {
       "address": "121bVXHjRVKoTVhwbN7iubM1UDR5GnE1mTKjMxV3HdXH",
@@ -2143,7 +2143,7 @@
         "currency": "USD",
         "website": "https://saber.so/"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
       "name": "USD Coin (Saber Devnet)",
       "symbol": "USDC",
       "tags": [
@@ -6613,6 +6613,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "usd-coin",
         "currency": "USD"
       },
       "logoURI": "https://registry.saber.so/token-icons/candy-usd.png",
@@ -6795,6 +6796,7 @@
       "chainId": 103,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "parrot-usd",
         "currency": "USD"
       },
       "logoURI": "https://registry.saber.so/token-icons/pai.svg",
@@ -31993,7 +31995,7 @@
         "currency": "USD",
         "website": "https://saber.so/"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
       "name": "USDT (Saber Devnet)",
       "symbol": "USDT",
       "tags": [
@@ -42160,6 +42162,7 @@
       "chainId": 103,
       "decimals": 8,
       "extensions": {
+        "coingeckoId": "renbtc",
         "currency": "BTC"
       },
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png",

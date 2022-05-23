@@ -69,7 +69,7 @@
             "twitter": "https://twitter.com/CashioApp",
             "website": "https://cashio.app"
           },
-          "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
           "name": "Cash Cow",
           "symbol": "COW",
           "tags": [
@@ -119,7 +119,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
       "name": "Cash Cow",
       "symbol": "COW",
       "tags": [
@@ -138,7 +138,7 @@
       "twitter": "https://twitter.com/CashioApp",
       "website": "https://cashio.app"
     },
-    "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
     "name": "Cash Cow",
     "symbol": "COW",
     "tags": [
@@ -181,7 +181,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "website": "https://parrot.fi"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
       "name": "PAI (Parrot USD)",
       "symbol": "PAI",
       "tags": [
@@ -195,16 +195,21 @@
       "chainId": 101,
       "decimals": 6,
       "extensions": {
+        "coingeckoId": "cashio-dollar",
+        "currency": "USD",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "medium": "https://medium.com/@cashioapp",
+        "source": "cashio",
+        "sourceUrl": "https://cashio.app/",
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
       "name": "Cashio Dollar",
       "symbol": "CASH",
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     }
   ]

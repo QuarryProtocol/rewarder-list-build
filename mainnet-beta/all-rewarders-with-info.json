@@ -44,7 +44,7 @@
             "coingeckoId": "frax-share"
           },
           "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
-          "name": "Frax Share (Wormhole)",
+          "name": "Frax Share (Portal)",
           "symbol": "FXS",
           "tags": [
             "wrapped",
@@ -266,7 +266,7 @@
             "website": "https://lido.fi/"
           },
           "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
-          "name": "Lido DAO Token (Wormhole)",
+          "name": "Lido DAO Token (Portal)",
           "symbol": "LDO",
           "tags": [
             "wrapped",
@@ -527,12 +527,13 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets",
             "website": "https://port.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
           "name": "Port Finance USDT",
           "symbol": "pUSDT",
           "tags": [
@@ -567,7 +568,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -780,7 +781,7 @@
             "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
             "website": "https://www.centre.io/"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
           "name": "USD Coin",
           "symbol": "USDC",
           "tags": [
@@ -987,7 +988,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -1079,7 +1080,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -1171,7 +1172,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -1299,7 +1300,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -2219,7 +2220,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
       "name": "Cash Cow",
       "symbol": "COW",
       "tags": [
@@ -6129,7 +6130,7 @@
             "source": "wormhole-v2",
             "sourceUrl": "https://wormholebridge.com/#/transfer"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
           "name": "LUNA (Wormhole)",
           "symbol": "LUNA",
           "tags": [
@@ -6214,7 +6215,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -6631,13 +6632,20 @@
           "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
           "chainId": 101,
           "decimals": 6,
-          "name": "Token CGcz",
-          "symbol": "CGczF"
+          "extensions": {
+            "website": "https://soluna.money/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9/icon.svg",
+          "name": "Staked solUST",
+          "symbol": "yiSolUST",
+          "tags": [
+            "stablecoin"
+          ]
         },
         "quarry": "87rkhCSK8AzJCe7SbEaah7nCA1i62mkv1Q656xFmQwKe",
         "replicaMint": "BKquiZw4J9Lkq5EXZZkwLcCrLsp9VFQCCnnrGgRDWxq1",
         "replicaQuarries": [],
-        "slug": "cgczf",
+        "slug": "yisolust",
         "stakedToken": {
           "decimals": 6,
           "mint": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9"
@@ -7258,7 +7266,7 @@
             "website": "https://lido.fi/"
           },
           "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
-          "name": "Lido DAO Token (Wormhole)",
+          "name": "Lido DAO Token (Portal)",
           "symbol": "LDO",
           "tags": [
             "wrapped",
@@ -8353,13 +8361,24 @@
           "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
           "chainId": 101,
           "decimals": 6,
-          "name": "Token 5BbE",
-          "symbol": "5BbEG"
+          "extensions": {
+            "description": "2XD Token",
+            "discord": "https://discord.gg/prcWsTvTm9",
+            "medium": "https://medium.com/@2XD",
+            "twitter": "https://twitter.com/2XDProtocol",
+            "website": "https://2xd.fi/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW/logo.png",
+          "name": "2XD",
+          "symbol": "2XD",
+          "tags": [
+            "lp-token"
+          ]
         },
         "quarry": "87ojWCEfLKxqt8NpV8LGkYDpjAayws6BLbA5T2zDs7cA",
         "replicaMint": "6VK3T1MjkjkVKP8RbQJT6X2ceS3L3SoJUhmGJN3nPr1V",
         "replicaQuarries": [],
-        "slug": "5bbeg",
+        "slug": "2xd",
         "stakedToken": {
           "decimals": 6,
           "mint": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW"
@@ -8378,13 +8397,24 @@
           "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
           "chainId": 101,
           "decimals": 6,
-          "name": "Token 97HZ",
-          "symbol": "97HZY"
+          "extensions": {
+            "description": "2XD-USDC LP Token",
+            "discord": "https://discord.gg/prcWsTvTm9",
+            "medium": "https://medium.com/@2XD",
+            "twitter": "https://twitter.com/2XDProtocol",
+            "website": "https://2xd.fi/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA/logo.png",
+          "name": "2XD-USDC LP",
+          "symbol": "2XD-USDC",
+          "tags": [
+            "lp-token"
+          ]
         },
         "quarry": "wb3f78nbpp7bV1hnmJBmy6ZdiDtxCg6jWXx9gHomaTC",
         "replicaMint": "E3stMWjprCLAzcvF4JuQ1SaeGnz7WDAX5t3sEmfFQePV",
         "replicaQuarries": [],
-        "slug": "97hzy",
+        "slug": "2xd-usdc",
         "stakedToken": {
           "decimals": 6,
           "mint": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA"
@@ -8399,8 +8429,16 @@
       "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
       "chainId": 101,
       "decimals": 6,
-      "name": "Token FUXD",
-      "symbol": "FUXDf"
+      "extensions": {
+        "description": "FUXD Token",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "medium": "https://medium.com/@2XD",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "website": "https://2xd.fi/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
+      "name": "FUXD",
+      "symbol": "FUXD"
     },
     "slug": "2xd"
   },
@@ -9024,7 +9062,7 @@
                 "twitter": "https://twitter.com/CashioApp",
                 "website": "https://cashio.app"
               },
-              "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
               "name": "Cash Cow",
               "symbol": "COW",
               "tags": [
@@ -9124,12 +9162,13 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "tether",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets",
             "website": "https://port.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
           "name": "Port Finance USDT",
           "symbol": "pUSDT",
           "tags": [
@@ -9162,12 +9201,13 @@
           "chainId": 101,
           "decimals": 6,
           "extensions": {
+            "coingeckoId": "usd-coin",
             "currency": "USD",
             "source": "port",
             "sourceUrl": "https://mainnet.port.finance/#/markets",
             "website": "https://port.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
           "name": "Port Finance USDC",
           "symbol": "pUSDC",
           "tags": [
@@ -9341,7 +9381,7 @@
             "sourceUrl": "https://mainnet.port.finance/#/markets",
             "website": "https://port.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg.svg",
           "name": "Port Finance SOL",
           "symbol": "pSOL",
           "tags": [
@@ -9379,7 +9419,7 @@
             "sourceUrl": "https://mainnet.port.finance/#/markets",
             "website": "https://port.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
           "name": "Port Finance mSOL",
           "symbol": "pmSOL",
           "tags": [
@@ -9561,7 +9601,7 @@
             "twitter": "https://twitter.com/UXDProtocol",
             "website": "https://uxd.fi/"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
           "name": "UXD Stablecoin",
           "symbol": "UXD",
           "tags": [
@@ -9797,7 +9837,7 @@
             "twitter": "https://twitter.com/MarinadeFinance",
             "website": "https://marinade.finance"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
           "name": "Marinade staked SOL (mSOL)",
           "symbol": "mSOL",
           "tags": [
@@ -10388,7 +10428,7 @@
             "waterfallbot": "https://bit.ly/SBRwaterfall",
             "website": "https://saber.so"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
           "tags": [

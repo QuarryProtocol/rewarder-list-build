@@ -26,13 +26,24 @@
         "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
         "chainId": 101,
         "decimals": 6,
-        "name": "Token 5BbE",
-        "symbol": "5BbEG"
+        "extensions": {
+          "description": "2XD Token",
+          "discord": "https://discord.gg/prcWsTvTm9",
+          "medium": "https://medium.com/@2XD",
+          "twitter": "https://twitter.com/2XDProtocol",
+          "website": "https://2xd.fi/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW/logo.png",
+        "name": "2XD",
+        "symbol": "2XD",
+        "tags": [
+          "lp-token"
+        ]
       },
       "quarry": "87ojWCEfLKxqt8NpV8LGkYDpjAayws6BLbA5T2zDs7cA",
       "replicaMint": "6VK3T1MjkjkVKP8RbQJT6X2ceS3L3SoJUhmGJN3nPr1V",
       "replicaQuarries": [],
-      "slug": "5bbeg",
+      "slug": "2xd",
       "stakedToken": {
         "decimals": 6,
         "mint": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW"
@@ -51,13 +62,24 @@
         "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
         "chainId": 101,
         "decimals": 6,
-        "name": "Token 97HZ",
-        "symbol": "97HZY"
+        "extensions": {
+          "description": "2XD-USDC LP Token",
+          "discord": "https://discord.gg/prcWsTvTm9",
+          "medium": "https://medium.com/@2XD",
+          "twitter": "https://twitter.com/2XDProtocol",
+          "website": "https://2xd.fi/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA/logo.png",
+        "name": "2XD-USDC LP",
+        "symbol": "2XD-USDC",
+        "tags": [
+          "lp-token"
+        ]
       },
       "quarry": "wb3f78nbpp7bV1hnmJBmy6ZdiDtxCg6jWXx9gHomaTC",
       "replicaMint": "E3stMWjprCLAzcvF4JuQ1SaeGnz7WDAX5t3sEmfFQePV",
       "replicaQuarries": [],
-      "slug": "97hzy",
+      "slug": "2xd-usdc",
       "stakedToken": {
         "decimals": 6,
         "mint": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA"
@@ -72,8 +94,16 @@
     "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
     "chainId": 101,
     "decimals": 6,
-    "name": "Token FUXD",
-    "symbol": "FUXDf"
+    "extensions": {
+      "description": "FUXD Token",
+      "discord": "https://discord.gg/prcWsTvTm9",
+      "medium": "https://medium.com/@2XD",
+      "twitter": "https://twitter.com/2XDProtocol",
+      "website": "https://2xd.fi/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
+    "name": "FUXD",
+    "symbol": "FUXD"
   },
   "slug": "2xd"
 }

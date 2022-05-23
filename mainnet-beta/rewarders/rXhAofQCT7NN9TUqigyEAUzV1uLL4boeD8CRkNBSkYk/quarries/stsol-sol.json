@@ -106,7 +106,7 @@
             "waterfallbot": "https://bit.ly/SBRwaterfall",
             "website": "https://saber.so"
           },
-          "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
           "name": "Saber Protocol Token",
           "symbol": "SBR",
           "tags": [
@@ -182,6 +182,7 @@
       "chainId": 101,
       "decimals": 9,
       "extensions": {
+        "coingeckoId": "solana",
         "currency": "SOL",
         "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
         "source": "lido",
@@ -189,7 +190,7 @@
         "twitter": "https://twitter.com/LidoFinance",
         "website": "https://solana.lido.fi/"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
       "name": "Lido Staked SOL",
       "symbol": "stSOL",
       "tags": [
@@ -207,7 +208,7 @@
         "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
         "website": "https://solana.com/"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
       "name": "Wrapped SOL",
       "symbol": "SOL",
       "tags": [

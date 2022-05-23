@@ -145,11 +145,12 @@
       "chainId": 101,
       "decimals": 9,
       "extensions": {
+        "coingeckoId": "celo-euro",
         "currency": "EUR",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       },
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
       "name": "Wrapped CEUR (Allbridge from Celo)",
       "symbol": "acEUR",
       "tags": [
