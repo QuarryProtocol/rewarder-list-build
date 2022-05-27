@@ -8429,11 +8429,17 @@
           "decimals": 6,
           "mint": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt",
+          "chainId": 101,
+          "decimals": 6,
+          "name": "Token F73X",
+          "symbol": "F73X9"
+        },
         "quarry": "FS83Qepp5G1Cp8frK9pbw9UEuLMEuywPGi1kzjcajGMH",
         "replicaMint": "6uMGoDsRByPscSUe8fu4UuKCKcnDWVMwqmsS1YPxRFvb",
         "replicaQuarries": [],
-        "slug": "2",
+        "slug": "f73x9",
         "stakedToken": {
           "decimals": 6,
           "mint": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt"
