@@ -1,0 +1,73 @@
+{
+  "quarry": {
+    "index": 2,
+    "isReplica": false,
+    "mergePool": "6GGaPApd1pLLHtCZ9xk1eRz91UD8cM7RU16rMyzWR3Sa",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 6,
+      "mint": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "FS83Qepp5G1Cp8frK9pbw9UEuLMEuywPGi1kzjcajGMH",
+    "replicaMint": "6uMGoDsRByPscSUe8fu4UuKCKcnDWVMwqmsS1YPxRFvb",
+    "replicaQuarries": [],
+    "slug": "2",
+    "stakedToken": {
+      "decimals": 6,
+      "mint": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt"
+    }
+  },
+  "rewarder": {
+    "authority": "5a5HuAvwZiojFVZwK8tuiDhatZT4FNM6hgu6CGAdBaAV",
+    "info": {
+      "address": "Euv9QFYjjPVzF56Pvp8aUZisAnU465oKEfn858apHmsf",
+      "color": "#59FF04",
+      "description": "Get FUXD",
+      "id": "2xd",
+      "name": "2XD",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://2xd.fi/"
+    },
+    "mintWrapper": "AfU9aoGc4LX2eSEwwt4SxANvjhTiWfYqtk2utx8mQ3dg",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf"
+    },
+    "rewardsTokenInfo": {
+      "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "description": "FUXD Token",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "medium": "https://medium.com/@2XD",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "website": "https://2xd.fi/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
+      "name": "FUXD",
+      "symbol": "FUXD"
+    },
+    "slug": "2xd"
+  },
+  "rewardsToken": {
+    "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "description": "FUXD Token",
+      "discord": "https://discord.gg/prcWsTvTm9",
+      "medium": "https://medium.com/@2XD",
+      "twitter": "https://twitter.com/2XDProtocol",
+      "website": "https://2xd.fi/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
+    "name": "FUXD",
+    "symbol": "FUXD"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
