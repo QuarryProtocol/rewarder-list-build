@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "BuDreXUeePuE6WKj3ph9fYgUExCxfVVVgF8sWGC9DMSF"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "BuDreXUeePuE6WKj3ph9fYgUExCxfVVVgF8sWGC9DMSF",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token BuDr",
+        "symbol": "BuDre"
+      },
       "quarry": "FJHEdHkdcGxcCxv4UqYXFrhFPrRmQikqxERj5VY7dd1g",
       "replicaMint": "9pu88iQNh4k92iXgRyhmfve8PH4t8x1zUUgbTnbG2xHs",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "budre",
       "stakedToken": {
         "decimals": 6,
         "mint": "BuDreXUeePuE6WKj3ph9fYgUExCxfVVVgF8sWGC9DMSF"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gf2z12cmXuZ1MaJTHG5sD2kqFpEMwBsEqqTZxenZFHCo"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "Gf2z12cmXuZ1MaJTHG5sD2kqFpEMwBsEqqTZxenZFHCo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gf2z",
+    "symbol": "Gf2z1"
+  },
   "slug": "9jCmMydFQp5bxo4W8ZhYc3sJuXURgeeNy6EdwS2j67fn"
 }

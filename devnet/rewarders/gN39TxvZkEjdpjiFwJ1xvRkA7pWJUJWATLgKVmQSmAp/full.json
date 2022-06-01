@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "6j6BvncLqUpPvt23bqQU8MqeyxnbVSny3LBTrQUN57cE"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "6j6BvncLqUpPvt23bqQU8MqeyxnbVSny3LBTrQUN57cE",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token 6j6B",
+        "symbol": "6j6Bv"
+      },
       "quarry": "GNFA4TvUD9ivrxEz8wMb9raoNjVcs4LbG2598qGUbTFg",
       "replicaMint": "H4NqM3Bhmk8MCjSEitCozkkK93VYcBAt8zwkPiAr3cwb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6j6bv",
       "stakedToken": {
         "decimals": 6,
         "mint": "6j6BvncLqUpPvt23bqQU8MqeyxnbVSny3LBTrQUN57cE"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "F2fPonYu84cEjPnAvNmze5CbuysQRbabMcLkU9YbJE93"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "F2fPonYu84cEjPnAvNmze5CbuysQRbabMcLkU9YbJE93",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token F2fP",
+    "symbol": "F2fPo"
+  },
   "slug": "gN39TxvZkEjdpjiFwJ1xvRkA7pWJUJWATLgKVmQSmAp"
 }

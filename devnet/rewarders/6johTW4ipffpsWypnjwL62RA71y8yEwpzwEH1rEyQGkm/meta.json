@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "2wnid2Drb6hXjGupgZhufvGHpcPsRSb1upqJKbcq3Foy",
-      "slug": "0",
+      "slug": "espeh",
       "stakedToken": {
         "decimals": 6,
         "mint": "ESPEH7NXCh3epCneDrcge1a2cAQugqT8vaX5EvkuqKeq"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E2NLp4M7cDLTpstAHcJawYDmekqUXFdBzBZMtnTscbGT"
+  },
+  "rewardsTokenInfo": {
+    "address": "E2NLp4M7cDLTpstAHcJawYDmekqUXFdBzBZMtnTscbGT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E2NL",
+    "symbol": "E2NLp"
   }
 }

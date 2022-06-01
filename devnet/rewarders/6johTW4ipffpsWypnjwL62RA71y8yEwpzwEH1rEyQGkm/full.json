@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "ESPEH7NXCh3epCneDrcge1a2cAQugqT8vaX5EvkuqKeq"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "ESPEH7NXCh3epCneDrcge1a2cAQugqT8vaX5EvkuqKeq",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token ESPE",
+        "symbol": "ESPEH"
+      },
       "quarry": "2wnid2Drb6hXjGupgZhufvGHpcPsRSb1upqJKbcq3Foy",
       "replicaMint": "AYGJUzamaxFpCuE3wqaKkxw1Z9MLTXSDmD4uRJpbc97d",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "espeh",
       "stakedToken": {
         "decimals": 6,
         "mint": "ESPEH7NXCh3epCneDrcge1a2cAQugqT8vaX5EvkuqKeq"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "E2NLp4M7cDLTpstAHcJawYDmekqUXFdBzBZMtnTscbGT"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "E2NLp4M7cDLTpstAHcJawYDmekqUXFdBzBZMtnTscbGT",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token E2NL",
+    "symbol": "E2NLp"
+  },
   "slug": "6johTW4ipffpsWypnjwL62RA71y8yEwpzwEH1rEyQGkm"
 }

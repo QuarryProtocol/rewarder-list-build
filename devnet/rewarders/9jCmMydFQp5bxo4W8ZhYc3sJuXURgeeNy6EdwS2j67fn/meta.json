@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "FJHEdHkdcGxcCxv4UqYXFrhFPrRmQikqxERj5VY7dd1g",
-      "slug": "0",
+      "slug": "budre",
       "stakedToken": {
         "decimals": 6,
         "mint": "BuDreXUeePuE6WKj3ph9fYgUExCxfVVVgF8sWGC9DMSF"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Gf2z12cmXuZ1MaJTHG5sD2kqFpEMwBsEqqTZxenZFHCo"
+  },
+  "rewardsTokenInfo": {
+    "address": "Gf2z12cmXuZ1MaJTHG5sD2kqFpEMwBsEqqTZxenZFHCo",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token Gf2z",
+    "symbol": "Gf2z1"
   }
 }
