@@ -4566,6 +4566,43 @@
         "decimals": 9,
         "mint": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot"
       }
+    },
+    {
+      "index": 107,
+      "isReplica": false,
+      "mergePool": "6uUzdYpVJ7jXTjQK8AAas8kmJrwhP91SmGfhqU45ekSY",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 8,
+        "mint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP"
+      },
+      "primaryTokenInfo": {
+        "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+        "chainId": 101,
+        "decimals": 8,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+            "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
+          ],
+          "website": "https://app.saber.so/pools/fabric_usd"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP/icon.png",
+        "name": "Saber USDC-fUSD LP",
+        "symbol": "USDC-fUSD",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
+      "quarry": "9oPMBb3uUEmF5ow2sYdwmQ9jRCs3zmy2z43gDfpk6D97",
+      "replicaMint": "Hfo5VKNN1ritkAkHthrwJ23GdjRR1WShZZD3Qnpo2ina",
+      "replicaQuarries": [],
+      "slug": "usdc-fusd",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP"
+      }
     }
   ],
   "rewardsToken": {
