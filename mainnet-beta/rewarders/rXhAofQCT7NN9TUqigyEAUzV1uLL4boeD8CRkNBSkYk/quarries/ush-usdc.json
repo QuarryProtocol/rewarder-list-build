@@ -1,0 +1,181 @@
+{
+  "quarry": {
+    "index": 105,
+    "isReplica": false,
+    "mergePool": "7s4kc5yCqb6tBTNH6xYHjJA8X4JJ3ig4D6Jf7FpAKxh3",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi"
+    },
+    "primaryTokenInfo": {
+      "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "website": "https://app.saber.so/pools/ush"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi/icon.png",
+      "name": "Saber USH-USDC LP",
+      "symbol": "USH-USDC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    "quarry": "6SUsK6XFMK3E1f7a1P8JGwUrxXNDiEL1wTM15ozghVJ1",
+    "replicaMint": "6kbEk5SdynqooJHXc7r1P3n8mPDWLN1T2RShLibwEK58",
+    "replicaQuarries": [],
+    "slug": "ush-usdc",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi"
+    }
+  },
+  "rewarder": {
+    "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+        "twitter": "https://twitter.com/saber_hq",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber IOU Token (Liquidity Mining Rewards)",
+      "symbol": "SBR"
+    },
+    "slug": "saber"
+  },
+  "rewardsToken": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "saber",
+      "discord": "https://chat.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+      "twitter": "https://twitter.com/saber_hq",
+      "website": "https://saber.so"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber IOU Token (Liquidity Mining Rewards)",
+    "symbol": "SBR"
+  },
+  "stakedToken": {
+    "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+        "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+      ],
+      "website": "https://app.saber.so/pools/ush"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi/icon.png",
+    "name": "Saber USH-USDC LP",
+    "symbol": "USH-USDC",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY",
+        "source": "hedge",
+        "sourceUrl": "https://hedge.so",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "website": "https://www.hedge.so/"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+      "name": "Hedge USD",
+      "symbol": "USH",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD",
+        "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+        "website": "https://www.centre.io/"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ]
+    }
+  ]
+}
