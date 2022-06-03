@@ -6,15 +6,15 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "1654188800",
-        "numMiners": "1",
-        "rewardsPerTokenStored": "0",
+        "lastUpdateTs": "1654190322",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "203532434940322112416",
         "rewardsShare": "1200",
-        "totalTokensDeposited": "50000"
+        "totalTokensDeposited": "70284"
       },
       "index": 0,
       "quarry": "ErDddmjwmcNJzqSM7a7oi9iMBBrLpsnWPJSj4dzSGZ8D",
-      "slug": "0",
+      "slug": "gkrdz",
       "stakedToken": {
         "decimals": 2,
         "mint": "GKrdZWvrvNoe7zGbtMS5NqPFdra6BriHrU1FDvNZ1c2i"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EifSC1As7dk2vsbuZ58CSwRF7uETH4E8a7TLmTzW61WG"
+  },
+  "rewardsTokenInfo": {
+    "address": "EifSC1As7dk2vsbuZ58CSwRF7uETH4E8a7TLmTzW61WG",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token EifS",
+    "symbol": "EifSC"
   }
 }
