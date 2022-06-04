@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2022-06-04T00:41:11.282Z",
+  "timestamp": "2022-06-04T02:40:53.431Z",
   "tokens": [
     {
       "address": "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer",
@@ -2182,7 +2182,8 @@
       "name": "Hedge USD",
       "symbol": "USH",
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     },
     {
@@ -3370,7 +3371,8 @@
       "symbol": "fUSD",
       "tags": [
         "fabric",
-        "synthetics"
+        "synthetics",
+        "saber-mkt-usd"
       ]
     },
     {
@@ -7757,7 +7759,8 @@
       "name": "USN (Allbridge from Near)",
       "symbol": "USN",
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ]
     },
     {
