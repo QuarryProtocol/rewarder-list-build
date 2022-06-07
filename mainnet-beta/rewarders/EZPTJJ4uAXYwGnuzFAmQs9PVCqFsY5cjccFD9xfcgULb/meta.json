@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BjuFwmnN7mGK63hceS529DYTFciuUzdi8QahCQyNu9zG",
-      "slug": "0",
+      "slug": "ffmnw",
       "stakedToken": {
         "decimals": 2,
         "mint": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FsSoxG8z5PjQ3BfDqmVkTqzQ22FKyAnWExSDK314UpPd"
+  },
+  "rewardsTokenInfo": {
+    "address": "FsSoxG8z5PjQ3BfDqmVkTqzQ22FKyAnWExSDK314UpPd",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token FsSo",
+    "symbol": "FsSox"
   }
 }
