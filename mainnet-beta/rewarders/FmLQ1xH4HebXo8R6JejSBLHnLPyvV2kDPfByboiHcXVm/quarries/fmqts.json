@@ -28,11 +28,24 @@
     "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
     "mintWrapper": "AY2QzJNgJKBYStzqcTsayCc3fzuziDxjSJKbxqHPdet9",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 2,
       "mint": "EfeRYXstoMBwUyTXHvTyhknepu6bGiKz9FtqUr2LgCYc"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "EfeRYXstoMBwUyTXHvTyhknepu6bGiKz9FtqUr2LgCYc",
+      "chainId": 101,
+      "decimals": 2,
+      "name": "Token EfeR",
+      "symbol": "EfeRY"
+    },
     "slug": "FmLQ1xH4HebXo8R6JejSBLHnLPyvV2kDPfByboiHcXVm"
+  },
+  "rewardsToken": {
+    "address": "EfeRYXstoMBwUyTXHvTyhknepu6bGiKz9FtqUr2LgCYc",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token EfeR",
+    "symbol": "EfeRY"
   },
   "stakedToken": {
     "address": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU",

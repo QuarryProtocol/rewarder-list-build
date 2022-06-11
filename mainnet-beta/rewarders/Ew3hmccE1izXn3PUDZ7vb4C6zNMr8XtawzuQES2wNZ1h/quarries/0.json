@@ -28,11 +28,24 @@
     "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
     "mintWrapper": "2CUBMJMK1AY54rVoCPFY9d83oVgRWedv1PZxuws3c6XY",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "9Z1M618MtFEJkR5ChXUmzpjwDTgzjtoPE5arYNdgoE5w"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "9Z1M618MtFEJkR5ChXUmzpjwDTgzjtoPE5arYNdgoE5w",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 9Z1M",
+      "symbol": "9Z1M6"
+    },
     "slug": "Ew3hmccE1izXn3PUDZ7vb4C6zNMr8XtawzuQES2wNZ1h"
+  },
+  "rewardsToken": {
+    "address": "9Z1M618MtFEJkR5ChXUmzpjwDTgzjtoPE5arYNdgoE5w",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Token 9Z1M",
+    "symbol": "9Z1M6"
   },
   "stakedToken": {
     "address": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU",

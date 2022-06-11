@@ -36,11 +36,24 @@
     "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
     "mintWrapper": "HvmaHTV3TcQttEct64Q4J4LUfhpT6XBnkEecEV5pUCYX",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 2,
       "mint": "2mFFRVj1Zm4oWrxPjN8poKXJ8bdJZcDhe98u9M1eqWvD"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "2mFFRVj1Zm4oWrxPjN8poKXJ8bdJZcDhe98u9M1eqWvD",
+      "chainId": 101,
+      "decimals": 2,
+      "name": "Token 2mFF",
+      "symbol": "2mFFR"
+    },
     "slug": "3niK4KRTpo8m12op426LA9eGZ3fMJcpaCRQy2dencDvD"
+  },
+  "rewardsToken": {
+    "address": "2mFFRVj1Zm4oWrxPjN8poKXJ8bdJZcDhe98u9M1eqWvD",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token 2mFF",
+    "symbol": "2mFFR"
   },
   "stakedToken": {
     "address": "CN7qFa5iYkHz99PTctvT4xXUHnxwjQ5MHxCuTJtPN5uS",

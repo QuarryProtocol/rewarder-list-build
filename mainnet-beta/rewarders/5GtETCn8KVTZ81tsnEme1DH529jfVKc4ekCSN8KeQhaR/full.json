@@ -11,11 +11,17 @@
         "decimals": 9,
         "mint": "Aox49moN6MugLheGwqMBTLi7aFojfhtiLxtHsaQzJgoh"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "Aox49moN6MugLheGwqMBTLi7aFojfhtiLxtHsaQzJgoh",
+        "chainId": 101,
+        "decimals": 9,
+        "name": "Token Aox4",
+        "symbol": "Aox49"
+      },
       "quarry": "B88zFXjY29tSPqdKukurrbnBPpGToX1fCDhpoEPg7EGM",
       "replicaMint": "4HzcPww6xTC9BrEpFXv4YFhCojLyBShUJhwRz1pB6Jch",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "aox49",
       "stakedToken": {
         "decimals": 9,
         "mint": "Aox49moN6MugLheGwqMBTLi7aFojfhtiLxtHsaQzJgoh"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "5nzGVctzCEkMuJEAmyxrbchLEyRjsBqt3oY7WpHNwqcP"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "5nzGVctzCEkMuJEAmyxrbchLEyRjsBqt3oY7WpHNwqcP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Token 5nzG",
+    "symbol": "5nzGV"
+  },
   "slug": "5GtETCn8KVTZ81tsnEme1DH529jfVKc4ekCSN8KeQhaR"
 }
