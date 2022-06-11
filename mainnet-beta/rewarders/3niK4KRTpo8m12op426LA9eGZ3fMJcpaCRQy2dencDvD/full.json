@@ -1,0 +1,45 @@
+{
+  "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
+  "mintWrapper": "HvmaHTV3TcQttEct64Q4J4LUfhpT6XBnkEecEV5pUCYX",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "EonYndZTaL3Z4ToE6cx7LeEoSBwWEwqcFxEUr5fghnZB",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "CN7qFa5iYkHz99PTctvT4xXUHnxwjQ5MHxCuTJtPN5uS"
+      },
+      "primaryTokenInfo": {
+        "address": "CN7qFa5iYkHz99PTctvT4xXUHnxwjQ5MHxCuTJtPN5uS",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "coingeckoId": "boryoku-dragonz",
+          "coinmarketcap": "https://coinmarketcap.com/currencies/boku/",
+          "serumV3Usdc": "Dvm8jjdAy8uyXn9WXjS2p1mcPeFTuYS6yW2eUL9SJE8p",
+          "twitter": "https://twitter.com/BoryokuDragonz",
+          "website": "https://boryokudragonz.io"
+        },
+        "logoURI": "https://boryoku-dragonz-public.s3.us-east-2.amazonaws.com/BokuBrew.png",
+        "name": "Boryoku Dragonz",
+        "symbol": "BOKU"
+      },
+      "quarry": "D6GjoeL48GyCHFz9riZVdgzhkHvanfiLukorEK6ok33d",
+      "replicaMint": "7us1dWcaFvu1MZdXuPwvUkJVSyKHCWph3FbYXnYCiBfZ",
+      "replicaQuarries": [],
+      "slug": "boku",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "CN7qFa5iYkHz99PTctvT4xXUHnxwjQ5MHxCuTJtPN5uS"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": -1,
+    "mint": "2mFFRVj1Zm4oWrxPjN8poKXJ8bdJZcDhe98u9M1eqWvD"
+  },
+  "rewardsTokenInfo": null,
+  "slug": "3niK4KRTpo8m12op426LA9eGZ3fMJcpaCRQy2dencDvD"
+}

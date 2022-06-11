@@ -15,7 +15,7 @@
       "name": "Token FmqT",
       "symbol": "FmqTS"
     },
-    "quarry": "D4xgVP6AvA4cRVWg7cNvaASYgrUnD6GFim5NtqLKYBS3",
+    "quarry": "GPZH3QeHrLfBaGGyy4inmk5hQim7FKRkS9KNaPa1dizr",
     "replicaMint": "9ev5r1g6beWNRwuWyxg5yHC7AtBXSoLaWVcGAgv2uCcE",
     "replicaQuarries": [],
     "slug": "fmqts",
@@ -26,26 +26,13 @@
   },
   "rewarder": {
     "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
-    "mintWrapper": "4HK5stsCETy4EWY3SSyEegYqEaaysWoV8mSdFfrK4qJK",
+    "mintWrapper": "HAE5gFMyYGDuYKx9NYWVtWeyT9h1EY2twFkYuEbWxBbj",
     "rewardsToken": {
-      "decimals": 2,
-      "mint": "7ySQKPthCgce2Px8yWZPpCz4vtG1A7H5s3JmFyNCQkQt"
+      "decimals": -1,
+      "mint": "H5ePUwnbo9jyXTjq6Wia66WvdmjatUHeBFYXXcSWuUe6"
     },
-    "rewardsTokenInfo": {
-      "address": "7ySQKPthCgce2Px8yWZPpCz4vtG1A7H5s3JmFyNCQkQt",
-      "chainId": 101,
-      "decimals": 2,
-      "name": "Token 7ySQ",
-      "symbol": "7ySQK"
-    },
-    "slug": "139NX1DrKRLnHVsmLWGnQxPcywCGUPSBSHsj55TajxE4"
-  },
-  "rewardsToken": {
-    "address": "7ySQKPthCgce2Px8yWZPpCz4vtG1A7H5s3JmFyNCQkQt",
-    "chainId": 101,
-    "decimals": 2,
-    "name": "Token 7ySQ",
-    "symbol": "7ySQK"
+    "rewardsTokenInfo": null,
+    "slug": "58DWCbW5cDPwoor4jaKXW8xVb8bQH9JgnETGHdQBQbfM"
   },
   "stakedToken": {
     "address": "FmqTSkyR2e3xVWgwpqbv8CeX4Zp3c8HeEHJW9LErZHMU",
