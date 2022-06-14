@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 4GAh",
+        "symbol": "4GAhn"
+      },
       "quarry": "D7QSNSRdwd3oSx9Fk1NheJ9y5PRiVDpKLg3R34V53G7t",
       "replicaMint": "25aLCwXCnfHb2u3p1hDv8QiFHGJnQcJ5a5pZubg9NHUh",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "4gahn",
       "stakedToken": {
         "decimals": 2,
         "mint": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2Cveyz5N4oy6yMg83n8TMKDe7bKFYneNeC6cHjUadjsv"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "2Cveyz5N4oy6yMg83n8TMKDe7bKFYneNeC6cHjUadjsv",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 2Cve",
+    "symbol": "2Cvey"
+  },
   "slug": "9oy1rQvG892k5TWGbUnsBRpf8xJVbX7y3kGzQSUxHLSq"
 }
