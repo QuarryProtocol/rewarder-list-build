@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token GuvT",
+        "symbol": "GuvTU"
+      },
       "quarry": "Fs4cQPPKBuriySoxZu2PsfkeqdZZmAX6qJVcJ2wmpd7i",
       "replicaMint": "Hrr5BQvTgSsoti9r2pY3XPpagXG4ZZsX8qh8oJVTF4tf",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "guvtu",
       "stakedToken": {
         "decimals": 2,
         "mint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "HBQP7KHqA5fJVD1SDVA7EZZbrQ8qfzCUsrtyzBViNLBL"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "HBQP7KHqA5fJVD1SDVA7EZZbrQ8qfzCUsrtyzBViNLBL",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token HBQP",
+    "symbol": "HBQP7"
+  },
   "slug": "3Bic7d2Gsk2JxVToagLPvf2r2VrdFsfmC8MePWTKyfzC"
 }
