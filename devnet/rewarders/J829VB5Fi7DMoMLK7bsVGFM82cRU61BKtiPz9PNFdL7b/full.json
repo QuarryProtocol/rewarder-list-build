@@ -17,10 +17,19 @@
       "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
       "underlyingTokenInfo": {
         "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-        "chainId": 103,
+        "chainId": 101,
         "decimals": 9,
-        "name": "Token MNDE",
-        "symbol": "MNDEF"
+        "extensions": {
+          "coingeckoId": "marinade",
+          "discord": "https://discord.gg/mGqZA5pjRN",
+          "github": "https://github.com/marinade-finance",
+          "medium": "https://medium.com/marinade-finance",
+          "twitter": "https://twitter.com/MarinadeFinance",
+          "website": "https://marinade.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+        "name": "Marinade",
+        "symbol": "MNDE"
       }
     },
     "website": "https://marinade.finance"
@@ -211,11 +220,17 @@
         "decimals": 0,
         "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token moRH",
+        "symbol": "moRHQ"
+      },
       "quarry": "GhdVRwEQCzUFRJddWXchGpKU1MV6WmM8CVYbu2Z7zXFj",
       "replicaMint": "HueFTTepX8gFasNQFwVRqFWBuMB8Gq3zpGKiS4b2jBCS",
       "replicaQuarries": [],
-      "slug": "7",
+      "slug": "morhq",
       "stakedToken": {
         "decimals": 0,
         "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
@@ -230,11 +245,17 @@
         "decimals": 0,
         "mint": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token maL1",
+        "symbol": "maL1i"
+      },
       "quarry": "CuWqxK4kVC13K3iRginkLQqqFUn8UW5qqmjgRPQLfEBQ",
       "replicaMint": "A1yAessYt7JP5mSGWzoRWjjHSfUcMVEezrCTA4tCm4jk",
       "replicaQuarries": [],
-      "slug": "8",
+      "slug": "mal1i",
       "stakedToken": {
         "decimals": 0,
         "mint": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J"
@@ -249,11 +270,17 @@
         "decimals": 0,
         "mint": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token MRyB",
+        "symbol": "MRyBk"
+      },
       "quarry": "6SUCGNuWuppCFVW62n4K1K5RDxiGbzLJ4CRZB6UwYVbR",
       "replicaMint": "4kAPqT8ZuyqXPrpPFLNdmcKwDmKXS1m8WEtXo3T8J8Mp",
       "replicaQuarries": [],
-      "slug": "9",
+      "slug": "mrybk",
       "stakedToken": {
         "decimals": 0,
         "mint": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh"
@@ -268,11 +295,17 @@
         "decimals": 0,
         "mint": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token MmEf",
+        "symbol": "MmEfx"
+      },
       "quarry": "2ZYtfSMywUGf54DTzGGfC7FW3pxNdV4414xX8mAK1i2R",
       "replicaMint": "AFL9vRmv3BKpLrd6DzRmyRXVCyEn1ZZg8XqTnuFbbNkZ",
       "replicaQuarries": [],
-      "slug": "10",
+      "slug": "mmefx",
       "stakedToken": {
         "decimals": 0,
         "mint": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b"
@@ -287,11 +320,17 @@
         "decimals": 0,
         "mint": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token MPoq",
+        "symbol": "MPoqb"
+      },
       "quarry": "AAWC8NGBTwKVqT1qdbDAZCQfH6drqpvoQ67HTpFryzGd",
       "replicaMint": "2yU3t2jFSpfb9RoLVA12koxKa6zTVGxEB5VgQFBaKYmj",
       "replicaQuarries": [],
-      "slug": "11",
+      "slug": "mpoqb",
       "stakedToken": {
         "decimals": 0,
         "mint": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno"
@@ -306,11 +345,17 @@
         "decimals": 0,
         "mint": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token MLac",
+        "symbol": "MLacC"
+      },
       "quarry": "822ML16seA6DiAgQsSXyXCQZvkrkwyhQu5jNwkpYhJUC",
       "replicaMint": "9yFGXrem6zCZNp5WHvNBxxejf53aLBCmB5ZRheoXFymy",
       "replicaQuarries": [],
-      "slug": "12",
+      "slug": "mlacc",
       "stakedToken": {
         "decimals": 0,
         "mint": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4"
@@ -325,11 +370,17 @@
         "decimals": 0,
         "mint": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token mSLK",
+        "symbol": "mSLKQ"
+      },
       "quarry": "2mLWuwAqit6b7uP1GxdguR2DFwh9iYeku11cdZumuA4p",
       "replicaMint": "xNhaXPenDzc9wcahuEAPYi9DbJHUB43Z2tWY4ZhbPVb",
       "replicaQuarries": [],
-      "slug": "13",
+      "slug": "mslkq",
       "stakedToken": {
         "decimals": 0,
         "mint": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA"
@@ -344,11 +395,17 @@
         "decimals": 0,
         "mint": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token mAPM",
+        "symbol": "mAPMh"
+      },
       "quarry": "H44Fp8CutsLvfTSeqcoTCK6gp3nnWgsWKkvdu5CVUUgh",
       "replicaMint": "Ev57rfJe26PnQM3KAUK48McZgpL21pjqKnUpipneZTic",
       "replicaQuarries": [],
-      "slug": "14",
+      "slug": "mapmh",
       "stakedToken": {
         "decimals": 0,
         "mint": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H"
@@ -363,11 +420,17 @@
         "decimals": 0,
         "mint": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token Msyo",
+        "symbol": "Msyod"
+      },
       "quarry": "G7CEz14c6zuZC3osW6uJZMe8ZqiccdFgBKMtxcGbjF5M",
       "replicaMint": "Hn3wG2FuEKiYLodLdUS3qLQMBjsVEaRcvT3enDAwvNad",
       "replicaQuarries": [],
-      "slug": "15",
+      "slug": "msyod",
       "stakedToken": {
         "decimals": 0,
         "mint": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj"
