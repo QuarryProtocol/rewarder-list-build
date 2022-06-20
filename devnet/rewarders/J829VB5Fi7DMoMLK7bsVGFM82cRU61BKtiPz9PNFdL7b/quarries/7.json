@@ -1,0 +1,71 @@
+{
+  "quarry": {
+    "index": 7,
+    "isReplica": false,
+    "mergePool": "CB6mMz2NLMi2cufY1dNSfXBywrQ5bbbd4cJ2qhHmKtqV",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 0,
+      "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "GhdVRwEQCzUFRJddWXchGpKU1MV6WmM8CVYbu2Z7zXFj",
+    "replicaMint": "HueFTTepX8gFasNQFwVRqFWBuMB8Gq3zpGKiS4b2jBCS",
+    "replicaQuarries": [],
+    "slug": "7",
+    "stakedToken": {
+      "decimals": 0,
+      "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
+    }
+  },
+  "rewarder": {
+    "authority": "7SiN9cPk4Udv6tFdf4Eu2GNY6hmuhaVU4E781R635sha",
+    "info": {
+      "address": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+      "color": "#EF39F8",
+      "description": "The easiest way to stake Solana.",
+      "id": "marinade",
+      "name": "Marinade",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "marinade",
+        "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
+        "redeemerVaultATA": "4zDEyfrJcGR3DQRzaThYSRxkeFM7zE4q12diwtbzQXPJ",
+        "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "underlyingTokenInfo": {
+          "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+          "chainId": 103,
+          "decimals": 9,
+          "name": "Token MNDE",
+          "symbol": "MNDEF"
+        }
+      },
+      "website": "https://marinade.finance"
+    },
+    "mintWrapper": "Cz2x6Rmwa3aJRXpaFyw13EBoz3V4UBBNqWZEbjYmJjDZ",
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+    },
+    "rewardsTokenInfo": {
+      "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token CNxb",
+      "symbol": "CNxb8"
+    },
+    "slug": "marinade"
+  },
+  "rewardsToken": {
+    "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token CNxb",
+    "symbol": "CNxb8"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
