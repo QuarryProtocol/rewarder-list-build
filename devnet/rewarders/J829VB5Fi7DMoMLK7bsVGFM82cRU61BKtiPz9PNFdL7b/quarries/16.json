@@ -1,27 +1,21 @@
 {
   "quarry": {
-    "index": 4,
+    "index": 16,
     "isReplica": false,
-    "mergePool": "7mUxB3qnkFofhjw4gRWU8WEMzh7KiA5CnGEqGWbnsDtP",
+    "mergePool": "7yLaBWG4wo7nszHgjMeRNgo6CUwHqbsq8irZsLGVupw8",
     "primaryQuarries": [],
     "primaryToken": {
       "decimals": 9,
-      "mint": "YVC95kPY8b5Kxqp9ZoCHh1zRsZQqpdeQcJh4f3FTULb"
+      "mint": "49wcaEkHtio3a9mKhK7LFMXtKEFW6Gw4rnfWEGdJiKFW"
     },
-    "primaryTokenInfo": {
-      "address": "YVC95kPY8b5Kxqp9ZoCHh1zRsZQqpdeQcJh4f3FTULb",
-      "chainId": 103,
-      "decimals": 9,
-      "name": "Token YVC9",
-      "symbol": "YVC95"
-    },
-    "quarry": "JDw5wd5qupr3S61NE5yXmqfKor9vD2rABqfirfoGFqpt",
-    "replicaMint": "7eRBhahHHEMj3K7bPuE7EipeL4v6JQRsu1J6gjXbvDh3",
+    "primaryTokenInfo": null,
+    "quarry": "GTsVHfo3USYR8fLcgKv2KbxDUSTYZdL6T55v4xc1ezJP",
+    "replicaMint": "3ae5krz4vH6LyUCdvkDU4q4AxV23VZkoFKEJjr9r7Ly7",
     "replicaQuarries": [],
-    "slug": "yvc95",
+    "slug": "16",
     "stakedToken": {
       "decimals": 9,
-      "mint": "YVC95kPY8b5Kxqp9ZoCHh1zRsZQqpdeQcJh4f3FTULb"
+      "mint": "49wcaEkHtio3a9mKhK7LFMXtKEFW6Gw4rnfWEGdJiKFW"
     }
   },
   "rewarder": {
@@ -81,12 +75,6 @@
     "name": "Token CNxb",
     "symbol": "CNxb8"
   },
-  "stakedToken": {
-    "address": "YVC95kPY8b5Kxqp9ZoCHh1zRsZQqpdeQcJh4f3FTULb",
-    "chainId": 103,
-    "decimals": 9,
-    "name": "Token YVC9",
-    "symbol": "YVC95"
-  },
+  "stakedToken": null,
   "underlyingTokens": []
 }

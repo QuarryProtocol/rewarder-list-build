@@ -17,10 +17,19 @@
       "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
       "underlyingTokenInfo": {
         "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-        "chainId": 103,
+        "chainId": 101,
         "decimals": 9,
-        "name": "Token MNDE",
-        "symbol": "MNDEF"
+        "extensions": {
+          "coingeckoId": "marinade",
+          "discord": "https://discord.gg/mGqZA5pjRN",
+          "github": "https://github.com/marinade-finance",
+          "medium": "https://medium.com/marinade-finance",
+          "twitter": "https://twitter.com/MarinadeFinance",
+          "website": "https://marinade.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+        "name": "Marinade",
+        "symbol": "MNDE"
       }
     },
     "website": "https://marinade.finance"
@@ -425,6 +434,25 @@
       "stakedToken": {
         "decimals": 0,
         "mint": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj"
+      }
+    },
+    {
+      "index": 16,
+      "isReplica": false,
+      "mergePool": "7yLaBWG4wo7nszHgjMeRNgo6CUwHqbsq8irZsLGVupw8",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "49wcaEkHtio3a9mKhK7LFMXtKEFW6Gw4rnfWEGdJiKFW"
+      },
+      "primaryTokenInfo": null,
+      "quarry": "GTsVHfo3USYR8fLcgKv2KbxDUSTYZdL6T55v4xc1ezJP",
+      "replicaMint": "3ae5krz4vH6LyUCdvkDU4q4AxV23VZkoFKEJjr9r7Ly7",
+      "replicaQuarries": [],
+      "slug": "16",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "49wcaEkHtio3a9mKhK7LFMXtKEFW6Gw4rnfWEGdJiKFW"
       }
     }
   ],
