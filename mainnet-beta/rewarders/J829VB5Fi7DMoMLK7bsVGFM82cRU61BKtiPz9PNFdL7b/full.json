@@ -719,11 +719,17 @@
         "decimals": 0,
         "mint": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token mALT",
+        "symbol": "mALTD"
+      },
       "quarry": "Di7jfigmF1XMkD8T5JZjnH1b4d7xhLQHPtCGuFBLyBia",
       "replicaMint": "9ivQTKozbrAywok5mzXUK7DCWgG55uspENB9ia7WPKif",
       "replicaQuarries": [],
-      "slug": "21",
+      "slug": "maltd",
       "stakedToken": {
         "decimals": 0,
         "mint": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF"
