@@ -7052,11 +7052,17 @@
           "decimals": 2,
           "mint": "8Pnvp1D9r5w1xYC3rqMecwUfFoGfXCjLKEp54Dpgymjd"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "8Pnvp1D9r5w1xYC3rqMecwUfFoGfXCjLKEp54Dpgymjd",
+          "chainId": 101,
+          "decimals": 2,
+          "name": "Token 8Pnv",
+          "symbol": "8Pnvp"
+        },
         "quarry": "6ZTdZHG8YFLzdtYBvgzsXj3JA2vwTwgFXAbQqFkM5krL",
         "replicaMint": "Dq7YnWMDu8BKoq8yTGDojXq7RwhZ4KTaJDoEghHm59eb",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "8pnvp",
         "stakedToken": {
           "decimals": 2,
           "mint": "8Pnvp1D9r5w1xYC3rqMecwUfFoGfXCjLKEp54Dpgymjd"
@@ -7064,10 +7070,16 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "AtH5HGjhuL92wLhvQhCRjDrSFHygxNtTCcskLHpvYGuP"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "AtH5HGjhuL92wLhvQhCRjDrSFHygxNtTCcskLHpvYGuP",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token AtH5",
+      "symbol": "AtH5H"
+    },
     "slug": "A7W2tu36hy2TofB5yLorrqnfjt8714REGUBujA9vxjMX"
   },
   "AHxRZ6ma87qnuphJVRwS1cLmiQ1vLaFptdLfECDwGShW": {
