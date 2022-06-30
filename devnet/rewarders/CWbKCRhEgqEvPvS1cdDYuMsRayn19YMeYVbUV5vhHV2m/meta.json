@@ -6,15 +6,15 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 0,
-        "lastUpdateTs": "0",
-        "numMiners": "0",
+        "lastUpdateTs": "1656622917",
+        "numMiners": "1",
         "rewardsPerTokenStored": "0",
-        "rewardsShare": "0",
-        "totalTokensDeposited": "0"
+        "rewardsShare": "10000000000",
+        "totalTokensDeposited": "20000000000"
       },
       "index": 0,
       "quarry": "EN2CovLmEvskSDq13wnRv6XmDmKoYt9BxeQ8M2eXJHyG",
-      "slug": "0",
+      "slug": "hk3q8",
       "stakedToken": {
         "decimals": 7,
         "mint": "HK3Q8SJYiV1kLo3b6vfwLnL45nhunnt4kSBVQNa3Z28J"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 7,
     "mint": "G3ywJe259j51Jqwj29ZQXS9GmkrazyPs2yv8VRp9xfPt"
+  },
+  "rewardsTokenInfo": {
+    "address": "G3ywJe259j51Jqwj29ZQXS9GmkrazyPs2yv8VRp9xfPt",
+    "chainId": 103,
+    "decimals": 7,
+    "name": "Token G3yw",
+    "symbol": "G3ywJ"
   }
 }
