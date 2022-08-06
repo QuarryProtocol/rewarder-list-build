@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token Ca9L",
+        "symbol": "Ca9Lx"
+      },
       "quarry": "4BtoboRPwyYWevVu34zZrfCCocFAExUnBGGosicsMgCR",
       "replicaMint": "5HpRXSbncQeJp1YnLqg8g2kD8SHLYG4iNioherewzdjx",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "ca9lx",
       "stakedToken": {
         "decimals": 2,
         "mint": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "Bnv4Qn35qqi8bSXynfnsvsVEJ9rdMqHcRwFnXbSvue9h"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "Bnv4Qn35qqi8bSXynfnsvsVEJ9rdMqHcRwFnXbSvue9h",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token Bnv4",
+    "symbol": "Bnv4Q"
+  },
   "slug": "76JnpzmcYU7gYCcqbVCLRW4AbeyPNLPEQoiKAT6LXDnH"
 }
