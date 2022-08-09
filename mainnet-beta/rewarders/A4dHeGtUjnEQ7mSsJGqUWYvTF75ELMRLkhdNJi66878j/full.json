@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 5kdL",
+        "symbol": "5kdLW"
+      },
       "quarry": "6K2x5sjqNmDcFkgfLZdcv9G5m9bZDobqZc4tfiYbzVDr",
       "replicaMint": "8cjo8bJRFHQTbCd68nQopFxPbe6bxXCMdwvAPbVxie7L",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5kdlw",
       "stakedToken": {
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2aXwLbP7etrTND4T5isN7DDzJmyNkT2PGEB322zWJbHU"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "2aXwLbP7etrTND4T5isN7DDzJmyNkT2PGEB322zWJbHU",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 2aXw",
+    "symbol": "2aXwL"
+  },
   "slug": "A4dHeGtUjnEQ7mSsJGqUWYvTF75ELMRLkhdNJi66878j"
 }

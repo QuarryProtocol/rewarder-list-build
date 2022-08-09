@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "3kvULEvfgP9W6pZv98RsTDGedC5nWxzUDPhLCQwhsdHb"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "3kvULEvfgP9W6pZv98RsTDGedC5nWxzUDPhLCQwhsdHb",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 3kvU",
+        "symbol": "3kvUL"
+      },
       "quarry": "3nthYv2rhkGu2LdFfb67yz24vNQKM2X9dB8UrspaNv3Z",
       "replicaMint": "H5ckx1WrzPmptMYTrHJF3m5BMt5d5gYVBYziF7w1srbV",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "3kvul",
       "stakedToken": {
         "decimals": 2,
         "mint": "3kvULEvfgP9W6pZv98RsTDGedC5nWxzUDPhLCQwhsdHb"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "299miw9uSEjpmPvbfeo52GKjM5pccPtQJ6YMVnv3EBHx"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "299miw9uSEjpmPvbfeo52GKjM5pccPtQJ6YMVnv3EBHx",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 299m",
+    "symbol": "299mi"
+  },
   "slug": "FLKgTMSiTq5pqhNjLsGeQgSu4UToKcwTx6bjKe7vFZYR"
 }

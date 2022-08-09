@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token DLQo",
+        "symbol": "DLQoZ"
+      },
       "quarry": "4GS7SN4yfiYzhYrGMdoBka1QPgcWeaipzttHEi7QCGwy",
       "replicaMint": "Dj6Y9bhVknHe8WnVkuzKBK1yj9cySnqzaV8oiLKJSQqV",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dlqoz",
       "stakedToken": {
         "decimals": 2,
         "mint": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EFuMZAzFUJVoEeya984ievdaPqGzTeUhW1BB6FpLvnRU"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "EFuMZAzFUJVoEeya984ievdaPqGzTeUhW1BB6FpLvnRU",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token EFuM",
+    "symbol": "EFuMZ"
+  },
   "slug": "2r4s6N9VnfKJksYEEKJfHZscjgkZGeaHkhMnVPdkQzw4"
 }

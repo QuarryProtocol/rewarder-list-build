@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 3Xb4",
+        "symbol": "3Xb4P"
+      },
       "quarry": "HqAZRLyARXtWNGfJ3XNVcNJ58e7mSQUyNk39mLZdjdjp",
       "replicaMint": "F1ZeirdkpnREGZzR1qVo8wykPEhM35wi3pJGH5c5QGST",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "3xb4p",
       "stakedToken": {
         "decimals": 2,
         "mint": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "J9fXd2hZvKMot9pkyyHLNvzFbFRg9yCvyZj4BDqWTuHj"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "J9fXd2hZvKMot9pkyyHLNvzFbFRg9yCvyZj4BDqWTuHj",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token J9fX",
+    "symbol": "J9fXd"
+  },
   "slug": "7jRPAatxnD19mzGLpbxWaH163BkWMs6AbawQEFnCfRx"
 }

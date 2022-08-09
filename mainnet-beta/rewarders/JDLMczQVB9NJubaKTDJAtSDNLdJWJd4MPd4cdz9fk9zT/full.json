@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "2woFA66NF37H3NFAiDY6yojqyxgtqWCcfkxsZbnSr7Fa"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "2woFA66NF37H3NFAiDY6yojqyxgtqWCcfkxsZbnSr7Fa",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 2woF",
+        "symbol": "2woFA"
+      },
       "quarry": "9Bm4iZrJ8fuvzFMN9Jwggecb63xLfgncXSGNShAYmnXK",
       "replicaMint": "5XEvTMGEs5HB5AV5UGBPojTRH87KbogRbc1gAGHK7rxr",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "2wofa",
       "stakedToken": {
         "decimals": 2,
         "mint": "2woFA66NF37H3NFAiDY6yojqyxgtqWCcfkxsZbnSr7Fa"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "FT4JH19wq1WMk9a2nPRGihn8WGP8R4iaYMaDVqgqtoMK"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "FT4JH19wq1WMk9a2nPRGihn8WGP8R4iaYMaDVqgqtoMK",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token FT4J",
+    "symbol": "FT4JH"
+  },
   "slug": "JDLMczQVB9NJubaKTDJAtSDNLdJWJd4MPd4cdz9fk9zT"
 }

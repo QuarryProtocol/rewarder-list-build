@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 5kdL",
+        "symbol": "5kdLW"
+      },
       "quarry": "9Be3ptJd7jWiCtadp94RCduRQmuWZFYXutd8WK6kKLa8",
       "replicaMint": "8cjo8bJRFHQTbCd68nQopFxPbe6bxXCMdwvAPbVxie7L",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5kdlw",
       "stakedToken": {
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "H4vxHAts6emKeJKc6S61M7CZYsZ3uBkHJ8njPUfSKA7t"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "H4vxHAts6emKeJKc6S61M7CZYsZ3uBkHJ8njPUfSKA7t",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token H4vx",
+    "symbol": "H4vxH"
+  },
   "slug": "BR22H8C6xRMe3FZtiRX3mePLZm8fkuXVrjxuZ1g8txoJ"
 }

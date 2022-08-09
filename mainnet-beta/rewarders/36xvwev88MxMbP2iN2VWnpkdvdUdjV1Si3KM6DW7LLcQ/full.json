@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "6euj9GabpV65b8thSJUevLS1Hgg7Zqgd1frgXiMCY2pr"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "6euj9GabpV65b8thSJUevLS1Hgg7Zqgd1frgXiMCY2pr",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 6euj",
+        "symbol": "6euj9"
+      },
       "quarry": "7Ub4xB6rn4vuGYN2jB5ehxrJy83aGjztv4E6SADeDt84",
       "replicaMint": "8w8wZhD3K9cxPvxVC7ZZgVfUwsu1UrEXYdspqnTS5TzN",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "6euj9",
       "stakedToken": {
         "decimals": 2,
         "mint": "6euj9GabpV65b8thSJUevLS1Hgg7Zqgd1frgXiMCY2pr"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "od88qA4KTFaDARq4pDFN5avZUZ6PuUD8N7DkgZ7x1Cr"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "od88qA4KTFaDARq4pDFN5avZUZ6PuUD8N7DkgZ7x1Cr",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token od88",
+    "symbol": "od88q"
+  },
   "slug": "36xvwev88MxMbP2iN2VWnpkdvdUdjV1Si3KM6DW7LLcQ"
 }

@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "FL9J1ke2bvAMvfFUX2eP7twQmVLaVfBEQbVFCTgqVZJm"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "FL9J1ke2bvAMvfFUX2eP7twQmVLaVfBEQbVFCTgqVZJm",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token FL9J",
+        "symbol": "FL9J1"
+      },
       "quarry": "J5eiGuKddnmQ36AwpA3h3iwjqdCHmgEve8UvRzHSSmiK",
       "replicaMint": "4xJdVd2bnVpLLpE8csrgn7sk1WVAiuziQxzE4VmKqoA9",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "fl9j1",
       "stakedToken": {
         "decimals": 2,
         "mint": "FL9J1ke2bvAMvfFUX2eP7twQmVLaVfBEQbVFCTgqVZJm"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "9tGVntPSYppviEZCERqNimt9L5m6nsWnqWYQfgXJny1A"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "9tGVntPSYppviEZCERqNimt9L5m6nsWnqWYQfgXJny1A",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 9tGV",
+    "symbol": "9tGVn"
+  },
   "slug": "AECC4n2niMAQecQnrVzeMu7kxLAFBbj3qkm2K7KVWpFk"
 }

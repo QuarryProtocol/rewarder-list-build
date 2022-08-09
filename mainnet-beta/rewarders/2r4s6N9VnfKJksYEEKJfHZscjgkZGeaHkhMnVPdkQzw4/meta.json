@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "4GS7SN4yfiYzhYrGMdoBka1QPgcWeaipzttHEi7QCGwy",
-      "slug": "0",
+      "slug": "dlqoz",
       "stakedToken": {
         "decimals": 2,
         "mint": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "EFuMZAzFUJVoEeya984ievdaPqGzTeUhW1BB6FpLvnRU"
+  },
+  "rewardsTokenInfo": {
+    "address": "EFuMZAzFUJVoEeya984ievdaPqGzTeUhW1BB6FpLvnRU",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token EFuM",
+    "symbol": "EFuMZ"
   }
 }

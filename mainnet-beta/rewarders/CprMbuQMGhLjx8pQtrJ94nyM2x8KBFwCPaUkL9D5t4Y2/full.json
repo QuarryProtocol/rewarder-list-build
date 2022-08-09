@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 5kdL",
+        "symbol": "5kdLW"
+      },
       "quarry": "297LRy9cZdx3AmDLD6Cacw4bB4bLkS8m57AyCWdsu6KM",
       "replicaMint": "8cjo8bJRFHQTbCd68nQopFxPbe6bxXCMdwvAPbVxie7L",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "5kdlw",
       "stakedToken": {
         "decimals": 2,
         "mint": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "2cvcjnbFaD3bCsTB7yizVM5kG9Zo8ySXEhwcTiAbKqYy"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "2cvcjnbFaD3bCsTB7yizVM5kG9Zo8ySXEhwcTiAbKqYy",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 2cvc",
+    "symbol": "2cvcj"
+  },
   "slug": "CprMbuQMGhLjx8pQtrJ94nyM2x8KBFwCPaUkL9D5t4Y2"
 }
