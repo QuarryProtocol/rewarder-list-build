@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "CNGCX1x4HQ1SyDFTjmBFdb6Y5vL81XbTKU1iD7YQomQu",
-      "slug": "0",
+      "slug": "agdg7",
       "stakedToken": {
         "decimals": 6,
         "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
+  },
+  "rewardsTokenInfo": {
+    "address": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AGDG",
+    "symbol": "AGDG7"
   }
 }

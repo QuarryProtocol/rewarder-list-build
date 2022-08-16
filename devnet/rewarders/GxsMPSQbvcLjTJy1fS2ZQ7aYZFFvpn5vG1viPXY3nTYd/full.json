@@ -1,5 +1,5 @@
 {
-  "authority": "2kh5MQHVfzKWQhVeZoz6JmxmNvhtEMHsntXzgmr17E7m",
+  "authority": "AqcroSx6LrM4cq4n69fmdky8irgKajFAct32rn7HcQmp",
   "mintWrapper": "2tEXNoBNwjfb6ERiVwnwENDkr9HQNvDF5jnFzf9FQn9w",
   "quarries": [
     {
@@ -11,11 +11,17 @@
         "decimals": 9,
         "mint": "devJUefFsRwvU63LD9sXuggr6quNrES7EGn3UUvvXKz"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "devJUefFsRwvU63LD9sXuggr6quNrES7EGn3UUvvXKz",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token devJ",
+        "symbol": "devJU"
+      },
       "quarry": "44tnTY5fLSEVALAtqTYYyicFtCUi72CcX7MFZmxmZmNX",
       "replicaMint": "FTFGuxb3B9bMBJF2aUMHvuzxGgK8P5NmEpUnXDtxqMEd",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "devju",
       "stakedToken": {
         "decimals": 9,
         "mint": "devJUefFsRwvU63LD9sXuggr6quNrES7EGn3UUvvXKz"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "B5om4F7ydwa47zgiHzPN1F4UsSfiwGrM2mEdmRdiAcj4"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "B5om4F7ydwa47zgiHzPN1F4UsSfiwGrM2mEdmRdiAcj4",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token B5om",
+    "symbol": "B5om4"
+  },
   "slug": "GxsMPSQbvcLjTJy1fS2ZQ7aYZFFvpn5vG1viPXY3nTYd"
 }

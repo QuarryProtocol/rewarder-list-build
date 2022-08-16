@@ -11,11 +11,17 @@
         "decimals": 6,
         "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4",
+        "chainId": 103,
+        "decimals": 6,
+        "name": "Token AGDG",
+        "symbol": "AGDG7"
+      },
       "quarry": "CNGCX1x4HQ1SyDFTjmBFdb6Y5vL81XbTKU1iD7YQomQu",
       "replicaMint": "6ErrJJTp53m3RoLjvxvTfz74z5aCZwWpREv6US98kY8g",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "agdg7",
       "stakedToken": {
         "decimals": 6,
         "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4",
+    "chainId": 103,
+    "decimals": 6,
+    "name": "Token AGDG",
+    "symbol": "AGDG7"
+  },
   "slug": "2zNTUnfH3DszzrJQz85kR44c3bmpnDbe6rvwmML2SUsE"
 }
