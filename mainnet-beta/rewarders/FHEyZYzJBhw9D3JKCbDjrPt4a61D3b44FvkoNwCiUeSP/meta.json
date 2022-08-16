@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "84h5bUSMWWcqWSw4RsCB1RZeUXdsZJyi4Su745VaMAsX",
-      "slug": "0",
+      "slug": "dzsuc",
       "stakedToken": {
         "decimals": 2,
         "mint": "DzSuC4XcvEhuRitth1kDr84eDz425JwfzJHL7thH8xsd"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "8PKefQc9zyoRmFaVbQ1TzEAHfYPNhFb81GPuDswHLo2K"
+  },
+  "rewardsTokenInfo": {
+    "address": "8PKefQc9zyoRmFaVbQ1TzEAHfYPNhFb81GPuDswHLo2K",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 8PKe",
+    "symbol": "8PKef"
   }
 }

@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "DHndaNRbRwKDo5stps37bwkgNeEJUoh744MGKBk8UkDA"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "DHndaNRbRwKDo5stps37bwkgNeEJUoh744MGKBk8UkDA",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token DHnd",
+        "symbol": "DHnda"
+      },
       "quarry": "Hwcvw8wdzGoU6f9uUcavSa59bvrAqf2CFczKnr1fVKjg",
       "replicaMint": "4WXhiEq7CDwGvmNPwdN5hHUh8t9V4shZZrYsWvsD7uK3",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dhnda",
       "stakedToken": {
         "decimals": 2,
         "mint": "DHndaNRbRwKDo5stps37bwkgNeEJUoh744MGKBk8UkDA"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "7hbwJhYccZFfNptuxfD2iVCXu5LRYiekGy5B5UUirmRi"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "7hbwJhYccZFfNptuxfD2iVCXu5LRYiekGy5B5UUirmRi",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 7hbw",
+    "symbol": "7hbwJ"
+  },
   "slug": "CHEzLUviqG75z1w9dawyMi5ZJBCrtwjZMgAQHWUdfPtJ"
 }

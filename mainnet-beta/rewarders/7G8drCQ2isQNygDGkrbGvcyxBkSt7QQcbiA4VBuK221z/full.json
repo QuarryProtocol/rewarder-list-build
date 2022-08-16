@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "DzSuC4XcvEhuRitth1kDr84eDz425JwfzJHL7thH8xsd"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "DzSuC4XcvEhuRitth1kDr84eDz425JwfzJHL7thH8xsd",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token DzSu",
+        "symbol": "DzSuC"
+      },
       "quarry": "HjzUnRHU9X7238n6p1BrLt1N1D8GjGpACpPJ2qTVTRaR",
       "replicaMint": "3KLVHGgzbgdXuA9qGiJjyDYh8LCXma4FLGbfDcQnTNnp",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dzsuc",
       "stakedToken": {
         "decimals": 2,
         "mint": "DzSuC4XcvEhuRitth1kDr84eDz425JwfzJHL7thH8xsd"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "GS1qUZi8czqn6SgdC1sahTcHffLphJRSaAqM21PgYt7T"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "GS1qUZi8czqn6SgdC1sahTcHffLphJRSaAqM21PgYt7T",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token GS1q",
+    "symbol": "GS1qU"
+  },
   "slug": "7G8drCQ2isQNygDGkrbGvcyxBkSt7QQcbiA4VBuK221z"
 }

@@ -11,11 +11,17 @@
         "decimals": 2,
         "mint": "DicQKag7PC7qiHaScutRry5SoriHhQNLjms2y22X5yVK"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "DicQKag7PC7qiHaScutRry5SoriHhQNLjms2y22X5yVK",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token DicQ",
+        "symbol": "DicQK"
+      },
       "quarry": "5tMSsvxYdiTvKFnW4RZmbAoV5kLFYfLiVJXxRoxj424q",
       "replicaMint": "CZNyet3fKomUU1fJwHqNQugoviomLWEZBVLcLA3BpZZL",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "dicqk",
       "stakedToken": {
         "decimals": 2,
         "mint": "DicQKag7PC7qiHaScutRry5SoriHhQNLjms2y22X5yVK"
@@ -23,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "BqfqfnExwmif4evUDJQLpNyzhsaF7kGKWJpEhKMEVC65"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "BqfqfnExwmif4evUDJQLpNyzhsaF7kGKWJpEhKMEVC65",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token Bqfq",
+    "symbol": "Bqfqf"
+  },
   "slug": "HxyK6dwrjMvhigj4AWarFFqPPDmCRgneuSa71uUUzftU"
 }
