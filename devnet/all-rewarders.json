@@ -3541,6 +3541,25 @@
       "mint": "4mp175nJ1mdiVnYd3j46NW3Hgw1p7VToeYVr3FRcsRDt"
     }
   },
+  "2zNTUnfH3DszzrJQz85kR44c3bmpnDbe6rvwmML2SUsE": {
+    "authority": "2kh5MQHVfzKWQhVeZoz6JmxmNvhtEMHsntXzgmr17E7m",
+    "mintWrapper": "2hWyrX8XGiWXKZKWBjRMNMZCtE8BGBHGnWDUmkPSQQQ6",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "CNGCX1x4HQ1SyDFTjmBFdb6Y5vL81XbTKU1iD7YQomQu",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 6,
+          "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4"
+    }
+  },
   "2znvdeVAA8aQcEoPQX65yN7xebXKN5k5ANM1kSZLoksa": {
     "authority": "J8cgZEeYRzQf71cHJsWa9AbzMsbfwsPLxSaBx6pz4LVH",
     "mintWrapper": "Bwd3rLEoi6bHrnDyv55xTAmohdMQhXsCYYURSD23USZ5",
@@ -16843,7 +16862,7 @@
       {
         "index": 0,
         "quarry": "DGxfaZp3BwYVTAMjEtNVrWNbcwfZHKsBwGJXuVGzvaF8",
-        "slug": "0",
+        "slug": "devjh",
         "stakedToken": {
           "decimals": 9,
           "mint": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF"
@@ -16851,7 +16870,7 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF"
     }
   },
@@ -53103,6 +53122,25 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "HDzpTUWJ6ToseMXR5Fu9ixYrFjAJ1KkMaLqqkY4wsDY2"
+    }
+  },
+  "GxsMPSQbvcLjTJy1fS2ZQ7aYZFFvpn5vG1viPXY3nTYd": {
+    "authority": "2kh5MQHVfzKWQhVeZoz6JmxmNvhtEMHsntXzgmr17E7m",
+    "mintWrapper": "2tEXNoBNwjfb6ERiVwnwENDkr9HQNvDF5jnFzf9FQn9w",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "44tnTY5fLSEVALAtqTYYyicFtCUi72CcX7MFZmxmZmNX",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "devJUefFsRwvU63LD9sXuggr6quNrES7EGn3UUvvXKz"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "B5om4F7ydwa47zgiHzPN1F4UsSfiwGrM2mEdmRdiAcj4"
     }
   },
   "GyBUHPzKvurfxCpzBRgUqHaEjisdoiPfoEZmMgeCvYTo": {

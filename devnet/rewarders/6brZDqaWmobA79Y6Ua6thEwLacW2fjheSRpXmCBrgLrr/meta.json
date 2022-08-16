@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "DGxfaZp3BwYVTAMjEtNVrWNbcwfZHKsBwGJXuVGzvaF8",
-      "slug": "0",
+      "slug": "devjh",
       "stakedToken": {
         "decimals": 9,
         "mint": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF"
@@ -22,7 +22,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF"
+  },
+  "rewardsTokenInfo": {
+    "address": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token devJ",
+    "symbol": "devJH"
   }
 }
