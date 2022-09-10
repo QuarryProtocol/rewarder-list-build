@@ -32,14 +32,15 @@
     "replicaQuarries": [
       {
         "displayRewardsToken": {
-          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-          "chainId": 103,
+          "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+          "chainId": 101,
           "decimals": 6,
-          "extensions": {},
-          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
-          "name": "Saber Protocol Token",
-          "symbol": "SBR",
-          "tags": []
+          "extensions": {
+            "website": "https://soluna.money/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+          "name": "Soluna Governance Token",
+          "symbol": "SLNA"
         },
         "quarry": "3LoAuZXaSemCe8xw5i6Sb9GvMHhnbYx7jSDLR3anaoJg",
         "rewarder": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc",
