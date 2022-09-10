@@ -1,5 +1,43 @@
 {
   "authority": "HYjY2XQNLUwDdRSYbPfdPADgYQFZ82Cir3yNvBSTtqjn",
+  "info": {
+    "address": "CWbKCRhEgqEvPvS1cdDYuMsRayn19YMeYVbUV5vhHV2m",
+    "color": "#7939FF",
+    "description": "The First Community Governed IDO Platform",
+    "id": "parasol",
+    "name": "Parasol Finance",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "parasol",
+      "redeemerKey": "DV6m6y56rNxSK5FX8AUd5r9bh9F2nGp55SGzty8h32kt",
+      "redeemerVaultATA": "D9C8y693m4ZVst4UbgvXPNs9LmP2bGFRecpMhC7HheiD",
+      "underlyingToken": "Hmatmu1ktLbobSvim94mfpZmjL5iiyoM1zidtXJRAdLZ",
+      "underlyingTokenInfo": {
+        "address": "Hmatmu1ktLbobSvim94mfpZmjL5iiyoM1zidtXJRAdLZ",
+        "chainId": 101,
+        "decimals": 7,
+        "extensions": {
+          "coingeckoId": "parasol-finance",
+          "discord": "https://discord.gg/WTwm2V45UZ",
+          "github": "https://github.com/parasol-finance",
+          "medium": "https://medium.com/@parasol.finance",
+          "serumV3Usdc": "DukWnNjNS1qQYUNGYj5NJViEfQW793mHwxij3wi9dazM",
+          "telegram": "https://t.me/parasolfinance",
+          "twitter": "https://twitter.com/parasol_finance",
+          "website": "https://parasol.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/parasol-finance/white-paper/main/logo.png",
+        "name": "Parasol",
+        "symbol": "PSOL",
+        "tags": [
+          "utility-token"
+        ]
+      }
+    },
+    "website": "https://parasol.finance"
+  },
   "mintWrapper": "9p5dDdPRS3QjKQ6NpsWWm92pVxEZKwm4WY3MHfVkqMz4",
   "quarries": [
     {
@@ -114,5 +152,5 @@
     "name": "Token G3yw",
     "symbol": "G3ywJ"
   },
-  "slug": "CWbKCRhEgqEvPvS1cdDYuMsRayn19YMeYVbUV5vhHV2m"
+  "slug": "parasol"
 }

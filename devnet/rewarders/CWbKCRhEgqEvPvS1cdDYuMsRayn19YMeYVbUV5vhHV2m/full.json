@@ -1,5 +1,29 @@
 {
   "authority": "HYjY2XQNLUwDdRSYbPfdPADgYQFZ82Cir3yNvBSTtqjn",
+  "info": {
+    "address": "CWbKCRhEgqEvPvS1cdDYuMsRayn19YMeYVbUV5vhHV2m",
+    "color": "#7939FF",
+    "description": "The First Community Governed IDO Platform",
+    "id": "parasol-devnet",
+    "name": "Parasol Finance",
+    "networks": [
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "parasol-devnet",
+      "redeemerKey": "2Zdj51Y2znyF8eUwi7fhqTCynV7jNB7oYNDpnugmrRBY",
+      "redeemerVaultATA": "DUsTbUiWrjMc8o2ZJzaTXZfG2ZHqy54f2mJRYDvH1G5A",
+      "underlyingToken": "HK3Q8SJYiV1kLo3b6vfwLnL45nhunnt4kSBVQNa3Z28J",
+      "underlyingTokenInfo": {
+        "address": "HK3Q8SJYiV1kLo3b6vfwLnL45nhunnt4kSBVQNa3Z28J",
+        "chainId": 103,
+        "decimals": 7,
+        "name": "Token HK3Q",
+        "symbol": "HK3Q8"
+      }
+    },
+    "website": "https://parasol.finance"
+  },
   "mintWrapper": "9p5dDdPRS3QjKQ6NpsWWm92pVxEZKwm4WY3MHfVkqMz4",
   "quarries": [
     {
@@ -139,5 +163,5 @@
     "name": "Token G3yw",
     "symbol": "G3ywJ"
   },
-  "slug": "CWbKCRhEgqEvPvS1cdDYuMsRayn19YMeYVbUV5vhHV2m"
+  "slug": "parasol-devnet"
 }
