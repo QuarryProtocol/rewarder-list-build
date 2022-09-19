@@ -1,7 +1,27 @@
 {
   "authority": "J9iwpy5sfdRz7t4i3svvTVu24RfZhuHJGiVwyLbj8ZU7",
   "mintWrapper": "5QrTWh6vJ4vEEeTjQExb5G5jmp7j74dfUjVGtuDEAbuN",
-  "quarries": [],
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "F4VDHiqDBSw9aBrhz8dMckCSZ8Ukd7khYepbkQh2JysX",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "Ac9N3N4ELQxEZNGzoX9rqJ53Foe7ZzRYSpbgThJKbuwS"
+      },
+      "primaryTokenInfo": null,
+      "quarry": "G75xGwkjewgrsvUMBNp4me8z2kEi7cRamorKPskNR1PD",
+      "replicaMint": "7ZmXQzHBpNkQDjs1VNBMHrrrT3wjmRZWEzJ3TPEdm5gJ",
+      "replicaQuarries": [],
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "Ac9N3N4ELQxEZNGzoX9rqJ53Foe7ZzRYSpbgThJKbuwS"
+      }
+    }
+  ],
   "rewardsToken": {
     "decimals": -1,
     "mint": "6nK5oTius9Xye6H4sMtqEfZBW9CDvsMfX7DAwrNiGXo6"
