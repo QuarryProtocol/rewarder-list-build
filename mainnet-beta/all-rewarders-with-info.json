@@ -12515,13 +12515,25 @@
           "address": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr",
           "chainId": 101,
           "decimals": 9,
-          "name": "Token BKq1",
-          "symbol": "BKq1H"
+          "extensions": {
+            "source": "lifinity",
+            "underlyingTokens": [
+              "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+              "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            ],
+            "website": "https://lifinity.io/"
+          },
+          "logoURI": "https://raw.githubusercontent.com/marinade-finance/marinade-token-list/main/assets/lifinity.png",
+          "name": "Lifinity mSOL-USDC",
+          "symbol": "mSOL-USDC LP",
+          "tags": [
+            "lifinity-lp"
+          ]
         },
         "quarry": "9dPDFoWVgPJ28MfxWpWFmfch6kqxUhFSc65pBcUjdX1v",
         "replicaMint": "5YN7rbCFgFD7BP2xfrZfFq8QJBfvsAq87N8x7V6YqFpV",
         "replicaQuarries": [],
-        "slug": "bkq1h",
+        "slug": "msol-usdc lp",
         "stakedToken": {
           "decimals": 9,
           "mint": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr"
