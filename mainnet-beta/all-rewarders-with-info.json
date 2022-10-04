@@ -12620,11 +12620,17 @@
           "decimals": 0,
           "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny",
+          "chainId": 101,
+          "decimals": 0,
+          "name": "Token bck2",
+          "symbol": "bck2F"
+        },
         "quarry": "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe",
         "replicaMint": "Aw1CRQRX41DBDPuX6AAngzZew1WKRerDow1HsdcRA9z6",
         "replicaQuarries": [],
-        "slug": "25",
+        "slug": "bck2f",
         "stakedToken": {
           "decimals": 0,
           "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
