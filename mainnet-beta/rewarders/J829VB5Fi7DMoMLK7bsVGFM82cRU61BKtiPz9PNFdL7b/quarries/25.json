@@ -1,0 +1,103 @@
+{
+  "quarry": {
+    "index": 25,
+    "isReplica": false,
+    "mergePool": "CYAo61YqJYy4p1spmYbaFeAUM7E4LED9hvSJqwtxz4tB",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 0,
+      "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe",
+    "replicaMint": "Aw1CRQRX41DBDPuX6AAngzZew1WKRerDow1HsdcRA9z6",
+    "replicaQuarries": [],
+    "slug": "25",
+    "stakedToken": {
+      "decimals": 0,
+      "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
+    }
+  },
+  "rewarder": {
+    "authority": "DgyyH4zytYBZNkZx3GS9h2ZCgvst7q3bF6aKevfffF1x",
+    "info": {
+      "address": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+      "color": "#EF39F8",
+      "description": "The easiest way to stake Solana.",
+      "id": "marinade",
+      "name": "Marinade",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "marinade",
+        "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
+        "redeemerVaultATA": "4zDEyfrJcGR3DQRzaThYSRxkeFM7zE4q12diwtbzQXPJ",
+        "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "underlyingTokenInfo": {
+          "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+          "chainId": 103,
+          "decimals": 9,
+          "name": "Token MNDE",
+          "symbol": "MNDEF"
+        }
+      },
+      "website": "https://marinade.finance"
+    },
+    "mintWrapper": "Cz2x6Rmwa3aJRXpaFyw13EBoz3V4UBBNqWZEbjYmJjDZ",
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+    },
+    "rewardsTokenInfo": {
+      "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "marinade",
+        "discord": "https://discord.gg/mGqZA5pjRN",
+        "github": "https://github.com/marinade-finance",
+        "medium": "https://medium.com/marinade-finance",
+        "source": "quarry-iou",
+        "twitter": "https://twitter.com/MarinadeFinance",
+        "underlyingTokens": [
+          "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+        ],
+        "website": "https://marinade.finance"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+      "name": "Marinade (IOU)",
+      "symbol": "iouMNDE",
+      "tags": [
+        "quarry-iou"
+      ]
+    },
+    "slug": "marinade"
+  },
+  "rewardsToken": {
+    "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "coingeckoId": "marinade",
+      "discord": "https://discord.gg/mGqZA5pjRN",
+      "github": "https://github.com/marinade-finance",
+      "medium": "https://medium.com/marinade-finance",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/MarinadeFinance",
+      "underlyingTokens": [
+        "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+      ],
+      "website": "https://marinade.finance"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+    "name": "Marinade (IOU)",
+    "symbol": "iouMNDE",
+    "tags": [
+      "quarry-iou"
+    ]
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
