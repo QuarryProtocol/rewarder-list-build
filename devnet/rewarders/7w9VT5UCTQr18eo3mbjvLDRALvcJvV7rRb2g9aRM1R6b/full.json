@@ -29,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "BZeXh1xhKssbbbfJ5GLCT9KTmY9K5JySvJ1bgwWMXssp"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "BZeXh1xhKssbbbfJ5GLCT9KTmY9K5JySvJ1bgwWMXssp",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token BZeX",
+    "symbol": "BZeXh"
+  },
   "slug": "7w9VT5UCTQr18eo3mbjvLDRALvcJvV7rRb2g9aRM1R6b"
 }

@@ -29,9 +29,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token 42FX",
+    "symbol": "42FXe"
+  },
   "slug": "78vtLPYcTDjznSS23Yr5bedXffUnN2EYiAKjnWi2EzPo"
 }

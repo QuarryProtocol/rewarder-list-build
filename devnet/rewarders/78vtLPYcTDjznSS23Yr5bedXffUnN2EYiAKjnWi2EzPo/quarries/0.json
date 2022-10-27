@@ -28,11 +28,24 @@
     "authority": "86vP37tooWLNzFvXUu1XhgF1Ld39NniSwNMknzcQDW3V",
     "mintWrapper": "AYmx8RuyeH3y75G2ztqLF9zBmBfuprZnq28oAGGGauyH",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token 42FX",
+      "symbol": "42FXe"
+    },
     "slug": "78vtLPYcTDjznSS23Yr5bedXffUnN2EYiAKjnWi2EzPo"
+  },
+  "rewardsToken": {
+    "address": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token 42FX",
+    "symbol": "42FXe"
   },
   "stakedToken": {
     "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",

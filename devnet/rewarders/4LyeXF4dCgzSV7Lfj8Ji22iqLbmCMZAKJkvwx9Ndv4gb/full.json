@@ -36,11 +36,17 @@
         "decimals": 0,
         "mint": "13AF8yC8L7hc5JK28hdR5J5QsW7FbK6JWGoQRPDspJsG"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "13AF8yC8L7hc5JK28hdR5J5QsW7FbK6JWGoQRPDspJsG",
+        "chainId": 103,
+        "decimals": 0,
+        "name": "Token 13AF",
+        "symbol": "13AF8"
+      },
       "quarry": "71Cs1eCReCJNkqetryxxyP6e7tzz8vfgSWr9gJEm88Hf",
       "replicaMint": "GKgSuWru8oQFdpQC2quXhj2SNsXex6wZYggGm61MShkZ",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "13af8",
       "stakedToken": {
         "decimals": 0,
         "mint": "13AF8yC8L7hc5JK28hdR5J5QsW7FbK6JWGoQRPDspJsG"
@@ -48,9 +54,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "HpQE9mLdyPnuk326xNNeduN3p94jAXWiqNo1h716bSBk"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "HpQE9mLdyPnuk326xNNeduN3p94jAXWiqNo1h716bSBk",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token HpQE",
+    "symbol": "HpQE9"
+  },
   "slug": "4LyeXF4dCgzSV7Lfj8Ji22iqLbmCMZAKJkvwx9Ndv4gb"
 }
