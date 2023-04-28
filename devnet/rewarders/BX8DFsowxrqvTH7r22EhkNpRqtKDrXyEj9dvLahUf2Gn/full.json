@@ -11,11 +11,17 @@
         "decimals": 9,
         "mint": "8w2Khf7Uz4tmBk4955f9497CcwkrqLHedUH2wuwqUtS9"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "8w2Khf7Uz4tmBk4955f9497CcwkrqLHedUH2wuwqUtS9",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token 8w2K",
+        "symbol": "8w2Kh"
+      },
       "quarry": "9eFYoxt5QFeGU4rBaWXWKxPGLpoQpWUb5c6Guy83AWjs",
       "replicaMint": "5ZNH4NgKngqs5YqBbb9Nppm8TP8KqipfQ8eBxiLNu4oK",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "8w2kh",
       "stakedToken": {
         "decimals": 9,
         "mint": "8w2Khf7Uz4tmBk4955f9497CcwkrqLHedUH2wuwqUtS9"
@@ -30,11 +36,17 @@
         "decimals": 9,
         "mint": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token EDtZ",
+        "symbol": "EDtZs"
+      },
       "quarry": "94ZzPk9WbYKrr4v5LXNF6itF2TCH94nXoAnFsuMCaQTW",
       "replicaMint": "HuiQ6vM2UcKZWux4YfUsq8TrSMGFX4wxUb1Jy8JDnwW2",
       "replicaQuarries": [],
-      "slug": "1",
+      "slug": "edtzs",
       "stakedToken": {
         "decimals": 9,
         "mint": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp"
@@ -49,11 +61,17 @@
         "decimals": 9,
         "mint": "H13b6VDq9J5nkv324BSqZsdHPF8LUVQyD8fGsE3ZoyXz"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "H13b6VDq9J5nkv324BSqZsdHPF8LUVQyD8fGsE3ZoyXz",
+        "chainId": 103,
+        "decimals": 9,
+        "name": "Token H13b",
+        "symbol": "H13b6"
+      },
       "quarry": "2KCyd64xPREjXMdMcAPkUF8BT8Fsc6cW8iqPZAKxKovf",
       "replicaMint": "AnKaZEwdEgpE7ifEsD8TqGX1KiXLxuTxsjw7gg5kCzpk",
       "replicaQuarries": [],
-      "slug": "2",
+      "slug": "h13b6",
       "stakedToken": {
         "decimals": 9,
         "mint": "H13b6VDq9J5nkv324BSqZsdHPF8LUVQyD8fGsE3ZoyXz"
@@ -61,9 +79,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 9,
     "mint": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token HrAT",
+    "symbol": "HrATJ"
+  },
   "slug": "BX8DFsowxrqvTH7r22EhkNpRqtKDrXyEj9dvLahUf2Gn"
 }

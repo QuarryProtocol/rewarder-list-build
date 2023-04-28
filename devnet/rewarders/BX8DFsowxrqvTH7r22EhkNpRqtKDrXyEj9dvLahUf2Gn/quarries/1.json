@@ -8,11 +8,17 @@
       "decimals": 9,
       "mint": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp"
     },
-    "primaryTokenInfo": null,
+    "primaryTokenInfo": {
+      "address": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token EDtZ",
+      "symbol": "EDtZs"
+    },
     "quarry": "94ZzPk9WbYKrr4v5LXNF6itF2TCH94nXoAnFsuMCaQTW",
     "replicaMint": "HuiQ6vM2UcKZWux4YfUsq8TrSMGFX4wxUb1Jy8JDnwW2",
     "replicaQuarries": [],
-    "slug": "1",
+    "slug": "edtzs",
     "stakedToken": {
       "decimals": 9,
       "mint": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp"
@@ -22,12 +28,31 @@
     "authority": "7cfgcwEWQr5vmJrEemdbafhCyTywPYDt46TXQ8wBi4ma",
     "mintWrapper": "6S7yL6euqAfhgtpXpyvDkMFDWnuXjp4R5MvcM7TZjmXq",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 9,
       "mint": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW",
+      "chainId": 103,
+      "decimals": 9,
+      "name": "Token HrAT",
+      "symbol": "HrATJ"
+    },
     "slug": "BX8DFsowxrqvTH7r22EhkNpRqtKDrXyEj9dvLahUf2Gn"
   },
-  "stakedToken": null,
+  "rewardsToken": {
+    "address": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token HrAT",
+    "symbol": "HrATJ"
+  },
+  "stakedToken": {
+    "address": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp",
+    "chainId": 103,
+    "decimals": 9,
+    "name": "Token EDtZ",
+    "symbol": "EDtZs"
+  },
   "underlyingTokens": []
 }

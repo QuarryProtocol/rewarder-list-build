@@ -12648,11 +12648,17 @@
           "decimals": 0,
           "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8",
+          "chainId": 101,
+          "decimals": 0,
+          "name": "Token mrgn",
+          "symbol": "mrgnP"
+        },
         "quarry": "DxNxnS9RzGCw4XVLqPJZmqCA7wTzBjamN1aN3x7SoG5e",
         "replicaMint": "HhpUms1S65U4VFCVyBJM7HDFd6qZquHRxWkwtbTTGdBN",
         "replicaQuarries": [],
-        "slug": "27",
+        "slug": "mrgnp",
         "stakedToken": {
           "decimals": 0,
           "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
@@ -12667,11 +12673,17 @@
           "decimals": 0,
           "mint": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC",
+          "chainId": 101,
+          "decimals": 0,
+          "name": "Token pnxH",
+          "symbol": "pnxHd"
+        },
         "quarry": "BhdfmZSbLcRTZEezwaL1qRd7w8C5sfynR5ynWxNL4wM8",
         "replicaMint": "66Sbsxq5V2YuX13vGzLeMrha7tgAVhcrpraysvGAkmPC",
         "replicaQuarries": [],
-        "slug": "28",
+        "slug": "pnxhd",
         "stakedToken": {
           "decimals": 0,
           "mint": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC"
@@ -17575,6 +17587,43 @@
         "stakedToken": {
           "decimals": 6,
           "mint": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1"
+        }
+      },
+      {
+        "index": 110,
+        "isReplica": false,
+        "mergePool": "3gViZJwN91AhwGMb8ydG5q6pd6ErPzrWUiGqyD86p5WJ",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 9,
+          "mint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv"
+        },
+        "primaryTokenInfo": {
+          "address": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "source": "saber",
+            "underlyingTokens": [
+              "So11111111111111111111111111111111111111112",
+              "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+            ],
+            "website": "https://app.saber.so/pools/blazesol"
+          },
+          "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv/icon.png",
+          "name": "Saber SOL-bSOL LP",
+          "symbol": "SOL-bSOL",
+          "tags": [
+            "saber-stableswap-lp"
+          ]
+        },
+        "quarry": "82F6LccTs6gHZmziytaT4AX6yLBNjaxtfadJAoap3TwK",
+        "replicaMint": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE",
+        "replicaQuarries": [],
+        "slug": "sol-bsol",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv"
         }
       }
     ],

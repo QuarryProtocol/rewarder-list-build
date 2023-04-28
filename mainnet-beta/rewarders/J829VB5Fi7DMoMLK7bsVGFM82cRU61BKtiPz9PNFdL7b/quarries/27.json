@@ -8,11 +8,17 @@
       "decimals": 0,
       "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
     },
-    "primaryTokenInfo": null,
+    "primaryTokenInfo": {
+      "address": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8",
+      "chainId": 101,
+      "decimals": 0,
+      "name": "Token mrgn",
+      "symbol": "mrgnP"
+    },
     "quarry": "DxNxnS9RzGCw4XVLqPJZmqCA7wTzBjamN1aN3x7SoG5e",
     "replicaMint": "HhpUms1S65U4VFCVyBJM7HDFd6qZquHRxWkwtbTTGdBN",
     "replicaQuarries": [],
-    "slug": "27",
+    "slug": "mrgnp",
     "stakedToken": {
       "decimals": 0,
       "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
@@ -107,6 +113,12 @@
       "quarry-iou"
     ]
   },
-  "stakedToken": null,
+  "stakedToken": {
+    "address": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8",
+    "chainId": 101,
+    "decimals": 0,
+    "name": "Token mrgn",
+    "symbol": "mrgnP"
+  },
   "underlyingTokens": []
 }
