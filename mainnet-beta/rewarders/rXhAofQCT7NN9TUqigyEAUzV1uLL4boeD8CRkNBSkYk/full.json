@@ -4583,6 +4583,43 @@
         "decimals": 9,
         "mint": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W"
       }
+    },
+    {
+      "index": 112,
+      "isReplica": false,
+      "mergePool": "ByyWSffNgvC3i3yX8sN2b38eKURXzhvoyZDr5hEHr3De",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg"
+      },
+      "primaryTokenInfo": {
+        "address": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+            "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+          ],
+          "website": "https://app.saber.so/pools/mds"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg/icon.png",
+        "name": "Saber MDS-USDC LP",
+        "symbol": "MDS-USDC",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
+      "quarry": "4ckcLbhxLPKAt2jeKarBRaW1b7osNqh19xaAkXcj6yWd",
+      "replicaMint": "3XDDkPhcbLtNrg9SHt9SJRTraEBqAkZdEtrwmze5EWhc",
+      "replicaQuarries": [],
+      "slug": "mds-usdc",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg"
+      }
     }
   ],
   "rewardsToken": {
