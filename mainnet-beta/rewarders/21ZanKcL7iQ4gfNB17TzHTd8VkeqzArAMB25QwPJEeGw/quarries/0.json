@@ -45,11 +45,24 @@
     "authority": "EXdZNfWheWzNZrg53atXSaWqLNtMssdUzB6kNzHxn9Mf",
     "mintWrapper": "3FFjTVEXrR2XKJunNVg1FK9J1JJZhbkj7HTWRvsKpFrn",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "6sdr6tCfBwMzEbEhrv5oxde3KBBrJftfHQZr7xgP4C56"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "6sdr6tCfBwMzEbEhrv5oxde3KBBrJftfHQZr7xgP4C56",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token 6sdr",
+      "symbol": "6sdr6"
+    },
     "slug": "21ZanKcL7iQ4gfNB17TzHTd8VkeqzArAMB25QwPJEeGw"
+  },
+  "rewardsToken": {
+    "address": "6sdr6tCfBwMzEbEhrv5oxde3KBBrJftfHQZr7xgP4C56",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 6sdr",
+    "symbol": "6sdr6"
   },
   "stakedToken": {
     "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
