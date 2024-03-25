@@ -8243,11 +8243,17 @@
           "decimals": 9,
           "mint": "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV",
+          "chainId": 101,
+          "decimals": 9,
+          "name": "Token vSoL",
+          "symbol": "vSoLB"
+        },
         "quarry": "9bRcenxWY4B1sJp4eqi9VmPqLifhZ2fvh4m8UebN8vkt",
         "replicaMint": "GxH36HRcHjuhAgYLruUZomqhLQH8sGP4PEcfVLnLpHJt",
         "replicaQuarries": [],
-        "slug": "0",
+        "slug": "vsolb",
         "stakedToken": {
           "decimals": 9,
           "mint": "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV"
@@ -8262,11 +8268,17 @@
           "decimals": 9,
           "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         },
-        "primaryTokenInfo": null,
+        "primaryTokenInfo": {
+          "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "chainId": 101,
+          "decimals": 9,
+          "name": "Token vSoL",
+          "symbol": "vSoLx"
+        },
         "quarry": "9njBn2z4y1z1GXJ2VD3eDA8b1Skm11yFdBcRdtqjiToL",
         "replicaMint": "LTTY3q4GZTFXmkCxAi6KCmdFFfTEQkpJmRudFWip7Xn",
         "replicaQuarries": [],
-        "slug": "1",
+        "slug": "vsolx",
         "stakedToken": {
           "decimals": 9,
           "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
@@ -8274,10 +8286,16 @@
       }
     ],
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "PTS5EXvvvhe5cLApf3oYy3XdVqTsDJKeGXvvxYJTYK3"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "PTS5EXvvvhe5cLApf3oYy3XdVqTsDJKeGXvvxYJTYK3",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token PTS5",
+      "symbol": "PTS5E"
+    },
     "slug": "BKhCscLJiaWRPzuSDDtJ8xStMS5y5iUrBwPHDg1Aa1XJ"
   },
   "BR22H8C6xRMe3FZtiRX3mePLZm8fkuXVrjxuZ1g8txoJ": {
