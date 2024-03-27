@@ -12,13 +12,23 @@
       "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
       "chainId": 101,
       "decimals": 9,
-      "name": "Token vSoL",
-      "symbol": "vSoLx"
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "vault",
+        "sourceUrl": "https://thevault.finance"
+      },
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+      "name": "The Vault",
+      "symbol": "vSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
     },
     "quarry": "9njBn2z4y1z1GXJ2VD3eDA8b1Skm11yFdBcRdtqjiToL",
     "replicaMint": "LTTY3q4GZTFXmkCxAi6KCmdFFfTEQkpJmRudFWip7Xn",
     "replicaQuarries": [],
-    "slug": "vsolx",
+    "slug": "vsol",
     "stakedToken": {
       "decimals": 9,
       "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
@@ -51,8 +61,18 @@
     "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
     "chainId": 101,
     "decimals": 9,
-    "name": "Token vSoL",
-    "symbol": "vSoLx"
+    "extensions": {
+      "coingeckoId": "solana",
+      "currency": "SOL",
+      "source": "vault",
+      "sourceUrl": "https://thevault.finance"
+    },
+    "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+    "name": "The Vault",
+    "symbol": "vSOL",
+    "tags": [
+      "saber-mkt-sol"
+    ]
   },
   "underlyingTokens": []
 }
