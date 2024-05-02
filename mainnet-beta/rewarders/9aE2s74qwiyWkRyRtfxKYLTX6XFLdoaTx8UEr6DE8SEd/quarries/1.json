@@ -92,13 +92,24 @@
   },
   "rewarder": {
     "authority": "F4VFp4tFTyrQWo9YVjCbPE5eQP27ice2zyGDp2tN2Rkm",
+    "info": {
+      "address": "9aE2s74qwiyWkRyRtfxKYLTX6XFLdoaTx8UEr6DE8SEd",
+      "color": "#ffad03",
+      "description": "Solana stake pool for creating and supporting up-and-coming validators",
+      "id": "vault",
+      "name": "The Vault",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://thevault.finance"
+    },
     "mintWrapper": "4Kf7FLWtEPPPcUpizxK82QYNoLSPd2fQTiVLSBx5oKqz",
     "rewardsToken": {
       "decimals": -1,
       "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
     },
     "rewardsTokenInfo": null,
-    "slug": "9aE2s74qwiyWkRyRtfxKYLTX6XFLdoaTx8UEr6DE8SEd"
+    "slug": "vault"
   },
   "stakedToken": {
     "address": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
