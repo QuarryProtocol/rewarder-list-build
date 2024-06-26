@@ -49,11 +49,24 @@
     },
     "mintWrapper": "4Kf7FLWtEPPPcUpizxK82QYNoLSPd2fQTiVLSBx5oKqz",
     "rewardsToken": {
-      "decimals": -1,
+      "decimals": 6,
       "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
     },
-    "rewardsTokenInfo": null,
+    "rewardsTokenInfo": {
+      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token vPtS",
+      "symbol": "vPtS4"
+    },
     "slug": "vault"
+  },
+  "rewardsToken": {
+    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token vPtS",
+    "symbol": "vPtS4"
   },
   "stakedToken": {
     "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",

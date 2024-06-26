@@ -22,11 +22,17 @@
         "decimals": 6,
         "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
       },
-      "primaryTokenInfo": null,
+      "primaryTokenInfo": {
+        "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "Token vPtS",
+        "symbol": "vPtS4"
+      },
       "quarry": "BmfmJ6Y8xNZrswn9uzfsneVVb7xXPHKnAGWHtddFdcZg",
       "replicaMint": "9NQkpcHFe4VCrxYxppqxjCC5CNVoKhqQnP6q9eAqopmb",
       "replicaQuarries": [],
-      "slug": "0",
+      "slug": "vpts4",
       "stakedToken": {
         "decimals": 6,
         "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
@@ -91,11 +97,17 @@
       "replicaMint": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
       "replicaQuarries": [
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+            "chainId": 101,
+            "decimals": 6,
+            "name": "Token vPtS",
+            "symbol": "vPtS4"
+          },
           "quarry": "56jUntrxMLEZ4d82GPvKkWr28CuaBQsFwWxzQEMoaWck",
           "rewarder": "9aE2s74qwiyWkRyRtfxKYLTX6XFLdoaTx8UEr6DE8SEd",
           "rewardsToken": {
-            "decimals": -1,
+            "decimals": 6,
             "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
           },
           "slug": "qrvlpa8"
@@ -160,9 +172,15 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token vPtS",
+    "symbol": "vPtS4"
+  },
   "slug": "vault"
 }

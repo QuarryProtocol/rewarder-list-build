@@ -14,7 +14,7 @@
       },
       "index": 0,
       "quarry": "BmfmJ6Y8xNZrswn9uzfsneVVb7xXPHKnAGWHtddFdcZg",
-      "slug": "0",
+      "slug": "vpts4",
       "stakedToken": {
         "decimals": 6,
         "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
@@ -24,11 +24,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 1,
-        "lastUpdateTs": "1719296380",
-        "numMiners": "245",
-        "rewardsPerTokenStored": "518537238666067455651",
+        "lastUpdateTs": "1719368513",
+        "numMiners": "248",
+        "rewardsPerTokenStored": "519389614339058111972",
         "rewardsShare": "1",
-        "totalTokensDeposited": "3886412994347"
+        "totalTokensDeposited": "3857754655140"
       },
       "index": 1,
       "quarry": "56jUntrxMLEZ4d82GPvKkWr28CuaBQsFwWxzQEMoaWck",
@@ -42,11 +42,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 2,
-        "lastUpdateTs": "1719303532",
-        "numMiners": "4456",
-        "rewardsPerTokenStored": "298872656740815444951",
+        "lastUpdateTs": "1719389905",
+        "numMiners": "4495",
+        "rewardsPerTokenStored": "299046745242104351531",
         "rewardsShare": "1",
-        "totalTokensDeposited": "23025097812347"
+        "totalTokensDeposited": "22265616653900"
       },
       "index": 2,
       "quarry": "3nH3FHZZTcjSfVf2efB4CQqnN7HJfgn3HaYMKSRiGRTM",
@@ -58,7 +58,14 @@
     }
   ],
   "rewardsToken": {
-    "decimals": -1,
+    "decimals": 6,
     "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
+  },
+  "rewardsTokenInfo": {
+    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token vPtS",
+    "symbol": "vPtS4"
   }
 }

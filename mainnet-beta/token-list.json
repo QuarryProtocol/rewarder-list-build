@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-06-25T08:26:09.619Z",
+  "timestamp": "2024-06-26T08:25:54.559Z",
   "tokens": [
     {
       "address": "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer",
@@ -328,6 +328,23 @@
       "symbol": "sun-aSOL-SOL",
       "tags": [
         "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "euroe-stablecoin",
+        "currency": "EUR",
+        "source": "euroe",
+        "sourceUrl": "https://euroe.com/"
+      },
+      "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "tags": [
+        "saber-mkt-eur"
       ]
     },
     {
@@ -7550,8 +7567,20 @@
       "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
       "chainId": 101,
       "decimals": 6,
-      "name": "Token HzeN",
-      "symbol": "HzeNN"
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+        ],
+        "website": "https://app.saber.so/pools/euroe_eurc"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq/icon.png",
+      "name": "Saber EUROe-EURC LP",
+      "symbol": "EUROe-EURC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
@@ -7571,6 +7600,23 @@
       "tags": [
         "wrapped",
         "ethereum"
+      ]
+    },
+    {
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "eurc",
+        "currency": "EUR",
+        "source": "eurc",
+        "sourceUrl": "https://www.circle.com/en/eurc/"
+      },
+      "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+      "name": "EURC",
+      "symbol": "EURC",
+      "tags": [
+        "saber-mkt-eur"
       ]
     },
     {
