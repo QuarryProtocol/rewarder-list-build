@@ -3156,6 +3156,81 @@
           "decimals": 9,
           "mint": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE"
         }
+      },
+      {
+        "index": 1,
+        "isReplica": true,
+        "mergePool": "F3i35vKP6d5uwotYWZ6swPmNJkaFo8xUDrqYHegss2Kq",
+        "primaryQuarries": [
+          {
+            "displayRewardsToken": {
+              "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+              "chainId": 101,
+              "decimals": 6,
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+              "name": "Saber IOU Token (Liquidity Mining Rewards)",
+              "symbol": "SBR"
+            },
+            "quarry": "DLAtMUr3ug7daM7nfTxxQk8gJHdAtVhuDqMbjbv3Vv1N",
+            "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+            "rewardsToken": {
+              "decimals": 6,
+              "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+            },
+            "slug": "bsol-vsol"
+          }
+        ],
+        "primaryToken": {
+          "decimals": 9,
+          "mint": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d"
+        },
+        "primaryTokenInfo": {
+          "address": "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d",
+          "chainId": 101,
+          "decimals": 9,
+          "extensions": {
+            "source": "saber",
+            "underlyingTokens": [
+              "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+              "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+            ],
+            "website": "https://app.saber.so/pools/bsol_vsol"
+          },
+          "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d/icon.png",
+          "name": "Saber bSOL-vSOL LP",
+          "symbol": "bSOL-vSOL",
+          "tags": [
+            "saber-stableswap-lp"
+          ]
+        },
+        "quarry": "4uAFsKtpGdFz5XVaBb1SAszcYwcMZc2kimfwzAXYc35C",
+        "replicaMint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q",
+        "replicaQuarries": [
+          {
+            "displayRewardsToken": null,
+            "quarry": "4uAFsKtpGdFz5XVaBb1SAszcYwcMZc2kimfwzAXYc35C",
+            "rewarder": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
+            },
+            "slug": "1"
+          }
+        ],
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q"
+        }
       }
     ],
     "rewardsToken": {
@@ -18476,7 +18551,27 @@
         },
         "quarry": "DLAtMUr3ug7daM7nfTxxQk8gJHdAtVhuDqMbjbv3Vv1N",
         "replicaMint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q",
-        "replicaQuarries": [],
+        "replicaQuarries": [
+          {
+            "displayRewardsToken": {
+              "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+              "chainId": 103,
+              "decimals": 6,
+              "extensions": {},
+              "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+              "name": "Saber Protocol Token",
+              "symbol": "SBR",
+              "tags": []
+            },
+            "quarry": "4uAFsKtpGdFz5XVaBb1SAszcYwcMZc2kimfwzAXYc35C",
+            "rewarder": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
+            },
+            "slug": "1"
+          }
+        ],
         "slug": "bsol-vsol",
         "stakedToken": {
           "decimals": 9,

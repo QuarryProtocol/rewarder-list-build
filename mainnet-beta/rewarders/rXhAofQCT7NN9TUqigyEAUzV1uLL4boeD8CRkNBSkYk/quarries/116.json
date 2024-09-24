@@ -29,7 +29,27 @@
     },
     "quarry": "DLAtMUr3ug7daM7nfTxxQk8gJHdAtVhuDqMbjbv3Vv1N",
     "replicaMint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q",
-    "replicaQuarries": [],
+    "replicaQuarries": [
+      {
+        "displayRewardsToken": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 103,
+          "decimals": 6,
+          "extensions": {},
+          "logoURI": "https://registry.saber.so/token-icons/sbr.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": []
+        },
+        "quarry": "4uAFsKtpGdFz5XVaBb1SAszcYwcMZc2kimfwzAXYc35C",
+        "rewarder": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
+        "rewardsToken": {
+          "decimals": -1,
+          "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
+        },
+        "slug": "1"
+      }
+    ],
     "slug": "bsol-vsol",
     "stakedToken": {
       "decimals": 9,
