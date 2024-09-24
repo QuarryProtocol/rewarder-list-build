@@ -76,13 +76,30 @@
   },
   "rewarder": {
     "authority": "6p6Smkx6F3FxDs3zKtk6BnYwt5VuVbpzmyf6XYK1vYmk",
+    "info": {
+      "address": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
+      "color": "#7a84ff",
+      "description": "Solbalze stake pool.",
+      "id": "blaze",
+      "name": "SolBlaze",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "HAdiyrJgiF779AEuh4m1Poc5x1rhwddGeTYuVcGwj5VX",
+        "redeemerVaultATA": "FBVPGZXHw1VQLEYnsbuXHAyWtu1gVs2GEEo6hEgcuVeG",
+        "underlyingToken": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA"
+      },
+      "website": "https://solblaze.org/"
+    },
     "mintWrapper": "65evoLUbEtUDurFvZjPeaGHmJf8hYqSF2ASfwJqdxdN",
     "rewardsToken": {
       "decimals": -1,
       "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
     },
     "rewardsTokenInfo": null,
-    "slug": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu"
+    "slug": "blaze"
   },
   "stakedToken": null,
   "underlyingTokens": []

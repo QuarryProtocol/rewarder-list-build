@@ -1,0 +1,15 @@
+{
+  "address": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
+  "color": "#7a84ff",
+  "description": "Solbalze stake pool.",
+  "id": "blaze",
+  "name": "SolBlaze",
+  "networks": [
+    "mainnet-beta"
+  ],
+  "redeemer": {
+    "method": "quarry-redeemer",
+    "underlyingToken": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA"
+  },
+  "website": "https://solblaze.org/"
+}
