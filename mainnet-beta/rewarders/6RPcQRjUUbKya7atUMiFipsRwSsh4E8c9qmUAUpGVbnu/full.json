@@ -13,7 +13,14 @@
       "method": "quarry-redeemer",
       "redeemerKey": "HAdiyrJgiF779AEuh4m1Poc5x1rhwddGeTYuVcGwj5VX",
       "redeemerVaultATA": "FBVPGZXHw1VQLEYnsbuXHAyWtu1gVs2GEEo6hEgcuVeG",
-      "underlyingToken": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA"
+      "underlyingToken": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+      "underlyingTokenInfo": {
+        "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+        "chainId": 101,
+        "decimals": 9,
+        "name": "Token BLZE",
+        "symbol": "BLZEE"
+      }
     },
     "website": "https://solblaze.org/"
   },
@@ -78,17 +85,23 @@
       "replicaMint": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE",
       "replicaQuarries": [
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K",
+            "chainId": 101,
+            "decimals": 9,
+            "name": "Token ioue",
+            "symbol": "ioues"
+          },
           "quarry": "2wRc8weFLXX1Fb3q5fzy9rAFrVxSsNqRmiUzJEfBe1NF",
           "rewarder": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
           "rewardsToken": {
             "decimals": 9,
             "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
           },
-          "slug": "0"
+          "slug": "qrsol-bsol"
         }
       ],
-      "slug": "0",
+      "slug": "qrsol-bsol",
       "stakedToken": {
         "decimals": 9,
         "mint": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE"
@@ -153,17 +166,23 @@
       "replicaMint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q",
       "replicaQuarries": [
         {
-          "displayRewardsToken": null,
+          "displayRewardsToken": {
+            "address": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K",
+            "chainId": 101,
+            "decimals": 9,
+            "name": "Token ioue",
+            "symbol": "ioues"
+          },
           "quarry": "4uAFsKtpGdFz5XVaBb1SAszcYwcMZc2kimfwzAXYc35C",
           "rewarder": "6RPcQRjUUbKya7atUMiFipsRwSsh4E8c9qmUAUpGVbnu",
           "rewardsToken": {
             "decimals": 9,
             "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
           },
-          "slug": "1"
+          "slug": "qrbsol-vsol"
         }
       ],
-      "slug": "1",
+      "slug": "qrbsol-vsol",
       "stakedToken": {
         "decimals": 9,
         "mint": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q"
@@ -174,6 +193,12 @@
     "decimals": 9,
     "mint": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K"
   },
-  "rewardsTokenInfo": null,
+  "rewardsTokenInfo": {
+    "address": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Token ioue",
+    "symbol": "ioues"
+  },
   "slug": "blaze"
 }

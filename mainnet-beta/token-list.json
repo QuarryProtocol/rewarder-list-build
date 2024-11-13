@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2024-10-21T08:30:32.696Z",
+  "timestamp": "2024-11-13T15:40:33.791Z",
   "tokens": [
     {
       "address": "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer",
@@ -578,6 +578,24 @@
       "symbol": "3M7kL"
     },
     {
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "assetContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh.png",
+      "name": "Wrapped BTC (Portal)",
+      "symbol": "WBTC",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ]
+    },
+    {
       "address": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "chainId": 101,
       "decimals": 9,
@@ -813,6 +831,25 @@
       "decimals": 6,
       "name": "Token 4ENp",
       "symbol": "4ENp9"
+    },
+    {
+      "address": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/strongsol_vsol"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd/icon.png",
+      "name": "Saber strongSOL-vSOL LP",
+      "symbol": "strongSOL-vSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
     },
     {
       "address": "4g7DwZVn8edcSYR34zE4Dm13YLH6ZvtXCNnaUyQSFy9w",
@@ -3677,6 +3714,25 @@
       ]
     },
     {
+      "address": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+          "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+        ],
+        "website": "https://app.saber.so/pools/wbtc_cbbtc"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH/icon.png",
+      "name": "Saber cbBTC-WBTC LP",
+      "symbol": "cbBTC-WBTC",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    {
       "address": "Az46VikxzkUioAsdPaPgQd5U85KacAYAWACmn38ysig8",
       "chainId": 101,
       "decimals": 6,
@@ -4568,6 +4624,23 @@
       "tags": [
         "stablecoin",
         "saber-mkt-usd"
+      ]
+    },
+    {
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "chainId": 101,
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "coinbase-wrapped-btc",
+        "currency": "BTC",
+        "source": "cbbtc",
+        "sourceUrl": "https://www.coinbase.com/cbbtc/"
+      },
+      "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "tags": [
+        "saber-mkt-btc"
       ]
     },
     {
@@ -5922,6 +5995,25 @@
         "port",
         "lending",
         "collateral-tokens"
+      ]
+    },
+    {
+      "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/soulsol_vsol"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J/icon.png",
+      "name": "Saber soulSOL-vSOL LP",
+      "symbol": "soulSOL-vSOL",
+      "tags": [
+        "saber-stableswap-lp"
       ]
     },
     {
@@ -7868,8 +7960,17 @@
       "address": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K",
       "chainId": 101,
       "decimals": 9,
-      "name": "Token ioue",
-      "symbol": "ioues"
+      "extensions": {
+        "source": "quarry-iou",
+        "underlyingTokens": [
+          "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA"
+        ]
+      },
+      "name": "Token BLZE (IOU)",
+      "symbol": "iouBLZEE",
+      "tags": [
+        "quarry-iou"
+      ]
     },
     {
       "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
@@ -9252,6 +9353,23 @@
       ]
     },
     {
+      "address": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "soulsol",
+        "sourceUrl": "https://soulana.fans/"
+      },
+      "logoURI": "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E",
+      "name": "soulSOL",
+      "symbol": "soulSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
       "address": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
       "chainId": 101,
       "decimals": 6,
@@ -9343,6 +9461,23 @@
       "symbol": "STEP",
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "stronghold-staked-sol",
+        "currency": "SOL",
+        "source": "strongsol",
+        "sourceUrl": "https://thesixnine.one/"
+      },
+      "logoURI": "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png",
+      "name": "Stronghold LST",
+      "symbol": "strongSOL",
+      "tags": [
+        "saber-mkt-sol"
       ]
     },
     {

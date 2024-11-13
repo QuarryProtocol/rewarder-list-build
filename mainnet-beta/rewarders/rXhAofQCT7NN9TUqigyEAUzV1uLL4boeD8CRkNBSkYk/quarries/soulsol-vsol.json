@@ -1,0 +1,176 @@
+{
+  "quarry": {
+    "index": 122,
+    "isReplica": false,
+    "mergePool": "3KDKwDnM6UyNiZfLK7xypFXEQfNM1ihLCa11u6axPeRD",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J"
+    },
+    "primaryTokenInfo": {
+      "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "saber",
+        "underlyingTokens": [
+          "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "website": "https://app.saber.so/pools/soulsol_vsol"
+      },
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J/icon.png",
+      "name": "Saber soulSOL-vSOL LP",
+      "symbol": "soulSOL-vSOL",
+      "tags": [
+        "saber-stableswap-lp"
+      ]
+    },
+    "quarry": "EKVQgUWCkSDpnSXTrHR82DkngRMjd6sb15LyR7wfZkuU",
+    "replicaMint": "7hT87bmTeswbRexjgoaAem7SXJnfjkcz8AGmTVLmqWAw",
+    "replicaQuarries": [],
+    "slug": "soulsol-vsol",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J"
+    }
+  },
+  "rewarder": {
+    "authority": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+    "info": {
+      "address": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+      "color": "#6966FB",
+      "description": "Saber is a protocol enabling seamless cross-chain liquidity exchange.",
+      "id": "saber",
+      "name": "Saber",
+      "networks": [
+        "mainnet-beta",
+        "devnet"
+      ],
+      "redeemer": {
+        "method": "saber",
+        "redeemerKey": "3KYyn14WeZJrAJd16PGNWo3XCE7R4zt14UM3w8zau7XZ",
+        "redeemerVaultATA": "6spy1wBgbF7xEdhxU6K75nnwGmuFrcQofJ4yinZyeDpJ",
+        "underlyingToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "underlyingTokenInfo": {
+          "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "chainId": 101,
+          "decimals": 6,
+          "extensions": {
+            "coingeckoId": "saber",
+            "discord": "https://chat.saber.so",
+            "github": "https://github.com/saber-hq",
+            "medium": "https://blog.saber.so",
+            "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+            "twitter": "https://twitter.com/saber_hq",
+            "waterfallbot": "https://bit.ly/SBRwaterfall",
+            "website": "https://saber.so"
+          },
+          "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+          "name": "Saber Protocol Token",
+          "symbol": "SBR",
+          "tags": [
+            "saber-hidden"
+          ]
+        }
+      },
+      "website": "https://saber.so"
+    },
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+    },
+    "rewardsTokenInfo": {
+      "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+        "twitter": "https://twitter.com/saber_hq",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber IOU Token (Liquidity Mining Rewards)",
+      "symbol": "SBR"
+    },
+    "slug": "saber"
+  },
+  "rewardsToken": {
+    "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "saber",
+      "discord": "https://chat.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+      "twitter": "https://twitter.com/saber_hq",
+      "website": "https://saber.so"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber IOU Token (Liquidity Mining Rewards)",
+    "symbol": "SBR"
+  },
+  "stakedToken": {
+    "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "source": "saber",
+      "underlyingTokens": [
+        "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+        "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+      ],
+      "website": "https://app.saber.so/pools/soulsol_vsol"
+    },
+    "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J/icon.png",
+    "name": "Saber soulSOL-vSOL LP",
+    "symbol": "soulSOL-vSOL",
+    "tags": [
+      "saber-stableswap-lp"
+    ]
+  },
+  "underlyingTokens": [
+    {
+      "address": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "soulsol",
+        "sourceUrl": "https://soulana.fans/"
+      },
+      "logoURI": "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E",
+      "name": "soulSOL",
+      "symbol": "soulSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    },
+    {
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "solana",
+        "currency": "SOL",
+        "source": "vault",
+        "sourceUrl": "https://thevault.finance"
+      },
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+      "name": "The Vault",
+      "symbol": "vSOL",
+      "tags": [
+        "saber-mkt-sol"
+      ]
+    }
+  ]
+}
