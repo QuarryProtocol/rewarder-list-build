@@ -1,0 +1,57 @@
+{
+  "quarry": {
+    "index": 3,
+    "isReplica": false,
+    "mergePool": "8xaNsYtrJ3ctxx5Dq8RUyxZc185qmqMmnunJPrrrezDZ",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 9,
+      "mint": "sagasDqusfYSQMf7DD2dNfUvX3coLZdmKE3ajyPK9kL"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "B4vn6bH5bkP4PuWTxrZE7wGjBUP3j89qCzuS98DyS9LE",
+    "replicaMint": "7SgtJsPJVusjqkj25y49GJzEPZHZ8TPBQS5dnztegseF",
+    "replicaQuarries": [],
+    "slug": "3",
+    "stakedToken": {
+      "decimals": 9,
+      "mint": "sagasDqusfYSQMf7DD2dNfUvX3coLZdmKE3ajyPK9kL"
+    }
+  },
+  "rewarder": {
+    "authority": "AVD4fs2EYV527UhHE3YDd7y3YfY9CXfREUS73yCWFENZ",
+    "info": {
+      "address": "9aE2s74qwiyWkRyRtfxKYLTX6XFLdoaTx8UEr6DE8SEd",
+      "color": "#ffad03",
+      "description": "Solana stake pool for creating and supporting up-and-coming validators",
+      "id": "vault",
+      "name": "The Vault",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "website": "https://thevault.finance"
+    },
+    "mintWrapper": "4Kf7FLWtEPPPcUpizxK82QYNoLSPd2fQTiVLSBx5oKqz",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
+    },
+    "rewardsTokenInfo": {
+      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token vPtS",
+      "symbol": "vPtS4"
+    },
+    "slug": "vault"
+  },
+  "rewardsToken": {
+    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token vPtS",
+    "symbol": "vPtS4"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}
