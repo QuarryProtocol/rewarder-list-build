@@ -5380,7 +5380,18 @@
       "primaryTokenInfo": null,
       "quarry": "4MyNftewNCQw47s8sMbmk9gWin91xbvhread5RE3nDFN",
       "replicaMint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
-      "replicaQuarries": [],
+      "replicaQuarries": [
+        {
+          "displayRewardsToken": null,
+          "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
+          "rewarder": "mTiFk3A92GbDbgVRYr88CEULFxGmtKRM57He3iBJizj",
+          "rewardsToken": {
+            "decimals": -1,
+            "mint": "iouiqJ6amUv5o6TEFJzWqWkviWN7KEDeoXAEmBuCHxB"
+          },
+          "slug": "0"
+        }
+      ],
       "slug": "128",
       "stakedToken": {
         "decimals": 9,
