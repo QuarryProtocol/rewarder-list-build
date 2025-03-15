@@ -645,5 +645,22 @@
       }
     },
     "website": ""
+  },
+  {
+    "address": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
+    "color": "#7a84ff",
+    "description": "broSOL reward pool.",
+    "id": "brosol",
+    "name": "broSOL",
+    "networks": [
+      "mainnet-beta"
+    ],
+    "redeemer": {
+      "method": "quarry-redeemer",
+      "redeemerKey": "7ufpL84A85CoLeLzmL5rVkjBbpifDJWbuxexYrQsJrzk",
+      "redeemerVaultATA": "J4BmsQsSzAasVLCUZB7JxSTuVomesdn3jXUpBco8QjzJ",
+      "underlyingToken": "broKrYYAnJ4jHSQVTCf2wmS6i6SR2sDXDDaWrPD2kJJ"
+    },
+    "website": ""
   }
 ]

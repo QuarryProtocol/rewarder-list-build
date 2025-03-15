@@ -1,41 +1,23 @@
 {
-  "authority": "9xpJ9vVDAYouAjYfSzJf34FHtWvcqNt7QVxuaZFTVgYJ",
+  "authority": "5tVDz5XBnZfydGuGvYuDc8RWyTJiceTrTfSg5rpFGXcy",
   "info": {
-    "address": "mTiFk3A92GbDbgVRYr88CEULFxGmtKRM57He3iBJizj",
+    "address": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
     "color": "#7a84ff",
-    "description": "broSOL USDC reward pool.",
-    "id": "brosolUSDC",
-    "name": "broSOL USDC",
+    "description": "broSOL reward pool.",
+    "id": "brosol",
+    "name": "broSOL",
     "networks": [
       "mainnet-beta"
     ],
     "redeemer": {
       "method": "quarry-redeemer",
-      "redeemerKey": "2PETsyh4XusFbuquugLAVDpC2q4jR7nyzkwYX2jdukdE",
-      "redeemerVaultATA": "DxSuY2X2E2gbphJF4AE15bTfTuPAQEBsaA1G4L9vfsZJ",
-      "underlyingToken": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "underlyingTokenInfo": {
-        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "chainId": 101,
-        "decimals": 6,
-        "extensions": {
-          "coingeckoId": "usd-coin",
-          "currency": "USD",
-          "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-          "website": "https://www.centre.io/"
-        },
-        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "tags": [
-          "stablecoin",
-          "saber-mkt-usd"
-        ]
-      }
+      "redeemerKey": "7ufpL84A85CoLeLzmL5rVkjBbpifDJWbuxexYrQsJrzk",
+      "redeemerVaultATA": "J4BmsQsSzAasVLCUZB7JxSTuVomesdn3jXUpBco8QjzJ",
+      "underlyingToken": "broKrYYAnJ4jHSQVTCf2wmS6i6SR2sDXDDaWrPD2kJJ"
     },
     "website": ""
   },
-  "mintWrapper": "4ijhzffhNrKqReRatnjpdzmKTzTBukzvoyMdU64G2LwR",
+  "mintWrapper": "7GGhwiySovTnkFV62L1T9ZwqvpAvqsJLGhDqU28cNskN",
   "quarries": [
     {
       "index": 0,
@@ -74,7 +56,7 @@
         "mint": "78SeG6RWYHFUHrVRjJpi8aHnkXcKhNii72XibGt2KJGi"
       },
       "primaryTokenInfo": null,
-      "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
+      "quarry": "Gbc9u4eARx9ho8VogPLRDy6UFCagSHTJDuZ9SBuSBPLt",
       "replicaMint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
       "replicaQuarries": [
         {
@@ -107,8 +89,8 @@
   ],
   "rewardsToken": {
     "decimals": -1,
-    "mint": "iouiqJ6amUv5o6TEFJzWqWkviWN7KEDeoXAEmBuCHxB"
+    "mint": "iouYW5QwXbFdu5iwtSZhd49kfBh6SJXNiwwK4dN9LJE"
   },
   "rewardsTokenInfo": null,
-  "slug": "brosolUSDC"
+  "slug": "brosol"
 }

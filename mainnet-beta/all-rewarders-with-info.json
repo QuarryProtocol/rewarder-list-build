@@ -8582,6 +8582,102 @@
     },
     "slug": "soluna"
   },
+  "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4": {
+    "authority": "5tVDz5XBnZfydGuGvYuDc8RWyTJiceTrTfSg5rpFGXcy",
+    "info": {
+      "address": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
+      "color": "#7a84ff",
+      "description": "broSOL reward pool.",
+      "id": "brosol",
+      "name": "broSOL",
+      "networks": [
+        "mainnet-beta"
+      ],
+      "redeemer": {
+        "method": "quarry-redeemer",
+        "redeemerKey": "7ufpL84A85CoLeLzmL5rVkjBbpifDJWbuxexYrQsJrzk",
+        "redeemerVaultATA": "J4BmsQsSzAasVLCUZB7JxSTuVomesdn3jXUpBco8QjzJ",
+        "underlyingToken": "broKrYYAnJ4jHSQVTCf2wmS6i6SR2sDXDDaWrPD2kJJ"
+      },
+      "website": ""
+    },
+    "mintWrapper": "7GGhwiySovTnkFV62L1T9ZwqvpAvqsJLGhDqU28cNskN",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": true,
+        "mergePool": "4gMXUCagbK5inVhXsSRyBKsi4kthvE2tTBodvPF62pRT",
+        "primaryQuarries": [
+          {
+            "displayRewardsToken": {
+              "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+              "chainId": 101,
+              "decimals": 6,
+              "extensions": {
+                "coingeckoId": "saber",
+                "discord": "https://chat.saber.so",
+                "github": "https://github.com/saber-hq",
+                "medium": "https://blog.saber.so",
+                "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+                "twitter": "https://twitter.com/saber_hq",
+                "website": "https://saber.so"
+              },
+              "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+              "name": "Saber IOU Token (Liquidity Mining Rewards)",
+              "symbol": "SBR"
+            },
+            "quarry": "4MyNftewNCQw47s8sMbmk9gWin91xbvhread5RE3nDFN",
+            "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+            "rewardsToken": {
+              "decimals": 6,
+              "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+            },
+            "slug": "128"
+          }
+        ],
+        "primaryToken": {
+          "decimals": 9,
+          "mint": "78SeG6RWYHFUHrVRjJpi8aHnkXcKhNii72XibGt2KJGi"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "Gbc9u4eARx9ho8VogPLRDy6UFCagSHTJDuZ9SBuSBPLt",
+        "replicaMint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
+        "replicaQuarries": [
+          {
+            "displayRewardsToken": null,
+            "quarry": "Gbc9u4eARx9ho8VogPLRDy6UFCagSHTJDuZ9SBuSBPLt",
+            "rewarder": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouYW5QwXbFdu5iwtSZhd49kfBh6SJXNiwwK4dN9LJE"
+            },
+            "slug": "0"
+          },
+          {
+            "displayRewardsToken": null,
+            "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
+            "rewarder": "mTiFk3A92GbDbgVRYr88CEULFxGmtKRM57He3iBJizj",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouiqJ6amUv5o6TEFJzWqWkviWN7KEDeoXAEmBuCHxB"
+            },
+            "slug": "0"
+          }
+        ],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": -1,
+      "mint": "iouYW5QwXbFdu5iwtSZhd49kfBh6SJXNiwwK4dN9LJE"
+    },
+    "rewardsTokenInfo": null,
+    "slug": "brosol"
+  },
   "AqnQDL5iRoxYUvWJsvJuCBi4SsczsrmassV5kKTGbBjV": {
     "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
     "mintWrapper": "8Ro6PmiPdcmr8ZWFvzPDWhG79RciLapdetDEfAqsFDhf",
@@ -13930,7 +14026,7 @@
     "slug": "saber-hubb"
   },
   "mTiFk3A92GbDbgVRYr88CEULFxGmtKRM57He3iBJizj": {
-    "authority": "EXdZNfWheWzNZrg53atXSaWqLNtMssdUzB6kNzHxn9Mf",
+    "authority": "9xpJ9vVDAYouAjYfSzJf34FHtWvcqNt7QVxuaZFTVgYJ",
     "info": {
       "address": "mTiFk3A92GbDbgVRYr88CEULFxGmtKRM57He3iBJizj",
       "color": "#7a84ff",
@@ -14008,6 +14104,16 @@
         "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
         "replicaMint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
         "replicaQuarries": [
+          {
+            "displayRewardsToken": null,
+            "quarry": "Gbc9u4eARx9ho8VogPLRDy6UFCagSHTJDuZ9SBuSBPLt",
+            "rewarder": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouYW5QwXbFdu5iwtSZhd49kfBh6SJXNiwwK4dN9LJE"
+            },
+            "slug": "0"
+          },
           {
             "displayRewardsToken": null,
             "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
@@ -19416,6 +19522,16 @@
         "quarry": "4MyNftewNCQw47s8sMbmk9gWin91xbvhread5RE3nDFN",
         "replicaMint": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
         "replicaQuarries": [
+          {
+            "displayRewardsToken": null,
+            "quarry": "Gbc9u4eARx9ho8VogPLRDy6UFCagSHTJDuZ9SBuSBPLt",
+            "rewarder": "AqebGW9ScxpZ7SCWpLGPFhDTwJsMB626jrtnQSoSCYJ4",
+            "rewardsToken": {
+              "decimals": -1,
+              "mint": "iouYW5QwXbFdu5iwtSZhd49kfBh6SJXNiwwK4dN9LJE"
+            },
+            "slug": "0"
+          },
           {
             "displayRewardsToken": null,
             "quarry": "GZRFSQVxJZiCZg1Em1FTnLmTPRk1jUiEHyvKBLMnSy28",
